@@ -1,0 +1,11 @@
+{
+  "name": "simpleiso3166",
+  "version": "0.3.0",
+  "summary": "Simple, strongly typed access to ISO 3166-1 and 3116-2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpleiso3166-0.3.0.tar.gz",
+  "download_time": "2025-10-07T18:51:33.076210",
+  "package_url": "https://pypi.org/project/simpleiso3166/"
+}

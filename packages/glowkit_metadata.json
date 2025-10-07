@@ -1,11 +1,11 @@
 {
   "name": "glowkit",
-  "version": "0.2",
+  "version": "0.3.1",
   "summary": "Glowkit - a declarative Python GUI toolkit",
   "author": "SkitDev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glowkit-0.2.tar.gz",
-  "download_time": "2025-10-07T18:29:09.831369",
+  "download_filename": "glowkit-0.3.1.tar.gz",
+  "download_time": "2025-10-07T18:51:07.718972",
   "package_url": "https://pypi.org/project/glowkit/"
 }

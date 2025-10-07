@@ -1,11 +1,11 @@
 {
   "name": "datallog",
-  "version": "0.1.20",
+  "version": "0.1.23",
   "summary": "SDK datallog library",
   "author": "Geovane Schmitz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datallog-0.1.20.tar.gz",
-  "download_time": "2025-10-07T17:18:17.347563",
+  "download_filename": "datallog-0.1.23.tar.gz",
+  "download_time": "2025-10-07T18:51:28.102488",
   "package_url": "https://pypi.org/project/datallog/"
 }

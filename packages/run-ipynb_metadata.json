@@ -1,0 +1,11 @@
+{
+  "name": "run-ipynb",
+  "version": "0.1.0",
+  "summary": "A tool to run Jupyter notebooks as Python scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "run_ipynb-0.1.0.tar.gz",
+  "download_time": "2025-10-07T18:51:30.266040",
+  "package_url": "https://pypi.org/project/run-ipynb/"
+}

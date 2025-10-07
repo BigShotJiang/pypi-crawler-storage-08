@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-postgres",
+  "version": "2.0.25",
+  "summary": "Library with a Postgres implementation of LangGraph checkpoint saver.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_checkpoint_postgres-2.0.25.tar.gz",
+  "download_time": "2025-10-07T18:50:58.793628",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-postgres/"
+}

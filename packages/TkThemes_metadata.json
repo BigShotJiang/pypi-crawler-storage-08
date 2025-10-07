@@ -1,11 +1,11 @@
 {
   "name": "TkThemes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Contains dictionary of custom themes used for creting GUIs with Tkinter",
   "author": "Tirthraj Girawale",
   "license": null,
   "home_page": "https://github.com/TirthrajSG/TkThemes",
-  "download_filename": "tkthemes-0.1.1.tar.gz",
-  "download_time": "2025-10-07T18:29:04.666242",
+  "download_filename": "tkthemes-0.1.2.tar.gz",
+  "download_time": "2025-10-07T18:51:13.202904",
   "package_url": "https://pypi.org/project/TkThemes/"
 }

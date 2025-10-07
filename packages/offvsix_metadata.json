@@ -1,0 +1,11 @@
+{
+  "name": "offvsix",
+  "version": "0.1.4",
+  "summary": "Visual Studio Code Extension Downloader for offline usage",
+  "author": "Lucian BLETAN",
+  "license": null,
+  "home_page": "https://github.com/gni/offvsix",
+  "download_filename": "offvsix-0.1.4.tar.gz",
+  "download_time": "2025-10-07T18:51:27.030114",
+  "package_url": "https://pypi.org/project/offvsix/"
+}
