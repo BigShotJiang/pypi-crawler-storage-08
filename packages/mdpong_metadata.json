@@ -1,11 +1,11 @@
 {
   "name": "mdpong",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A modern Pong game built in Python Turtle Graphics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mdpong-1.1.1.tar.gz",
-  "download_time": "2025-10-07T19:39:38.165212",
+  "download_filename": "mdpong-1.1.2.tar.gz",
+  "download_time": "2025-10-07T19:52:54.898337",
   "package_url": "https://pypi.org/project/mdpong/"
 }

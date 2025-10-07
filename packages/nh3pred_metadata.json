@@ -1,0 +1,11 @@
+{
+  "name": "nh3pred",
+  "version": "0.1.1",
+  "summary": "Predict ammonia emissions with a recurrent neural network model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nh3pred-0.1.1.tar.gz",
+  "download_time": "2025-10-07T19:52:46.892798",
+  "package_url": "https://pypi.org/project/nh3pred/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyrarchical",
+  "version": "0.8.0",
+  "summary": "A framework for a responsive heirarchical state-machine",
+  "author": "Matt Roelle, Neal Tanner, Teresa Gadda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrarchical-0.8.0.tar.gz",
+  "download_time": "2025-10-07T19:52:52.001156",
+  "package_url": "https://pypi.org/project/pyrarchical/"
+}

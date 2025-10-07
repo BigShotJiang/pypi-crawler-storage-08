@@ -1,24 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T19:40:21.084671
-- **Total Packages**: 87
-- **Total Size**: 15.0 MB
+- **Download Time**: 2025-10-07T19:53:20.075300
+- **Total Packages**: 88
+- **Total Size**: 37.97 MB
 
 ## Packages List
+- django-pbsmmapi
+- simpliflow
+- sqlmorph
+- authentik-client
+- pymicro-features
+- layernet
+- langchain-community
+- istari-digital-core
+- js-api
+- python-snake-game
+- stewbeet
+- kinfer
+- django-auth-recovery-codes
+- deeprails
+- mp-api
+- reywechat
+- reyserver
+- reykit
+- reyfetch
+- aicostmanager
+- sqlmesh
+- sqlsaber
+- pycarlo
+- simple-neural-works
+- opik
+- batplot
+- toolos
+- pyEdge-package-name-reservation-1
+- phc-ingestion
+- soso
+- statemachine-engine
+- perturbvi
+- jamlib
+- nh3pred
+- stringzillas-cuda
+- boto3-stubs
+- boto3-stubs-lite
+- types-boto3
+- types-boto3-lite
+- mypy-boto3-proton
+- types-boto3-proton
+- specpulse
+- pyrarchical
+- rclogvis
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- micropython-stubber
+- mdpong
+- optimalportfolios
+- deepprostate
 - atr-adaptive-laguerre
 - hatch-gradle-version
 - moriarty-project
 - assonant
 - linode-api4
 - codearkt
-- perturbvi
 - ut-cli
 - geodesic-api
 - mysql-to-sqlite3
-- mdpong
 - kaqing
-- authentik-client
 - files-com-mcp
 - cs-models
 - collagraph
@@ -32,7 +79,6 @@
 - edq-lms-toolkit
 - mcp-1c
 - ucop-utils-pkg
-- simple-neural-works
 - OMSimulator
 - dshellInterpreter
 - ncut-pytorch
@@ -48,48 +94,3 @@
 - boto3
 - awscli
 - miru-server-sdk
-- universalpython
-- datallog
-- producteca
-- liitos
-- effectful
-- pyramid-formencode-classic
-- fraim
-- confuk
-- cisco-ai-mcp-scanner
-- pted
-- email-to-calendar
-- continuedfractions
-- jupytercad-mcp
-- osdu-perf
-- twosamplemr
-- ocha-stratus
-- redlite
-- openmdao-extensions
-- bluer-sbc
-- wristpy
-- gna-resources
-- ut-com
-- clue-api
-- tko
-- rcsb.db
-- data-ingestion-sdk
-- mkdocstrings-github
-- vega-framework
-- pyndakaas
-- openbb-technical
-- rad-metric
-- openbb-regulators
-- openbb-quantitative
-- openbb-news
-- eleganplot
-- openbb-index
-- insightfinder-client
-- openbb-fixedincome
-- crunch-cli
-- fxpoppet
-- locust-cloud
-- openbb-etf
-- openbb-equity
-- openbb-economy
-- openbb-econometrics

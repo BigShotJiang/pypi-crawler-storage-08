@@ -1,0 +1,11 @@
+{
+  "name": "istari-digital-core",
+  "version": "6.2.1",
+  "summary": "Python bindings for the Istari Digital platform",
+  "author": "Istari Digital Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "istari_digital_core-6.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-10-07T19:52:30.397043",
+  "package_url": "https://pypi.org/project/istari-digital-core/"
+}

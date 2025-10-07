@@ -1,0 +1,11 @@
+{
+  "name": "micropython-stubber",
+  "version": "1.26.3",
+  "summary": "Tooling to create and maintain stubs for MicroPython",
+  "author": "Jos Verlinde",
+  "license": "MIT",
+  "home_page": "https://github.com/Josverl/micropython-stubber#readme",
+  "download_filename": "micropython_stubber-1.26.3-py3-none-any.whl",
+  "download_time": "2025-10-07T19:52:54.327173",
+  "package_url": "https://pypi.org/project/micropython-stubber/"
+}

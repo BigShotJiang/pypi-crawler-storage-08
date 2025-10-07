@@ -1,0 +1,11 @@
+{
+  "name": "sqlmorph",
+  "version": "1.0.0",
+  "summary": "The missing migration layer for SQLModel. Zero-config, auto-detecting schema migrations.",
+  "author": "pyomerhrr@gmail.com",
+  "license": "MIT",
+  "home_page": "https://github.com/omehrrr/sqlmorph",
+  "download_filename": "sqlmorph-1.0.0.tar.gz",
+  "download_time": "2025-10-07T19:52:27.464150",
+  "package_url": "https://pypi.org/project/sqlmorph/"
+}
