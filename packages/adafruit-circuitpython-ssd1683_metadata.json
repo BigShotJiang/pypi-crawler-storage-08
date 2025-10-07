@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ssd1683",
+  "version": "1.0.0",
+  "summary": "CircuitPython `displayio` driver for the SSD1683 epaper IC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ssd1683-1.0.0.tar.gz",
+  "download_time": "2025-10-07T14:44:56.984284",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ssd1683/"
+}

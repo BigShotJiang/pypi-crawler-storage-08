@@ -1,0 +1,11 @@
+{
+  "name": "lorann",
+  "version": "0.4.1",
+  "summary": "Approximate Nearest Neighbor search library with extremely fast queries, tiny memory usage, and rapid indexing.",
+  "author": "Elias Jääsaari",
+  "license": "MIT",
+  "home_page": "https://github.com/ejaasaari/lorann",
+  "download_filename": "lorann-0.4.1.tar.gz",
+  "download_time": "2025-10-07T14:44:41.684008",
+  "package_url": "https://pypi.org/project/lorann/"
+}

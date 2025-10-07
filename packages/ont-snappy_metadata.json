@@ -1,0 +1,11 @@
+{
+  "name": "ont-snappy",
+  "version": "0.1.6",
+  "summary": "Nanopore-based methylation sites caller",
+  "author": "D.N. Konanov",
+  "license": null,
+  "home_page": "https://github.com/DNKonanov/ont-snappy",
+  "download_filename": "ont-snappy-0.1.6.tar.gz",
+  "download_time": "2025-10-07T14:45:11.092031",
+  "package_url": "https://pypi.org/project/ont-snappy/"
+}

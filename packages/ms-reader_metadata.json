@@ -1,0 +1,11 @@
+{
+  "name": "ms-reader",
+  "version": "1.8.0",
+  "summary": "Package for parsing a Tracefinder or Skyline file containing processed Mass Spectrometry data",
+  "author": "Loïc Le Grégam",
+  "license": null,
+  "home_page": "https://github.com/llegregam/MSReader",
+  "download_filename": "ms_reader-1.8.0.tar.gz",
+  "download_time": "2025-10-07T14:45:07.952741",
+  "package_url": "https://pypi.org/project/ms-reader/"
+}

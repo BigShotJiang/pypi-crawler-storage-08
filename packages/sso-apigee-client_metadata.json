@@ -1,0 +1,11 @@
+{
+  "name": "sso-apigee-client",
+  "version": "1.1.1",
+  "summary": "Python client library for APIGEE Service and MOMRAH SSO authentication",
+  "author": "Your Organization",
+  "license": "MIT",
+  "home_page": "https://github.com/yourorg/sso-apigee-service",
+  "download_filename": "sso_apigee_client-1.1.1.tar.gz",
+  "download_time": "2025-10-07T14:45:12.128911",
+  "package_url": "https://pypi.org/project/sso-apigee-client/"
+}

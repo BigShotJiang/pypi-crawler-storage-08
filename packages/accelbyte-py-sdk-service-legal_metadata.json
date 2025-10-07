@@ -1,11 +1,11 @@
 {
   "name": "accelbyte-py-sdk-service-legal",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "summary": "AccelByte Python SDK - AccelByte Gaming Services Legal Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelbyte_py_sdk_service_legal-0.23.0.tar.gz",
-  "download_time": "2025-10-07T13:18:33.680548",
+  "download_filename": "accelbyte_py_sdk_service_legal-0.24.0.tar.gz",
+  "download_time": "2025-10-07T14:44:32.189975",
   "package_url": "https://pypi.org/project/accelbyte-py-sdk-service-legal/"
 }

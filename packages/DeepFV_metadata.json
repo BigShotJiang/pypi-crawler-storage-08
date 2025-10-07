@@ -1,0 +1,11 @@
+{
+  "name": "DeepFV",
+  "version": "0.2.1",
+  "summary": "Fisher Vectors based on Gaussian Mixture Model with TensorFlow deep learning support",
+  "author": "John-William Sidhom",
+  "license": "MIT",
+  "home_page": "https://github.com/sidhomj/DeepFV",
+  "download_filename": "deepfv-0.2.1.tar.gz",
+  "download_time": "2025-10-07T14:44:42.733403",
+  "package_url": "https://pypi.org/project/DeepFV/"
+}

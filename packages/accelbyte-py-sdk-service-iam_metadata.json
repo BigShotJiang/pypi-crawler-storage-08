@@ -1,11 +1,11 @@
 {
   "name": "accelbyte-py-sdk-service-iam",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "summary": "AccelByte Python SDK - AccelByte Gaming Services Iam Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelbyte_py_sdk_service_iam-0.25.0.tar.gz",
-  "download_time": "2025-10-07T13:18:47.734784",
+  "download_filename": "accelbyte_py_sdk_service_iam-0.26.0.tar.gz",
+  "download_time": "2025-10-07T14:44:42.214220",
   "package_url": "https://pypi.org/project/accelbyte-py-sdk-service-iam/"
 }
