@@ -1,0 +1,11 @@
+{
+  "name": "ch-srtgen",
+  "version": "1.0.7.post1",
+  "summary": "AI-powered SRT subtitle generator with Whisper and OpenAI translation",
+  "author": "SRT Generator Team",
+  "license": null,
+  "home_page": "https://github.com/your-username/srt-generator",
+  "download_filename": "ch_srtgen-1.0.7.post1.tar.gz",
+  "download_time": "2025-10-07T10:20:23.376813",
+  "package_url": "https://pypi.org/project/ch-srtgen/"
+}

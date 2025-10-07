@@ -1,0 +1,11 @@
+{
+  "name": "ftf-cli",
+  "version": "0.3.5",
+  "summary": "Facets Terraform Cli",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ftf_cli-0.3.5.tar.gz",
+  "download_time": "2025-10-07T10:20:37.615663",
+  "package_url": "https://pypi.org/project/ftf-cli/"
+}

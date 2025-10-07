@@ -1,0 +1,11 @@
+{
+  "name": "festo-python-logging",
+  "version": "0.0.9",
+  "summary": "Convenience function to configure python logging.",
+  "author": "Charles Wilmot",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "festo_python_logging-0.0.9.tar.gz",
+  "download_time": "2025-10-07T10:20:08.529815",
+  "package_url": "https://pypi.org/project/festo-python-logging/"
+}
