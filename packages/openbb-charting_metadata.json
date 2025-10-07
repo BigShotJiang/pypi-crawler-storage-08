@@ -1,0 +1,11 @@
+{
+  "name": "openbb-charting",
+  "version": "2.4.0",
+  "summary": "Charting extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_charting-2.4.0.tar.gz",
+  "download_time": "2025-10-07T20:21:46.092329",
+  "package_url": "https://pypi.org/project/openbb-charting/"
+}

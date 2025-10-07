@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-netsuite",
+  "version": "0.1.26",
+  "summary": "Source implementation for Netsuite.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_netsuite-0.1.26.tar.gz",
+  "download_time": "2025-10-07T20:21:30.451240",
+  "package_url": "https://pypi.org/project/airbyte-source-netsuite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gplay-scraper",
+  "version": "1.0.1",
+  "summary": "Powerful Python Google Play scraper library for extracting comprehensive app data from Google Play Store - ratings, installs, reviews, ASO metrics, and 65+ fields.",
+  "author": "Mohammed Cha",
+  "license": null,
+  "home_page": "https://github.com/mohammedcha/gplay-scraper",
+  "download_filename": "gplay_scraper-1.0.1.tar.gz",
+  "download_time": "2025-10-07T20:21:07.863921",
+  "package_url": "https://pypi.org/project/gplay-scraper/"
+}

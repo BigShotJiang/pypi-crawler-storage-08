@@ -1,0 +1,11 @@
+{
+  "name": "corgea-cli",
+  "version": "1.7.0",
+  "summary": "The Corgea CLI. Scan for vulnerabilties, create fixes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corgea_cli-1.7.0.tar.gz",
+  "download_time": "2025-10-07T20:21:37.717456",
+  "package_url": "https://pypi.org/project/corgea-cli/"
+}

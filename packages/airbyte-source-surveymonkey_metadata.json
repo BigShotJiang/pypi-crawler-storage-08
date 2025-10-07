@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-surveymonkey",
+  "version": "0.3.45",
+  "summary": "Source implementation for Surveymonkey.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_surveymonkey-0.3.45.tar.gz",
+  "download_time": "2025-10-07T20:21:34.543378",
+  "package_url": "https://pypi.org/project/airbyte-source-surveymonkey/"
+}

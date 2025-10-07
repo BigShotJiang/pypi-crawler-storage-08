@@ -1,11 +1,11 @@
 {
   "name": "weathergrabber",
-  "version": "0.0.8a2",
+  "version": "0.0.8a3",
   "summary": "A grabber for weather.com data with various output formats.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "weathergrabber-0.0.8a2.tar.gz",
-  "download_time": "2025-10-07T14:44:37.928606",
+  "download_filename": "weathergrabber-0.0.8a3.tar.gz",
+  "download_time": "2025-10-07T20:21:43.987965",
   "package_url": "https://pypi.org/project/weathergrabber/"
 }

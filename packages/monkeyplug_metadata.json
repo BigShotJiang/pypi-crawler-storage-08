@@ -1,0 +1,11 @@
+{
+  "name": "monkeyplug",
+  "version": "2.1.6",
+  "summary": "monkeyplug is a little script to censor profanity in audio files.",
+  "author": "Seth Grover",
+  "license": null,
+  "home_page": "https://github.com/mmguero/monkeyplug",
+  "download_filename": "monkeyplug-2.1.6.tar.gz",
+  "download_time": "2025-10-07T20:21:17.369847",
+  "package_url": "https://pypi.org/project/monkeyplug/"
+}

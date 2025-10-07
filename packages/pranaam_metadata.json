@@ -1,0 +1,11 @@
+{
+  "name": "pranaam",
+  "version": "0.2.0",
+  "summary": "Predict religion and caste based on name",
+  "author": "Aaditya Dar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pranaam-0.2.0.tar.gz",
+  "download_time": "2025-10-07T20:21:35.586629",
+  "package_url": "https://pypi.org/project/pranaam/"
+}
