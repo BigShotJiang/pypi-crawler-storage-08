@@ -1,11 +1,11 @@
 {
   "name": "mem8",
-  "version": "2.17.0",
+  "version": "3.0.0",
   "summary": "Memory management CLI for team collaboration with shared thoughts",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mem8-2.17.0.tar.gz",
-  "download_time": "2025-10-07T14:44:43.258912",
+  "download_filename": "mem8-3.0.0.tar.gz",
+  "download_time": "2025-10-07T14:54:45.833987",
   "package_url": "https://pypi.org/project/mem8/"
 }

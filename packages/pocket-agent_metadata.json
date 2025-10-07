@@ -1,11 +1,11 @@
 {
   "name": "pocket-agent",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "summary": "A lightweight, extensible framework for building LLM agents with Model Context Protocol (MCP) support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pocket_agent-0.2.22.tar.gz",
-  "download_time": "2025-10-07T14:20:39.625314",
+  "download_filename": "pocket_agent-0.2.23.tar.gz",
+  "download_time": "2025-10-07T14:54:57.692923",
   "package_url": "https://pypi.org/project/pocket-agent/"
 }
