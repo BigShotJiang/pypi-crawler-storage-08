@@ -1,0 +1,11 @@
+{
+  "name": "tiered-debug",
+  "version": "1.4.0",
+  "summary": "A Python logging helper module that allows multiple levels of debug logging",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tiered_debug-1.4.0.tar.gz",
+  "download_time": "2025-10-07T12:40:41.844349",
+  "package_url": "https://pypi.org/project/tiered-debug/"
+}

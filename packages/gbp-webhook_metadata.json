@@ -1,0 +1,11 @@
+{
+  "name": "gbp-webhook",
+  "version": "2.0.0",
+  "summary": "gbp-notifications webhook server",
+  "author": null,
+  "license": "GPL3+",
+  "home_page": null,
+  "download_filename": "gbp_webhook-2.0.0.tar.gz",
+  "download_time": "2025-10-07T12:41:02.704964",
+  "package_url": "https://pypi.org/project/gbp-webhook/"
+}

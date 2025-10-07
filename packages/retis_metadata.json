@@ -1,0 +1,11 @@
+{
+  "name": "retis",
+  "version": "1.6.3",
+  "summary": "Python bindings for Retis events",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/retis-org/retis-org",
+  "download_filename": "retis-1.6.3.tar.gz",
+  "download_time": "2025-10-07T12:40:46.466042",
+  "package_url": "https://pypi.org/project/retis/"
+}

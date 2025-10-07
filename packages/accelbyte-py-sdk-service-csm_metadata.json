@@ -1,11 +1,11 @@
 {
   "name": "accelbyte-py-sdk-service-csm",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "AccelByte Python SDK - Custom Service Manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelbyte_py_sdk_service_csm-0.6.0.tar.gz",
-  "download_time": "2025-10-07T09:31:43.817229",
+  "download_filename": "accelbyte_py_sdk_service_csm-0.7.0.tar.gz",
+  "download_time": "2025-10-07T12:40:50.663306",
   "package_url": "https://pypi.org/project/accelbyte-py-sdk-service-csm/"
 }

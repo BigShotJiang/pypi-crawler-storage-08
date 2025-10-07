@@ -1,0 +1,11 @@
+{
+  "name": "magic-flow",
+  "version": "0.1.5",
+  "summary": "Python SDK for the Flow blockchain with updated dependencies and Python 3.13 support",
+  "author": "Janez Podhostnik",
+  "license": "MIT",
+  "home_page": "https://github.com/magiclabs/magic-flow-python",
+  "download_filename": "magic_flow-0.1.5.tar.gz",
+  "download_time": "2025-10-07T12:41:02.194975",
+  "package_url": "https://pypi.org/project/magic-flow/"
+}

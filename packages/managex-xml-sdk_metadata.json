@@ -1,11 +1,11 @@
 {
   "name": "managex-xml-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A comprehensive Python SDK for digital certificate management and XML digital signing",
   "author": "Aniket Chaturvedi",
   "license": "MIT",
   "home_page": "https://github.com/Aniketc068/managex_xml_sdk",
-  "download_filename": "managex_xml_sdk-1.0.1.tar.gz",
-  "download_time": "2025-10-07T11:51:21.687058",
+  "download_filename": "managex_xml_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-07T12:40:53.736838",
   "package_url": "https://pypi.org/project/managex-xml-sdk/"
 }
