@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-utils",
+  "version": "0.20.1",
+  "summary": "Utilities for the Dataverse data respository system",
+  "author": "Paul Lesack",
+  "license": "MIT",
+  "home_page": "https://ubc-library-rc.github.io/dataverse_utils",
+  "download_filename": "dataverse_utils-0.20.1.tar.gz",
+  "download_time": "2025-10-07T22:18:23.545315",
+  "package_url": "https://pypi.org/project/dataverse-utils/"
+}

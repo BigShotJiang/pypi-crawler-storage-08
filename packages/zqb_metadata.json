@@ -1,0 +1,11 @@
+{
+  "name": "zqb",
+  "version": "0.1.1",
+  "summary": "Zackary's Quick Bench - simple cli tool to quickly run scripts",
+  "author": "ZackaryW",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zqb-0.1.1.tar.gz",
+  "download_time": "2025-10-07T22:18:09.478157",
+  "package_url": "https://pypi.org/project/zqb/"
+}

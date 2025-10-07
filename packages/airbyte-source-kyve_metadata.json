@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-kyve",
+  "version": "0.2.51",
+  "summary": "Source implementation for KYVE.",
+  "author": "KYVE Core Team",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_kyve-0.2.51.tar.gz",
+  "download_time": "2025-10-07T22:17:55.443159",
+  "package_url": "https://pypi.org/project/airbyte-source-kyve/"
+}
