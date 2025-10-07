@@ -1,0 +1,11 @@
+{
+  "name": "RunRunner",
+  "version": "0.2.0.4",
+  "summary": "RunRunner is a wrapper library for creating and managing subprocesses and their status, mainly focussed on using Slurm but (in absence) can also work with local jobs.",
+  "author": "Thijs Snelleman",
+  "license": null,
+  "home_page": "https://github.com/ADA-research/RunRunner",
+  "download_filename": "runrunner-0.2.0.4.tar.gz",
+  "download_time": "2025-10-07T15:21:21.570546",
+  "package_url": "https://pypi.org/project/RunRunner/"
+}

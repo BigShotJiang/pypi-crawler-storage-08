@@ -1,0 +1,11 @@
+{
+  "name": "f90nml",
+  "version": "1.5",
+  "summary": "Fortran 90 namelist parser",
+  "author": "Marshall Ward",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/marshallward/f90nml",
+  "download_filename": "f90nml-1.5.tar.gz",
+  "download_time": "2025-10-07T15:21:31.121533",
+  "package_url": "https://pypi.org/project/f90nml/"
+}

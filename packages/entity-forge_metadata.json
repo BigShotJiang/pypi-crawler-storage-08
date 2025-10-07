@@ -1,0 +1,11 @@
+{
+  "name": "entity-forge",
+  "version": "0.1.0",
+  "summary": "Entity Forge - Entity intelligence service for NER and entity resolution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entity_forge-0.1.0.tar.gz",
+  "download_time": "2025-10-07T15:21:01.030454",
+  "package_url": "https://pypi.org/project/entity-forge/"
+}

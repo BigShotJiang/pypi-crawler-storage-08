@@ -1,0 +1,11 @@
+{
+  "name": "young-chdb",
+  "version": "0.1.0",
+  "summary": "A Well-Encapsulated ClickHouse Database APIs Lib",
+  "author": "Young",
+  "license": null,
+  "home_page": "https://github.com/ElenYoung/chdb",
+  "download_filename": "young_chdb-0.1.0.tar.gz",
+  "download_time": "2025-10-07T15:21:35.341603",
+  "package_url": "https://pypi.org/project/young-chdb/"
+}
