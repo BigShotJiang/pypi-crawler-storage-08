@@ -1,0 +1,11 @@
+{
+  "name": "pyecma376-2",
+  "version": "1.0.2",
+  "summary": "Library for reading and writing ECMA 376-2 (Open Packaging Conventions) files",
+  "author": "Chair of Information and Automation Systems for Process and Material Technology, RWTH Aachen University",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/acplt/PyECMA376-2",
+  "download_filename": "pyecma376_2-1.0.2.tar.gz",
+  "download_time": "2025-10-07T16:46:35.558115",
+  "package_url": "https://pypi.org/project/pyecma376-2/"
+}

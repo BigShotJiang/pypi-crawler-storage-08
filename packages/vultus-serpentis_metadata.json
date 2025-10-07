@@ -1,0 +1,11 @@
+{
+  "name": "vultus-serpentis",
+  "version": "0.1.0",
+  "summary": "Modern Tkinter utilities for TTK and TTKBootstrap applications",
+  "author": "Vultus Serpentis Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/vultus-serpentis",
+  "download_filename": "vultus-serpentis-0.1.0.tar.gz",
+  "download_time": "2025-10-07T16:46:47.021251",
+  "package_url": "https://pypi.org/project/vultus-serpentis/"
+}

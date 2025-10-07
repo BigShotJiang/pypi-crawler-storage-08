@@ -1,0 +1,11 @@
+{
+  "name": "opencc-jieba-pyo3",
+  "version": "0.7.1",
+  "summary": "A Python extension module powered by Rust Jieba and PyO3, providing fast and accurate Chinese text conversion.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencc_jieba_pyo3-0.7.1-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-07T16:46:08.098028",
+  "package_url": "https://pypi.org/project/opencc-jieba-pyo3/"
+}

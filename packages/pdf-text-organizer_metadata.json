@@ -1,0 +1,11 @@
+{
+  "name": "pdf-text-organizer",
+  "version": "1.0.0",
+  "summary": "PDF text extraction and spatial grouping tool - Vultus Serpentis demo application",
+  "author": "Vultus Serpentis Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pdf-text-organizer",
+  "download_filename": "pdf-text-organizer-1.0.0.tar.gz",
+  "download_time": "2025-10-07T16:46:41.361060",
+  "package_url": "https://pypi.org/project/pdf-text-organizer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sollol",
-  "version": "0.9.19",
+  "version": "0.9.22",
   "summary": "Intelligent Load Balancer for Ollama Clusters - 3 Distribution Modes: Ray Parallel + Dask Batch + llama.cpp Sharding",
   "author": "BenevolentJoker-JohnL",
   "license": "MIT",
   "home_page": "https://github.com/BenevolentJoker-JohnL/SOLLOL",
-  "download_filename": "sollol-0.9.19.tar.gz",
-  "download_time": "2025-10-07T16:24:14.016804",
+  "download_filename": "sollol-0.9.22.tar.gz",
+  "download_time": "2025-10-07T16:46:23.172298",
   "package_url": "https://pypi.org/project/sollol/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "batplot",
+  "version": "1.0.10",
+  "summary": "Interactive plotting for XRD, PDF, and XAS data (.xye, .xy, .qye, .dat, .csv, .gr, .nor, .chik, .chir)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "batplot-1.0.10.tar.gz",
+  "download_time": "2025-10-07T16:46:43.095428",
+  "package_url": "https://pypi.org/project/batplot/"
+}
