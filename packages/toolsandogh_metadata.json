@@ -1,11 +1,11 @@
 {
   "name": "toolsandogh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A collection of Python scripts for iSCAT microscopy data analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toolsandogh-0.1.0.tar.gz",
-  "download_time": "2025-10-07T13:19:01.727251",
+  "download_filename": "toolsandogh-0.1.1.tar.gz",
+  "download_time": "2025-10-07T13:45:49.081645",
   "package_url": "https://pypi.org/project/toolsandogh/"
 }

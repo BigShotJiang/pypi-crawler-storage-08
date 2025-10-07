@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-module-loader",
+  "version": "0.4.1",
+  "summary": "FastAPI modules loading for better structure in your projects (like Django AppConfig)",
+  "author": "TEAM23 GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_module_loader-0.4.1.tar.gz",
+  "download_time": "2025-10-07T13:46:09.814139",
+  "package_url": "https://pypi.org/project/fastapi-module-loader/"
+}

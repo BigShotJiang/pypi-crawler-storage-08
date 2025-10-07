@@ -1,0 +1,11 @@
+{
+  "name": "ol-openedx-canvas-integration",
+  "version": "0.5.3",
+  "summary": "An Open edX plugin to add canvas integration support",
+  "author": "MIT Office of Digital Learning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ol_openedx_canvas_integration-0.5.3.tar.gz",
+  "download_time": "2025-10-07T13:45:51.144247",
+  "package_url": "https://pypi.org/project/ol-openedx-canvas-integration/"
+}

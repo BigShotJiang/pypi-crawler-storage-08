@@ -1,0 +1,11 @@
+{
+  "name": "Orange3-MLflow-Export",
+  "version": "0.6.1",
+  "summary": "Export Orange3 models with preprocessing pipelines to MLflow format for production deployment.",
+  "author": "NIRLAB AG",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/NIRLab-com/mlflow-model-widget",
+  "download_filename": "orange3_mlflow_export-0.6.1.tar.gz",
+  "download_time": "2025-10-07T13:46:00.042629",
+  "package_url": "https://pypi.org/project/Orange3-MLflow-Export/"
+}

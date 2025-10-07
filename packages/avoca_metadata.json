@@ -1,0 +1,11 @@
+{
+  "name": "avoca",
+  "version": "0.11.4",
+  "summary": "@voc@: Quality assessement of measurement data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "avoca-0.11.4.tar.gz",
+  "download_time": "2025-10-07T13:45:56.940335",
+  "package_url": "https://pypi.org/project/avoca/"
+}

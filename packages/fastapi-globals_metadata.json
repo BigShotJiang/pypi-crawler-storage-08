@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-globals",
+  "version": "0.2.1",
+  "summary": "Use request global variables in FastAPI",
+  "author": "TEAM23 GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_globals-0.2.1.tar.gz",
+  "download_time": "2025-10-07T13:46:08.787980",
+  "package_url": "https://pypi.org/project/fastapi-globals/"
+}

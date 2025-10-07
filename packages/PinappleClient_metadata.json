@@ -1,11 +1,11 @@
 {
   "name": "PinappleClient",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "summary": "Client for interacting with Pinapple",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pinappleclient-1.4.0.tar.gz",
-  "download_time": "2025-10-07T12:41:21.517713",
+  "download_filename": "pinappleclient-1.4.2.tar.gz",
+  "download_time": "2025-10-07T13:46:03.127624",
   "package_url": "https://pypi.org/project/PinappleClient/"
 }
