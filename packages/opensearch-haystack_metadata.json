@@ -1,0 +1,11 @@
+{
+  "name": "opensearch-haystack",
+  "version": "4.3.0",
+  "summary": "Haystack 2.x Document Store for OpenSearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opensearch_haystack-4.3.0.tar.gz",
+  "download_time": "2025-10-07T13:19:00.573133",
+  "package_url": "https://pypi.org/project/opensearch-haystack/"
+}

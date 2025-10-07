@@ -1,0 +1,11 @@
+{
+  "name": "dirstree",
+  "version": "0.0.2",
+  "summary": "Another library for iterating through the contents of a directory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dirstree-0.0.2.tar.gz",
+  "download_time": "2025-10-07T13:19:14.972362",
+  "package_url": "https://pypi.org/project/dirstree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gotranx",
+  "version": "1.3.6",
+  "summary": "A declarative language describing ordinary differential equations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gotranx-1.3.6.tar.gz",
+  "download_time": "2025-10-07T13:18:58.336304",
+  "package_url": "https://pypi.org/project/gotranx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "partifact",
+  "version": "0.4.0",
+  "summary": "CodeArtifact utilties for Poetry",
+  "author": "David Steiner",
+  "license": "MIT",
+  "home_page": "https://github.com/Validus-Risk-Management/partifact",
+  "download_filename": "partifact-0.4.0.tar.gz",
+  "download_time": "2025-10-07T13:19:06.158473",
+  "package_url": "https://pypi.org/project/partifact/"
+}

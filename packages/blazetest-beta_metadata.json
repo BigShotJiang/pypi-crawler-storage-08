@@ -1,0 +1,11 @@
+{
+  "name": "blazetest-beta",
+  "version": "2.2.1",
+  "summary": "Blazetest is a CLI tool to run your selenium tests faster and more effectively.",
+  "author": "Abrorjon Ruziboev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blazetest_beta-2.2.1.tar.gz",
+  "download_time": "2025-10-07T13:18:59.358887",
+  "package_url": "https://pypi.org/project/blazetest-beta/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "accelbyte-py-sdk-service-inventory",
-  "version": "0.17.0",
+  "version": "0.19.0",
   "summary": "AccelByte Python SDK - AccelByte Gaming Services Inventory Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelbyte_py_sdk_service_inventory-0.17.0.tar.gz",
-  "download_time": "2025-10-07T09:31:25.228803",
+  "download_filename": "accelbyte_py_sdk_service_inventory-0.19.0.tar.gz",
+  "download_time": "2025-10-07T13:18:40.703683",
   "package_url": "https://pypi.org/project/accelbyte-py-sdk-service-inventory/"
 }

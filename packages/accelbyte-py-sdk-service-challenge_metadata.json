@@ -1,11 +1,11 @@
 {
   "name": "accelbyte-py-sdk-service-challenge",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "summary": "AccelByte Python SDK - AccelByte Gaming Services Challenge Service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelbyte_py_sdk_service_challenge-0.16.0.tar.gz",
-  "download_time": "2025-10-07T12:41:00.657638",
+  "download_filename": "accelbyte_py_sdk_service_challenge-0.17.0.tar.gz",
+  "download_time": "2025-10-07T13:19:02.879807",
   "package_url": "https://pypi.org/project/accelbyte-py-sdk-service-challenge/"
 }

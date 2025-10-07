@@ -1,0 +1,11 @@
+{
+  "name": "spyder-notebook",
+  "version": "0.7.0",
+  "summary": "Jupyter notebook integration with Spyder",
+  "author": "Spyder Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/spyder-ide/spyder-notebook",
+  "download_filename": "spyder_notebook-0.7.0.tar.gz",
+  "download_time": "2025-10-07T13:18:56.274666",
+  "package_url": "https://pypi.org/project/spyder-notebook/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "esios",
+  "version": "0.25.3",
+  "summary": "Interact with e.sios API",
+  "author": "GISCE-TI, S.L.",
+  "license": "MIT",
+  "home_page": "https://github.com/gisce/esios",
+  "download_filename": "esios-0.25.3.tar.gz",
+  "download_time": "2025-10-07T13:18:51.243259",
+  "package_url": "https://pypi.org/project/esios/"
+}

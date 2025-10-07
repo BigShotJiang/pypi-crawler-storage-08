@@ -1,0 +1,11 @@
+{
+  "name": "rcsb-api",
+  "version": "1.4.1",
+  "summary": "Python package interface for RCSB.org API services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_api-1.4.1.tar.gz",
+  "download_time": "2025-10-07T13:19:04.627223",
+  "package_url": "https://pypi.org/project/rcsb-api/"
+}
