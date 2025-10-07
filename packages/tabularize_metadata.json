@@ -1,11 +1,11 @@
 {
   "name": "tabularize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Parse semi-structured text into Python dictionaries without well-defined schemas",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tabularize-0.0.2.tar.gz",
-  "download_time": "2025-10-07T18:29:17.124817",
+  "download_filename": "tabularize-0.0.3.tar.gz",
+  "download_time": "2025-10-07T19:15:58.781436",
   "package_url": "https://pypi.org/project/tabularize/"
 }

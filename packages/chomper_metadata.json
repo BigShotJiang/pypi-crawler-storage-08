@@ -1,0 +1,11 @@
+{
+  "name": "chomper",
+  "version": "0.3.6",
+  "summary": "A lightweight emulation framework for emulating security algorithms of iOS executables and libraries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chomper-0.3.6.tar.gz",
+  "download_time": "2025-10-07T19:15:50.033805",
+  "package_url": "https://pypi.org/project/chomper/"
+}

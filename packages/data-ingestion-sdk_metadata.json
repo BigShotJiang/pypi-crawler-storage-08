@@ -1,0 +1,11 @@
+{
+  "name": "data-ingestion-sdk",
+  "version": "0.4.8",
+  "summary": "Python SDK for the Data Ingestion API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_ingestion_sdk-0.4.8.tar.gz",
+  "download_time": "2025-10-07T19:15:33.403297",
+  "package_url": "https://pypi.org/project/data-ingestion-sdk/"
+}

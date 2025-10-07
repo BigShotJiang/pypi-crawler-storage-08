@@ -1,0 +1,11 @@
+{
+  "name": "pyquoks",
+  "version": "1.2.2",
+  "summary": "Пакет PyPI для часто используемых модулей в проектах diquoks",
+  "author": "Denis Titovets",
+  "license": null,
+  "home_page": "https://diquoks.ru",
+  "download_filename": "pyquoks-1.2.2.tar.gz",
+  "download_time": "2025-10-07T19:15:53.846607",
+  "package_url": "https://pypi.org/project/pyquoks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "statease",
+  "version": "0.2.12",
+  "summary": "Python interface to Stat-Ease 360.",
+  "author": "Stat-Ease, Inc.",
+  "license": "Other/Proprietary License",
+  "home_page": "https://statease.com/docs/se360/python-integration/",
+  "download_filename": "statease-0.2.12.tar.gz",
+  "download_time": "2025-10-07T19:16:03.229415",
+  "package_url": "https://pypi.org/project/statease/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openbb-index",
+  "version": "1.5.0",
+  "summary": "Index extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_index-1.5.0.tar.gz",
+  "download_time": "2025-10-07T19:15:38.935820",
+  "package_url": "https://pypi.org/project/openbb-index/"
+}
