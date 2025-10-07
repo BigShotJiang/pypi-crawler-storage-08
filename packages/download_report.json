@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-10-07T15:42:58.096702",
+  "download_time": "2025-10-07T15:54:05.516929",
   "total_packages_downloaded": 90,
-  "total_size_mb": 46.26,
+  "total_size_mb": 0.08,
   "packages": [
+    "anotiai-pii-masker",
     "ccxt",
     "growatt-public-api",
     "pydiverse-pipedag",
@@ -91,7 +92,6 @@
     "universal-dng-converter",
     "cmpparis",
     "compact-binary-protocol",
-    "pleiades-neutron",
-    "django-yandex-ad-manager"
+    "pleiades-neutron"
   ]
 }

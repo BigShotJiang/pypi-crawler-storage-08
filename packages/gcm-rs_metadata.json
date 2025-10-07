@@ -1,11 +1,11 @@
 {
   "name": "gcm-rs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcm_rs-2.0.0.tar.gz",
-  "download_time": "2025-10-07T15:42:09.533292",
+  "download_filename": "gcm_rs-2.0.1.tar.gz",
+  "download_time": "2025-10-07T15:53:18.155925",
   "package_url": "https://pypi.org/project/gcm-rs/"
 }

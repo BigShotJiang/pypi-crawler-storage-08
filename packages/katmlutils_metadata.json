@@ -1,11 +1,11 @@
 {
   "name": "katmlutils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "This is a package that keeps all the Machine learning Utils in the Software Team.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "katmlutils-0.1.1.tar.gz",
-  "download_time": "2025-10-07T15:42:39.035680",
+  "download_filename": "katmlutils-0.1.2.tar.gz",
+  "download_time": "2025-10-07T15:53:47.232699",
   "package_url": "https://pypi.org/project/katmlutils/"
 }
