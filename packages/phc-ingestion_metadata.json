@@ -1,0 +1,11 @@
+{
+  "name": "phc-ingestion",
+  "version": "0.10.20",
+  "summary": "Functions for LifeOmic PHC genomic ingestions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phc-ingestion-0.10.20.tar.gz",
+  "download_time": "2025-10-07T17:17:54.433419",
+  "package_url": "https://pypi.org/project/phc-ingestion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apyt",
+  "version": "0.1.0.dev2",
+  "summary": "APyT is a Python package which provides modules for the evaluation of atom probe tomography (APT) data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apyt-0.1.0.dev2.tar.gz",
+  "download_time": "2025-10-07T17:18:09.413803",
+  "package_url": "https://pypi.org/project/apyt/"
+}

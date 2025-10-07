@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-sale-triple-discount",
+  "version": "12.0.1.2.1",
+  "summary": "Manage triple discount on sale order lines",
+  "author": "ADHOC SA, Agile Business Group, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo12_addon_sale_triple_discount-12.0.1.2.1-py3-none-any.whl",
+  "download_time": "2025-10-07T17:18:00.074732",
+  "package_url": "https://pypi.org/project/odoo12-addon-sale-triple-discount/"
+}

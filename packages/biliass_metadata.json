@@ -1,0 +1,11 @@
+{
+  "name": "biliass",
+  "version": "2.3.1",
+  "summary": "💬 将 B 站 XML/protobuf 弹幕转换为 ASS 弹幕",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biliass-2.3.1.tar.gz",
+  "download_time": "2025-10-07T17:17:41.973323",
+  "package_url": "https://pypi.org/project/biliass/"
+}

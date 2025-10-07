@@ -1,0 +1,11 @@
+{
+  "name": "torch-pme",
+  "version": "0.3.2",
+  "summary": "Particle-mesh based calculations of long-range interactions in PyTorch",
+  "author": "torch-pme developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_pme-0.3.2.tar.gz",
+  "download_time": "2025-10-07T17:17:40.813969",
+  "package_url": "https://pypi.org/project/torch-pme/"
+}

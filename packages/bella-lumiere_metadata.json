@@ -1,11 +1,11 @@
 {
   "name": "bella-lumiere",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Live Utilities for Model Inspection and Exploration of Relevant Effects",
   "author": "gabriele-marino",
   "license": null,
   "home_page": null,
-  "download_filename": "bella_lumiere-0.0.10.tar.gz",
-  "download_time": "2025-10-07T16:24:07.091041",
+  "download_filename": "bella_lumiere-0.0.11.tar.gz",
+  "download_time": "2025-10-07T17:17:39.105045",
   "package_url": "https://pypi.org/project/bella-lumiere/"
 }

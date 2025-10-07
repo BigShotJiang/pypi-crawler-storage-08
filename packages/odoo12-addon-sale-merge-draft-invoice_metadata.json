@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-sale-merge-draft-invoice",
+  "version": "12.0.1.0.2",
+  "summary": "Sale Merge Draft Invoice",
+  "author": "Eficent, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo12_addon_sale_merge_draft_invoice-12.0.1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-07T17:17:59.563806",
+  "package_url": "https://pypi.org/project/odoo12-addon-sale-merge-draft-invoice/"
+}

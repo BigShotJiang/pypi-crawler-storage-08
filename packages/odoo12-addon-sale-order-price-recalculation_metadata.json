@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-sale-order-price-recalculation",
+  "version": "12.0.1.1.2",
+  "summary": "Recalculate prices / Reset descriptions on sale order lines",
+  "author": "AvanzOSC,Grupo Vermon,Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo12_addon_sale_order_price_recalculation-12.0.1.1.2-py3-none-any.whl",
+  "download_time": "2025-10-07T17:17:56.476414",
+  "package_url": "https://pypi.org/project/odoo12-addon-sale-order-price-recalculation/"
+}
