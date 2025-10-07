@@ -1,11 +1,11 @@
 {
   "name": "etl-db-tools",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "tools for moving data",
-  "author": null,
+  "author": "Niels",
   "license": null,
   "home_page": null,
-  "download_filename": "etl_db_tools-0.2.1.tar.gz",
-  "download_time": "2025-10-07T11:37:59.946266",
+  "download_filename": "etl_db_tools-0.2.2.tar.gz",
+  "download_time": "2025-10-07T11:51:16.960467",
   "package_url": "https://pypi.org/project/etl-db-tools/"
 }

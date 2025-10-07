@@ -1,0 +1,11 @@
+{
+  "name": "flask-assets-pipeline",
+  "version": "0.7.1",
+  "summary": "Modern asset pipeline for Flask",
+  "author": "Maxime Bouroumeau-Fuseau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_assets_pipeline-0.7.1.tar.gz",
+  "download_time": "2025-10-07T11:51:23.748713",
+  "package_url": "https://pypi.org/project/flask-assets-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openAIInsight",
+  "version": "0.0.111",
+  "summary": "Resolved the issue where the template was not created because OCR could not process the scanned PDF file.",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openAIInsight-0.0.111-py3-none-any.whl",
+  "download_time": "2025-10-07T11:51:26.312460",
+  "package_url": "https://pypi.org/project/openAIInsight/"
+}

@@ -1,33 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T11:38:39.437928
+- **Download Time**: 2025-10-07T11:52:01.608256
 - **Total Packages**: 87
-- **Total Size**: 26.66 MB
+- **Total Size**: 37.14 MB
 
 ## Packages List
-- pydantic-neomodel-dict
+- gpmanager
+- cap_sc_client
 - wiki2crm
+- pyrat-game
+- etl-db-tools
+- authentik-client
+- evolvishub-outlook-ingestor
+- autonomi-client
+- wt-cli
+- sollol
+- notr
+- runreporter
+- managex-xml-sdk
+- review-tally
+- ultralytics
+- nemo-library-etl
+- flask-assets-pipeline
+- brocapclient
+- meitner
+- YaTrackerApi
+- neopdf-hep
+- openAIInsight
+- documentdataextraction
+- lamindb
+- f5-tts-th
+- subt-ai-tles
+- gekim
+- neopdf-cli
+- phidown
+- tower
+- fust-orm
+- territories-dashboard-lib
 - aait
+- datfid
+- gli4py
+- fileagent
+- curies
+- mat3ra-made
+- odoo-addon-account-invoice-uom-column
+- pydantic-neomodel-dict
 - keboola-mcp-server
 - Blinter
 - md-manager
-- authentik-client
 - pyloid
 - meter-lib
-- runreporter
 - queue-service
 - gallagher-restapi
 - descope-pulumi
 - netra-zen
 - pulumiverse-vercel
-- etl-db-tools
 - cerona
 - ldc-dashboard-rbac
 - frequenz-client-assets
 - gemini-application
 - eventsourcing-helpers
-- f5-tts-th
 - torchx-nightly
 - telegram-bot-discussion
 - dynafield
@@ -60,36 +93,3 @@
 - droidrun
 - tb-nightly
 - calzone
-- apolo-app-types
-- dsp-tools
-- rai-agent-functions-api
-- frscript
-- tmcp-runner
-- spice-shyla
-- brimfile
-- smart-bot-factory
-- bluer-ugv
-- llm-venice
-- pydiverse-common
-- reea
-- aiospb
-- cognite-typed-functions
-- haiku.rag
-- bluer-sbc
-- chatlabs-aiogram-support
-- xync-client
-- g3read
-- cased-sandboxes
-- rehline
-- rree
-- librt
-- fast-aosim
-- graph-pes
-- wujihandpy
-- launchpy
-- meitner
-- xync-schema
-- stormpy
-- dapla-toolbelt-metadata
-- huggingface-paper-mcp
-- ligotimegps
