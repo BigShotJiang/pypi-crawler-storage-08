@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-website-portal-fiscalcode",
+  "version": "18.0.1.0.0.2",
+  "summary": "Add fiscal code to details of frontend user",
+  "author": "Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_website_portal_fiscalcode-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-07T14:20:57.945539",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-website-portal-fiscalcode/"
+}

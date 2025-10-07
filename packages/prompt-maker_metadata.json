@@ -1,0 +1,11 @@
+{
+  "name": "prompt-maker",
+  "version": "0.0.4",
+  "summary": "prompt maker to library using best practices.",
+  "author": "Gaurav-Adlakha",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/Gaurav-Adlakha/prompt_maker",
+  "download_filename": "prompt_maker-0.0.4.tar.gz",
+  "download_time": "2025-10-07T14:20:36.911989",
+  "package_url": "https://pypi.org/project/prompt-maker/"
+}

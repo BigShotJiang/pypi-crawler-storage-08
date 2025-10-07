@@ -1,0 +1,11 @@
+{
+  "name": "selenium-browserkit",
+  "version": "1.0.1",
+  "summary": "A toolkit for Selenium automation with multi-profile support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selenium_browserkit-1.0.1.tar.gz",
+  "download_time": "2025-10-07T14:20:35.845373",
+  "package_url": "https://pypi.org/project/selenium-browserkit/"
+}

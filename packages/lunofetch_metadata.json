@@ -1,11 +1,11 @@
 {
   "name": "lunofetch",
-  "version": "1.0.0",
-  "summary": "Custom Neofetch-like system info tool",
-  "author": "B. Tharun Bala",
+  "version": "2.0.3",
+  "summary": "A lightweight Neofetch-like system info tool with custom ASCII logo support.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lunofetch-1.0.0.tar.gz",
-  "download_time": "2025-10-07T13:18:53.002231",
+  "download_filename": "lunofetch-2.0.3.tar.gz",
+  "download_time": "2025-10-07T14:20:27.778212",
   "package_url": "https://pypi.org/project/lunofetch/"
 }

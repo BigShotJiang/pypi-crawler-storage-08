@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-vertexai",
+  "version": "0.0.1",
+  "summary": "This is a placeholder package. Please install `google-cloud-aiplatform` instead.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_cloud_vertexai-0.0.1.tar.gz",
+  "download_time": "2025-10-07T14:20:33.168666",
+  "package_url": "https://pypi.org/project/google-cloud-vertexai/"
+}

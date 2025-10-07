@@ -1,0 +1,11 @@
+{
+  "name": "shallot",
+  "version": "1.0.0",
+  "summary": "Fast, small ASGI-compliant webframework",
+  "author": "Peter Peter",
+  "license": null,
+  "home_page": "https://github.com/peterpeter5/shallot",
+  "download_filename": "shallot-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-07T14:20:22.163131",
+  "package_url": "https://pypi.org/project/shallot/"
+}

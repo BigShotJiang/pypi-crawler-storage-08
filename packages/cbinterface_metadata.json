@@ -1,0 +1,11 @@
+{
+  "name": "cbinterface",
+  "version": "3.0.8",
+  "summary": "command line tool for interfacing with multiple carbonblack environments to perform analysis and live response functions",
+  "author": "Sean McFeely",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "cbinterface-3.0.8.tar.gz",
+  "download_time": "2025-10-07T14:20:34.219205",
+  "package_url": "https://pypi.org/project/cbinterface/"
+}

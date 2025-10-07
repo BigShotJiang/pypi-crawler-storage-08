@@ -1,0 +1,11 @@
+{
+  "name": "e-models",
+  "version": "1.10",
+  "summary": "Tools for helping build of extraction models with scrapy spiders.",
+  "author": "Martin Olveyra",
+  "license": "BSD",
+  "home_page": "https://github.com/kalessin/emodels",
+  "download_filename": "e_models-1.10.tar.gz",
+  "download_time": "2025-10-07T14:20:41.749490",
+  "package_url": "https://pypi.org/project/e-models/"
+}

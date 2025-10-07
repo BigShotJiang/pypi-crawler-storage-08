@@ -1,11 +1,11 @@
 {
   "name": "modulitiz-micro",
-  "version": "2.44.1",
+  "version": "2.45.0",
   "summary": "Raccolta dei miei moduli - versione micro",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modulitiz_micro-2.44.1-py311-none-any.whl",
-  "download_time": "2025-10-07T10:42:41.718640",
+  "download_filename": "modulitiz_micro-2.45.0-py311-none-any.whl",
+  "download_time": "2025-10-07T14:20:34.739233",
   "package_url": "https://pypi.org/project/modulitiz-micro/"
 }

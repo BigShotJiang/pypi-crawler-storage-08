@@ -1,0 +1,11 @@
+{
+  "name": "fhirpy",
+  "version": "2.2.0",
+  "summary": "FHIR client for python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fhirpy-2.2.0.tar.gz",
+  "download_time": "2025-10-07T14:20:32.135346",
+  "package_url": "https://pypi.org/project/fhirpy/"
+}
