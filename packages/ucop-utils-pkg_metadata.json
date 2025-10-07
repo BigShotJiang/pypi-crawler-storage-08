@@ -1,11 +1,11 @@
 {
   "name": "ucop-utils-pkg",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "UCOP utilities package for the AWS Data Lake projects.",
   "author": "Annapurna Annadatha",
   "license": "Completely unsupported freeware.",
   "home_page": "https://github.com/sdsc-sherlock/rdms/tree/main/ucop-util-pkg",
-  "download_filename": "ucop_utils_pkg-2.0.7.tar.gz",
-  "download_time": "2025-10-07T19:15:57.160566",
+  "download_filename": "ucop_utils_pkg-2.0.8.tar.gz",
+  "download_time": "2025-10-07T19:39:47.234215",
   "package_url": "https://pypi.org/project/ucop-utils-pkg/"
 }

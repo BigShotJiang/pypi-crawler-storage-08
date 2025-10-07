@@ -1,0 +1,11 @@
+{
+  "name": "yaml-for-humans",
+  "version": "1.4.2",
+  "summary": "Human-friendly YAML formatting with intelligent sequence handling and priority key ordering",
+  "author": "Stephen D. Spencer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaml_for_humans-1.4.2.tar.gz",
+  "download_time": "2025-10-07T19:39:52.065856",
+  "package_url": "https://pypi.org/project/yaml-for-humans/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-basemodels-rest",
+  "version": "0.0.1",
+  "summary": "DRF-интеграция для django-basemodels — готовый сериализатор BaseModel и минимальные утилиты для работы с REST.",
+  "author": "skulap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_basemodels_rest-0.0.1.tar.gz",
+  "download_time": "2025-10-07T19:39:42.628194",
+  "package_url": "https://pypi.org/project/django-basemodels-rest/"
+}

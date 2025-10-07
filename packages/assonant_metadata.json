@@ -1,0 +1,11 @@
+{
+  "name": "assonant",
+  "version": "2.5.0",
+  "summary": "(Meta)Data standardization package for Sirius, the 4th generation Brazilian synchrotron light source",
+  "author": "Data Science and Management Group @ GCD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "assonant-2.5.0.tar.gz",
+  "download_time": "2025-10-07T19:39:34.351766",
+  "package_url": "https://pypi.org/project/assonant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edges",
+  "version": "1.0.3",
+  "summary": "Country-specific characterization factors for the Brightway LCA framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edges-1.0.3.tar.gz",
+  "download_time": "2025-10-07T19:39:53.647714",
+  "package_url": "https://pypi.org/project/edges/"
+}

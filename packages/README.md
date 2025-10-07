@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T19:28:01.097704
-- **Total Packages**: 86
-- **Total Size**: 6.39 MB
+- **Download Time**: 2025-10-07T19:40:21.084671
+- **Total Packages**: 87
+- **Total Size**: 15.0 MB
 
 ## Packages List
+- atr-adaptive-laguerre
+- hatch-gradle-version
+- moriarty-project
+- assonant
+- linode-api4
+- codearkt
+- perturbvi
+- ut-cli
+- geodesic-api
+- mysql-to-sqlite3
+- mdpong
+- kaqing
+- authentik-client
+- files-com-mcp
+- cs-models
+- collagraph
+- Blinter
+- reuse
+- django-basemodels-rest
+- ynabkit
+- jsonmacros
+- pingmapper
+- pypop-genomics
+- edq-lms-toolkit
+- mcp-1c
+- ucop-utils-pkg
+- simple-neural-works
+- OMSimulator
+- dshellInterpreter
+- ncut-pytorch
+- pyqcm
+- js-web-scraper
+- zensols-datdesc
+- yaml-for-humans
+- gradient
+- deepseek-cli
+- edges
 - unicex
 - mmguero
 - boto3
@@ -13,7 +50,6 @@
 - miru-server-sdk
 - universalpython
 - datallog
-- dshellInterpreter
 - producteca
 - liitos
 - effectful
@@ -21,8 +57,6 @@
 - fraim
 - confuk
 - cisco-ai-mcp-scanner
-- authentik-client
-- mdpong
 - pted
 - email-to-calendar
 - continuedfractions
@@ -30,7 +64,6 @@
 - osdu-perf
 - twosamplemr
 - ocha-stratus
-- moriarty-project
 - redlite
 - openmdao-extensions
 - bluer-sbc
@@ -60,35 +93,3 @@
 - openbb-equity
 - openbb-economy
 - openbb-econometrics
-- openbb-derivatives
-- dalf
-- openbb-currency
-- openbb-crypto
-- openbb-commodity
-- js-python-starter
-- ut-cli
-- chomper
-- geocat.comp
-- primfunctions
-- fabric-user-data-functions
-- pycountant
-- ollama2a
-- pyquoks
-- annuairesante-fhir-client
-- YaTrackerApi
-- xwnode
-- exonware-xwnode
-- tastytrade-mcp
-- ucop-utils-pkg
-- ucop-util-pkg
-- mock-spark
-- tabularize
-- schmitech-orbit-client
-- solomonai-backend-client-sdk
-- ringfit
-- Blinter
-- cryojax
-- PyDistances
-- statease
-- maleo-database
-- predev-api

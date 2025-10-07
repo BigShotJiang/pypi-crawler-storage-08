@@ -1,0 +1,11 @@
+{
+  "name": "jsonmacros",
+  "version": "0.0.5",
+  "summary": "A JSON preprocessor with macros, conditionals, and includes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonmacros-0.0.5.tar.gz",
+  "download_time": "2025-10-07T19:39:43.744313",
+  "package_url": "https://pypi.org/project/jsonmacros/"
+}
