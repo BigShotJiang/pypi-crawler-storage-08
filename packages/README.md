@@ -1,23 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T22:40:30.776754
-- **Total Packages**: 77
-- **Total Size**: 37.27 MB
+- **Download Time**: 2025-10-07T22:52:01.907679
+- **Total Packages**: 80
+- **Total Size**: 0.27 MB
 
 ## Packages List
-- cursorflow
-- Data-Generation-Agents
-- pulumi-gcp
-- dns-validator
-- claudeconvo
-- authentik-client
-- instrumentaipdfsplitter
-- pybmc
-- host-inspector
-- riskfolio-beta
-- ringfit
-- qdf-sdk
 - mcp-agent
 - batchtk
 - pytensor
@@ -28,6 +16,7 @@
 - kaqing
 - nmdc-submission-schema
 - thailint
+- ringfit
 - ensync-sdk
 - chadhmm
 - aristotlelib
@@ -36,7 +25,9 @@
 - reflex
 - aind-ants-transform-sidecar
 - dwdatareader
+- cursorflow
 - PiMemory
+- authentik-client
 - manim-fa
 - pipeline-eds
 - enaml-extensions
@@ -50,6 +41,8 @@
 - infraweave
 - gdscript-to-docs
 - erys
+- instrumentaipdfsplitter
+- dns-validator
 - YaTrackerApi
 - scipy-stubs
 - amauo
@@ -83,3 +76,13 @@
 - neuro-san
 - dragonfly-radiance
 - gitflow-analytics
+- gqlclient
+- reuse
+- zqb
+- Data-Generation-Agents
+- django-whatsapp-api-wrapper
+- RadGEEToolbox
+- pbs-installer
+- benchling-api-client
+- crossplane-function-pythonic
+- utils-b-infra
