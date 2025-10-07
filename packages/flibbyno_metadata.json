@@ -1,0 +1,11 @@
+{
+  "name": "flibbyno",
+  "version": "0.0.1",
+  "summary": "A small example package",
+  "author": "ornichola",
+  "license": null,
+  "home_page": "https://ornicho.la/flibbyno",
+  "download_filename": "flibbyno-0.0.1.tar.gz",
+  "download_time": "2025-10-07T21:51:42.669155",
+  "package_url": "https://pypi.org/project/flibbyno/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dns-validator",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "A comprehensive DNS validation tool with delegation, propagation, and provider settings checks",
   "author": "Matisse Urquhart",
   "license": null,
   "home_page": "https://github.com/HereLiesHugo/dns-validator",
-  "download_filename": "dns_validator-2.2.0.tar.gz",
-  "download_time": "2025-10-07T21:38:13.134249",
+  "download_filename": "dns_validator-2.3.0.tar.gz",
+  "download_time": "2025-10-07T21:51:40.573239",
   "package_url": "https://pypi.org/project/dns-validator/"
 }

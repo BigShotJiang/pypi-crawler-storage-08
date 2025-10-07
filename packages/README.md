@@ -1,29 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T21:38:32.232934
-- **Total Packages**: 85
-- **Total Size**: 61.83 MB
+- **Download Time**: 2025-10-07T21:52:16.558469
+- **Total Packages**: 84
+- **Total Size**: 34.13 MB
 
 ## Packages List
+- trustwise
+- authentik-client
+- blazetest-beta
+- ssh-key-mgr
+- engmanager-mcp
+- ringfit
+- Odooly
+- licomp-toolkit
+- pyspeex-noise
+- coda-mcp-server
+- canary-wm
+- ansipix
+- moriarty-project
+- referrers
+- eval-protocol
+- pluthon
+- steel-sdk
+- gridstatus
+- FreeTrace
+- dns-validator
+- topmark
+- ScriptCollection
+- champions
+- flibbyno
+- moovio_sdk
+- lumipy
+- navigator-api
+- signalAI
+- brutils
+- pyvenafi
+- zmesh
+- percently
+- fmmax
+- honeybee-core
+- tart-tools
+- tart
+- metorial-core
+- dv-pipecat-ai
+- ctk-sidebar
+- karellen-llvm-toolchain-tools
+- parlant-pipecat
+- karellen-llvm-lldb
 - llama-index-llms-openai
 - mrx-runway
 - cloudtools-sdk
-- authentik-client
 - snowglobe-telemetry-openinference
 - jamlib
 - pipeline-eds
 - snowglobe-telemetry-mlflow
 - optipricer
-- pluthon
-- moriarty-project
 - jupytercad-mcp
 - ssh-proto-types
 - dve-lumipy-testing
 - PySide6-GlobalHotkeys
 - snowglobe
 - rolfedh-doc-utils
-- trustwise
 - medilinda-ml
 - jinjarope
 - rxfoundry.clients.swifty_api
@@ -31,7 +69,6 @@
 - rxfoundry.clients.swifty_oauth_api
 - harboria-portid
 - memara
-- percently
 - google-shopping-merchant-products
 - google-cloud-video-stitcher
 - google-cloud-eventarc-publishing
@@ -53,41 +90,3 @@
 - better-social-notifications
 - anacostia-pipeline
 - sidemantic
-- bioio-ome-zarr
-- unittest3
-- hpc-connect
-- dkist-service-configuration
-- deephaven-mcp
-- pulumi-gcp
-- agilicus
-- dns-validator
-- js-python-starter
-- govee-cloud
-- fastgaia
-- atr-adaptive-laguerre
-- dkany
-- email-to-calendar
-- js-web-scraper
-- pipecat-ai
-- js-api
-- sujal-ml
-- srai
-- sapiopylib
-- websocket-client
-- concord-sc
-- vllm-spyre
-- claudeconvo
-- FreeTrace
-- SwiftSarsa
-- py-auto-migrate
-- library
-- asyncmq
-- w2rpy
-- wpdm-kdobiczek
-- create-browser-app
-- svc-infra
-- QuantumTUNA
-- gofigr
-- ddapm-test-agent
-- arpakitlib
-- stickler-eval

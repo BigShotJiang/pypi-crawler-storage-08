@@ -1,11 +1,11 @@
 {
   "name": "engmanager-mcp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "MCP server providing workflow guidance and next-step instructions for LLM development workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "engmanager_mcp-1.0.0.tar.gz",
-  "download_time": "2025-10-07T20:21:25.751370",
+  "download_filename": "engmanager_mcp-1.0.2.tar.gz",
+  "download_time": "2025-10-07T21:51:32.432492",
   "package_url": "https://pypi.org/project/engmanager-mcp/"
 }

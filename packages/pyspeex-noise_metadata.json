@@ -1,0 +1,11 @@
+{
+  "name": "pyspeex-noise",
+  "version": "2.0.0",
+  "summary": "Noise suppression and automatic gain with speex",
+  "author": "Michael Hansen",
+  "license": "MIT",
+  "home_page": "https://github.com/rhasspy/pyspeex-noise",
+  "download_filename": "pyspeex_noise-2.0.0.tar.gz",
+  "download_time": "2025-10-07T21:51:34.527814",
+  "package_url": "https://pypi.org/project/pyspeex-noise/"
+}
