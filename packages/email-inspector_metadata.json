@@ -1,0 +1,11 @@
+{
+  "name": "email-inspector",
+  "version": "0.1.1",
+  "summary": "Detect free/public email provider domains (gmail, yahoo, outlook, ...)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "email_inspector-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-07T09:50:48.262661",
+  "package_url": "https://pypi.org/project/email-inspector/"
+}

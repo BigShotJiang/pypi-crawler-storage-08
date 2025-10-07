@@ -1,11 +1,11 @@
 {
   "name": "ljobx",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "summary": "A powerful, asynchronous scraper for LinkedIn job postings without authentication.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ljobx-2.1.4-py3-none-any.whl",
-  "download_time": "2025-10-07T09:31:16.599692",
+  "download_filename": "ljobx-2.2.0.tar.gz",
+  "download_time": "2025-10-07T09:50:47.750489",
   "package_url": "https://pypi.org/project/ljobx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "brisktyper",
+  "version": "0.1.10",
+  "summary": "Genome pre-processing pipeline for BRisk",
+  "author": "Laura M. Carroll",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/lmc297/brisktyper",
+  "download_filename": "brisktyper-0.1.10.tar.gz",
+  "download_time": "2025-10-07T09:51:14.282756",
+  "package_url": "https://pypi.org/project/brisktyper/"
+}
