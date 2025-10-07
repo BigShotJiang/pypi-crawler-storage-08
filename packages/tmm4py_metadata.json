@@ -1,0 +1,11 @@
+{
+  "name": "tmm4py",
+  "version": "3.2.1",
+  "summary": "TMM4Py: Python Interface for Transport Matrix Method Library",
+  "author": "Samar Khatiwala, Jamie Carr",
+  "license": null,
+  "home_page": "https://github.com/samarkhatiwala/tmm",
+  "download_filename": "tmm4py-3.2.1.tar.gz",
+  "download_time": "2025-10-07T10:42:29.588591",
+  "package_url": "https://pypi.org/project/tmm4py/"
+}

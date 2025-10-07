@@ -1,0 +1,11 @@
+{
+  "name": "polybench",
+  "version": "0.3.4",
+  "summary": "Multivariate polynomial arithmetic benchmark tests.",
+  "author": "Takahiro Ueda",
+  "license": "MIT",
+  "home_page": "https://github.com/tueda/polybench",
+  "download_filename": "polybench-0.3.4.tar.gz",
+  "download_time": "2025-10-07T10:42:51.667167",
+  "package_url": "https://pypi.org/project/polybench/"
+}

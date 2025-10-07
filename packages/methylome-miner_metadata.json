@@ -1,0 +1,11 @@
+{
+  "name": "methylome-miner",
+  "version": "1.1.7",
+  "summary": "A tool for handling DNA methylation data in extended bedMethyl format obtained from the nanopore sequencing data by Dorado and Modkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "methylome_miner-1.1.7.tar.gz",
+  "download_time": "2025-10-07T10:42:38.087404",
+  "package_url": "https://pypi.org/project/methylome-miner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-api-assets",
+  "version": "0.1.0",
+  "summary": "Frequenz gRPC API to retrieval platform assets information",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_api_assets-0.1.0.tar.gz",
+  "download_time": "2025-10-07T10:42:34.350576",
+  "package_url": "https://pypi.org/project/frequenz-api-assets/"
+}

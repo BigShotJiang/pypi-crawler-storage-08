@@ -1,0 +1,11 @@
+{
+  "name": "laydata",
+  "version": "0.1.2",
+  "summary": "LayData Python client SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "laydata-0.1.2.tar.gz",
+  "download_time": "2025-10-07T10:42:31.685597",
+  "package_url": "https://pypi.org/project/laydata/"
+}

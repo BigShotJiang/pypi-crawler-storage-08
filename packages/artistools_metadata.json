@@ -1,0 +1,11 @@
+{
+  "name": "artistools",
+  "version": "2025.10.7",
+  "summary": "Plotting and analysis tools for the ARTIS 3D radiative transfer code for supernovae and kilonovae.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "artistools-2025.10.7.tar.gz",
+  "download_time": "2025-10-07T10:42:36.014437",
+  "package_url": "https://pypi.org/project/artistools/"
+}

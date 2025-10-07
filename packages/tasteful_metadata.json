@@ -1,0 +1,11 @@
+{
+  "name": "tasteful",
+  "version": "0.3.0",
+  "summary": "Core library of the Tasteful framework",
+  "author": "Fabrice PONT",
+  "license": "Apache.2-0",
+  "home_page": null,
+  "download_filename": "tasteful-0.3.0.tar.gz",
+  "download_time": "2025-10-07T10:42:47.508152",
+  "package_url": "https://pypi.org/project/tasteful/"
+}

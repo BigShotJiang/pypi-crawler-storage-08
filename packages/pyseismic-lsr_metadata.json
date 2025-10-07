@@ -1,0 +1,11 @@
+{
+  "name": "pyseismic-lsr",
+  "version": "0.4.2",
+  "summary": "Seismic: A high-performance data structure for fast retrieval over learned sparse representations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyseismic_lsr-0.4.2.tar.gz",
+  "download_time": "2025-10-07T10:42:27.934854",
+  "package_url": "https://pypi.org/project/pyseismic-lsr/"
+}
