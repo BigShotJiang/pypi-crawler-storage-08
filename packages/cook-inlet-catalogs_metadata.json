@@ -1,0 +1,11 @@
+{
+  "name": "cook-inlet-catalogs",
+  "version": "1.1",
+  "summary": "Intake catalogs of datasets from Cook Inlet, AK",
+  "author": "axiom-data-science",
+  "license": "MIT",
+  "home_page": "https://github.com/axiom-data-science/cook-inlet-catalogs",
+  "download_filename": "cook_inlet_catalogs-1.1.tar.gz",
+  "download_time": "2025-10-07T20:40:34.124917",
+  "package_url": "https://pypi.org/project/cook-inlet-catalogs/"
+}
