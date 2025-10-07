@@ -1,0 +1,11 @@
+{
+  "name": "viona",
+  "version": "2.1.0",
+  "summary": "Viona AI modeline erişim sağlayan hızlı, güvenli ve asenkron destekli Python API istemcisi.",
+  "author": "Orvix Games",
+  "license": "MIT",
+  "home_page": "https://viona.orvixgames.com/app/modul/viona-api-modul.php",
+  "download_filename": "viona-2.1.0.tar.gz",
+  "download_time": "2025-10-07T22:40:07.949187",
+  "package_url": "https://pypi.org/project/viona/"
+}

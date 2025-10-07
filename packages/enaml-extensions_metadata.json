@@ -1,0 +1,11 @@
+{
+  "name": "enaml-extensions",
+  "version": "0.4.4",
+  "summary": "Extra widgets and extensions for building UIs with Enaml",
+  "author": "Gabriel Reis",
+  "license": "LGPL",
+  "home_page": "http://github.com/gabrielcnr/enaml-extensions",
+  "download_filename": "enaml_extensions-0.4.4.tar.gz",
+  "download_time": "2025-10-07T22:40:06.404548",
+  "package_url": "https://pypi.org/project/enaml-extensions/"
+}

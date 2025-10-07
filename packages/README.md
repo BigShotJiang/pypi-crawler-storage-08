@@ -1,16 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T22:18:34.471669
-- **Total Packages**: 80
-- **Total Size**: 20.64 MB
+- **Download Time**: 2025-10-07T22:40:30.776754
+- **Total Packages**: 77
+- **Total Size**: 37.27 MB
 
 ## Packages List
+- cursorflow
+- Data-Generation-Agents
+- pulumi-gcp
+- dns-validator
+- claudeconvo
+- authentik-client
+- instrumentaipdfsplitter
+- pybmc
+- host-inspector
+- riskfolio-beta
+- ringfit
+- qdf-sdk
+- mcp-agent
+- batchtk
+- pytensor
+- django-language-server
+- openbb-nasdaq
+- moose-lib
+- accli
+- kaqing
+- nmdc-submission-schema
+- thailint
+- ensync-sdk
+- chadhmm
+- aristotlelib
+- tritonclient
+- mcp-zephyr-scale-cloud
+- reflex
+- aind-ants-transform-sidecar
+- dwdatareader
+- PiMemory
+- manim-fa
+- pipeline-eds
+- enaml-extensions
+- moriarty-project
+- batplot
+- viona
+- nevu-ui
+- csu
+- nIRC
+- fastapi-voyager
+- infraweave
 - gdscript-to-docs
 - erys
-- moriarty-project
-- instrumentaipdfsplitter
-- dns-validator
 - YaTrackerApi
 - scipy-stubs
 - amauo
@@ -18,8 +57,6 @@
 - aton
 - typeagent
 - cmtj
-- kaqing
-- pipeline-eds
 - increase
 - lbt-dragonfly
 - run-mcp-servers-with-aws-lambda
@@ -34,7 +71,6 @@
 - GameSentenceMiner
 - acryl-datahub
 - pluthon
-- authentik-client
 - acryl-datahub-gx-plugin
 - acryl-datahub-dagster-plugin
 - grypereport
@@ -47,42 +83,3 @@
 - neuro-san
 - dragonfly-radiance
 - gitflow-analytics
-- gqlclient
-- reuse
-- zqb
-- Data-Generation-Agents
-- thailint
-- django-whatsapp-api-wrapper
-- RadGEEToolbox
-- pbs-installer
-- benchling-api-client
-- crossplane-function-pythonic
-- utils-b-infra
-- workspace-mcp
-- honeybee-radiance-postprocess
-- memmachine
-- mgraph-ai-service-cache
-- terraform-snapshot-test
-- statsig-python-core
-- sphinx-marimo
-- circuit-synth
-- NEMO-CE
-- mcp-agent
-- fairchem-core
-- atlas-schema
-- dataverse-utils
-- checkdmarc
-- nonebot-plugin-htmlkit
-- pymongo
-- multiSSH3
-- agent-framework-redis
-- ansipix
-- agent-framework-mem0
-- keeper-pam-webrtc-rs
-- agent-framework-devui
-- agent-framework-core
-- agent-framework-copilotstudio
-- agent-framework-azure-ai
-- snowglobe-telemetry-openinference
-- agent-framework-a2a
-- fairchem-lammps
