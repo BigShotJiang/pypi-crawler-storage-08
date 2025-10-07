@@ -1,0 +1,11 @@
+{
+  "name": "Products.mcdutils",
+  "version": "4.3",
+  "summary": "A Zope product with memcached-backed ZCache and Zope session implementations.",
+  "author": "Tres Seaver and contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://mcdutils.readthedocs.io",
+  "download_filename": "products_mcdutils-4.3.tar.gz",
+  "download_time": "2025-10-07T09:31:51.473883",
+  "package_url": "https://pypi.org/project/Products.mcdutils/"
+}

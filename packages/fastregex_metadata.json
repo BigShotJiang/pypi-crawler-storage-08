@@ -1,0 +1,11 @@
+{
+  "name": "fastregex",
+  "version": "0.1.1",
+  "summary": "High-performance regex with JIT/SIMD optimizations",
+  "author": "baksvell",
+  "license": null,
+  "home_page": "https://github.com/baksvell/Fastregex",
+  "download_filename": "fastregex-0.1.1.tar.gz",
+  "download_time": "2025-10-07T09:31:39.484998",
+  "package_url": "https://pypi.org/project/fastregex/"
+}
