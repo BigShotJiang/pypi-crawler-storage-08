@@ -1,0 +1,11 @@
+{
+  "name": "pymodaq-femto",
+  "version": "3.1.1",
+  "summary": "PyMoDAQ extension for femtosecond laser pulse characterization",
+  "author": "Sébastien Weber",
+  "license": "CeCILL-B",
+  "home_page": "http://pymodaq.cnrs.fr",
+  "download_filename": "pymodaq_femto-3.1.1.tar.gz",
+  "download_time": "2025-10-07T11:38:08.596735",
+  "package_url": "https://pypi.org/project/pymodaq-femto/"
+}

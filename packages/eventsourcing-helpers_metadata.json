@@ -1,0 +1,11 @@
+{
+  "name": "eventsourcing-helpers",
+  "version": "2.2.1",
+  "summary": "Helpers for practicing the Event sourcing pattern",
+  "author": "Fyndiq AB",
+  "license": "MIT",
+  "home_page": "https://github.com/fyndiq/eventsourcing_helpers",
+  "download_filename": "eventsourcing_helpers-2.2.1-py3-none-any.whl",
+  "download_time": "2025-10-07T11:38:02.585791",
+  "package_url": "https://pypi.org/project/eventsourcing-helpers/"
+}

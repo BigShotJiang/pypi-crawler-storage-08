@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T11:16:54.044541
-- **Total Packages**: 88
-- **Total Size**: 17.3 MB
+- **Download Time**: 2025-10-07T11:38:39.437928
+- **Total Packages**: 87
+- **Total Size**: 26.66 MB
 
 ## Packages List
+- pydantic-neomodel-dict
+- wiki2crm
+- aait
+- keboola-mcp-server
+- Blinter
+- md-manager
+- authentik-client
+- pyloid
+- meter-lib
+- runreporter
+- queue-service
+- gallagher-restapi
+- descope-pulumi
+- netra-zen
+- pulumiverse-vercel
+- etl-db-tools
+- cerona
+- ldc-dashboard-rbac
+- frequenz-client-assets
+- gemini-application
+- eventsourcing-helpers
+- f5-tts-th
+- torchx-nightly
+- telegram-bot-discussion
+- dynafield
+- pulumiverse-gandi
+- smelt
+- sensestreet
+- 3lc-ultralytics
+- cuallee
+- continuedfractions
+- pymodaq-femto
+- torchft-nightly
+- cloud-foundry
+- AOT-biomaps
+- inoopa_utils
+- ai-microcore
+- gemini-framework
+- gemini-model
+- nonebot-plugin-parser
+- gbg-remote-sdk
+- pyph-toolkit
+- opentargets-otter
+- canonada
+- huzzy-rabbit
+- linkmotion
+- tdrpa.tdworker
+- unstract-sdk
+- scc-firewall-manager-sdk
+- assembly-mesh-plugin
 - pyutx
 - droidrun
 - tb-nightly
@@ -25,72 +75,21 @@
 - aiospb
 - cognite-typed-functions
 - haiku.rag
-- queue-service
-- authentik-client
 - bluer-sbc
 - chatlabs-aiogram-support
 - xync-client
-- pyloid
 - g3read
-- pydantic-neomodel-dict
 - cased-sandboxes
 - rehline
 - rree
-- netra-zen
 - librt
 - fast-aosim
 - graph-pes
 - wujihandpy
-- gbg-remote-sdk
 - launchpy
 - meitner
 - xync-schema
 - stormpy
 - dapla-toolbelt-metadata
 - huggingface-paper-mcp
-- scc-firewall-manager-sdk
 - ligotimegps
-- pydantic-llm-tester
-- marEx
-- yt-dlp-apple-webkit-jsi
-- chatlabs-django-support
-- Products.ZPsycopgDA
-- rumdl
-- pypremise
-- plankode
-- lemmings-hpc
-- toucanpy
-- pybirdeye
-- trace-mind
-- rustshogi
-- pychilaslasers
-- signify
-- aass
-- AOT-biomaps
-- slicr
-- ollmcp
-- mcp-client-for-ollama
-- tekigo
-- themefinder
-- textual-dissect
-- qr-payment-cz
-- forteenall-kit
-- fakeredis
-- csvw
-- konduktor-nightly
-- taskiq-redis
-- sensestreet
-- nilauth-credit-middleware
-- mm-concurrency
-- dashboard-lego
-- trainy-policy-nightly
-- hyprmonmon
-- prseq
-- pyrudof
-- keycardai-mcp-fastmcp
-- maikol-utils
-- dapr-ext-fastapi-dev
-- dapr-ext-grpc-dev
-- flask-dapr-dev
-- dapr-ext-workflow-dev
-- dapr-dev

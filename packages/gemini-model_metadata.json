@@ -1,0 +1,11 @@
+{
+  "name": "gemini-model",
+  "version": "0.3.0",
+  "summary": "Core model library of the GEMINI Digital Twin",
+  "author": "Ryvo Octaviano",
+  "license": null,
+  "home_page": "https://nwn.nu/projecten/innovaties/datagedreven-optimalisatie-aardwarmte-systemen/",
+  "download_filename": "gemini_model-0.3.0.tar.gz",
+  "download_time": "2025-10-07T11:38:12.813746",
+  "package_url": "https://pypi.org/project/gemini-model/"
+}

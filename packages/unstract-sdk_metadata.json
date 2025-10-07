@@ -1,0 +1,11 @@
+{
+  "name": "unstract-sdk",
+  "version": "0.78.0",
+  "summary": "A framework for writing Unstract Tools/Apps",
+  "author": null,
+  "license": "AGPL v3",
+  "home_page": null,
+  "download_filename": "unstract_sdk-0.78.0.tar.gz",
+  "download_time": "2025-10-07T11:38:18.080012",
+  "package_url": "https://pypi.org/project/unstract-sdk/"
+}
