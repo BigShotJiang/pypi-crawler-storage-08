@@ -1,0 +1,11 @@
+{
+  "name": "hek-voevent-tools",
+  "version": "1.0.3",
+  "summary": "Generate VOEvent XMLs",
+  "author": "Justin Cheng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hek_voevent_tools-1.0.3.tar.gz",
+  "download_time": "2025-10-07T23:51:06.899134",
+  "package_url": "https://pypi.org/project/hek-voevent-tools/"
+}

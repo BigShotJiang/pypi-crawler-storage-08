@@ -1,0 +1,11 @@
+{
+  "name": "screamrouter",
+  "version": "0.3.1",
+  "summary": "ScreamRouter audio routing system with web interface and C++ audio engine",
+  "author": "Netham45",
+  "license": null,
+  "home_page": null,
+  "download_filename": "screamrouter-0.3.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-07T23:51:08.494318",
+  "package_url": "https://pypi.org/project/screamrouter/"
+}

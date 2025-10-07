@@ -1,11 +1,11 @@
 {
   "name": "obsidianki",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Generate flashcards from Obsidian notes using AI and sync them to Anki",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obsidianki-0.7.2.tar.gz",
-  "download_time": "2025-10-07T23:17:42.822124",
+  "download_filename": "obsidianki-0.7.3.tar.gz",
+  "download_time": "2025-10-07T23:51:11.642806",
   "package_url": "https://pypi.org/project/obsidianki/"
 }

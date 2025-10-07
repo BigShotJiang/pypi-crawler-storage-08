@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T23:38:38.248468
-- **Total Packages**: 82
-- **Total Size**: 17.57 MB
+- **Download Time**: 2025-10-07T23:51:46.301277
+- **Total Packages**: 84
+- **Total Size**: 18.68 MB
 
 ## Packages List
+- prstools
 - authentik-client
+- python-version-check-test-dynamic-published
+- retroquest
+- jamlib
+- dycw-utilities
+- riskfolio-beta
+- python-samsung-mdc
+- cat-llm
+- pulumi-akamai
+- hek-voevent-tools
+- yolo-tiling
+- sidemantic
+- screamrouter
+- uv-build
+- uv
+- holtz-tools
+- macpymessenger
+- kabukit
+- obsidianki
+- authflow
+- nedo-vision-worker-core
+- bigwig-io
+- dynafield
+- AutoImblearn
+- pyIGRF14
+- deepspeed
+- tastytrade-mcp
+- py-lobs
+- syft-client
+- typeagent
 - dictionarpy
 - relenv
 - pibooth-date-folder
 - agnt5
-- sidemantic
 - jijzept-sdk
 - nv-ingest
 - nv-ingest-client
@@ -30,11 +59,9 @@
 - ttkbootstrap
 - predev-api
 - instrumentaipdfsplitter
-- riskfolio-beta
 - symphonypy
 - ayechat
 - zephflow
-- tastytrade-mcp
 - tisit-keycloak-adapter
 - stoobly-agent
 - nothing-less
@@ -63,28 +90,3 @@
 - flwr-nightly
 - haemwend
 - xrayscatteringtools
-- propflow
-- pipeline-eds
-- buelon
-- wdoc
-- qctrl-workflow-client
-- fennec-ml
-- fraim
-- casting-cast-cli
-- cast-tui
-- cast-sync
-- cast-core
-- thailint
-- weathergrabber
-- siglab-py
-- moriarty-project
-- ai-parrot
-- llun-mcp
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- amauo
-- obsidianki
-- llun
-- sqlmesh
-- gukebox
-- scipy-stubs

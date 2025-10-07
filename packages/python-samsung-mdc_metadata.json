@@ -1,0 +1,11 @@
+{
+  "name": "python-samsung-mdc",
+  "version": "1.16.0",
+  "summary": "Samsung Multiple Display Control (MDC) protocol implementation (asyncio library + CLI interface)",
+  "author": "Victor Gavro",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/vgavro/samsung-mdc",
+  "download_filename": "python-samsung-mdc-1.16.0.tar.gz",
+  "download_time": "2025-10-07T23:51:05.347934",
+  "package_url": "https://pypi.org/project/python-samsung-mdc/"
+}
