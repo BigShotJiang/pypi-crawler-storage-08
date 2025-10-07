@@ -1,0 +1,11 @@
+{
+  "name": "pibooth-date-folder",
+  "version": "1.5.9",
+  "summary": "PiBooth plugin to split/save sessions into date-based folders with an optional daily time threshold.",
+  "author": "Kenneth Nicholas Jørgensen",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/DJ-Dingo/pibooth-date-folder",
+  "download_filename": "pibooth_date_folder-1.5.9.tar.gz",
+  "download_time": "2025-10-07T23:37:52.306393",
+  "package_url": "https://pypi.org/project/pibooth-date-folder/"
+}

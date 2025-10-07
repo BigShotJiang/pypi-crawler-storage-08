@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T23:18:00.217047
-- **Total Packages**: 79
-- **Total Size**: 36.25 MB
+- **Download Time**: 2025-10-07T23:38:38.248468
+- **Total Packages**: 82
+- **Total Size**: 17.57 MB
 
 ## Packages List
+- authentik-client
+- dictionarpy
+- relenv
+- pibooth-date-folder
+- agnt5
+- sidemantic
+- jijzept-sdk
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- nvflare
+- python-snake-game
+- patterpunk
+- morphik
+- gsd
+- kaqing
+- aind-registration-utils
+- env-canada
+- cdk-factory
+- cursorflow
+- loadconfig
+- ttkbootstrap
+- predev-api
+- instrumentaipdfsplitter
+- riskfolio-beta
+- symphonypy
+- ayechat
+- zephflow
+- tastytrade-mcp
+- tisit-keycloak-adapter
+- stoobly-agent
+- nothing-less
+- syllable-sdk
+- syft-serve
+- django-sphinx-hosting
+- csvpath
+- valkey-glide-sync
+- pmpsdb-client
 - valkey-glide
 - arthexis
 - otpylib-config
@@ -14,19 +52,14 @@
 - jupyter-ai-persona-manager
 - sequenzo
 - otpylib
-- riskfolio-beta
-- tastytrade-mcp
-- sidemantic
 - llama-index-llms-baseten
 - aiexec
 - coloredstrings
-- authentik-client
 - UW-RestClients-AdSel
 - quienesquien
 - hyperx-htmx
 - wt-cli
 - buscador-de-cnpj
-- instrumentaipdfsplitter
 - flwr-nightly
 - haemwend
 - xrayscatteringtools
@@ -34,10 +67,8 @@
 - pipeline-eds
 - buelon
 - wdoc
-- python-snake-game
 - qctrl-workflow-client
 - fennec-ml
-- tisit-keycloak-adapter
 - fraim
 - casting-cast-cli
 - cast-tui
@@ -48,7 +79,6 @@
 - siglab-py
 - moriarty-project
 - ai-parrot
-- cursorflow
 - llun-mcp
 - rxfoundry.clients.swifty_api
 - rxfoundry.clients.swifty_oauth_api
@@ -57,31 +87,4 @@
 - llun
 - sqlmesh
 - gukebox
-- syft-serve
 - scipy-stubs
-- pluthon
-- ayechat
-- prseq
-- coderdata
-- loadconfig
-- cloudpathlib
-- eval-protocol
-- py-license-auditor
-- ringfit
-- kaqing
-- lbt-recipes
-- databricks-agents
-- dea-tools
-- Simyan
-- rpanagem
-- mock-spark
-- pdf-to-md-llm
-- freeplay
-- lusid-sdk
-- PyThor
-- httpayer
-- pulumi-gcp
-- dns-validator
-- claudeconvo
-- pybmc
-- host-inspector

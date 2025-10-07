@@ -1,0 +1,11 @@
+{
+  "name": "symphonypy",
+  "version": "0.2.2",
+  "summary": "Porting of Symphony R package to Python",
+  "author": "Kseniya Petrova, Sergey Isaev",
+  "license": null,
+  "home_page": "https://github.com/potulabe/symphonypy",
+  "download_filename": "symphonypy-0.2.2.tar.gz",
+  "download_time": "2025-10-07T23:38:05.473128",
+  "package_url": "https://pypi.org/project/symphonypy/"
+}

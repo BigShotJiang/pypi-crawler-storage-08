@@ -1,0 +1,11 @@
+{
+  "name": "csvpath",
+  "version": "0.0.569",
+  "summary": "A data preboarding framework for managing and validating CSV, Excel, and other tabular data files using a Collect, Store, Validate, Publish pattern to create a trusted publisher for downstream data consumers.",
+  "author": "David Kershaw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csvpath-0.0.569.tar.gz",
+  "download_time": "2025-10-07T23:38:11.767004",
+  "package_url": "https://pypi.org/project/csvpath/"
+}

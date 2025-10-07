@@ -1,0 +1,11 @@
+{
+  "name": "gsd",
+  "version": "4.2.0",
+  "summary": "General simulation data file format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsd-4.2.0.tar.gz",
+  "download_time": "2025-10-07T23:37:59.005271",
+  "package_url": "https://pypi.org/project/gsd/"
+}
