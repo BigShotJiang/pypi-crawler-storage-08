@@ -1,0 +1,11 @@
+{
+  "name": "percently",
+  "version": "0.1.1",
+  "summary": "A fast and efficient percentile calculator written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/4thel00z/percently",
+  "download_filename": "percently-0.1.1.tar.gz",
+  "download_time": "2025-10-07T21:37:51.044870",
+  "package_url": "https://pypi.org/project/percently/"
+}

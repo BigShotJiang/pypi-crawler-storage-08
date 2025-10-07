@@ -1,0 +1,11 @@
+{
+  "name": "harboria-portid",
+  "version": "0.1.0",
+  "summary": "A client-side SDK for a zero-knowledge, decentralized user data sync system.",
+  "author": "Harboria Labs",
+  "license": null,
+  "home_page": "https://github.com/Harboria-Labs/PortID",
+  "download_filename": "harboria_portid-0.1.0.tar.gz",
+  "download_time": "2025-10-07T21:37:49.760274",
+  "package_url": "https://pypi.org/project/harboria-portid/"
+}

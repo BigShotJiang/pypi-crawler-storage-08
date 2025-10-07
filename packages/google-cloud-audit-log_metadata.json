@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-audit-log",
+  "version": "0.3.3",
+  "summary": "Google Cloud Audit Protos",
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/googleapis/python-audit-log",
+  "download_filename": "google_cloud_audit_log-0.3.3.tar.gz",
+  "download_time": "2025-10-07T21:37:56.796873",
+  "package_url": "https://pypi.org/project/google-cloud-audit-log/"
+}

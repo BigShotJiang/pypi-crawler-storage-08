@@ -1,0 +1,11 @@
+{
+  "name": "hpc-connect",
+  "version": "25.10.7",
+  "summary": "hpc_connect: lightweight HPC submission and launching interfaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hpc_connect-25.10.7.tar.gz",
+  "download_time": "2025-10-07T21:38:09.361161",
+  "package_url": "https://pypi.org/project/hpc-connect/"
+}

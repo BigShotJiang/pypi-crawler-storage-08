@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-access-context-manager",
+  "version": "0.2.3",
+  "summary": "Google Cloud Access Context Manager Protobufs",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-access-context-manager",
+  "download_filename": "google_cloud_access_context_manager-0.2.3.tar.gz",
+  "download_time": "2025-10-07T21:38:00.068344",
+  "package_url": "https://pypi.org/project/google-cloud-access-context-manager/"
+}

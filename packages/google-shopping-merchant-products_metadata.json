@@ -1,0 +1,11 @@
+{
+  "name": "google-shopping-merchant-products",
+  "version": "1.1.0",
+  "summary": "Google Shopping Merchant Products API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-shopping-merchant-products",
+  "download_filename": "google_shopping_merchant_products-1.1.0.tar.gz",
+  "download_time": "2025-10-07T21:37:51.946283",
+  "package_url": "https://pypi.org/project/google-shopping-merchant-products/"
+}
