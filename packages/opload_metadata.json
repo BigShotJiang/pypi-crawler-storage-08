@@ -1,0 +1,11 @@
+{
+  "name": "opload",
+  "version": "0.4.0",
+  "summary": "Opload: Open Loading Server",
+  "author": "OpenStone Software Foundation",
+  "license": null,
+  "home_page": "https://openstone.stonebase.mx/",
+  "download_filename": "opload-0.4.0.tar.gz",
+  "download_time": "2025-10-07T17:40:16.606288",
+  "package_url": "https://pypi.org/project/opload/"
+}

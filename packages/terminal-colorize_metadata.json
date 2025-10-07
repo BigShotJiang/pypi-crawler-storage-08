@@ -1,0 +1,11 @@
+{
+  "name": "terminal-colorize",
+  "version": "1.0.0",
+  "summary": "A simple library for colored terminal output using ANSI escape codes",
+  "author": "Mmohamed Sajith",
+  "license": "MIT",
+  "home_page": "https://github.com/mmssajith/colorterm",
+  "download_filename": "terminal_colorize-1.0.0.tar.gz",
+  "download_time": "2025-10-07T17:40:51.031562",
+  "package_url": "https://pypi.org/project/terminal-colorize/"
+}

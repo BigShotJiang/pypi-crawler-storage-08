@@ -1,0 +1,11 @@
+{
+  "name": "privision",
+  "version": "1.0.1",
+  "summary": "视频内容脱敏工具 - 基于OCR的信息识别与打码系统",
+  "author": "0xyk3r",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "privision-1.0.1.tar.gz",
+  "download_time": "2025-10-07T17:40:20.140079",
+  "package_url": "https://pypi.org/project/privision/"
+}

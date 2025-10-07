@@ -1,11 +1,11 @@
 {
   "name": "falai-mcp-tools",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "FastMCP server exposing fal.ai model APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "falai_mcp_tools-0.1.1.tar.gz",
-  "download_time": "2025-10-07T17:17:34.413362",
+  "download_filename": "falai_mcp_tools-0.1.8.tar.gz",
+  "download_time": "2025-10-07T17:40:06.247157",
   "package_url": "https://pypi.org/project/falai-mcp-tools/"
 }

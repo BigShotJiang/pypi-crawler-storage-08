@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-digitalocean",
+  "version": "5.1.0",
+  "summary": "DigitalOcean DNS Authenticator plugin for Certbot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_digitalocean-5.1.0.tar.gz",
+  "download_time": "2025-10-07T17:40:35.034392",
+  "package_url": "https://pypi.org/project/certbot-dns-digitalocean/"
+}

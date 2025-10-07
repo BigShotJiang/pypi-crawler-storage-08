@@ -1,0 +1,11 @@
+{
+  "name": "netease-encode-api",
+  "version": "1.2.3",
+  "summary": "网易云weapi解码和封装。",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "netease_encode_api-1.2.3.tar.gz",
+  "download_time": "2025-10-07T17:40:26.177333",
+  "package_url": "https://pypi.org/project/netease-encode-api/"
+}

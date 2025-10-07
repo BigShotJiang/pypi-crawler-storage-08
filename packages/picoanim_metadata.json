@@ -1,0 +1,11 @@
+{
+  "name": "picoanim",
+  "version": "0.1.0",
+  "summary": "Tiny 2D programmatic animation engine inspired by manim",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "picoanim-0.1.0.tar.gz",
+  "download_time": "2025-10-07T17:40:42.457392",
+  "package_url": "https://pypi.org/project/picoanim/"
+}
