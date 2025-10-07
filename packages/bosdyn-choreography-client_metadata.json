@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-choreography-client",
+  "version": "5.0.1.1",
+  "summary": "Boston Dynamics API client code and interfaces for choreography",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/",
+  "download_filename": "bosdyn_choreography_client-5.0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-07T16:24:17.150872",
+  "package_url": "https://pypi.org/project/bosdyn-choreography-client/"
+}

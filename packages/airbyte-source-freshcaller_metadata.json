@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-freshcaller",
+  "version": "0.5.2",
+  "summary": "Source implementation for Freshcaller",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_freshcaller-0.5.2.tar.gz",
+  "download_time": "2025-10-07T16:24:29.725974",
+  "package_url": "https://pypi.org/project/airbyte-source-freshcaller/"
+}

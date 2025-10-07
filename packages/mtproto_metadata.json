@@ -1,0 +1,11 @@
+{
+  "name": "mtproto",
+  "version": "0.1.1",
+  "summary": "Telegram MTProto protocol implementation",
+  "author": "RuslanUC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mtproto-0.1.1.tar.gz",
+  "download_time": "2025-10-07T16:24:34.415511",
+  "package_url": "https://pypi.org/project/mtproto/"
+}

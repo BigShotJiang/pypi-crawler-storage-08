@@ -1,0 +1,11 @@
+{
+  "name": "ssm-connect",
+  "version": "1.0.4",
+  "summary": "Interactive CLI to connect to AWS EC2 via SSM or SSH-over-SSM, with keyword search and multi-session terminal launch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssm_connect-1.0.4.tar.gz",
+  "download_time": "2025-10-07T16:24:30.766933",
+  "package_url": "https://pypi.org/project/ssm-connect/"
+}

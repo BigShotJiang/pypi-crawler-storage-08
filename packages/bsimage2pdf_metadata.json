@@ -1,11 +1,11 @@
 {
   "name": "bsimage2pdf",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "summary": "冰鼠图片转成Pdf文件",
   "author": "bs",
   "license": null,
   "home_page": null,
-  "download_filename": "bsimage2pdf-0.0.4.tar.gz",
-  "download_time": "2025-10-07T15:42:17.500885",
+  "download_filename": "bsimage2pdf-0.0.8.tar.gz",
+  "download_time": "2025-10-07T16:24:22.366390",
   "package_url": "https://pypi.org/project/bsimage2pdf/"
 }

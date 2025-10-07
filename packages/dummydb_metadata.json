@@ -1,0 +1,11 @@
+{
+  "name": "dummydb",
+  "version": "0.1.6",
+  "summary": "A lightweight in-memory database for Python — perfect for testing and prototyping.",
+  "author": "Vibhakar S",
+  "license": "MIT",
+  "home_page": "https://github.com/vibhakar2007/dummydb",
+  "download_filename": "dummydb-0.1.6.tar.gz",
+  "download_time": "2025-10-07T16:24:30.245848",
+  "package_url": "https://pypi.org/project/dummydb/"
+}

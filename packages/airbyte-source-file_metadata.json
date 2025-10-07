@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-file",
+  "version": "0.5.44",
+  "summary": "Source implementation for File",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_file-0.5.44.tar.gz",
+  "download_time": "2025-10-07T16:24:32.326977",
+  "package_url": "https://pypi.org/project/airbyte-source-file/"
+}

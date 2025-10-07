@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-choreography-protos",
+  "version": "5.0.1.1",
+  "summary": "Boston Dynamics API Choreography protobufs",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/",
+  "download_filename": "bosdyn_choreography_protos-5.0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-07T16:24:16.628347",
+  "package_url": "https://pypi.org/project/bosdyn-choreography-protos/"
+}

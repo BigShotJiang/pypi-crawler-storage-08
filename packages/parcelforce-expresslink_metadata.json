@@ -1,0 +1,11 @@
+{
+  "name": "parcelforce-expresslink",
+  "version": "0.1.7",
+  "summary": "Basic client for Parcelforce Expresslink API",
+  "author": "paw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parcelforce_expresslink-0.1.7.tar.gz",
+  "download_time": "2025-10-07T16:24:36.017132",
+  "package_url": "https://pypi.org/project/parcelforce-expresslink/"
+}

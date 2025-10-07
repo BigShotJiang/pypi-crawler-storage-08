@@ -1,0 +1,11 @@
+{
+  "name": "strands-utcp",
+  "version": "0.1.0",
+  "summary": "Universal Tool Calling Protocol (UTCP) integration for Strands Agents SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strands_utcp-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-07T16:24:29.196432",
+  "package_url": "https://pypi.org/project/strands-utcp/"
+}

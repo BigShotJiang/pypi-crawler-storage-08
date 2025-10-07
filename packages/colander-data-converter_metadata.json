@@ -1,11 +1,11 @@
 {
   "name": "colander-data-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A set of helpers to manipulate Colander data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colander_data_converter-1.0.3.tar.gz",
-  "download_time": "2025-10-07T13:18:32.048174",
+  "download_filename": "colander_data_converter-1.0.4.tar.gz",
+  "download_time": "2025-10-07T16:24:45.086309",
   "package_url": "https://pypi.org/project/colander-data-converter/"
 }

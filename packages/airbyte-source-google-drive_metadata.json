@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-google-drive",
+  "version": "0.4.8",
+  "summary": "Source implementation for Google Drive.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_google_drive-0.4.8.tar.gz",
+  "download_time": "2025-10-07T16:24:21.323172",
+  "package_url": "https://pypi.org/project/airbyte-source-google-drive/"
+}

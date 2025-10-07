@@ -1,0 +1,11 @@
+{
+  "name": "timingstack",
+  "version": "0.1.1",
+  "summary": "A powerful timing and performance measurement library for Python applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timingstack-0.1.1.tar.gz",
+  "download_time": "2025-10-07T16:24:39.241185",
+  "package_url": "https://pypi.org/project/timingstack/"
+}

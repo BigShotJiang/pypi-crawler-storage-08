@@ -1,11 +1,11 @@
 {
   "name": "morwlox123",
-  "version": "1.4.87",
+  "version": "1.4.89",
   "summary": "lox lox lox pon.",
   "author": "m0rwyak",
   "license": null,
   "home_page": "https://m0rwi.ru",
-  "download_filename": "morwlox123-1.4.87.tar.gz",
-  "download_time": "2025-10-07T15:21:04.634405",
+  "download_filename": "morwlox123-1.4.89-py3-none-any.whl",
+  "download_time": "2025-10-07T16:24:51.981889",
   "package_url": "https://pypi.org/project/morwlox123/"
 }
