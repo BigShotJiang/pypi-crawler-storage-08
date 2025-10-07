@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-redis",
+  "version": "1.1.2",
+  "summary": "Redis integration for taskiq",
+  "author": "taskiq-team",
+  "license": null,
+  "home_page": "https://github.com/taskiq-python/taskiq-redis",
+  "download_filename": "taskiq_redis-1.1.2.tar.gz",
+  "download_time": "2025-10-07T10:53:37.383432",
+  "package_url": "https://pypi.org/project/taskiq-redis/"
+}

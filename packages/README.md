@@ -1,12 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T10:43:15.877990
-- **Total Packages**: 91
-- **Total Size**: 39.75 MB
+- **Download Time**: 2025-10-07T10:54:09.420529
+- **Total Packages**: 86
+- **Total Size**: 19.94 MB
 
 ## Packages List
+- rumdl
+- pypremise
+- plankode
+- lemmings-hpc
+- toucanpy
+- pybirdeye
+- trace-mind
+- rustshogi
+- pychilaslasers
+- signify
+- aass
+- authentik-client
+- AOT-biomaps
+- bluer-sbc
+- slicr
+- ollmcp
+- mcp-client-for-ollama
+- tekigo
+- themefinder
+- textual-dissect
+- qr-payment-cz
+- forteenall-kit
+- fakeredis
+- csvw
+- my-package-alexander-pershin
+- konduktor-nightly
+- taskiq-redis
+- sensestreet
+- nilauth-credit-middleware
 - pyloid
+- mm-concurrency
+- rai-agent-functions-api
+- dashboard-lego
+- trainy-policy-nightly
+- hyprmonmon
+- prseq
+- pyrudof
+- keycardai-mcp-fastmcp
+- maikol-utils
+- dapr-ext-fastapi-dev
+- dapr-ext-grpc-dev
+- flask-dapr-dev
+- dapr-ext-workflow-dev
+- dapr-dev
+- linkmotion
 - pyseismic-lsr
 - letta-nightly
 - ParticleAnalyzer
@@ -15,8 +59,6 @@
 - msoc
 - qub-sherlock
 - laydata
-- authentik-client
-- prseq
 - cycode
 - appmesh
 - frequenz-api-assets
@@ -25,7 +67,6 @@
 - artistools
 - svbmc
 - methylome-miner
-- slicr
 - odoo-addon-product-supplierinfo-code
 - readgrid
 - os-forge
@@ -51,49 +92,3 @@
 - algoliasearch
 - aind-nwb-utils
 - polybench
-- sensestreet
-- kitconcept.core
-- win32more-Microsoft.Web.WebView2
-- heros
-- realtimex-cli-mcps
-- a79
-- returnn
-- talks-reducer
-- specifyplus
-- netra-zen
-- ontoripple
-- adaptive-oscillator
-- specflow
-- pypykko
-- hcube
-- festo-python-logging
-- tf-keras-nightly
-- gimkit
-- b5
-- PGram
-- pepperize.projen-awscdk-app-ts
-- hyperflask
-- calzone-display
-- deepeval
-- GraphesComplexes
-- n8nControl
-- xync-bot
-- lazy-ecs
-- libreflow.extensions.sk.export-psd-layers
-- ai-edge-torch-nightly
-- pylibx
-- monolit-local-app
-- openinterfaces
-- flask-super-macros
-- aixtools
-- pycrdfcli
-- arthur-client
-- bids-manager
-- herosdevices
-- rara-digitizer
-- code-intelligence
-- sdkwa-whatsapp-api-client
-- ch-srtgen
-- dummynet
-- ds-event-stream-python-sdk
-- hyperscale-ozone

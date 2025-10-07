@@ -1,0 +1,11 @@
+{
+  "name": "signify",
+  "version": "0.9.1",
+  "summary": "Module to generate and verify PE signatures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signify-0.9.1.tar.gz",
+  "download_time": "2025-10-07T10:53:27.971792",
+  "package_url": "https://pypi.org/project/signify/"
+}

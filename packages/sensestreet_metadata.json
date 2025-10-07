@@ -1,11 +1,11 @@
 {
   "name": "sensestreet",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": null,
   "author": "Sense Street",
   "license": "Apache",
   "home_page": "https://sensestreet.com",
-  "download_filename": "sensestreet-1.0.14.tar.gz",
-  "download_time": "2025-10-07T10:42:52.186172",
+  "download_filename": "sensestreet-1.0.15.tar.gz",
+  "download_time": "2025-10-07T10:53:37.903410",
   "package_url": "https://pypi.org/project/sensestreet/"
 }
