@@ -1,11 +1,11 @@
 {
   "name": "prseq",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "summary": "Python tools (backed by Rust) for sequence analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prseq-0.0.8-cp313-cp313-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-07T10:53:42.142161",
+  "download_filename": "prseq-0.0.11-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-07T18:29:06.238890",
   "package_url": "https://pypi.org/project/prseq/"
 }

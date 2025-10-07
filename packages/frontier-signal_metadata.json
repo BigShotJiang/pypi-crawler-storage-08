@@ -1,0 +1,11 @@
+{
+  "name": "frontier-signal",
+  "version": "0.1.0",
+  "summary": "Python SDK for Frontier Signal - Training API for Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frontier_signal-0.1.0.tar.gz",
+  "download_time": "2025-10-07T18:29:31.133962",
+  "package_url": "https://pypi.org/project/frontier-signal/"
+}

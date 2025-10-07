@@ -1,11 +1,11 @@
 {
   "name": "django-settings-inspector",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "A Django management and CLI tool to inspect and colorize project settings",
   "author": "Hadi Cahyadi",
   "license": "MIT",
   "home_page": "https://github.com/cumulus13/django-settings-inspector",
-  "download_filename": "django_settings_inspector-1.0.2.tar.gz",
-  "download_time": "2025-10-07T14:20:20.499075",
+  "download_filename": "django_settings_inspector-1.0.5.tar.gz",
+  "download_time": "2025-10-07T18:29:04.155145",
   "package_url": "https://pypi.org/project/django-settings-inspector/"
 }

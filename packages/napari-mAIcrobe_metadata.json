@@ -1,0 +1,11 @@
+{
+  "name": "napari-mAIcrobe",
+  "version": "0.0.5",
+  "summary": "mAIcrobe",
+  "author": "António Brito",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/HenriquesLab/napari-mAIcrobe",
+  "download_filename": "napari_maicrobe-0.0.5.tar.gz",
+  "download_time": "2025-10-07T18:29:37.376896",
+  "package_url": "https://pypi.org/project/napari-mAIcrobe/"
+}

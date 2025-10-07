@@ -1,11 +1,11 @@
 {
   "name": "YaTrackerApi",
-  "version": "1.9.0",
+  "version": "2.0.0",
   "summary": "Асинхронный Python клиент для работы с Yandex Tracker API с модульной архитектурой",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yatrackerapi-1.9.0.tar.gz",
-  "download_time": "2025-10-07T11:51:25.285605",
+  "download_filename": "yatrackerapi-2.0.0.tar.gz",
+  "download_time": "2025-10-07T18:29:32.673728",
   "package_url": "https://pypi.org/project/YaTrackerApi/"
 }
