@@ -1,11 +1,11 @@
 {
   "name": "wt-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Zero-friction git worktree manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wt_cli-0.2.0.tar.gz",
-  "download_time": "2025-10-07T11:51:19.629420",
+  "download_filename": "wt_cli-0.2.1.tar.gz",
+  "download_time": "2025-10-07T23:17:27.573813",
   "package_url": "https://pypi.org/project/wt-cli/"
 }

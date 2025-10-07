@@ -1,0 +1,11 @@
+{
+  "name": "hyperx-htmx",
+  "version": "2.1.0",
+  "summary": "Declarative HTMX/TabX enhancement for Django — HyperX Middleware & Template Tags",
+  "author": "Jeff Panasuik",
+  "license": "MIT",
+  "home_page": "https://github.com/faroncoder/hyperx-htmx",
+  "download_filename": "hyperx_htmx-2.1.0.tar.gz",
+  "download_time": "2025-10-07T23:17:27.043830",
+  "package_url": "https://pypi.org/project/hyperx-htmx/"
+}

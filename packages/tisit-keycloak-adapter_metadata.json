@@ -1,0 +1,11 @@
+{
+  "name": "tisit-keycloak-adapter",
+  "version": "1.3.0.dev8",
+  "summary": "Middleware for FastAPI to authenticate a user against keycloak",
+  "author": "Daniel Herrmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tisit_keycloak_adapter-1.3.0.dev8.tar.gz",
+  "download_time": "2025-10-07T23:17:34.463496",
+  "package_url": "https://pypi.org/project/tisit-keycloak-adapter/"
+}

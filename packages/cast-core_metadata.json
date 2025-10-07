@@ -1,0 +1,11 @@
+{
+  "name": "cast-core",
+  "version": "0.1.2",
+  "summary": "Core library for Cast Sync - parsing, normalization, digests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cast_core-0.1.2.tar.gz",
+  "download_time": "2025-10-07T23:17:37.052538",
+  "package_url": "https://pypi.org/project/cast-core/"
+}

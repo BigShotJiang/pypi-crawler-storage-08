@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-workflow-client",
+  "version": "7.1.1",
+  "summary": "Q-CTRL Workflow Client",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_workflow_client-7.1.1.tar.gz",
+  "download_time": "2025-10-07T23:17:33.424959",
+  "package_url": "https://pypi.org/project/qctrl-workflow-client/"
+}

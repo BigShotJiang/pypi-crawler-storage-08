@@ -1,0 +1,11 @@
+{
+  "name": "cloudpathlib",
+  "version": "0.23.0",
+  "summary": "pathlib-style classes for cloud storage services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudpathlib-0.23.0.tar.gz",
+  "download_time": "2025-10-07T23:17:48.575913",
+  "package_url": "https://pypi.org/project/cloudpathlib/"
+}

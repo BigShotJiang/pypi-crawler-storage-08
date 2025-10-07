@@ -1,0 +1,11 @@
+{
+  "name": "cast-tui",
+  "version": "0.1.0",
+  "summary": "Minimal, extensible terminal (TUI) framework with fuzzy autocomplete and plugin API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cast_tui-0.1.0.tar.gz",
+  "download_time": "2025-10-07T23:17:36.013592",
+  "package_url": "https://pypi.org/project/cast-tui/"
+}
