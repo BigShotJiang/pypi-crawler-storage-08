@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T19:16:20.747655
-- **Total Packages**: 92
-- **Total Size**: 16.0 MB
+- **Download Time**: 2025-10-07T19:28:01.097704
+- **Total Packages**: 86
+- **Total Size**: 6.39 MB
 
 ## Packages List
+- unicex
+- mmguero
+- boto3
+- awscli
+- miru-server-sdk
+- universalpython
+- datallog
+- dshellInterpreter
+- producteca
+- liitos
+- effectful
+- pyramid-formencode-classic
+- fraim
+- confuk
+- cisco-ai-mcp-scanner
+- authentik-client
+- mdpong
+- pted
+- email-to-calendar
+- continuedfractions
+- jupytercad-mcp
+- osdu-perf
+- twosamplemr
+- ocha-stratus
+- moriarty-project
+- redlite
+- openmdao-extensions
+- bluer-sbc
 - wristpy
 - gna-resources
 - ut-com
@@ -37,14 +65,10 @@
 - openbb-currency
 - openbb-crypto
 - openbb-commodity
-- dshellInterpreter
 - js-python-starter
-- authentik-client
 - ut-cli
-- datallog
 - chomper
 - geocat.comp
-- moriarty-project
 - primfunctions
 - fabric-user-data-functions
 - pycountant
@@ -65,36 +89,6 @@
 - Blinter
 - cryojax
 - PyDistances
-- bluer-sbc
 - statease
 - maleo-database
 - predev-api
-- genai-prices
-- strava-activity-mcp-server
-- thoughtspot-rest-api-v1
-- hologram-python
-- dsf-aml-sdk
-- mcp-proxy-adapter
-- glitchlings
-- sinapsis-trackers
-- sinapsis-rf-trackers
-- sinapsis-cotracker
-- django-global-search
-- gofigr
-- maleo-infra
-- robotframework-browser
-- memium
-- pycons
-- lazyimp
-- airweave-sdk
-- bd-sports-10-resized
-- dspy-react-machina
-- arc-atlas
-- bitformat
-- maleo-schemas
-- crawlee
-- js-web-scraper
-- wsqlite3
-- crunch-convert
-- airbyte-source-shopify
-- RadFiled3D
