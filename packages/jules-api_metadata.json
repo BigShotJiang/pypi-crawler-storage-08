@@ -1,0 +1,11 @@
+{
+  "name": "jules-api",
+  "version": "1.0.1",
+  "summary": "Official Python client for the Jules API",
+  "author": "Jules AI",
+  "license": null,
+  "home_page": "https://github.com/yuyu1815/jules-api",
+  "download_filename": "jules-api-1.0.1.tar.gz",
+  "download_time": "2025-10-07T15:42:53.486099",
+  "package_url": "https://pypi.org/project/jules-api/"
+}

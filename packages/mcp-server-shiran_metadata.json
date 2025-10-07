@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-shiran",
+  "version": "0.1.0",
+  "summary": "实现类weather功能的MCP工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_shiran-0.1.0.tar.gz",
+  "download_time": "2025-10-07T15:42:35.676995",
+  "package_url": "https://pypi.org/project/mcp-server-shiran/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pleiades-neutron",
+  "version": "2.1.3",
+  "summary": "PLEIADES - Python Libraries Extensions for Isotopic Analysis via Detailed Examination of SAMMY",
+  "author": null,
+  "license": "LANL-Modified-MIT",
+  "home_page": null,
+  "download_filename": "pleiades_neutron-2.1.3.tar.gz",
+  "download_time": "2025-10-07T15:42:57.084573",
+  "package_url": "https://pypi.org/project/pleiades-neutron/"
+}

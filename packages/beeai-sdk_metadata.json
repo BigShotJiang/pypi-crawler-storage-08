@@ -1,0 +1,11 @@
+{
+  "name": "beeai-sdk",
+  "version": "0.3.5",
+  "summary": "BeeAI SDK",
+  "author": "IBM Corp.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beeai_sdk-0.3.5.tar.gz",
+  "download_time": "2025-10-07T15:42:38.461317",
+  "package_url": "https://pypi.org/project/beeai-sdk/"
+}

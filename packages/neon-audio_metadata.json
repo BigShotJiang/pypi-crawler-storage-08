@@ -1,0 +1,11 @@
+{
+  "name": "neon-audio",
+  "version": "1.7.0",
+  "summary": "Neon Audio Module",
+  "author": "Neongecko",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NeonGeckoCom/neon_audio",
+  "download_filename": "neon-audio-1.7.0.tar.gz",
+  "download_time": "2025-10-07T15:42:32.217705",
+  "package_url": "https://pypi.org/project/neon-audio/"
+}

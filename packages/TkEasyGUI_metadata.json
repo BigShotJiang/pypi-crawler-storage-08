@@ -1,11 +1,11 @@
 {
   "name": "TkEasyGUI",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "summary": "TkEasyGUI is simple GUI Library for Python3 with Tkinter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tkeasygui-1.0.39.tar.gz",
-  "download_time": "2025-10-07T14:45:04.821425",
+  "download_filename": "tkeasygui-1.0.40.tar.gz",
+  "download_time": "2025-10-07T15:42:49.828315",
   "package_url": "https://pypi.org/project/TkEasyGUI/"
 }

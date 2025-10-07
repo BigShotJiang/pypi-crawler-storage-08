@@ -1,0 +1,11 @@
+{
+  "name": "detquantlib",
+  "version": "3.8.1",
+  "summary": "An internal library containing functions and classes that can be used across Quant models.",
+  "author": "DET",
+  "license": null,
+  "home_page": "https://github.com/Dynamic-Energy-Trading/detquantlib",
+  "download_filename": "detquantlib-3.8.1.tar.gz",
+  "download_time": "2025-10-07T15:42:47.071452",
+  "package_url": "https://pypi.org/project/detquantlib/"
+}

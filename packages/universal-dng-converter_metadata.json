@@ -1,0 +1,11 @@
+{
+  "name": "universal-dng-converter",
+  "version": "1.0.1",
+  "summary": "Professional multi-format image converter with DNG output support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_dng_converter-1.0.1.tar.gz",
+  "download_time": "2025-10-07T15:42:55.539347",
+  "package_url": "https://pypi.org/project/universal-dng-converter/"
+}

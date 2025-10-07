@@ -1,0 +1,11 @@
+{
+  "name": "headsup-fast",
+  "version": "1.0.0",
+  "summary": "A trivial alternative to Ubuntu's landscape-info with no external dependencies",
+  "author": "Ahmad Alam",
+  "license": null,
+  "home_page": "https://github.com/ahmadalam/headsup-fast",
+  "download_filename": "headsup_fast-1.0.0.tar.gz",
+  "download_time": "2025-10-07T15:42:34.476623",
+  "package_url": "https://pypi.org/project/headsup-fast/"
+}

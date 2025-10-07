@@ -1,11 +1,11 @@
 {
   "name": "territories-dashboard-lib",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "summary": "Librairie pour la visualisation d'indicateurs territoriaux.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "territories_dashboard_lib-0.1.27.tar.gz",
-  "download_time": "2025-10-07T11:51:32.014698",
+  "download_filename": "territories_dashboard_lib-0.1.28.tar.gz",
+  "download_time": "2025-10-07T15:42:50.402418",
   "package_url": "https://pypi.org/project/territories-dashboard-lib/"
 }
