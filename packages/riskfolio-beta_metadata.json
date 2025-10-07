@@ -1,11 +1,11 @@
 {
   "name": "riskfolio-beta",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Risk-weighted assets attribution and capital optimization toolkit.",
-  "author": "Your Name",
+  "author": "Kerwin Liao",
   "license": "MIT",
   "home_page": "https://github.com/yourname/finattrib",
-  "download_filename": "riskfolio_beta-0.1.1.tar.gz",
-  "download_time": "2025-10-07T16:24:41.327890",
+  "download_filename": "riskfolio_beta-0.1.5.tar.gz",
+  "download_time": "2025-10-07T20:52:01.153849",
   "package_url": "https://pypi.org/project/riskfolio-beta/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cbor-diag",
+  "version": "1.1.2",
+  "summary": "Conversion between CBOR and CBOR Diagnostic Notation",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "cbor_diag-1.1.2.tar.gz",
+  "download_time": "2025-10-07T20:51:40.301449",
+  "package_url": "https://pypi.org/project/cbor-diag/"
+}

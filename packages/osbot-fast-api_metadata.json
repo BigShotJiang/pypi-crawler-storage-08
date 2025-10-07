@@ -1,11 +1,11 @@
 {
   "name": "osbot-fast-api",
-  "version": "0.27.0",
+  "version": "0.28.0",
   "summary": "OWASP Security Bot - Fast API",
   "author": "Dinis Cruz",
   "license": "MIT",
   "home_page": "https://github.com/owasp-sbot/OSBot-Fast-API",
-  "download_filename": "osbot_fast_api-0.27.0.tar.gz",
-  "download_time": "2025-10-07T18:29:30.618126",
+  "download_filename": "osbot_fast_api-0.28.0.tar.gz",
+  "download_time": "2025-10-07T20:51:57.234755",
   "package_url": "https://pypi.org/project/osbot-fast-api/"
 }

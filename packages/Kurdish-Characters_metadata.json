@@ -1,0 +1,11 @@
+{
+  "name": "Kurdish-Characters",
+  "version": "1.0.0",
+  "summary": "A Python library to properly display Kurdish characters in tkinter and other interfaces",
+  "author": "Kurdish Developer Community",
+  "license": "MIT",
+  "home_page": "https://github.com/neshwantaha/Kurdish_Characters",
+  "download_filename": "kurdish_characters-1.0.0.tar.gz",
+  "download_time": "2025-10-07T20:51:27.379158",
+  "package_url": "https://pypi.org/project/Kurdish-Characters/"
+}

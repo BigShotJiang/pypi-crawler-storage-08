@@ -1,0 +1,11 @@
+{
+  "name": "ropey-py",
+  "version": "0.3.1",
+  "summary": "Python bindings for the Ropey library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ropey_py-0.3.1.tar.gz",
+  "download_time": "2025-10-07T20:51:41.933373",
+  "package_url": "https://pypi.org/project/ropey-py/"
+}

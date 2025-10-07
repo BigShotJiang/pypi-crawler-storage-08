@@ -1,0 +1,11 @@
+{
+  "name": "peapod",
+  "version": "0.1.6",
+  "summary": "Protein Embedding Aligner Plus Output Display",
+  "author": "Calvin Rusley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peapod-0.1.6.tar.gz",
+  "download_time": "2025-10-07T20:52:15.387042",
+  "package_url": "https://pypi.org/project/peapod/"
+}

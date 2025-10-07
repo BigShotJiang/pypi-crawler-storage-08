@@ -1,0 +1,11 @@
+{
+  "name": "pymicro-vad",
+  "version": "2.0.0",
+  "summary": "Self-contained voice activity detector",
+  "author": "Michael Hansen",
+  "license": "Apache",
+  "home_page": "https://github.com/rhasspy/pymicro-vad",
+  "download_filename": "pymicro_vad-2.0.0.tar.gz",
+  "download_time": "2025-10-07T20:51:34.147353",
+  "package_url": "https://pypi.org/project/pymicro-vad/"
+}

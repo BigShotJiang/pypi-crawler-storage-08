@@ -1,0 +1,11 @@
+{
+  "name": "stytch",
+  "version": "13.27.0",
+  "summary": "Stytch python client",
+  "author": "Stytch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stytch-13.27.0.tar.gz",
+  "download_time": "2025-10-07T20:51:56.202023",
+  "package_url": "https://pypi.org/project/stytch/"
+}
