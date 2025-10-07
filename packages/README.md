@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-07T10:54:09.420529
-- **Total Packages**: 86
-- **Total Size**: 19.94 MB
+- **Download Time**: 2025-10-07T11:16:54.044541
+- **Total Packages**: 88
+- **Total Size**: 17.3 MB
 
 ## Packages List
+- pyutx
+- droidrun
+- tb-nightly
+- calzone
+- apolo-app-types
+- dsp-tools
+- rai-agent-functions-api
+- frscript
+- tmcp-runner
+- spice-shyla
+- brimfile
+- smart-bot-factory
+- bluer-ugv
+- llm-venice
+- pydiverse-common
+- reea
+- aiospb
+- cognite-typed-functions
+- haiku.rag
+- queue-service
+- authentik-client
+- bluer-sbc
+- chatlabs-aiogram-support
+- xync-client
+- pyloid
+- g3read
+- pydantic-neomodel-dict
+- cased-sandboxes
+- rehline
+- rree
+- netra-zen
+- librt
+- fast-aosim
+- graph-pes
+- wujihandpy
+- gbg-remote-sdk
+- launchpy
+- meitner
+- xync-schema
+- stormpy
+- dapla-toolbelt-metadata
+- huggingface-paper-mcp
+- scc-firewall-manager-sdk
+- ligotimegps
+- pydantic-llm-tester
+- marEx
+- yt-dlp-apple-webkit-jsi
+- chatlabs-django-support
+- Products.ZPsycopgDA
 - rumdl
 - pypremise
 - plankode
@@ -17,9 +66,7 @@
 - pychilaslasers
 - signify
 - aass
-- authentik-client
 - AOT-biomaps
-- bluer-sbc
 - slicr
 - ollmcp
 - mcp-client-for-ollama
@@ -30,14 +77,11 @@
 - forteenall-kit
 - fakeredis
 - csvw
-- my-package-alexander-pershin
 - konduktor-nightly
 - taskiq-redis
 - sensestreet
 - nilauth-credit-middleware
-- pyloid
 - mm-concurrency
-- rai-agent-functions-api
 - dashboard-lego
 - trainy-policy-nightly
 - hyprmonmon
@@ -50,45 +94,3 @@
 - flask-dapr-dev
 - dapr-ext-workflow-dev
 - dapr-dev
-- linkmotion
-- pyseismic-lsr
-- letta-nightly
-- ParticleAnalyzer
-- tmm4py
-- camel-ai
-- msoc
-- qub-sherlock
-- laydata
-- cycode
-- appmesh
-- frequenz-api-assets
-- composo
-- fund-investment-calculator
-- artistools
-- svbmc
-- methylome-miner
-- odoo-addon-product-supplierinfo-code
-- readgrid
-- os-forge
-- jamlib
-- aa-srp
-- modulitiz-micro
-- mteb
-- sroka
-- zou
-- social-auth-core
-- scaledown
-- odoo14-addon-product-packaging-dimension
-- ordeq_common
-- deid
-- smart-bot-factory
-- modulitiz-nano
-- tasteful
-- ordeq_spark
-- earthquake-selection
-- moleditpy
-- entari-plugin-server
-- keycardai-mcp
-- algoliasearch
-- aind-nwb-utils
-- polybench

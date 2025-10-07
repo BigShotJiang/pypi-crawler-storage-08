@@ -1,0 +1,11 @@
+{
+  "name": "launchpy",
+  "version": "0.4.5.post4",
+  "summary": "Adobe Launch API wrapper",
+  "author": "Julien Piccini",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pitchmuc/launchpy",
+  "download_filename": "launchpy-0.4.5.post4.tar.gz",
+  "download_time": "2025-10-07T11:16:27.002039",
+  "package_url": "https://pypi.org/project/launchpy/"
+}

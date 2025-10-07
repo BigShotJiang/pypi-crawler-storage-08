@@ -1,0 +1,11 @@
+{
+  "name": "spice-shyla",
+  "version": "0.1.0",
+  "summary": "A modular-based Python package for shallow diving-wave analysis of hammer seismics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spice_shyla-0.1.0.tar.gz",
+  "download_time": "2025-10-07T11:16:12.593605",
+  "package_url": "https://pypi.org/project/spice-shyla/"
+}

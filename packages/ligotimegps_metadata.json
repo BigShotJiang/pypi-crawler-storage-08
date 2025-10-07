@@ -1,0 +1,11 @@
+{
+  "name": "ligotimegps",
+  "version": "2.1.0",
+  "summary": "A pure Python version of lal.LIGOTimeGPS",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ligotimegps-2.1.0.tar.gz",
+  "download_time": "2025-10-07T11:16:30.607993",
+  "package_url": "https://pypi.org/project/ligotimegps/"
+}
