@@ -1,11 +1,11 @@
 {
   "name": "asodesigner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Feature extraction and analysis toolkit for antisense oligonucleotide design.",
   "author": "TAU-Israel iGEM Team",
   "license": null,
   "home_page": null,
-  "download_filename": "asodesigner-1.0.0.tar.gz",
-  "download_time": "2025-10-08T15:42:35.445261",
+  "download_filename": "asodesigner-1.0.1.tar.gz",
+  "download_time": "2025-10-08T19:40:39.301259",
   "package_url": "https://pypi.org/project/asodesigner/"
 }

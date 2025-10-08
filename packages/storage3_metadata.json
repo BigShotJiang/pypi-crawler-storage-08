@@ -1,0 +1,11 @@
+{
+  "name": "storage3",
+  "version": "2.22.0",
+  "summary": "Supabase Storage client for Python.",
+  "author": "Joel Lee, Leon Fedden, Daniel Reinón García, Leynier Gutiérrez González, Anand Krishna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "storage3-2.22.0.tar.gz",
+  "download_time": "2025-10-08T19:40:48.838622",
+  "package_url": "https://pypi.org/project/storage3/"
+}

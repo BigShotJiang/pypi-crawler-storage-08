@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-systemverilog",
+  "version": "0.3.1",
+  "summary": "SystemVerilog 1800-2023 Parser",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_systemverilog-0.3.1.tar.gz",
+  "download_time": "2025-10-08T19:40:34.039651",
+  "package_url": "https://pypi.org/project/tree-sitter-systemverilog/"
+}

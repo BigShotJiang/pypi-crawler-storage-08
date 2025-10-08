@@ -1,0 +1,11 @@
+{
+  "name": "img-proof",
+  "version": "9.10.0",
+  "summary": "Package for automated testing of cloud images.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/img-proof",
+  "download_filename": "img_proof-9.10.0.tar.gz",
+  "download_time": "2025-10-08T19:40:36.128520",
+  "package_url": "https://pypi.org/project/img-proof/"
+}

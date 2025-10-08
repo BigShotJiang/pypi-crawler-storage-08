@@ -1,0 +1,11 @@
+{
+  "name": "njinja",
+  "version": "0.2",
+  "summary": "General-purpose lightweight meta-build system for Ninja",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "njinja-0.2.tar.gz",
+  "download_time": "2025-10-08T19:40:39.821635",
+  "package_url": "https://pypi.org/project/njinja/"
+}

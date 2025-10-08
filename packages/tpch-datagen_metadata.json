@@ -1,0 +1,11 @@
+{
+  "name": "tpch-datagen",
+  "version": "0.0.8",
+  "summary": "A package which makes it easy to generate TPC-H data in parallel with DuckDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tpch_datagen-0.0.8.tar.gz",
+  "download_time": "2025-10-08T19:40:51.574826",
+  "package_url": "https://pypi.org/project/tpch-datagen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gpsd",
+  "version": "3.26.1.0.172",
+  "summary": "\"fork of gps module from gpsd.\"",
+  "author": "Eric S Raymond",
+  "license": "BSD 2-Clause License",
+  "home_page": "https://gpsd.io/",
+  "download_filename": "gpsd-3.26.1.0.172.tar.gz",
+  "download_time": "2025-10-08T19:40:57.967574",
+  "package_url": "https://pypi.org/project/gpsd/"
+}

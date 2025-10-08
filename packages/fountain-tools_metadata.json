@@ -1,0 +1,11 @@
+{
+  "name": "fountain-tools",
+  "version": "0.0.7",
+  "summary": "Utils for the Fountain scriptwriting format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fountain_tools-0.0.7.tar.gz",
+  "download_time": "2025-10-08T19:40:54.752640",
+  "package_url": "https://pypi.org/project/fountain-tools/"
+}

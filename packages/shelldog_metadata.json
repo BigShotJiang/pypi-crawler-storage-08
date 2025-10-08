@@ -1,0 +1,11 @@
+{
+  "name": "shelldog",
+  "version": "0.1.0",
+  "summary": "🐕 Your loyal companion for tracking shell commands - silent, smart, and adorable!",
+  "author": "Ansuman Bhujabala",
+  "license": "MIT",
+  "home_page": "https://github.com/Ansumanbhujabal/shelldog",
+  "download_filename": "shelldog-0.1.0.tar.gz",
+  "download_time": "2025-10-08T19:40:37.736622",
+  "package_url": "https://pypi.org/project/shelldog/"
+}
