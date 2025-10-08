@@ -1,0 +1,11 @@
+{
+  "name": "specutils",
+  "version": "2.2.0",
+  "summary": "Package for spectroscopic astronomical data",
+  "author": "Specutils Developers",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "specutils-2.2.0.tar.gz",
+  "download_time": "2025-10-08T17:18:54.933052",
+  "package_url": "https://pypi.org/project/specutils/"
+}

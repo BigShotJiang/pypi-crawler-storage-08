@@ -1,11 +1,11 @@
 {
   "name": "MinimalLLMAgent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimal LLM agent with memory management.",
   "author": "Yue Lin",
   "license": null,
   "home_page": "https://github.com/YueLin301/min_llm_agent",
-  "download_filename": "MinimalLLMAgent-0.1.1-py3-none-any.whl",
-  "download_time": "2025-10-08T10:43:23.686223",
+  "download_filename": "minimalllmagent-0.1.2.tar.gz",
+  "download_time": "2025-10-08T17:18:25.443403",
   "package_url": "https://pypi.org/project/MinimalLLMAgent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "servicelayer",
-  "version": "1.25.1",
+  "version": "1.25.2",
   "summary": "Basic remote service functions for alephdata components",
   "author": "Organized Crime and Corruption Reporting Project",
   "license": "MIT",
   "home_page": "http://github.com/alephdata/servicelayer",
-  "download_filename": "servicelayer-1.25.1.tar.gz",
-  "download_time": "2025-10-08T16:47:46.442841",
+  "download_filename": "servicelayer-1.25.2.tar.gz",
+  "download_time": "2025-10-08T17:18:11.341642",
   "package_url": "https://pypi.org/project/servicelayer/"
 }

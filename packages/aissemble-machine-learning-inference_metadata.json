@@ -1,0 +1,11 @@
+{
+  "name": "aissemble-machine-learning-inference",
+  "version": "2.0.0",
+  "summary": "Machine Learning Inference Test Module",
+  "author": "aiSSEMBLE Baseline Community",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/boozallen/aissemble",
+  "download_filename": "aissemble_machine_learning_inference-2.0.0.tar.gz",
+  "download_time": "2025-10-08T17:18:16.351462",
+  "package_url": "https://pypi.org/project/aissemble-machine-learning-inference/"
+}

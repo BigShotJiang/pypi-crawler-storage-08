@@ -1,0 +1,11 @@
+{
+  "name": "AquaSEBS",
+  "version": "1.0.2",
+  "summary": "Priestley-Taylor Jet Propulsion Laboratory Evapotranspiration Model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aquasebs-1.0.2.tar.gz",
+  "download_time": "2025-10-08T17:18:13.740992",
+  "package_url": "https://pypi.org/project/AquaSEBS/"
+}

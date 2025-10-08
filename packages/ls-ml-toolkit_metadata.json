@@ -1,0 +1,11 @@
+{
+  "name": "ls-ml-toolkit",
+  "version": "1.0.2",
+  "summary": "Label Studio ML Toolkit: Convert, Train, Optimize object detection models (CPU only)",
+  "author": "Babichev Maxim",
+  "license": "MIT",
+  "home_page": "https://github.com/bavix/ls-ml-toolkit",
+  "download_filename": "ls_ml_toolkit-1.0.2.tar.gz",
+  "download_time": "2025-10-08T17:19:07.758149",
+  "package_url": "https://pypi.org/project/ls-ml-toolkit/"
+}

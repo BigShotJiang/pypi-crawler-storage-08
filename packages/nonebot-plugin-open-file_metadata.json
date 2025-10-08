@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-open-file",
+  "version": "1.0.0",
+  "summary": "通过检测特定私聊关键词来打开对应文件的 NoneBot2 插件",
+  "author": "星淆_xenith",
+  "license": "MIT",
+  "home_page": "https://github.com/Xenith-Ethereon/nonebot-plugin-open-file.git",
+  "download_filename": "nonebot_plugin_open_file-1.0.0.tar.gz",
+  "download_time": "2025-10-08T17:18:29.118683",
+  "package_url": "https://pypi.org/project/nonebot-plugin-open-file/"
+}
