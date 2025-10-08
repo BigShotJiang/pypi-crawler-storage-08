@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T09:22:19.769052
+- **Download Time**: 2025-10-08T09:42:37.685444
 - **Total Packages**: 90
-- **Total Size**: 38.48 MB
+- **Total Size**: 4.48 MB
 
 ## Packages List
+- browserstack-sdk
+- spektralwerk-scpi-client
+- langchain-timbr
+- open-space-toolkit-astrodynamics
+- dls-dodal
+- testing-framework-client
 - jam-build
 - rbt-mcp-server
 - tessdb-api
@@ -90,9 +96,3 @@
 - regex-vault
 - wayspiritmcp-weather
 - aioworldline
-- flock-core
-- sqlmesh
-- modelconv
-- maleo-managers
-- cvat-sdk
-- cvat-cli
