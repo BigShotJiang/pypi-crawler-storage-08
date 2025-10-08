@@ -1,0 +1,11 @@
+{
+  "name": "lunchable-pushlunch",
+  "version": "1.4.0",
+  "summary": "LunchMoney Push Notifications via Pushover",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lunchable_pushlunch-1.4.0.tar.gz",
+  "download_time": "2025-10-08T02:44:18.275850",
+  "package_url": "https://pypi.org/project/lunchable-pushlunch/"
+}

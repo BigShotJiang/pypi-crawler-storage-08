@@ -1,0 +1,11 @@
+{
+  "name": "django-tenant-users",
+  "version": "2.2.1",
+  "summary": "A Django app to extend django-tenants to incorporate global multi-tenant users",
+  "author": "Corvia Technologies, LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/Corvia/django-tenant-users",
+  "download_filename": "django_tenant_users-2.2.1.tar.gz",
+  "download_time": "2025-10-08T02:44:26.542522",
+  "package_url": "https://pypi.org/project/django-tenant-users/"
+}

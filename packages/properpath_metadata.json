@@ -1,0 +1,11 @@
+{
+  "name": "properpath",
+  "version": "0.2.7",
+  "summary": "A pathlib.Path drop-in replacement with extra features. ",
+  "author": "Alexander Haller, Mahadi Xion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "properpath-0.2.7.tar.gz",
+  "download_time": "2025-10-08T02:43:44.915375",
+  "package_url": "https://pypi.org/project/properpath/"
+}

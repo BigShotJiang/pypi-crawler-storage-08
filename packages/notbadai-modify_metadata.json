@@ -1,0 +1,11 @@
+{
+  "name": "notbadai-modify",
+  "version": "0.1.2",
+  "summary": "An intelligent programming assistant powered by AI",
+  "author": "NotBadAI Team",
+  "license": null,
+  "home_page": "https://github.com/notbadai/extensions",
+  "download_filename": "notbadai_modify-0.1.2.tar.gz",
+  "download_time": "2025-10-08T02:43:46.979217",
+  "package_url": "https://pypi.org/project/notbadai-modify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "callme-marck",
+  "version": "6.7.0rc1",
+  "summary": "A simple package that just says 'You called me!'",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "callme_marck-6.7.0rc1.tar.gz",
+  "download_time": "2025-10-08T02:43:44.401935",
+  "package_url": "https://pypi.org/project/callme-marck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "watsonx-minutes",
+  "version": "0.4.2",
+  "summary": "Summarize meeting minutes with watsonx.ai and generate TODOs in a fixed format.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "watsonx_minutes-0.4.2.tar.gz",
+  "download_time": "2025-10-08T02:44:06.878911",
+  "package_url": "https://pypi.org/project/watsonx-minutes/"
+}

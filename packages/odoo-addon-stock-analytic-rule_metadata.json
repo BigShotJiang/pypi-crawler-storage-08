@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-analytic-rule",
+  "version": "17.0.1.0.0.4",
+  "summary": "Adds distribution rules for stock moves to automatically create analytic lines",
+  "author": "Odoo Community Association (OCA), APSL-Nagarro, Bernat Obrador",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_stock_analytic_rule-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-08T02:43:58.999909",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-analytic-rule/"
+}

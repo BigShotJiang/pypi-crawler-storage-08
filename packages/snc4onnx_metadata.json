@@ -1,0 +1,11 @@
+{
+  "name": "snc4onnx",
+  "version": "1.0.14",
+  "summary": "Simple tool to combine onnx models. Simple Network Combine Tool for ONNX.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/sne4onnx",
+  "download_filename": "snc4onnx-1.0.14.tar.gz",
+  "download_time": "2025-10-08T02:44:22.933567",
+  "package_url": "https://pypi.org/project/snc4onnx/"
+}
