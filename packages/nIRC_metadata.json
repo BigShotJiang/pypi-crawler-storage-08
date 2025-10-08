@@ -1,11 +1,11 @@
 {
   "name": "nIRC",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "an asynchronous IRC bot framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nirc-1.0.0.tar.gz",
-  "download_time": "2025-10-07T22:40:09.490093",
+  "download_filename": "nirc-1.0.1.tar.gz",
+  "download_time": "2025-10-08T18:52:56.064041",
   "package_url": "https://pypi.org/project/nIRC/"
 }

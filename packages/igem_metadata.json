@@ -1,0 +1,11 @@
+{
+  "name": "igem",
+  "version": "2.0.0",
+  "summary": null,
+  "author": "Andre Rico",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/HallLab/IGEM",
+  "download_filename": "igem-2.0.0.tar.gz",
+  "download_time": "2025-10-08T18:53:06.953909",
+  "package_url": "https://pypi.org/project/igem/"
+}

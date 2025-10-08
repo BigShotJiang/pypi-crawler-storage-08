@@ -1,0 +1,11 @@
+{
+  "name": "mythic",
+  "version": "0.2.9",
+  "summary": "Interact with Mythic C2 Framework Instances",
+  "author": "@its_a_feature_",
+  "license": "BSD3",
+  "home_page": "https://docs.mythic-c2.net/scripting",
+  "download_filename": "mythic-0.2.9.tar.gz",
+  "download_time": "2025-10-08T18:52:40.351403",
+  "package_url": "https://pypi.org/project/mythic/"
+}

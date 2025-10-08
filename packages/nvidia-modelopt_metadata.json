@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-modelopt",
+  "version": "0.37.0",
+  "summary": "Nvidia TensorRT Model Optimizer: a unified model optimization and deployment toolkit.",
+  "author": "NVIDIA Corporation",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/NVIDIA/TensorRT-Model-Optimizer",
+  "download_filename": "nvidia_modelopt-0.37.0-py3-none-any.whl",
+  "download_time": "2025-10-08T18:53:00.998927",
+  "package_url": "https://pypi.org/project/nvidia-modelopt/"
+}

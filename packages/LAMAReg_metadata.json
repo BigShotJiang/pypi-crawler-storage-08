@@ -1,11 +1,11 @@
 {
   "name": "LAMAReg",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Label Augmented Modality Agnostic Registration: A Python-based workflow combining deep learning-based segmentation and numerical solutions to generate precise warpfields between different MRI modalities.",
   "author": "Ian Goodall-Halliwell, Paul Bautin, Nya Yazdi, Kevin Du, Raul R. Cruces",
   "license": null,
   "home_page": "https://github.com/MICA-MNI/LAMAReg",
-  "download_filename": "lamareg-1.2.3.tar.gz",
-  "download_time": "2025-10-08T18:30:33.814637",
+  "download_filename": "lamareg-1.2.4.tar.gz",
+  "download_time": "2025-10-08T18:53:02.606141",
   "package_url": "https://pypi.org/project/LAMAReg/"
 }

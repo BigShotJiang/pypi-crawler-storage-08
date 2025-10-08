@@ -1,0 +1,11 @@
+{
+  "name": "agents-upstream",
+  "version": "1.3.1",
+  "summary": "AI-powered research analysis system for product discovery",
+  "author": "Agents Upstream Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/marcelusfernandes/agents-upstream",
+  "download_filename": "agents_upstream-1.3.1.tar.gz",
+  "download_time": "2025-10-08T18:52:26.616089",
+  "package_url": "https://pypi.org/project/agents-upstream/"
+}

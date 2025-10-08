@@ -1,11 +1,11 @@
 {
   "name": "pysaebm",
-  "version": "7.6",
+  "version": "7.6.1",
   "summary": "Stage-Aware Event-Based Modeling for Disease Progression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysaebm-7.6.tar.gz",
-  "download_time": "2025-10-08T17:18:33.253630",
+  "download_filename": "pysaebm-7.6.1.tar.gz",
+  "download_time": "2025-10-08T18:53:01.546097",
   "package_url": "https://pypi.org/project/pysaebm/"
 }

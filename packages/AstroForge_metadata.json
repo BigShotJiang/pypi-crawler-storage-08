@@ -1,0 +1,11 @@
+{
+  "name": "AstroForge",
+  "version": "0.3.1",
+  "summary": "A Python library of astrodynamics tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astroforge-0.3.1.tar.gz",
+  "download_time": "2025-10-08T18:52:34.139567",
+  "package_url": "https://pypi.org/project/AstroForge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xcode-mcp-server",
+  "version": "1.2.1",
+  "summary": "Drew's MCP server for Xcode integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xcode_mcp_server-1.2.1.tar.gz",
+  "download_time": "2025-10-08T18:52:49.568798",
+  "package_url": "https://pypi.org/project/xcode-mcp-server/"
+}

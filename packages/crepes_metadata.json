@@ -1,0 +1,11 @@
+{
+  "name": "crepes",
+  "version": "0.9.0",
+  "summary": "Conformal classifiers, regressors, and predictive systems (crepes)",
+  "author": "Henrik Boström",
+  "license": null,
+  "home_page": "https://github.com/henrikbostrom/crepes",
+  "download_filename": "crepes-0.9.0.tar.gz",
+  "download_time": "2025-10-08T18:53:04.207956",
+  "package_url": "https://pypi.org/project/crepes/"
+}
