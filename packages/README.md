@@ -1,17 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T04:23:54.275993
-- **Total Packages**: 80
-- **Total Size**: 36.77 MB
+- **Download Time**: 2025-10-08T04:43:27.131526
+- **Total Packages**: 77
+- **Total Size**: 1.46 MB
 
 ## Packages List
+- n8nControl
+- nemo-library-etl
+- authentik-client
+- fpm-py
+- pgpack-dumper
+- edgy
+- terrakio-admin-api-beta
+- terrakio-api-beta
+- appmesh
+- terrakio-core-beta
+- lava-lyra
+- layernet
+- navam-invest
+- rui-utils
+- openspeleo-lib
+- multtestlib
+- cubetimer
+- gcpds-cv-pykit
+- richframe
+- apgard
+- multiagent-core
+- tp-requests
+- kivera-sdk
+- zap-cdk
 - pyvfg
 - claude-workshop
 - serper-toolkit
-- n8nControl
-- layernet
-- lava-lyra
 - hca-smart-sync
 - files-com-mcp
 - sidemantic
@@ -24,7 +45,6 @@
 - genome-uploader
 - mockagent
 - nuclear-rose
-- authentik-client
 - fileformats-vendor-siemens-extras
 - codeup
 - tirex-mirror
@@ -37,7 +57,6 @@
 - odoo-addon-stock-storage-type
 - running-process
 - chromedriver-binary
-- zap-cdk
 - omniopt2
 - odoo-addon-endpoint-route-handler
 - crudadmin
@@ -49,7 +68,6 @@
 - odoo-addon-hr-timesheet-sheet-warning
 - pyqrackising
 - gitpersona
-- multiagent-core
 - predev-api
 - odoo-addon-stock-quant-package-product-packaging
 - odoo-addon-stock-request-kanban
@@ -65,24 +83,3 @@
 - odoo-addon-base-changeset
 - libxr
 - compass-lib
-- awsimple
-- odoo-addon-sale-order-lot-selection
-- odoo-addon-sale-order-type
-- amazon-ad-sdk
-- lowmind
-- pulumi-confluentcloud
-- causalem
-- odoo12-addon-sale-merge-draft-invoice
-- owasp-schema
-- egain-api-python
-- fastcrud
-- odoo-addon-kpi
-- maim-message
-- pycord-localizer
-- odoo-addon-procurement-purchase-requisition-generation
-- odoo-addon-purchase-date-planned-manual
-- orq-ai-sdk
-- xqute
-- reflex-agent
-- odoo-addon-project-tag-security
-- odoo-addon-project-tag-hierarchy

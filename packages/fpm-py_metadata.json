@@ -1,0 +1,11 @@
+{
+  "name": "fpm-py",
+  "version": "2.0.1",
+  "summary": "Fourier ptychography tooling for simulation and reconstruction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fpm_py-2.0.1.tar.gz",
+  "download_time": "2025-10-08T04:42:47.469643",
+  "package_url": "https://pypi.org/project/fpm-py/"
+}

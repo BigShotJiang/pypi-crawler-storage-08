@@ -1,11 +1,11 @@
 {
   "name": "navam-invest",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "AI agents and tools for the retail investor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "navam_invest-0.1.26.tar.gz",
-  "download_time": "2025-10-07T14:44:44.857892",
+  "download_filename": "navam_invest-0.1.27.tar.gz",
+  "download_time": "2025-10-08T04:42:52.176401",
   "package_url": "https://pypi.org/project/navam-invest/"
 }

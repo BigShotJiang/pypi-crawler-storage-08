@@ -1,11 +1,11 @@
 {
   "name": "n8nControl",
-  "version": "1.3.8",
+  "version": "1.4.0",
   "summary": "Python agent to control remote n8n instances",
   "author": "LEV",
   "license": null,
   "home_page": null,
-  "download_filename": "n8ncontrol-1.3.8.tar.gz",
-  "download_time": "2025-10-08T04:23:11.949120",
+  "download_filename": "n8ncontrol-1.4.0.tar.gz",
+  "download_time": "2025-10-08T04:42:45.803015",
   "package_url": "https://pypi.org/project/n8nControl/"
 }

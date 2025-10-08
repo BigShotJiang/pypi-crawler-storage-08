@@ -1,0 +1,11 @@
+{
+  "name": "openspeleo-lib",
+  "version": "0.0.6",
+  "summary": "\"A library to read/write and convert OpenSpeleo files\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openspeleo_lib-0.0.6-py3-none-any.whl",
+  "download_time": "2025-10-08T04:42:53.212423",
+  "package_url": "https://pypi.org/project/openspeleo-lib/"
+}
