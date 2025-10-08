@@ -1,0 +1,11 @@
+{
+  "name": "roslibpy",
+  "version": "2.0.0",
+  "summary": "Python ROS Bridge library.",
+  "author": "Gramazio Kohler Research",
+  "license": "MIT license",
+  "home_page": "https://github.com/gramaziokohler/roslibpy",
+  "download_filename": "roslibpy-2.0.0.tar.gz",
+  "download_time": "2025-10-08T15:21:59.451895",
+  "package_url": "https://pypi.org/project/roslibpy/"
+}

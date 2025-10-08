@@ -1,11 +1,11 @@
 {
   "name": "intugle",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A GenAI-powered Python library for building semantic layers.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "intugle-1.0.5.tar.gz",
-  "download_time": "2025-10-08T14:20:43.056873",
+  "download_filename": "intugle-1.0.6.tar.gz",
+  "download_time": "2025-10-08T15:22:30.146366",
   "package_url": "https://pypi.org/project/intugle/"
 }

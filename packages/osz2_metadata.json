@@ -1,11 +1,11 @@
 {
   "name": "osz2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A python library for reading osz2 files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "osz2-1.0.3.tar.gz",
-  "download_time": "2025-10-08T14:45:37.176754",
+  "download_filename": "osz2-1.0.4.tar.gz",
+  "download_time": "2025-10-08T15:22:06.589010",
   "package_url": "https://pypi.org/project/osz2/"
 }

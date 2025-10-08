@@ -1,0 +1,11 @@
+{
+  "name": "nicegui-highcharts",
+  "version": "3.0.0",
+  "summary": "Add Highcharts elements to your NiceGUI app.",
+  "author": "Zauberzeug GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/zauberzeug/nicegui-highcharts",
+  "download_filename": "nicegui_highcharts-3.0.0.tar.gz",
+  "download_time": "2025-10-08T15:22:15.951391",
+  "package_url": "https://pypi.org/project/nicegui-highcharts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tastytrade-mcp",
-  "version": "1.2.13",
+  "version": "1.2.15",
   "summary": "TastyTrade MCP Server - Multi-LLM trading interface with unified deployment",
   "author": "TastyTrade MCP Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tastytrade_mcp-1.2.13.tar.gz",
-  "download_time": "2025-10-08T13:46:33.556407",
+  "download_filename": "tastytrade_mcp-1.2.15.tar.gz",
+  "download_time": "2025-10-08T15:21:44.909716",
   "package_url": "https://pypi.org/project/tastytrade-mcp/"
 }

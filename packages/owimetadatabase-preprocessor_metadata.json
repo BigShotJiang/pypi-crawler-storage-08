@@ -1,0 +1,11 @@
+{
+  "name": "owimetadatabase-preprocessor",
+  "version": "0.9.7",
+  "summary": "Package for preprocessing data from owimetadatabase.",
+  "author": "arsmlnkv",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://owi-lab.github.io/owimetadatabase-preprocessor/",
+  "download_filename": "owimetadatabase_preprocessor-0.9.7.tar.gz",
+  "download_time": "2025-10-08T15:21:46.031392",
+  "package_url": "https://pypi.org/project/owimetadatabase-preprocessor/"
+}
