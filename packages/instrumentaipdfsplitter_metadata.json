@@ -1,11 +1,11 @@
 {
   "name": "instrumentaipdfsplitter",
-  "version": "3.3.0",
+  "version": "5.0.0",
   "summary": "AI-assisted instrument part detector and PDF splitter",
   "author": null,
   "license": "Proprietary - No modification allowed",
   "home_page": null,
-  "download_filename": "instrumentaipdfsplitter-3.3.0.tar.gz",
-  "download_time": "2025-10-07T23:38:04.169923",
+  "download_filename": "instrumentaipdfsplitter-5.0.0.tar.gz",
+  "download_time": "2025-10-08T10:20:49.861813",
   "package_url": "https://pypi.org/project/instrumentaipdfsplitter/"
 }

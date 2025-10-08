@@ -1,0 +1,11 @@
+{
+  "name": "iatikit",
+  "version": "3.6.0",
+  "summary": "A toolkit for using IATI data.",
+  "author": "Andy Lulham",
+  "license": "MIT",
+  "home_page": "https://iatikit.readthedocs.io",
+  "download_filename": "iatikit-3.6.0.tar.gz",
+  "download_time": "2025-10-08T10:21:19.615512",
+  "package_url": "https://pypi.org/project/iatikit/"
+}

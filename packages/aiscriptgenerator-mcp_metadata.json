@@ -1,11 +1,11 @@
 {
   "name": "aiscriptgenerator-mcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "MCP Server for AL Parser - finds pages and fields for Business Central scenarios",
   "author": "AI Script Generator Team",
   "license": null,
   "home_page": null,
-  "download_filename": "aiscriptgenerator_mcp-0.1.7.tar.gz",
-  "download_time": "2025-10-08T09:52:44.146945",
+  "download_filename": "aiscriptgenerator_mcp-0.1.8.tar.gz",
+  "download_time": "2025-10-08T10:20:51.936597",
   "package_url": "https://pypi.org/project/aiscriptgenerator-mcp/"
 }
