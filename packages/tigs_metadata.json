@@ -1,0 +1,11 @@
+{
+  "name": "tigs",
+  "version": "0.1.4",
+  "summary": "Talks in Git → Specs - Git-based chat management system for AI-empowered software development",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tigs-0.1.4.tar.gz",
+  "download_time": "2025-10-08T06:30:23.673291",
+  "package_url": "https://pypi.org/project/tigs/"
+}

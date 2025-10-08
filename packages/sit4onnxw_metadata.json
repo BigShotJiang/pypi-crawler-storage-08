@@ -1,0 +1,11 @@
+{
+  "name": "sit4onnxw",
+  "version": "1.0.2",
+  "summary": "Simple Inference Test for ONNX Runtime Web",
+  "author": "Katsuya Hyodo",
+  "license": null,
+  "home_page": "https://github.com/PINTO0309/sit4onnxw",
+  "download_filename": "sit4onnxw-1.0.2.tar.gz",
+  "download_time": "2025-10-08T06:30:38.210416",
+  "package_url": "https://pypi.org/project/sit4onnxw/"
+}

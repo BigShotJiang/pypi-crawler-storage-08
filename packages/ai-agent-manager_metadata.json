@@ -1,11 +1,11 @@
 {
   "name": "ai-agent-manager",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Terminal UI for managing AI agents, resources, and MCP servers across multiple AI tools",
   "author": "AI Configurator Team",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_agent_manager-0.2.2.tar.gz",
-  "download_time": "2025-10-08T05:41:39.903611",
+  "download_filename": "ai_agent_manager-0.2.3.tar.gz",
+  "download_time": "2025-10-08T06:30:50.078525",
   "package_url": "https://pypi.org/project/ai-agent-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "altwer",
+  "version": "0.4.0",
+  "summary": "Evaluate ASR output while accounting for orthographic variation.",
+  "author": "Per Kummervold",
+  "license": null,
+  "home_page": "https://github.com/peregilk/altwer",
+  "download_filename": "altwer-0.4.0.tar.gz",
+  "download_time": "2025-10-08T06:30:23.148226",
+  "package_url": "https://pypi.org/project/altwer/"
+}

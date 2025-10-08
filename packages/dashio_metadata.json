@@ -1,0 +1,11 @@
+{
+  "name": "dashio",
+  "version": "3.5.8",
+  "summary": "DashIO interface library",
+  "author": "James Boulton",
+  "license": null,
+  "home_page": "https://dashio.io",
+  "download_filename": "dashio-3.5.8.tar.gz",
+  "download_time": "2025-10-08T06:30:53.152689",
+  "package_url": "https://pypi.org/project/dashio/"
+}
