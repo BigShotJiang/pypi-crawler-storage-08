@@ -1,0 +1,11 @@
+{
+  "name": "segy",
+  "version": "0.5.3",
+  "summary": "The Ultimate Python SEG-Y I/O with Cloud Support and Schemas",
+  "author": "Altay Sansal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "segy-0.5.3.tar.gz",
+  "download_time": "2025-10-08T22:23:07.048792",
+  "package_url": "https://pypi.org/project/segy/"
+}

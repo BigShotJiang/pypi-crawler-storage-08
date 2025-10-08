@@ -1,0 +1,11 @@
+{
+  "name": "kartograf",
+  "version": "1.0.2",
+  "summary": "Please use conda-forge to install kartograf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kartograf-1.0.2.tar.gz",
+  "download_time": "2025-10-08T22:22:47.462073",
+  "package_url": "https://pypi.org/project/kartograf/"
+}

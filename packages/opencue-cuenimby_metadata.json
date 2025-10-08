@@ -1,11 +1,11 @@
 {
   "name": "opencue-cuenimby",
-  "version": "1.13.6",
+  "version": "1.13.8",
   "summary": "CueNIMBY is a cross-platform system tray application for OpenCue NIMBY control. It allows workstation users to monitor their machine's rendering availability, toggle between available and disabled states, receive notifications when jobs start, and schedule automatic state changes based on time of day.",
   "author": "OpenCue Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opencue_cuenimby-1.13.6-py3-none-any.whl",
-  "download_time": "2025-10-08T17:52:09.647625",
+  "download_filename": "opencue_cuenimby-1.13.8.tar.gz",
+  "download_time": "2025-10-08T22:23:24.689742",
   "package_url": "https://pypi.org/project/opencue-cuenimby/"
 }

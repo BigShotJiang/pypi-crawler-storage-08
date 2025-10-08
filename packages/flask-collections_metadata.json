@@ -1,0 +1,11 @@
+{
+  "name": "flask-collections",
+  "version": "0.3.0",
+  "summary": "Static collections for Flask",
+  "author": "Maxime Bouroumeau-Fuseau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_collections-0.3.0.tar.gz",
+  "download_time": "2025-10-08T22:22:52.173038",
+  "package_url": "https://pypi.org/project/flask-collections/"
+}

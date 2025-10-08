@@ -1,11 +1,11 @@
 {
   "name": "rapidpro-python",
-  "version": "2.19.0",
+  "version": "2.20.0",
   "summary": "Python client library for the RapidPro API",
   "author": "Nyaruka",
   "license": "BSD-4-Clause",
   "home_page": null,
-  "download_filename": "rapidpro_python-2.19.0.tar.gz",
-  "download_time": "2025-10-08T20:52:00.673514",
+  "download_filename": "rapidpro_python-2.20.0.tar.gz",
+  "download_time": "2025-10-08T22:22:54.670209",
   "package_url": "https://pypi.org/project/rapidpro-python/"
 }

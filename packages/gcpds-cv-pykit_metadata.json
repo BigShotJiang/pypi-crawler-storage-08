@@ -1,11 +1,11 @@
 {
   "name": "gcpds-cv-pykit",
-  "version": "0.1.0.62",
+  "version": "0.1.0.63",
   "summary": "A comprehensive toolkit for computer vision and segmentation tasks",
   "author": "GCPDS Team",
   "license": "MIT",
   "home_page": "https://github.com/UN-GCPDS/gcpds-cv-pykit",
-  "download_filename": "gcpds-cv-pykit-0.1.0.62.tar.gz",
-  "download_time": "2025-10-08T04:53:57.531007",
+  "download_filename": "gcpds-cv-pykit-0.1.0.63.tar.gz",
+  "download_time": "2025-10-08T22:23:05.979637",
   "package_url": "https://pypi.org/project/gcpds-cv-pykit/"
 }
