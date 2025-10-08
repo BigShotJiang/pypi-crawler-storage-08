@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-community-maps",
+  "version": "16.0.2.0.7.1",
+  "summary": "Module to create and manage your map visualizations into a website",
+  "author": "Community Maps",
+  "license": null,
+  "home_page": "https://gitlab.com/somitcoop/erp-research/community-maps",
+  "download_filename": "odoo_addon_community_maps-16.0.2.0.7.1.tar.gz",
+  "download_time": "2025-10-08T09:53:15.992500",
+  "package_url": "https://pypi.org/project/odoo-addon-community-maps/"
+}

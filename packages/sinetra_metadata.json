@@ -1,0 +1,11 @@
+{
+  "name": "sinetra",
+  "version": "0.1.5",
+  "summary": "Generate synthetic data for biological particle tracking",
+  "author": "Raphael Reme",
+  "license": "MIT",
+  "home_page": "https://github.com/raphaelreme/sinetra",
+  "download_filename": "sinetra-0.1.5.tar.gz",
+  "download_time": "2025-10-08T09:53:00.397890",
+  "package_url": "https://pypi.org/project/sinetra/"
+}

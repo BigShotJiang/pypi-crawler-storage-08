@@ -1,0 +1,11 @@
+{
+  "name": "pytest-results",
+  "version": "0.5.0",
+  "summary": "Easily spot regressions in your tests.",
+  "author": "remimd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_results-0.5.0.tar.gz",
+  "download_time": "2025-10-08T09:52:35.867305",
+  "package_url": "https://pypi.org/project/pytest-results/"
+}

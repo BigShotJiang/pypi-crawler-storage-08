@@ -1,0 +1,11 @@
+{
+  "name": "mailcoil",
+  "version": "0.0.8",
+  "summary": "Effortless, featureful SMTP",
+  "author": "Johannes Bauer",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/johndoe31415/mailcoil",
+  "download_filename": "mailcoil-0.0.8.tar.gz",
+  "download_time": "2025-10-08T09:52:47.788226",
+  "package_url": "https://pypi.org/project/mailcoil/"
+}

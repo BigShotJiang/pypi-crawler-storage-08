@@ -1,0 +1,11 @@
+{
+  "name": "faster-eth-utils",
+  "version": "5.3.9",
+  "summary": "A fork of eth-utils: Common utility functions for python code that interacts with Ethereum, implemented in C",
+  "author": "The Ethereum Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/eth-utils",
+  "download_filename": "faster-eth-utils-5.3.9.tar.gz",
+  "download_time": "2025-10-08T09:52:53.631871",
+  "package_url": "https://pypi.org/project/faster-eth-utils/"
+}

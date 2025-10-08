@@ -1,11 +1,11 @@
 {
   "name": "django-htmx-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An assortment of Django mixins and middleware for working with HTMX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_htmx_tools-1.0.0.tar.gz",
-  "download_time": "2025-10-08T08:48:56.701741",
+  "download_filename": "django_htmx_tools-1.0.1.tar.gz",
+  "download_time": "2025-10-08T09:53:08.726325",
   "package_url": "https://pypi.org/project/django-htmx-tools/"
 }

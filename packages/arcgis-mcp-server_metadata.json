@@ -1,0 +1,11 @@
+{
+  "name": "arcgis-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP Server for ArcGIS Online/Enterprise search.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcgis_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-08T09:52:49.881671",
+  "package_url": "https://pypi.org/project/arcgis-mcp-server/"
+}

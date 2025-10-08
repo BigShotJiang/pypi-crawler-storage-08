@@ -1,11 +1,11 @@
 {
   "name": "telegram-calendar",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Telegram calendar builder library",
   "author": "S-i1-V",
   "license": null,
   "home_page": "https://github.com/SI1V/tg_calendar.git",
-  "download_filename": "telegram_calendar-0.3.0.tar.gz",
-  "download_time": "2025-10-07T14:44:25.867946",
+  "download_filename": "telegram_calendar-0.4.0-py3-none-any.whl",
+  "download_time": "2025-10-08T09:53:14.956045",
   "package_url": "https://pypi.org/project/telegram-calendar/"
 }

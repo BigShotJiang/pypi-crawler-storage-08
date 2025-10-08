@@ -1,0 +1,11 @@
+{
+  "name": "ul-data-logger-api-sdk",
+  "version": "2.0.6",
+  "summary": "Data logger API sdk",
+  "author": "Unic-lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ul-data-logger-api-sdk-2.0.6.tar.gz",
+  "download_time": "2025-10-08T09:53:02.466045",
+  "package_url": "https://pypi.org/project/ul-data-logger-api-sdk/"
+}

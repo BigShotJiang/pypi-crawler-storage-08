@@ -1,11 +1,11 @@
 {
   "name": "ideasearch-fit",
-  "version": "0.0.5",
+  "version": "0.0.5.1",
   "summary": "Extension of IdeaSearch for data fitting",
   "author": "parkcai",
   "license": null,
   "home_page": "https://github.com/IdeaSearch/IdeaSearch-fit",
-  "download_filename": "ideasearch_fit-0.0.5.tar.gz",
-  "download_time": "2025-10-08T08:27:48.956904",
+  "download_filename": "ideasearch_fit-0.0.5.1.tar.gz",
+  "download_time": "2025-10-08T09:53:14.434654",
   "package_url": "https://pypi.org/project/ideasearch-fit/"
 }

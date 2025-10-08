@@ -1,0 +1,11 @@
+{
+  "name": "ut-pac",
+  "version": "1.2.3.20251008",
+  "summary": "Utilities for Package Management",
+  "author": "Bernd Stroehle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ut_pac-1.2.3.20251008.tar.gz",
+  "download_time": "2025-10-08T09:52:31.012978",
+  "package_url": "https://pypi.org/project/ut-pac/"
+}

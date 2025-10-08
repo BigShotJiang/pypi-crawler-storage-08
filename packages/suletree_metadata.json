@@ -1,0 +1,11 @@
+{
+  "name": "suletree",
+  "version": "0.1.0",
+  "summary": "This package provides a function to print the structure (including classes and functions) of Python modules in a tree-like format.",
+  "author": "Süleyman Gölbol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suletree-0.1.0.tar.gz",
+  "download_time": "2025-10-08T09:52:44.666806",
+  "package_url": "https://pypi.org/project/suletree/"
+}

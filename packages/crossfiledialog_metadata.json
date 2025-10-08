@@ -1,0 +1,11 @@
+{
+  "name": "crossfiledialog",
+  "version": "1.1.0",
+  "summary": "A Python wrapper for opening files and folders with the native file dialog.",
+  "author": "Maikel Wever",
+  "license": null,
+  "home_page": "https://github.com/maikelwever/crossfiledialog/",
+  "download_filename": "crossfiledialog-1.1.0.tar.gz",
+  "download_time": "2025-10-08T09:53:07.172577",
+  "package_url": "https://pypi.org/project/crossfiledialog/"
+}

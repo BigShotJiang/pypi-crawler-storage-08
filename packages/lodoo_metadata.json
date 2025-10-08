@@ -1,0 +1,11 @@
+{
+  "name": "lodoo",
+  "version": "0.5.3",
+  "summary": "CLI to manage Local Odoo",
+  "author": "Dmytro Katyukha",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/katyukha/LOdoo",
+  "download_filename": "lodoo-0.5.3.tar.gz",
+  "download_time": "2025-10-08T09:52:39.992830",
+  "package_url": "https://pypi.org/project/lodoo/"
+}
