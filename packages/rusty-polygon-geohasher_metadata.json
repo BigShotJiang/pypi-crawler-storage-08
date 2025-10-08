@@ -1,0 +1,11 @@
+{
+  "name": "rusty-polygon-geohasher",
+  "version": "0.3.0",
+  "summary": null,
+  "author": "Francois Maillet <francois@locallogic.co>",
+  "license": "MIT",
+  "home_page": "https://github.com/nexmoov/rusty-polygon-geohasher",
+  "download_filename": "rusty_polygon_geohasher-0.3.0.tar.gz",
+  "download_time": "2025-10-08T01:25:00.647286",
+  "package_url": "https://pypi.org/project/rusty-polygon-geohasher/"
+}

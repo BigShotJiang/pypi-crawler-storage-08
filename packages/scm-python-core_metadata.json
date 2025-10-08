@@ -1,0 +1,11 @@
+{
+  "name": "scm-python-core",
+  "version": "1.2.1.dev0",
+  "summary": "An core plugin Python project to use cli manage it",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scm_python_core-1.2.1.dev0.tar.gz",
+  "download_time": "2025-10-08T01:24:54.923177",
+  "package_url": "https://pypi.org/project/scm-python-core/"
+}

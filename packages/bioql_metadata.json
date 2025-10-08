@@ -1,0 +1,11 @@
+{
+  "name": "bioql",
+  "version": "5.4.0",
+  "summary": "Enterprise Quantum Computing v5.4.0 - DE NOVO Drug Design: Automatic Molecule Generation, Pharmacophore-Based Assembly, Disease Templates (Obesity, Cancer, Diabetes), REAL AutoDock Vina Validation, IBM Torino 133q, Full QEC Control, Error Mitigation, OpenFermion Chemistry, Multi-Backend Support",
+  "author": "BioQL Development Team - SpectrixRD",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/bioql",
+  "download_filename": "bioql-5.4.0.tar.gz",
+  "download_time": "2025-10-08T01:25:05.036390",
+  "package_url": "https://pypi.org/project/bioql/"
+}

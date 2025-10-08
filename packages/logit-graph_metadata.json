@@ -1,0 +1,11 @@
+{
+  "name": "logit-graph",
+  "version": "0.1.1",
+  "summary": "Probabilistic logit-based graph model and utilities",
+  "author": "Maruan Ottoni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logit_graph-0.1.1.tar.gz",
+  "download_time": "2025-10-08T01:25:12.723308",
+  "package_url": "https://pypi.org/project/logit-graph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mbo-fpl",
+  "version": "0.5.1",
+  "summary": "Next-gen fast plotting library running on WGPU using the Pygfx rendering engine ",
+  "author": "Kushal Kolar, Caitlin Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbo_fpl-0.5.1.tar.gz",
+  "download_time": "2025-10-08T01:25:03.937192",
+  "package_url": "https://pypi.org/project/mbo-fpl/"
+}
