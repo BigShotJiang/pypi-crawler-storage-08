@@ -1,0 +1,11 @@
+{
+  "name": "agoralib",
+  "version": "0.1.2",
+  "summary": "A lightweight library for bounding box processing, filtering using predefined scenarii.",
+  "author": "Jean-Yves Ramel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agoralib-0.1.2.tar.gz",
+  "download_time": "2025-10-08T10:43:19.568353",
+  "package_url": "https://pypi.org/project/agoralib/"
+}

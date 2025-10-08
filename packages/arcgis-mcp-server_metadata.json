@@ -1,11 +1,11 @@
 {
   "name": "arcgis-mcp-server",
-  "version": "1.0.0",
-  "summary": "MCP Server for ArcGIS Online/Enterprise search.",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "Intelligent ArcGIS content search. Works with Online/Enterprise.",
+  "author": "Esri Saudi Arabia",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "arcgis_mcp_server-1.0.0.tar.gz",
-  "download_time": "2025-10-08T09:52:49.881671",
+  "home_page": "https://github.com/esrisaudiarabia/esrisaudiarabia-mcp",
+  "download_filename": "arcgis_mcp_server-1.0.1.tar.gz",
+  "download_time": "2025-10-08T10:43:32.740364",
   "package_url": "https://pypi.org/project/arcgis-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ConstellationDAQ",
+  "version": "0.6.1",
+  "summary": "The Autonomous Control and Data Acquisition System for Dynamic Experimental Setups",
+  "author": "Constellation Authors",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "constellationdaq-0.6.1.tar.gz",
+  "download_time": "2025-10-08T10:43:25.291370",
+  "package_url": "https://pypi.org/project/ConstellationDAQ/"
+}

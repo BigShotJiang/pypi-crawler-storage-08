@@ -1,11 +1,11 @@
 {
   "name": "machineconfig",
-  "version": "5.48",
+  "version": "5.51",
   "summary": "Dotfiles management package",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "machineconfig-5.48.tar.gz",
-  "download_time": "2025-10-08T09:52:48.310231",
+  "download_filename": "machineconfig-5.51.tar.gz",
+  "download_time": "2025-10-08T10:43:27.360361",
   "package_url": "https://pypi.org/project/machineconfig/"
 }

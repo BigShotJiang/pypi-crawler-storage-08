@@ -1,20 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T10:21:26.341279
-- **Total Packages**: 81
-- **Total Size**: 28.19 MB
+- **Download Time**: 2025-10-08T10:44:01.381035
+- **Total Packages**: 79
+- **Total Size**: 47.95 MB
 
 ## Packages List
-- virus-py
+- chanty
+- agoralib
+- acacia-s2s-toolkit
+- cytoplay
+- n8nControl
+- archipy
+- kitconcept.core
+- inmydata
+- raystack-proton
+- MinimalLLMAgent
+- wmill-pg
+- wmill
+- ConstellationDAQ
+- windmill-api
+- segmentation-forests
+- cites-model
+- machineconfig
+- ai-edge-torch-nightly
+- hummingbot-quang
+- apmtools
+- authentik-client
+- xrobot
+- nucliadb-admin-assets
+- writer
+- ciel
+- scc-firewall-manager-sdk
+- arcgis-mcp-server
+- sphinx-launch-buttons
+- reflex-confetti-component
+- gftools
+- xloft
+- text2story
+- django-telegram-framework
+- omada-client
+- ez-ip-updater
+- rucio-jupyterlab
+- mito-utils
+- pyExoyOne
+- glassesTools
+- modusa
+- datfid
+- icotest
+- zamp-public-workflow-sdk
 - jaf-py
 - talks-reducer
 - qwak-core
-- omada-client
 - powerfit-em
 - agently
 - SFlock2
-- apmtools
 - strava-activity-mcp-server
 - anothertestproject
 - rl-language
@@ -40,50 +80,8 @@
 - e6data-python-connector
 - infino-sdk
 - canonicalwebteam.flask-base
-- n8nControl
-- authentik-client
 - io-scene-3ds
 - Parsegument
 - nvidia-nat-llama-index
 - arcticdb
 - nvidia-nat-s3
-- acacia-s2s-toolkit
-- nvidia-nat
-- nvidia-nat-all
-- nvidia-nat-weave
-- fairml-datasets
-- nvidia-nat-adk
-- nvidia-nat-mem0ai
-- nvidia-nat-zep-cloud
-- nvidia-nat-mcp
-- pawlib
-- nvidia-nat-phoenix
-- nvidia-nat-redis
-- nvidia-nat-crewai
-- kagurazaka
-- nvidia-nat-ingestion
-- nvidia-nat-test
-- connectonion
-- nvidia-nat-mysql
-- tbp-nightly
-- aipscan
-- nvidia-nat-semantic-kernel
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- nvidia-nat-ragaai
-- matrices-evolved
-- nvidia-nat-profiling
-- aioqzone
-- iatikit
-- nvidia-nat-data-flywheel
-- mvcrender
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-weave
-- tips-tricks
-- aiqtoolkit-mem0ai
-- aiqtoolkit-test
-- aiqtoolkit-llama-index
-- gladiaio-sdk
-- aiqtoolkit
-- aiqtoolkit-langchain
