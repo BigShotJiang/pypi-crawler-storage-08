@@ -1,11 +1,11 @@
 {
   "name": "pycord-localizer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Comprehensive internationalization (i18n) for Pycord.",
   "author": "ParrotXray",
   "license": "MIT",
   "home_page": "https://github.com/ParrotXray/pycord-localizer",
-  "download_filename": "pycord_localizer-0.1.0.tar.gz",
-  "download_time": "2025-10-08T01:24:55.466313",
+  "download_filename": "pycord_localizer-0.1.1.tar.gz",
+  "download_time": "2025-10-08T03:21:20.219881",
   "package_url": "https://pypi.org/project/pycord-localizer/"
 }

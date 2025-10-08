@@ -1,0 +1,11 @@
+{
+  "name": "mdod",
+  "version": "3.0.0",
+  "summary": "MDOD, Multi-Dimensional data Outlier Detection",
+  "author": "Z Shen",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/mddod/mdod",
+  "download_filename": "mdod-3.0.0.tar.gz",
+  "download_time": "2025-10-08T03:21:41.700134",
+  "package_url": "https://pypi.org/project/mdod/"
+}

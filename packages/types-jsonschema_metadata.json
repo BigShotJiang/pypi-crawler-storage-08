@@ -1,0 +1,11 @@
+{
+  "name": "types-jsonschema",
+  "version": "4.25.1.20251008",
+  "summary": "Typing stubs for jsonschema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_jsonschema-4.25.1.20251008.tar.gz",
+  "download_time": "2025-10-08T03:21:36.486776",
+  "package_url": "https://pypi.org/project/types-jsonschema/"
+}
