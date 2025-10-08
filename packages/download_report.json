@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-10-08T04:54:36.496246",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 4.22,
+  "download_time": "2025-10-08T05:19:49.909506",
+  "total_packages_downloaded": 70,
+  "total_size_mb": 0.6,
   "packages": [
+    "multiagent-core",
+    "bluer-ugv",
+    "claude-workshop",
+    "si4onnx",
     "zap-cdk",
     "suma-ulsa",
     "pipeline-eds",
@@ -15,7 +19,6 @@
     "relace",
     "ch-srtgen",
     "sumologic-mcp-python",
-    "multiagent-core",
     "iamdata",
     "terrakio-admin-api-beta",
     "terrakio-api-beta",
@@ -41,7 +44,6 @@
     "tp-requests",
     "kivera-sdk",
     "pyvfg",
-    "claude-workshop",
     "serper-toolkit",
     "hca-smart-sync",
     "files-com-mcp",
@@ -70,10 +72,6 @@
     "omniopt2",
     "odoo-addon-endpoint-route-handler",
     "crudadmin",
-    "camels-attrs",
-    "otlmow-model",
-    "agnt5",
-    "maimai-py",
-    "dsslab-wdc-client"
+    "camels-attrs"
   ]
 }

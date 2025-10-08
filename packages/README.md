@@ -1,11 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T04:54:36.496246
-- **Total Packages**: 72
-- **Total Size**: 4.22 MB
+- **Download Time**: 2025-10-08T05:19:49.909506
+- **Total Packages**: 70
+- **Total Size**: 0.6 MB
 
 ## Packages List
+- multiagent-core
+- bluer-ugv
+- claude-workshop
+- si4onnx
 - zap-cdk
 - suma-ulsa
 - pipeline-eds
@@ -18,7 +22,6 @@
 - relace
 - ch-srtgen
 - sumologic-mcp-python
-- multiagent-core
 - iamdata
 - terrakio-admin-api-beta
 - terrakio-api-beta
@@ -44,7 +47,6 @@
 - tp-requests
 - kivera-sdk
 - pyvfg
-- claude-workshop
 - serper-toolkit
 - hca-smart-sync
 - files-com-mcp
@@ -74,7 +76,3 @@
 - odoo-addon-endpoint-route-handler
 - crudadmin
 - camels-attrs
-- otlmow-model
-- agnt5
-- maimai-py
-- dsslab-wdc-client
