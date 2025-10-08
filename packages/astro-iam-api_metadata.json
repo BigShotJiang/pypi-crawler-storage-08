@@ -1,11 +1,11 @@
 {
   "name": "astro-iam-api",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A client library for accessing Astro Identity and Access Management (IAM) API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astro_iam_api-1.1.0.tar.gz",
-  "download_time": "2025-10-08T21:52:10.306626",
+  "download_filename": "astro_iam_api-1.1.1.tar.gz",
+  "download_time": "2025-10-08T22:40:51.578953",
   "package_url": "https://pypi.org/project/astro-iam-api/"
 }
