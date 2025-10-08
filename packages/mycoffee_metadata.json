@@ -1,0 +1,11 @@
+{
+  "name": "mycoffee",
+  "version": "2.1",
+  "summary": "Brew Perfect Coffee Right from Your Terminal",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/mycoffee",
+  "download_filename": "mycoffee-2.1.tar.gz",
+  "download_time": "2025-10-08T07:51:34.410339",
+  "package_url": "https://pypi.org/project/mycoffee/"
+}

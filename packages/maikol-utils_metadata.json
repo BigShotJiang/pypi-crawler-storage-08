@@ -1,11 +1,11 @@
 {
   "name": "maikol-utils",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "Python module with some utils for every day code that I've seen usefull lately while working. Print, print colors, print warnings, print errors, save files, load files, clear bash",
   "author": "Miquel Gómez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maikol_utils-0.7.1.tar.gz",
-  "download_time": "2025-10-07T10:53:43.765066",
+  "download_filename": "maikol_utils-0.8.0.tar.gz",
+  "download_time": "2025-10-08T07:51:35.448413",
   "package_url": "https://pypi.org/project/maikol-utils/"
 }

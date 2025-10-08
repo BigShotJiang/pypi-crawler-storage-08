@@ -1,0 +1,11 @@
+{
+  "name": "django-removals",
+  "version": "1.1.0",
+  "summary": "Tool for finding removed features in your Django project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_removals-1.1.0.tar.gz",
+  "download_time": "2025-10-08T07:51:33.372074",
+  "package_url": "https://pypi.org/project/django-removals/"
+}
