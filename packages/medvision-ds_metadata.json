@@ -1,0 +1,11 @@
+{
+  "name": "medvision-ds",
+  "version": "1.0.0",
+  "summary": "medvision_ds: a codebase for the MedVision dataset",
+  "author": null,
+  "license": "CC-BY-NC 4.0",
+  "home_page": null,
+  "download_filename": "medvision_ds-1.0.0.tar.gz",
+  "download_time": "2025-10-08T14:45:48.832448",
+  "package_url": "https://pypi.org/project/medvision-ds/"
+}

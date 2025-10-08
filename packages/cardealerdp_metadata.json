@@ -1,11 +1,11 @@
 {
   "name": "cardealerdp",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Cardealer DP (Car Dealer Data Package) is a data exchange format that helps car dealerships share their car listings. It is developed on top of the Data Package standard",
   "author": "Evgeny Karev",
   "license": null,
   "home_page": null,
-  "download_filename": "cardealerdp-0.2.6.tar.gz",
-  "download_time": "2025-10-08T08:49:07.371513",
+  "download_filename": "cardealerdp-0.2.7.tar.gz",
+  "download_time": "2025-10-08T14:45:55.055006",
   "package_url": "https://pypi.org/project/cardealerdp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xbps",
+  "version": "0.0.1",
+  "summary": "utilities and tools for working with xbps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xbps-0.0.1.tar.gz",
+  "download_time": "2025-10-08T14:45:46.108092",
+  "package_url": "https://pypi.org/project/xbps/"
+}

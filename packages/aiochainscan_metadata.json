@@ -1,0 +1,11 @@
+{
+  "name": "aiochainscan",
+  "version": "0.2.1",
+  "summary": "Chainscan API async Python wrapper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiochainscan-0.2.1.tar.gz",
+  "download_time": "2025-10-08T14:45:58.891243",
+  "package_url": "https://pypi.org/project/aiochainscan/"
+}

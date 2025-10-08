@@ -1,0 +1,11 @@
+{
+  "name": "pyroll-basic",
+  "version": "3.1.0",
+  "summary": "A meta package for installing quickly the PyRolL core and a set of basic plugins and extensions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyroll_basic-3.1.0.tar.gz",
+  "download_time": "2025-10-08T14:45:39.610179",
+  "package_url": "https://pypi.org/project/pyroll-basic/"
+}

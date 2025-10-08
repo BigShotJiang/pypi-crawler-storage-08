@@ -1,0 +1,11 @@
+{
+  "name": "pollination-custom-energy-sim",
+  "version": "0.3.24",
+  "summary": "Run an energy simulation with custom Simulation Parameters.",
+  "author": "ladybug-tools",
+  "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
+  "home_page": "https://github.com/pollination/custom-energy-sim",
+  "download_filename": "pollination_custom_energy_sim-0.3.24.tar.gz",
+  "download_time": "2025-10-08T14:46:13.972250",
+  "package_url": "https://pypi.org/project/pollination-custom-energy-sim/"
+}

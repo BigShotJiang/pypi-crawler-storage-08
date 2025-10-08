@@ -1,0 +1,11 @@
+{
+  "name": "wematics",
+  "version": "0.3.0",
+  "summary": "A client library for Wematics sky cameras",
+  "author": "Wematics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wematics-0.3.0.tar.gz",
+  "download_time": "2025-10-08T14:45:59.423271",
+  "package_url": "https://pypi.org/project/wematics/"
+}
