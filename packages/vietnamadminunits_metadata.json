@@ -1,0 +1,11 @@
+{
+  "name": "vietnamadminunits",
+  "version": "1.0.4",
+  "summary": "Library of standardization and conversion of Vietnamese administrative units",
+  "author": "Hieu Tran",
+  "license": null,
+  "home_page": "https://github.com/tranngocminhhieu/vietnamadminunits",
+  "download_filename": "vietnamadminunits-1.0.4-py3-none-any.whl",
+  "download_time": "2025-10-08T15:42:45.462624",
+  "package_url": "https://pypi.org/project/vietnamadminunits/"
+}

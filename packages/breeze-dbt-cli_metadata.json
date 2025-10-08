@@ -1,11 +1,11 @@
 {
   "name": "breeze-dbt-cli",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A CLI tool to streamline dbt project development.",
   "author": "Alejandro Cabrera",
   "license": null,
   "home_page": "https://github.com/alecab94/breeze-dbt-cli",
-  "download_filename": "breeze_dbt_cli-0.5.0.tar.gz",
-  "download_time": "2025-10-08T15:21:56.535180",
+  "download_filename": "breeze_dbt_cli-0.5.1.tar.gz",
+  "download_time": "2025-10-08T15:43:00.239426",
   "package_url": "https://pypi.org/project/breeze-dbt-cli/"
 }

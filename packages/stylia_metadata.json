@@ -1,0 +1,11 @@
+{
+  "name": "stylia",
+  "version": "0.0.2",
+  "summary": "Acceptable figure styles for scientific publications",
+  "author": "Miquel Duran-Frigola",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stylia-0.0.2.tar.gz",
+  "download_time": "2025-10-08T15:42:53.438925",
+  "package_url": "https://pypi.org/project/stylia/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sqlglot",
-  "version": "27.22.1",
+  "version": "27.24.2",
   "summary": "An easily customizable SQL parser and transpiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlglot-27.22.1.tar.gz",
-  "download_time": "2025-10-08T13:19:18.820527",
+  "download_filename": "sqlglot-27.24.2.tar.gz",
+  "download_time": "2025-10-08T15:43:01.336282",
   "package_url": "https://pypi.org/project/sqlglot/"
 }

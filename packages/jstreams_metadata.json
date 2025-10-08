@@ -1,0 +1,11 @@
+{
+  "name": "jstreams",
+  "version": "2025.10.1",
+  "summary": "A package providing streams and optional functionality similar to Java streams and optionals, a vavr.io Try minimal implementation, threading utilities such as JavaScript-like setTimer and setInterval,1 as well as a basic implementation of ReactiveX and a dependency injection framework.",
+  "author": "Cristian Trohin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jstreams-2025.10.1.tar.gz",
+  "download_time": "2025-10-08T15:42:58.144376",
+  "package_url": "https://pypi.org/project/jstreams/"
+}

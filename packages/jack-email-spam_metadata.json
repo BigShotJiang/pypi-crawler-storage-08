@@ -1,0 +1,11 @@
+{
+  "name": "jack-email-spam",
+  "version": "0.1.0",
+  "summary": "Email automation/testing utilities (educational / legitimate use only).",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/jack-email-spam",
+  "download_filename": "jack_email_spam-0.1.0.tar.gz",
+  "download_time": "2025-10-08T15:42:41.249755",
+  "package_url": "https://pypi.org/project/jack-email-spam/"
+}

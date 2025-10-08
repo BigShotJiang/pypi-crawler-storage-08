@@ -1,0 +1,11 @@
+{
+  "name": "quantstratforge",
+  "version": "0.2.0",
+  "summary": "Privacy-preserving agentic SLM for quant strategy forging",
+  "author": "Venkata Vikhyat Choppa",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vikkychoppa/quantstratforge",
+  "download_filename": "quantstratforge-0.2.0.tar.gz",
+  "download_time": "2025-10-08T15:42:47.561839",
+  "package_url": "https://pypi.org/project/quantstratforge/"
+}

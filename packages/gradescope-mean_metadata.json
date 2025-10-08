@@ -1,0 +1,11 @@
+{
+  "name": "gradescope-mean",
+  "version": "0.0.17",
+  "summary": "Utility to average gradescope csv output to final grades",
+  "author": "Matt Higger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradescope_mean-0.0.17.tar.gz",
+  "download_time": "2025-10-08T15:42:46.521512",
+  "package_url": "https://pypi.org/project/gradescope-mean/"
+}

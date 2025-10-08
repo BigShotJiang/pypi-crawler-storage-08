@@ -1,11 +1,11 @@
 {
   "name": "terminal-colorize",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A comprehensive library for colored terminal output, progress bars, tables, and shapes using ANSI escape codes",
-  "author": "Mmohamed Sajith",
-  "license": "MIT",
+  "author": "Mohamed Sajith",
+  "license": null,
   "home_page": "https://github.com/mmssajith/colorterm",
-  "download_filename": "terminal_colorize-2.0.1.tar.gz",
-  "download_time": "2025-10-08T09:53:00.915701",
+  "download_filename": "terminal_colorize-2.0.2.tar.gz",
+  "download_time": "2025-10-08T15:43:00.760821",
   "package_url": "https://pypi.org/project/terminal-colorize/"
 }

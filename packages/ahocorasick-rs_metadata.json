@@ -1,11 +1,11 @@
 {
   "name": "ahocorasick-rs",
-  "version": "1.0.2",
-  "summary": null,
+  "version": "1.0.3",
+  "summary": "Search for multiple substrings at the same time, and quickly too",
   "author": null,
   "license": "Apache 2.0",
   "home_page": "https://github.com/G-Research/ahocorasick_rs",
-  "download_filename": "ahocorasick_rs-1.0.2.tar.gz",
-  "download_time": "2025-10-08T15:21:54.301804",
+  "download_filename": "ahocorasick_rs-1.0.3.tar.gz",
+  "download_time": "2025-10-08T15:42:34.251673",
   "package_url": "https://pypi.org/project/ahocorasick-rs/"
 }

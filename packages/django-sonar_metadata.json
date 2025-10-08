@@ -1,0 +1,11 @@
+{
+  "name": "django-sonar",
+  "version": "0.3.0",
+  "summary": "The missing debug tool for Django, inspired by Telescope.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_sonar-0.3.0.tar.gz",
+  "download_time": "2025-10-08T15:42:30.031206",
+  "package_url": "https://pypi.org/project/django-sonar/"
+}

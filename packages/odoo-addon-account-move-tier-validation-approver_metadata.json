@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-tier-validation-approver",
+  "version": "18.0.1.0.0.3",
+  "summary": "Account Move Tier Validation Approver",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_move_tier_validation_approver-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-08T15:42:37.598592",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-tier-validation-approver/"
+}
