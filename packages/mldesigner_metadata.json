@@ -1,0 +1,11 @@
+{
+  "name": "mldesigner",
+  "version": "0.1.0b21",
+  "summary": "Azure Machine Learning Designer SDK",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azureml-examples/tree/sdk-preview/sdk/jobs/pipelines",
+  "download_filename": "mldesigner-0.1.0b21-py3-none-any.whl",
+  "download_time": "2025-10-08T09:22:12.311237",
+  "package_url": "https://pypi.org/project/mldesigner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tartex",
+  "version": "0.11.0",
+  "summary": "Tar all files needed to re-compile your LaTeX project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tartex-0.11.0.tar.gz",
+  "download_time": "2025-10-08T09:22:12.852170",
+  "package_url": "https://pypi.org/project/tartex/"
+}

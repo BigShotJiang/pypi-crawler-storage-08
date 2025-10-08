@@ -1,0 +1,11 @@
+{
+  "name": "terminotes",
+  "version": "0.6.2",
+  "summary": "Terminal-first notes CLI with SQLite storage and git sync.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminotes-0.6.2.tar.gz",
+  "download_time": "2025-10-08T09:22:00.040805",
+  "package_url": "https://pypi.org/project/terminotes/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lokesh-text-utils",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Simple text processing utilities",
   "author": "Lokesh Soni",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "lokesh_text_utils-0.3.0.tar.gz",
-  "download_time": "2025-10-08T08:49:17.011829",
+  "download_filename": "lokesh_text_utils-0.4.0.tar.gz",
+  "download_time": "2025-10-08T09:22:02.758009",
   "package_url": "https://pypi.org/project/lokesh-text-utils/"
 }

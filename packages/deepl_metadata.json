@@ -1,0 +1,11 @@
+{
+  "name": "deepl",
+  "version": "1.23.0",
+  "summary": "Python library for the DeepL API.",
+  "author": "DeepL SE",
+  "license": "MIT",
+  "home_page": "https://github.com/DeepLcom/deepl-python",
+  "download_filename": "deepl-1.23.0.tar.gz",
+  "download_time": "2025-10-08T09:21:49.752040",
+  "package_url": "https://pypi.org/project/deepl/"
+}

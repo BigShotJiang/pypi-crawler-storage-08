@@ -1,0 +1,11 @@
+{
+  "name": "kubewhisper",
+  "version": "2.0.0",
+  "summary": "KubeWhisper - Generate kubectl commands from natural language queries",
+  "author": "Branko Petric",
+  "license": null,
+  "home_page": "https://github.com/petricbranko/kubewhisper",
+  "download_filename": "kubewhisper-2.0.0.tar.gz",
+  "download_time": "2025-10-08T09:22:13.373660",
+  "package_url": "https://pypi.org/project/kubewhisper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "regex-vault",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A general-purpose engine that detects and masks personal information by country and information type",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "regex_vault-0.1.0.tar.gz",
-  "download_time": "2025-10-07T16:46:08.679911",
+  "download_filename": "regex_vault-0.1.1.tar.gz",
+  "download_time": "2025-10-08T09:22:14.943570",
   "package_url": "https://pypi.org/project/regex-vault/"
 }

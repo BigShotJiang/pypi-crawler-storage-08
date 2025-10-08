@@ -1,11 +1,11 @@
 {
   "name": "idds-doma",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "summary": "intelligent Data Delivery Service(iDDS) Package",
   "author": "IRIS-HEP Team",
   "license": "GPL",
   "home_page": null,
-  "download_filename": "idds_doma-2.3.3.tar.gz",
-  "download_time": "2025-10-07T15:21:14.180805",
+  "download_filename": "idds_doma-2.3.4.tar.gz",
+  "download_time": "2025-10-08T09:21:56.071690",
   "package_url": "https://pypi.org/project/idds-doma/"
 }

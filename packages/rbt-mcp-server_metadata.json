@@ -1,0 +1,11 @@
+{
+  "name": "rbt-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP Server for editing RBT documents with partial operations. Reduces token consumption by 80-95%.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rbt_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-10-08T09:21:29.141012",
+  "package_url": "https://pypi.org/project/rbt-mcp-server/"
+}
