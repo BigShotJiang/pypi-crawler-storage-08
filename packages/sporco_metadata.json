@@ -1,0 +1,11 @@
+{
+  "name": "sporco",
+  "version": "0.2.2",
+  "summary": "Sparse Optimisation Research Code: A Python package for sparse coding and dictionary learning",
+  "author": "Brendt Wohlberg",
+  "license": "BSD",
+  "home_page": "https://github.com/bwohlberg/sporco",
+  "download_filename": "sporco-0.2.2.tar.gz",
+  "download_time": "2025-10-08T23:17:38.772324",
+  "package_url": "https://pypi.org/project/sporco/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unicode-raw-input",
+  "version": "0.1.0a0",
+  "summary": "A cross-platform Unicode-aware replacement for Python's `raw_input()` (Python 2) and `input()` (Python 3) that handles Unicode text consistently across Python versions and operating systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unicode_raw_input-0.1.0a0.tar.gz",
+  "download_time": "2025-10-08T23:17:42.972606",
+  "package_url": "https://pypi.org/project/unicode-raw-input/"
+}

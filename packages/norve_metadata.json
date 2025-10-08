@@ -1,11 +1,11 @@
 {
   "name": "norve",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Multi-Source Data Processing Language",
   "author": "LoXewyX",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "norve-0.2.1.tar.gz",
-  "download_time": "2025-10-08T22:23:30.140063",
+  "download_filename": "norve-0.2.2.tar.gz",
+  "download_time": "2025-10-08T23:17:39.851553",
   "package_url": "https://pypi.org/project/norve/"
 }

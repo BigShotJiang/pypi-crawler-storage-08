@@ -1,0 +1,11 @@
+{
+  "name": "datasette-os-info",
+  "version": "0.1",
+  "summary": "Provide information about the current OS at /-/os",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_os_info-0.1.tar.gz",
+  "download_time": "2025-10-08T23:18:03.546133",
+  "package_url": "https://pypi.org/project/datasette-os-info/"
+}

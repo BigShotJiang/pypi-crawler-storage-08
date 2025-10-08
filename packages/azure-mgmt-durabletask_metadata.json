@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-durabletask",
+  "version": "1.0.0",
+  "summary": "Microsoft Azure Durabletask Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_durabletask-1.0.0.tar.gz",
+  "download_time": "2025-10-08T23:17:54.970257",
+  "package_url": "https://pypi.org/project/azure-mgmt-durabletask/"
+}
