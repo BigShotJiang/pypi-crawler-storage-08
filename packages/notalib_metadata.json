@@ -1,0 +1,11 @@
+{
+  "name": "notalib",
+  "version": "2.6.0",
+  "summary": "A collection of utility functions & classes",
+  "author": "m1kc (Max Musatov)",
+  "license": "MIT",
+  "home_page": "https://github.com/m1kc/notalib",
+  "download_filename": "notalib-2.6.0.tar.gz",
+  "download_time": "2025-10-08T07:19:41.677636",
+  "package_url": "https://pypi.org/project/notalib/"
+}

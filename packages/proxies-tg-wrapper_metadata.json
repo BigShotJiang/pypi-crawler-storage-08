@@ -1,0 +1,11 @@
+{
+  "name": "proxies-tg-wrapper",
+  "version": "1.0.7",
+  "summary": "A package designed to facilitate interaction with the Telegram API, specifically for managing MTProto proxies.",
+  "author": "Ilia Abolhasani",
+  "license": null,
+  "home_page": "https://github.com/Ilia-Abolhasani/proxies-tg-wrapper",
+  "download_filename": "proxies_tg_wrapper-1.0.7.tar.gz",
+  "download_time": "2025-10-08T07:19:12.248414",
+  "package_url": "https://pypi.org/project/proxies-tg-wrapper/"
+}
