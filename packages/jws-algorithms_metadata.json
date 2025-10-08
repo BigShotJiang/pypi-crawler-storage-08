@@ -1,0 +1,11 @@
+{
+  "name": "jws-algorithms",
+  "version": "1.2.2",
+  "summary": "Implements the most common JWT algorithms to generate keys or sign and verify payloads without the requirement to first read a lot of documentation just to do the signing and verifying part.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jws_algorithms-1.2.2.tar.gz",
+  "download_time": "2025-10-08T20:41:27.925858",
+  "package_url": "https://pypi.org/project/jws-algorithms/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "maleo-schemas",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Schemas package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_schemas-0.1.4.tar.gz",
-  "download_time": "2025-10-08T19:40:33.393677",
+  "download_filename": "maleo_schemas-0.1.6.tar.gz",
+  "download_time": "2025-10-08T20:41:59.181361",
   "package_url": "https://pypi.org/project/maleo-schemas/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "faraday-agent-dispatcher",
+  "version": "3.9.0",
+  "summary": "Faraday agent dispatcher to communicate an agent to faraday",
+  "author": "Faraday Development Team",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/infobyte/faraday_agent_dispatcher",
+  "download_filename": "faraday_agent_dispatcher-3.9.0.tar.gz",
+  "download_time": "2025-10-08T20:41:12.555058",
+  "package_url": "https://pypi.org/project/faraday-agent-dispatcher/"
+}

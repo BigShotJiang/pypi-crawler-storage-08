@@ -1,0 +1,11 @@
+{
+  "name": "opentrons-http-api-client",
+  "version": "0.2.1",
+  "summary": "A Python library for interacting with the Opentrons HTTP API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/rickwierenga/opentrons-python-api.git",
+  "download_filename": "opentrons_http_api_client-0.2.1.tar.gz",
+  "download_time": "2025-10-08T20:41:19.485970",
+  "package_url": "https://pypi.org/project/opentrons-http-api-client/"
+}

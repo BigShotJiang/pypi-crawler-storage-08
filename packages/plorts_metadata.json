@@ -1,0 +1,11 @@
+{
+  "name": "plorts",
+  "version": "0.7.9",
+  "summary": "Graphing wrapper around matplotlib",
+  "author": "Bruce Spang",
+  "license": "MIT",
+  "home_page": "https://github.com/brucespang/plorts",
+  "download_filename": "plorts-0.7.9.tar.gz",
+  "download_time": "2025-10-08T20:41:33.147682",
+  "package_url": "https://pypi.org/project/plorts/"
+}

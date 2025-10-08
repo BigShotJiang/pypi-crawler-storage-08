@@ -1,11 +1,11 @@
 {
   "name": "amauo",
-  "version": "3.0.23",
+  "version": "3.0.25",
   "summary": "Deploy Bacalhau compute nodes globally using AWS spot instances for cost-effective distributed computing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amauo-3.0.23.tar.gz",
-  "download_time": "2025-10-07T23:17:42.303245",
+  "download_filename": "amauo-3.0.25.tar.gz",
+  "download_time": "2025-10-08T20:41:24.791326",
   "package_url": "https://pypi.org/project/amauo/"
 }

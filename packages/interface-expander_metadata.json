@@ -1,0 +1,11 @@
+{
+  "name": "interface-expander",
+  "version": "1.0.4",
+  "summary": "A Python library for controlling the Interface Expander device",
+  "author": null,
+  "license": "# LICENSE\n        \n        ### Copyright Notice\n        Copyright © [2024] [AlmCoding]  \n        All rights reserved.  \n        \n        This project is proprietary. Unauthorized copying, distribution, or modification of any part of this project is strictly prohibited without prior written consent from the copyright owner.\n        \n        ---\n        \n        ### Third-Party Libraries\n        This project uses the following third-party libraries and tools. Their respective licenses and conditions apply to their use:\n        \n        \n        1. **Nanopb**  \n           - License: MIT  \n           - Copyright © 2011-2023 by Petteri Aimonen and contributors.  \n           - GitHub: [Nanopb on GitHub](https://github.com/nanopb/nanopb)\n        \n        2. **PonyFrame**\n           - License: MPL-2.0\n           - Copyright © 2015-2023 by MightyPork.\n           - Details: [PonyFrame on GitHub](https://github.com/MightyPork/PonyFrame)\n        \n        3. **PySerial**\n           - License: Python Software Foundation (PSF) License\n           - Copyright © 2001-2024 by Chris Liechti and contributors.\n           - Details: [PonyFrame on GitHub](https://github.com/pyserial/pyserial)\n        \n        ---\n        \n        ### License Terms for Third-Party Components\n        The inclusion of the third-party libraries listed above does not grant any additional rights to use them beyond their respective license terms.  \n        Ensure compliance with their licenses when using or distributing components based on this project.\n        ",
+  "home_page": null,
+  "download_filename": "interface_expander-1.0.4.tar.gz",
+  "download_time": "2025-10-08T20:41:43.279410",
+  "package_url": "https://pypi.org/project/interface-expander/"
+}

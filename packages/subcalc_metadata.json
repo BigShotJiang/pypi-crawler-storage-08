@@ -1,0 +1,11 @@
+{
+  "name": "subcalc",
+  "version": "0.1.0",
+  "summary": "A network subnet calculator",
+  "author": "Craig",
+  "license": "MIT",
+  "home_page": "https://github.com/ceaveson/subcalc",
+  "download_filename": "subcalc-0.1.0.tar.gz",
+  "download_time": "2025-10-08T20:41:43.797196",
+  "package_url": "https://pypi.org/project/subcalc/"
+}

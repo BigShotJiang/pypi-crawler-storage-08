@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-contexts",
+  "version": "0.3.0",
+  "summary": "Contexts for Django Admin homepage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_contexts-0.3.0.tar.gz",
+  "download_time": "2025-10-08T20:41:52.882165",
+  "package_url": "https://pypi.org/project/django-admin-contexts/"
+}
