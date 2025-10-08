@@ -1,0 +1,11 @@
+{
+  "name": "escnn-atompaint",
+  "version": "1.1.0",
+  "summary": "E(n)-Equivariant CNNs Library for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "escnn_atompaint-1.1.0.tar.gz",
+  "download_time": "2025-10-08T15:53:53.954647",
+  "package_url": "https://pypi.org/project/escnn-atompaint/"
+}

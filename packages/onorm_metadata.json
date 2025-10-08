@@ -1,0 +1,11 @@
+{
+  "name": "onorm",
+  "version": "0.3.0",
+  "summary": "A library for normalizing streams of incoming data, particularly focused on improving sequential experimentation.",
+  "author": "Drew Dimmery",
+  "license": "Apache-2.0",
+  "home_page": "https://passexp.github.io/onorm/",
+  "download_filename": "onorm-0.3.0.tar.gz",
+  "download_time": "2025-10-08T15:54:01.945016",
+  "package_url": "https://pypi.org/project/onorm/"
+}

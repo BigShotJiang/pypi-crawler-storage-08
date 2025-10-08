@@ -1,0 +1,11 @@
+{
+  "name": "sdkwa-whatsapp-chatbot",
+  "version": "1.0.4",
+  "summary": "WhatsApp Chatbot library for Python based on SDKWA API with Telegraf-like interface",
+  "author": "SDKWA Community",
+  "license": "MIT",
+  "home_page": "https://github.com/sdkwa/whatsapp-chatbot-python",
+  "download_filename": "sdkwa_whatsapp_chatbot-1.0.4.tar.gz",
+  "download_time": "2025-10-08T15:53:51.243462",
+  "package_url": "https://pypi.org/project/sdkwa-whatsapp-chatbot/"
+}

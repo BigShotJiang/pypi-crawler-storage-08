@@ -1,0 +1,11 @@
+{
+  "name": "varprox",
+  "version": "1.0.6",
+  "summary": "Optimization algorithms for solving penalized non-linear least squares problems",
+  "author": "Arthur Marmin and Frederic Richard",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Varprox/varprox",
+  "download_filename": "varprox-1.0.6.tar.gz",
+  "download_time": "2025-10-08T15:53:46.432647",
+  "package_url": "https://pypi.org/project/varprox/"
+}

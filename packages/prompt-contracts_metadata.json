@@ -1,11 +1,11 @@
 {
   "name": "prompt-contracts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Contract testing framework for LLM prompts - PCSL (Prompt Contract Specification Language)",
   "author": "Philippos Melikidis",
   "license": null,
   "home_page": null,
-  "download_filename": "prompt_contracts-0.2.0.tar.gz",
-  "download_time": "2025-10-08T15:22:13.588170",
+  "download_filename": "prompt_contracts-0.2.1.tar.gz",
+  "download_time": "2025-10-08T15:53:59.329332",
   "package_url": "https://pypi.org/project/prompt-contracts/"
 }

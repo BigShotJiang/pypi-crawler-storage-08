@@ -1,0 +1,11 @@
+{
+  "name": "aiopolymarket",
+  "version": "0.0.1",
+  "summary": "A comprehensive, type-safe async Python client for Polymarket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiopolymarket-0.0.1.tar.gz",
+  "download_time": "2025-10-08T15:54:02.463360",
+  "package_url": "https://pypi.org/project/aiopolymarket/"
+}
