@@ -1,0 +1,11 @@
+{
+  "name": "amazon-braket-schemas",
+  "version": "1.26.1",
+  "summary": "An open source library that contains the schemas for Amazon Braket",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-braket/amazon-braket-schemas-python",
+  "download_filename": "amazon_braket_schemas-1.26.1.tar.gz",
+  "download_time": "2025-10-08T22:51:38.568417",
+  "package_url": "https://pypi.org/project/amazon-braket-schemas/"
+}

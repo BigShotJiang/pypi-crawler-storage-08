@@ -1,11 +1,11 @@
 {
   "name": "pyvinecopulib",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "A python interface to vinecopulib",
   "author": null,
   "license": "The MIT License (MIT)\n         \n         Copyright © 2019-2023 Thomas Nagler and Thibault Vatter\n         \n         Permission is hereby granted, free of charge, to any person obtaining a copy of\n         this software and associated documentation files (the “Software”), to deal in\n         the Software without restriction, including without limitation the rights to\n         use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\n         the Software, and to permit persons to whom the Software is furnished to do so,\n         subject to the following conditions:\n         \n         The above copyright notice and this permission notice shall be included in all\n         copies or substantial portions of the Software.\n         \n         THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n         IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\n         FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\n         COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\n         IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\n         CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n         ",
   "home_page": null,
-  "download_filename": "pyvinecopulib-0.7.4-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-08T13:19:19.480820",
+  "download_filename": "pyvinecopulib-0.7.5.tar.gz",
+  "download_time": "2025-10-08T22:51:47.302778",
   "package_url": "https://pypi.org/project/pyvinecopulib/"
 }

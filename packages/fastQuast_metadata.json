@@ -1,11 +1,11 @@
 {
   "name": "fastQuast",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Fast and simple Quality Assessment Tool for Large Genomes",
   "author": "Aleksey Komissarov",
   "license": "MIT",
   "home_page": "https://github.com/aglabx/fastQuast",
-  "download_filename": "fastquast-1.2.0.tar.gz",
-  "download_time": "2025-10-08T13:46:39.239353",
+  "download_filename": "fastquast-1.2.1.tar.gz",
+  "download_time": "2025-10-08T22:51:40.624160",
   "package_url": "https://pypi.org/project/fastQuast/"
 }

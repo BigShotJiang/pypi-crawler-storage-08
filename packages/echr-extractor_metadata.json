@@ -1,0 +1,11 @@
+{
+  "name": "echr-extractor",
+  "version": "1.0.45",
+  "summary": "Python library for extracting case law data from the European Court of Human Rights (ECHR) HUDOC database",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "echr_extractor-1.0.45.tar.gz",
+  "download_time": "2025-10-08T22:51:46.768675",
+  "package_url": "https://pypi.org/project/echr-extractor/"
+}

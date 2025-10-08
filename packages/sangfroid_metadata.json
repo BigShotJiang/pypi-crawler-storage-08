@@ -1,0 +1,11 @@
+{
+  "name": "sangfroid",
+  "version": "0.3.0",
+  "summary": "Parses Synfig files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sangfroid-0.3.0.tar.gz",
+  "download_time": "2025-10-08T22:51:43.689873",
+  "package_url": "https://pypi.org/project/sangfroid/"
+}
