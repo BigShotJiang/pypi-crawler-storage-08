@@ -1,48 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T21:18:42.103736
+- **Download Time**: 2025-10-08T21:38:42.818172
 - **Total Packages**: 81
-- **Total Size**: 44.05 MB
+- **Total Size**: 1.28 MB
 
 ## Packages List
-- llama-index-tools-tavily-research
-- hive-common
-- reinforcenow
-- terminal-mcp-server
-- deadline-cloud-test-fixtures
-- flock-core
-- amitysolutions.dolphin-mcp
-- pulumiverse-scaleway
-- mAbLab
-- meilisearch-python-sdk
-- lintro
-- jshep-tri-template-deployment
-- bioql
-- poelis-sdk
-- cogworks
-- rcs
-- heaserver-registry
-- mt-downloader
-- outerbounds
-- urbanopt-des
-- ob-metaflow-stubs
-- planar
-- pip-importer
-- claude-mpm
-- llm-annotator
-- ob-metaflow-extensions
-- sai-pygame
-- njinja
-- coiled
-- nsj-rest-lib2
-- aristotlelib
-- patchbatch
-- llm-provider-factory
-- tnnt-discordbot-cogs
-- redmine-mcp-server
 - authentik-client
 - tzmerkle
+- rcs
 - cuda-cccl
 - ecopipeline
 - imicpe
@@ -73,6 +39,7 @@
 - ccp-performance
 - universal-pathlib
 - turbopdf
+- reinforcenow
 - crc-pulp-service-client
 - crc-pulp-file-client
 - crc-pulp-maven-client
@@ -87,3 +54,36 @@
 - crc-pulpcore-client
 - nmea2000
 - xml2rfc
+- suma-ulsa
+- dataleon
+- sleipnirgroup-jormungandr
+- team-digest
+- amino.dorks.fix
+- spaceblocks-permissions-server
+- pyqrackising
+- mcli-framework
+- pyhiv-tools
+- dexcontrol-rosbridge
+- PyTransportNSWv2
+- mt-downloader
+- genesys-framework-cli
+- maleo-imaging
+- xnlinkfinder
+- InvokeAI
+- factrainer-xgboost
+- factrainer-sklearn
+- plain.models
+- factrainer-lightgbm
+- factrainer-core
+- factrainer-catboost
+- factrainer-base
+- factrainer
+- t-nextgen
+- rfc3230-digest-headers
+- kywy
+- library-and-tools
+- lemonade-sdk
+- hassl
+- rapidpro-python
+- rustac
+- mastml

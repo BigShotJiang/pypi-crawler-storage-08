@@ -1,0 +1,11 @@
+{
+  "name": "dexcontrol-rosbridge",
+  "version": "0.3.0",
+  "summary": "A Python bridge for ROS2 sensor data republishing with Zenoh communication",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "dexcontrol_rosbridge-0.3.0-py3-none-any.whl",
+  "download_time": "2025-10-08T21:38:28.690880",
+  "package_url": "https://pypi.org/project/dexcontrol-rosbridge/"
+}

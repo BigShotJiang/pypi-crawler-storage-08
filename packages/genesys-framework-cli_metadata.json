@@ -1,11 +1,11 @@
 {
   "name": "genesys-framework-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A developer-friendly, opinionated framework for ROS 2.",
   "author": "Genesys Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "genesys_framework_cli-0.1.4.tar.gz",
-  "download_time": "2025-10-08T11:52:09.638975",
+  "download_filename": "genesys_framework_cli-0.1.5.tar.gz",
+  "download_time": "2025-10-08T21:38:30.416065",
   "package_url": "https://pypi.org/project/genesys-framework-cli/"
 }
