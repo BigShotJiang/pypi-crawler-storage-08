@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-msglogger",
+  "version": "0.0.4",
+  "summary": "A NoneBot plugin for automatically recording group chat messages into PostgreSQL database with media file storage support.",
+  "author": "EricZhang",
+  "license": "GPLv3 Licence",
+  "home_page": "https://github.com/ericzhang-debug/nonebot-plugin-msglogger",
+  "download_filename": "nonebot_plugin_msglogger-0.0.4.tar.gz",
+  "download_time": "2025-10-08T10:53:59.782822",
+  "package_url": "https://pypi.org/project/nonebot-plugin-msglogger/"
+}

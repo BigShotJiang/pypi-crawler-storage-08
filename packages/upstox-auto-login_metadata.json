@@ -1,0 +1,11 @@
+{
+  "name": "upstox-auto-login",
+  "version": "0.1.0",
+  "summary": "Automated Upstox login using Selenium and TOTP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "upstox_auto_login-0.1.0.tar.gz",
+  "download_time": "2025-10-08T10:53:50.660672",
+  "package_url": "https://pypi.org/project/upstox-auto-login/"
+}

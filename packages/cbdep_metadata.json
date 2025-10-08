@@ -1,0 +1,11 @@
+{
+  "name": "cbdep",
+  "version": "1.3.6",
+  "summary": "Generalized tool installer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbdep-1.3.6.tar.gz",
+  "download_time": "2025-10-08T10:54:27.073391",
+  "package_url": "https://pypi.org/project/cbdep/"
+}

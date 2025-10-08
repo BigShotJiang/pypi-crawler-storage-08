@@ -1,11 +1,11 @@
 {
   "name": "fastlib-py",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "Fastlib, high performance, easy to use, fast to code, ready for production",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastlib_py-0.2.8.tar.gz",
-  "download_time": "2025-10-08T10:20:52.995982",
+  "download_filename": "fastlib_py-0.2.9.tar.gz",
+  "download_time": "2025-10-08T10:53:53.936769",
   "package_url": "https://pypi.org/project/fastlib-py/"
 }

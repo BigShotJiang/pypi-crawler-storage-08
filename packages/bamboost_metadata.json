@@ -1,0 +1,11 @@
+{
+  "name": "bamboost",
+  "version": "0.10.3",
+  "summary": "A light weight scientific data management system using HDF5",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bamboost-0.10.3.tar.gz",
+  "download_time": "2025-10-08T10:54:05.782707",
+  "package_url": "https://pypi.org/project/bamboost/"
+}

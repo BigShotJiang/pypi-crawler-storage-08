@@ -1,0 +1,11 @@
+{
+  "name": "ts-scan",
+  "version": "1.6.0",
+  "summary": "TrustSource Packages Scanner",
+  "author": "EACG GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ts_scan-1.6.0.tar.gz",
+  "download_time": "2025-10-08T10:54:29.147226",
+  "package_url": "https://pypi.org/project/ts-scan/"
+}

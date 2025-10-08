@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-ext-parquet",
+  "version": "1.4.1.20251008",
+  "summary": "DuckDB extension package for duckdb/core-extensions/parquet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_ext_parquet-1.4.1.20251008-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-08T10:54:07.910054",
+  "package_url": "https://pypi.org/project/duckdb-ext-parquet/"
+}

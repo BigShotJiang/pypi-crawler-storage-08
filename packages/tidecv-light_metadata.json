@@ -1,0 +1,11 @@
+{
+  "name": "tidecv-light",
+  "version": "1.0.2",
+  "summary": "A General Toolbox for Identifying ObjectDetection Errors",
+  "author": "Daniel Bolya",
+  "license": "MIT",
+  "home_page": "https://github.com/jpsimen/tide",
+  "download_filename": "tidecv_light-1.0.2.tar.gz",
+  "download_time": "2025-10-08T10:54:25.448094",
+  "package_url": "https://pypi.org/project/tidecv-light/"
+}
