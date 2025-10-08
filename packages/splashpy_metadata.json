@@ -1,0 +1,11 @@
+{
+  "name": "splashpy",
+  "version": "0.4.3",
+  "summary": "Foundation Package for Splash Py Clients",
+  "author": "SplashSync",
+  "license": "MIT",
+  "home_page": "https://github.com/SplashSync/PyCore",
+  "download_filename": "splashpy-0.4.3-py3-none-any.whl",
+  "download_time": "2025-10-08T17:41:44.737773",
+  "package_url": "https://pypi.org/project/splashpy/"
+}

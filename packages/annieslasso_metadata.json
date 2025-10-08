@@ -1,0 +1,11 @@
+{
+  "name": "annieslasso",
+  "version": "0.2.96",
+  "summary": "A data-driven approach to stellar spectroscopy",
+  "author": "Andrew R. Casey, David W. Hogg, Melissa Ness",
+  "license": "MIT",
+  "home_page": "http://thecannon.io",
+  "download_filename": "annieslasso-0.2.96.tar.gz",
+  "download_time": "2025-10-08T17:41:20.839825",
+  "package_url": "https://pypi.org/project/annieslasso/"
+}

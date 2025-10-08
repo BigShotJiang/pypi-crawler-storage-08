@@ -1,0 +1,11 @@
+{
+  "name": "m3-audit",
+  "version": "2.3.0",
+  "summary": "Аудит операций в прикладной системе",
+  "author": "BARS Group",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/barsgroup/m3_audit",
+  "download_filename": "m3_audit-2.3.0.tar.gz",
+  "download_time": "2025-10-08T17:41:56.438614",
+  "package_url": "https://pypi.org/project/m3-audit/"
+}

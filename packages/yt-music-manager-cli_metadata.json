@@ -1,11 +1,11 @@
 {
   "name": "yt-music-manager-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A production-ready YouTube music playlist manager and synchronizer (YT Music Manager CLI)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yt_music_manager_cli-1.0.1.tar.gz",
-  "download_time": "2025-10-08T16:25:04.146750",
+  "download_filename": "yt_music_manager_cli-1.0.2.tar.gz",
+  "download_time": "2025-10-08T17:41:30.892295",
   "package_url": "https://pypi.org/project/yt-music-manager-cli/"
 }

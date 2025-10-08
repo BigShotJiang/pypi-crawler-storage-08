@@ -1,0 +1,11 @@
+{
+  "name": "ltest-shift",
+  "version": "0.1.0",
+  "summary": "Two-sample L-test: Shift-Invariant Cramér–von Mises Variant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ltest_shift-0.1.0.tar.gz",
+  "download_time": "2025-10-08T17:41:47.346414",
+  "package_url": "https://pypi.org/project/ltest-shift/"
+}

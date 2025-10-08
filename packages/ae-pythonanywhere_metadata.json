@@ -1,0 +1,11 @@
+{
+  "name": "ae-pythonanywhere",
+  "version": "0.3.2",
+  "summary": "ae namespace module portion pythonanywhere: PythonAnywhere Web API Client",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_pythonanywhere",
+  "download_filename": "ae_pythonanywhere-0.3.2.tar.gz",
+  "download_time": "2025-10-08T17:41:57.595099",
+  "package_url": "https://pypi.org/project/ae-pythonanywhere/"
+}
