@@ -1,11 +1,11 @@
 {
   "name": "claude-codemode",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Python implementation of Cloudflare's Code Mode using Claude AI, pydantic-ai, and Anthropic Agent SDK",
   "author": "Claude Codemode Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_codemode-0.1.2.tar.gz",
-  "download_time": "2025-10-08T08:27:42.174309",
+  "download_filename": "claude_codemode-0.1.4.tar.gz",
+  "download_time": "2025-10-08T08:49:01.521576",
   "package_url": "https://pypi.org/project/claude-codemode/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "requirements-installer",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Automatically detect and install Python dependencies from your code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "requirements_installer-1.0.1.tar.gz",
-  "download_time": "2025-10-07T18:29:28.006184",
+  "download_filename": "requirements_installer-1.0.4.tar.gz",
+  "download_time": "2025-10-08T08:49:26.937112",
   "package_url": "https://pypi.org/project/requirements-installer/"
 }

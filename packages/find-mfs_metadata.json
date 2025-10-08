@@ -1,0 +1,11 @@
+{
+  "name": "find-mfs",
+  "version": "0.1.0",
+  "summary": "A Python package implementing Bocker & Liptak's algorithm for finding molecular formulae from a given mass, as well as Kind and Fiehn's heuristics",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "find_mfs-0.1.0.tar.gz",
+  "download_time": "2025-10-08T08:49:16.485275",
+  "package_url": "https://pypi.org/project/find-mfs/"
+}

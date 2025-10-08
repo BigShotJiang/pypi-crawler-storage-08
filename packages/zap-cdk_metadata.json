@@ -1,11 +1,11 @@
 {
   "name": "zap-cdk",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "zap-cdk",
   "author": "Kester Simm<68278724+kesi03@users.noreply.github.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/kesi03/zap-cdk",
-  "download_filename": "zap_cdk-0.0.8.tar.gz",
-  "download_time": "2025-10-08T04:53:55.799651",
+  "download_filename": "zap_cdk-0.0.9.tar.gz",
+  "download_time": "2025-10-08T08:49:12.178716",
   "package_url": "https://pypi.org/project/zap-cdk/"
 }

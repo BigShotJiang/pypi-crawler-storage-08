@@ -1,0 +1,11 @@
+{
+  "name": "learn4u",
+  "version": "0.6.2",
+  "summary": "Una biblioteca ligera para consultar cursos de Hack4U desde Python.",
+  "author": "Álvaro Luján",
+  "license": "MIT",
+  "home_page": "https://hack4u.io",
+  "download_filename": "learn4u-0.6.2.tar.gz",
+  "download_time": "2025-10-08T08:48:50.918645",
+  "package_url": "https://pypi.org/project/learn4u/"
+}
