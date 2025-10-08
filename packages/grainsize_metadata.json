@@ -1,0 +1,11 @@
+{
+  "name": "grainsize",
+  "version": "0.2.3",
+  "summary": "Sedimentological data‐analysis tools (grain‐size, XRF, forams, bryozoans)",
+  "author": "Jarden Aaltonen",
+  "license": "MIT",
+  "home_page": "https://github.com/jvseds/SedLab",
+  "download_filename": "grainsize-0.2.3.tar.gz",
+  "download_time": "2025-10-08T05:51:52.450101",
+  "package_url": "https://pypi.org/project/grainsize/"
+}

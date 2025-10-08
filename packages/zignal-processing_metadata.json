@@ -1,0 +1,11 @@
+{
+  "name": "zignal-processing",
+  "version": "0.7.0",
+  "summary": "Zero-dependency image processing library",
+  "author": "zignal contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zignal_processing-0.7.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-08T05:51:46.655151",
+  "package_url": "https://pypi.org/project/zignal-processing/"
+}
