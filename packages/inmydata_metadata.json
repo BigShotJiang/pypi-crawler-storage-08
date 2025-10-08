@@ -1,11 +1,11 @@
 {
   "name": "inmydata",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "This package provides simple API access to the inmydata platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inmydata-0.0.17.tar.gz",
-  "download_time": "2025-10-08T10:43:22.663997",
+  "download_filename": "inmydata-0.0.18.tar.gz",
+  "download_time": "2025-10-08T17:52:20.516998",
   "package_url": "https://pypi.org/project/inmydata/"
 }

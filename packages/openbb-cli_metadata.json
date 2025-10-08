@@ -1,0 +1,11 @@
+{
+  "name": "openbb-cli",
+  "version": "1.2.0",
+  "summary": "Investment Research for Everyone, Anywhere.",
+  "author": "OpenBB",
+  "license": "AGPL-3.0-only",
+  "home_page": "https://openbb.co",
+  "download_filename": "openbb_cli-1.2.0.tar.gz",
+  "download_time": "2025-10-08T17:52:21.618594",
+  "package_url": "https://pypi.org/project/openbb-cli/"
+}
