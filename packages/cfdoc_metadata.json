@@ -1,0 +1,11 @@
+{
+  "name": "cfdoc",
+  "version": "2.1.0",
+  "summary": "Extract documentation from an AWS CloudFormation Template",
+  "author": "Murray Andrews",
+  "license": "3-Clause BSD License",
+  "home_page": "https://bitbucket.org/murrayandrews/cfdoc/src/master/",
+  "download_filename": "cfdoc-2.1.0.tar.gz",
+  "download_time": "2025-10-08T05:41:08.069898",
+  "package_url": "https://pypi.org/project/cfdoc/"
+}

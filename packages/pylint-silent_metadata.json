@@ -1,0 +1,11 @@
+{
+  "name": "pylint-silent",
+  "version": "1.4.2",
+  "summary": "Automatically add code comments to silence the output of pylint",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylint_silent-1.4.2.tar.gz",
+  "download_time": "2025-10-08T05:41:48.839863",
+  "package_url": "https://pypi.org/project/pylint-silent/"
+}

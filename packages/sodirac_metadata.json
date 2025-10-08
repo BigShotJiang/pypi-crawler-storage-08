@@ -1,0 +1,11 @@
+{
+  "name": "sodirac",
+  "version": "0.1.8",
+  "summary": "Domain Invariant Representation through Adversarial Calibration (DIRAC), a graph neural network to integrate spatial multi-omic data into a unified domain ",
+  "author": "XU CHANG",
+  "license": "MIT",
+  "home_page": "https://github.com/EsdenRun/DIRAC",
+  "download_filename": "sodirac-0.1.8.tar.gz",
+  "download_time": "2025-10-08T05:41:07.522846",
+  "package_url": "https://pypi.org/project/sodirac/"
+}

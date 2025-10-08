@@ -1,0 +1,11 @@
+{
+  "name": "pacpush",
+  "version": "3.4",
+  "summary": "Utility to push an Arch host's package and AUR caches to other hosts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pacpush-3.4.tar.gz",
+  "download_time": "2025-10-08T05:41:32.363314",
+  "package_url": "https://pypi.org/project/pacpush/"
+}

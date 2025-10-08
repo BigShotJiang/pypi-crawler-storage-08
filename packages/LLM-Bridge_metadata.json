@@ -1,0 +1,11 @@
+{
+  "name": "LLM-Bridge",
+  "version": "1.10.2",
+  "summary": "A Bridge for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_bridge-1.10.2.tar.gz",
+  "download_time": "2025-10-08T05:41:09.733894",
+  "package_url": "https://pypi.org/project/LLM-Bridge/"
+}

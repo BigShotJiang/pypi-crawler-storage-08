@@ -1,0 +1,11 @@
+{
+  "name": "native-dumper",
+  "version": "0.3.0.3",
+  "summary": "Library for read and write Native format between Clickhouse and file.",
+  "author": "0xMihalich",
+  "license": null,
+  "home_page": "https://github.com/0xMihalich/native_dumper",
+  "download_filename": "native_dumper-0.3.0.3.tar.gz",
+  "download_time": "2025-10-08T05:41:34.499704",
+  "package_url": "https://pypi.org/project/native-dumper/"
+}

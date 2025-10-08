@@ -1,11 +1,11 @@
 {
   "name": "pipeline-eds",
-  "version": "0.3.23",
+  "version": "0.3.26",
   "summary": "The API pipeline library, with CLI tools. Key target: The Emerson Ovation EDS REST API.",
   "author": "George Clayton Bennett",
   "license": "BSD-3",
   "home_page": null,
-  "download_filename": "pipeline_eds-0.3.23.tar.gz",
-  "download_time": "2025-10-08T04:53:56.961878",
+  "download_filename": "pipeline_eds-0.3.26.tar.gz",
+  "download_time": "2025-10-08T05:41:19.200095",
   "package_url": "https://pypi.org/project/pipeline-eds/"
 }

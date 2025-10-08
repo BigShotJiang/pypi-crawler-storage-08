@@ -1,0 +1,11 @@
+{
+  "name": "coral-call",
+  "version": "2.1",
+  "summary": "A dual context-aware basecaller for nanopore direct RNA sequencing",
+  "author": "ShaoHui Xie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coral_call-2.1.tar.gz",
+  "download_time": "2025-10-08T05:41:42.564411",
+  "package_url": "https://pypi.org/project/coral-call/"
+}

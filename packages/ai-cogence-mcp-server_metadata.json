@@ -1,0 +1,11 @@
+{
+  "name": "ai-cogence-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP (Model Context Protocol) Server for AI Cogence RAG Backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_cogence_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-08T05:41:31.835357",
+  "package_url": "https://pypi.org/project/ai-cogence-mcp-server/"
+}

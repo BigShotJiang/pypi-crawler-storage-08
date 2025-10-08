@@ -1,0 +1,11 @@
+{
+  "name": "office-word-mcp-uvx-server",
+  "version": "0.3.4",
+  "summary": "模型上下文协议（MCP）服务器，允许您在无需安装Microsoft Word 的情况下操作 Word 文件。使用您的AI代理创建、阅读和修改 Word 工作簿。",
+  "author": "fuyingjun",
+  "license": null,
+  "home_page": "https://git.n.6do.me:8087/mcp/office-word-mcp-uvx-server",
+  "download_filename": "office_word_mcp_uvx_server-0.3.4.tar.gz",
+  "download_time": "2025-10-08T05:41:43.597862",
+  "package_url": "https://pypi.org/project/office-word-mcp-uvx-server/"
+}
