@@ -1,11 +1,11 @@
 {
   "name": "agnt5",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "AGNT5 Python SDK - Build durable, resilient agent-first applications",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agnt5-0.2.1-cp39-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-07T23:37:52.912802",
+  "download_filename": "agnt5-0.2.2-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-08T04:23:31.246660",
   "package_url": "https://pypi.org/project/agnt5/"
 }

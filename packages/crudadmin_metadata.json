@@ -1,0 +1,11 @@
+{
+  "name": "crudadmin",
+  "version": "0.4.3",
+  "summary": "FastAPI-based admin interface with authentication, event logging and CRUD operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crudadmin-0.4.3.tar.gz",
+  "download_time": "2025-10-08T04:23:29.583399",
+  "package_url": "https://pypi.org/project/crudadmin/"
+}
