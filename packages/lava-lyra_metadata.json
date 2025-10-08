@@ -1,11 +1,11 @@
 {
   "name": "lava-lyra",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "A modern Lavalink v4 wrapper for py-cord, based on Pomice",
   "author": "ParrotXray",
   "license": "GPL-3.0",
   "home_page": "https://github.com/ParrotXray/lava-lyra",
-  "download_filename": "lava_lyra-1.0.3.tar.gz",
-  "download_time": "2025-10-08T07:19:40.071760",
+  "download_filename": "lava_lyra-1.1.0.tar.gz",
+  "download_time": "2025-10-08T11:38:53.957250",
   "package_url": "https://pypi.org/project/lava-lyra/"
 }

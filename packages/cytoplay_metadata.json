@@ -1,11 +1,11 @@
 {
   "name": "cytoplay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Cytosim: Langevin dynamics of active polymer networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cytoplay-1.0.0.tar.gz",
-  "download_time": "2025-10-08T10:43:20.614379",
+  "download_filename": "cytoplay-1.0.1.tar.gz",
+  "download_time": "2025-10-08T11:38:52.395573",
   "package_url": "https://pypi.org/project/cytoplay/"
 }

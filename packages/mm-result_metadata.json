@@ -1,0 +1,11 @@
+{
+  "name": "mm-result",
+  "version": "0.1.2",
+  "summary": "Rust-inspired Result[T] container for functional error handling in Python with optional extra metadata field",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mm_result-0.1.2.tar.gz",
+  "download_time": "2025-10-08T11:38:49.769351",
+  "package_url": "https://pypi.org/project/mm-result/"
+}

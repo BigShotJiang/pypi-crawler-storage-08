@@ -1,0 +1,11 @@
+{
+  "name": "scared",
+  "version": "1.1.9",
+  "summary": "eshard scared Python library.",
+  "author": "eshard",
+  "license": "Proprietary",
+  "home_page": "https://www.eshard.com",
+  "download_filename": "scared-1.1.9.tar.gz",
+  "download_time": "2025-10-08T11:38:36.071914",
+  "package_url": "https://pypi.org/project/scared/"
+}

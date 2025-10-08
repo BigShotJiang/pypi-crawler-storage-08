@@ -1,11 +1,11 @@
 {
   "name": "dataidea",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "A package to simplify common data analysis tasks",
   "author": "jumashafara",
   "license": "MIT",
   "home_page": "https://github.com/jumashafara/dataidea",
-  "download_filename": "dataidea-0.1.31.tar.gz",
-  "download_time": "2025-10-07T09:50:53.944605",
+  "download_filename": "dataidea-0.1.32.tar.gz",
+  "download_time": "2025-10-08T11:38:33.442487",
   "package_url": "https://pypi.org/project/dataidea/"
 }

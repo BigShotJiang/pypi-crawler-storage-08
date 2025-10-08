@@ -1,11 +1,11 @@
 {
   "name": "agi-node",
-  "version": "0.8.17",
+  "version": "0.8.19",
   "summary": "agi-node the local code for AGI framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_node-0.8.17-py3-none-any.whl",
-  "download_time": "2025-10-07T17:40:22.316117",
+  "download_filename": "agi_node-0.8.19-py3-none-any.whl",
+  "download_time": "2025-10-08T11:38:23.389835",
   "package_url": "https://pypi.org/project/agi-node/"
 }
