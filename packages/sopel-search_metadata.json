@@ -1,0 +1,11 @@
+{
+  "name": "sopel-search",
+  "version": "1.3.0",
+  "summary": "Search plugin for Sopel IRC bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sopel_search-1.3.0.tar.gz",
+  "download_time": "2025-10-08T03:47:21.222300",
+  "package_url": "https://pypi.org/project/sopel-search/"
+}

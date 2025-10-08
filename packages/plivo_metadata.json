@@ -1,0 +1,11 @@
+{
+  "name": "plivo",
+  "version": "4.59.3",
+  "summary": "A Python SDK to make voice calls & send SMS using Plivo and to generate Plivo XML",
+  "author": "The Plivo SDKs Team",
+  "license": "MIT",
+  "home_page": "https://github.com/plivo/plivo-python",
+  "download_filename": "plivo-4.59.3.tar.gz",
+  "download_time": "2025-10-08T03:47:19.624424",
+  "package_url": "https://pypi.org/project/plivo/"
+}

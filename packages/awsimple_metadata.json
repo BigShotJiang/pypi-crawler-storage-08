@@ -1,0 +1,11 @@
+{
+  "name": "awsimple",
+  "version": "4.0.0",
+  "summary": "Simple AWS API for S3, DynamoDB, SNS, and SQS",
+  "author": "abel",
+  "license": "MIT License",
+  "home_page": "https://github.com/jamesabel/awsimple",
+  "download_filename": "awsimple-4.0.0-py3-none-any.whl",
+  "download_time": "2025-10-08T03:47:02.409567",
+  "package_url": "https://pypi.org/project/awsimple/"
+}

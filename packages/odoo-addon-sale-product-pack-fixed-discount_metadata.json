@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-product-pack-fixed-discount",
+  "version": "17.0.1.0.0.3",
+  "summary": "Glue module between sale product pack and sale fixed discount",
+  "author": "Pierre Verkest <pierreverkest84@gmail.com>, Odoo Community Association (OCA),",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-pack",
+  "download_filename": "odoo_addon_sale_product_pack_fixed_discount-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-08T03:47:17.061624",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-product-pack-fixed-discount/"
+}

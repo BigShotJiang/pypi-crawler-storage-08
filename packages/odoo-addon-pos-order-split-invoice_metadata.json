@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-order-split-invoice",
+  "version": "17.0.1.0.0.8",
+  "summary": "Allow to generate a secondary invoice from a point of sale order for a second partner",
+  "author": "Dixmit,INVITU,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_order_split_invoice-17.0.1.0.0.8-py3-none-any.whl",
+  "download_time": "2025-10-08T03:47:22.248344",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-order-split-invoice/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-tag-hierarchy",
+  "version": "18.0.1.0.0.5",
+  "summary": "Project Tag Hierarchy",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_tag_hierarchy-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-08T03:47:15.457616",
+  "package_url": "https://pypi.org/project/odoo-addon-project-tag-hierarchy/"
+}

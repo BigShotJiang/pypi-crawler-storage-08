@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T03:21:51.989262
-- **Total Packages**: 81
-- **Total Size**: 27.87 MB
+- **Download Time**: 2025-10-08T03:47:43.066601
+- **Total Packages**: 80
+- **Total Size**: 18.06 MB
 
 ## Packages List
+- odoo-addon-base-changeset
+- libxr
+- compass-lib
+- authentik-client
+- awsimple
+- odoo-addon-sale-order-lot-selection
+- odoo-addon-sale-order-type
+- amazon-ad-sdk
+- lowmind
+- n8nControl
+- pulumi-confluentcloud
+- causalem
+- odoo12-addon-sale-merge-draft-invoice
+- owasp-schema
+- claude-workshop
+- egain-api-python
+- fastcrud
+- odoo-addon-kpi
+- files-com-mcp
+- maim-message
+- pycord-localizer
+- odoo-addon-procurement-purchase-requisition-generation
+- odoo-addon-purchase-date-planned-manual
+- orq-ai-sdk
+- xqute
+- reflex-agent
+- pyqrackising
+- odoo-addon-project-tag-security
+- odoo-addon-project-tag-hierarchy
+- odoo-addon-project-tag-multicompany
+- echosms
+- odoo-addon-sale-product-pack-fixed-discount
+- lzaas-cli
+- odoo-addon-product-attribute-auto-add
+- odoo-addon-product-logistics-uom-net-weight
+- odoo-addon-product-multi-code
+- plivo
+- color-ls
+- moleditpy
+- sopel-search
+- sqlframe
+- odoo-addon-pos-order-split-invoice
+- botrun-hatch
+- fabric_ceph_client
+- odoo-addon-pms
+- keras-rs-nightly
+- osdu-perf
+- ai-agent-manager
+- GANDLF
 - polars-genson
 - starsim
 - tooluniverse
@@ -13,8 +62,6 @@
 - patterpunk
 - galago-tools
 - callme-marck
-- n8nControl
-- ai-agent-manager
 - davidkhala.baidu.map
 - smartchart
 - chdb-ds
@@ -26,11 +73,8 @@
 - moneyball
 - dark-send
 - odoo-addon-mail-activity-team
-- pycord-localizer
 - odoo-addon-payment-redsys
-- files-com-mcp
 - odoo-addon-l10n-es-aeat
-- botrun-hatch
 - buzuai
 - cccc-pair
 - cellpose
@@ -38,52 +82,7 @@
 - standardbots
 - qwen-webapi
 - odoo-addon-l10n-it-sdi-channel
-- authentik-client
 - statemachine-engine
 - odoo-addon-l10n-de-holidays
 - bioql
 - files-com
-- svc-infra
-- odoo14-addon-iot-oca
-- aiu-fms-testing-utils
-- odoo-addon-helpdesk-mgmt-project
-- watsonx-minutes
-- odoo-addon-fieldservice-portal
-- odoo-addon-fieldservice-recurring
-- easyfileio
-- odoo-addon-edi-core-oca
-- odoo-addon-edi-endpoint-oca
-- odoo-addon-edi-oca
-- odoo-addon-edi-utm-oca
-- odoo-addon-edi-record-metadata-oca
-- types-tensorflow
-- types-jsonschema
-- types-xmldiff
-- types-pywin32
-- types-python-dateutil
-- plain.auth
-- types-flake8-bugbear
-- types-flake8-rst-docstrings
-- scriptworker
-- mlgame
-- odoo-addon-website-sale-order-shipping-modification
-- mdod
-- pulumi-provider-boilerplate
-- g4f
-- lzaas-cli
-- odoo-addon-cooperator
-- vellum-workflow-server
-- mock-spark
-- pypearl
-- SHARPlib
-- properpath
-- patch-fixer
-- cligent
-- robhan-cdk-lib.aws-aps
-- notbadai-modify
-- robhan-cdk-lib.aws-grafana
-- pulumi-xyz
-- odoo-addon-ai-oca-bridge-extra-parameters
-- robhan-cdk-lib.utils
-- ariane-lib
-- ethereal-sdk
