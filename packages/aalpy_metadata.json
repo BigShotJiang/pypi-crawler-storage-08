@@ -1,0 +1,11 @@
+{
+  "name": "aalpy",
+  "version": "1.5.2",
+  "summary": "An active automata learning library",
+  "author": "Edi Muskardin",
+  "license": "MIT",
+  "home_page": "https://github.com/DES-Lab/AALpy",
+  "download_filename": "aalpy-1.5.2-py3-none-any.whl",
+  "download_time": "2025-10-08T07:39:22.109936",
+  "package_url": "https://pypi.org/project/aalpy/"
+}

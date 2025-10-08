@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-pxchat",
+  "version": "0.1.0",
+  "summary": "基于AI大模型的聊天机器人，支持大模型api任意切换、上下文记忆、群聊智能参与、图片识别、MCP等功能",
+  "author": "whopxx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_pxchat-0.1.0.tar.gz",
+  "download_time": "2025-10-08T07:39:17.457696",
+  "package_url": "https://pypi.org/project/nonebot-plugin-pxchat/"
+}

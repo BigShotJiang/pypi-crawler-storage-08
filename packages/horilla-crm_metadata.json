@@ -1,0 +1,11 @@
+{
+  "name": "horilla-crm",
+  "version": "1.0.0",
+  "summary": "Horilla CRM Django apps package",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/horilla-opensource/horilla",
+  "download_filename": "horilla_crm-1.0.0.tar.gz",
+  "download_time": "2025-10-08T07:39:30.914443",
+  "package_url": "https://pypi.org/project/horilla-crm/"
+}

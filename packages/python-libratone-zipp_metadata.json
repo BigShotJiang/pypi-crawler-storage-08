@@ -1,0 +1,11 @@
+{
+  "name": "python-libratone-zipp",
+  "version": "4.1.0",
+  "summary": "Control one or multiple Libratone Zipp speakers with a Python library",
+  "author": "Chouffy, Calyorbro",
+  "license": null,
+  "home_page": "https://github.com/Chouffy/python_libratone_zipp",
+  "download_filename": "python_libratone_zipp-4.1.0.tar.gz",
+  "download_time": "2025-10-08T07:39:31.426503",
+  "package_url": "https://pypi.org/project/python-libratone-zipp/"
+}

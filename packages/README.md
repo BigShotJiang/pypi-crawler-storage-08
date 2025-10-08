@@ -1,12 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T07:19:53.665012
-- **Total Packages**: 94
-- **Total Size**: 33.26 MB
+- **Download Time**: 2025-10-08T07:39:55.362837
+- **Total Packages**: 91
+- **Total Size**: 38.27 MB
 
 ## Packages List
+- ingestr
 - clinicedc
+- shekar
+- wayspiritmcp-weather
+- altmetrics
+- wela-agents
+- twigs
+- netsim-tools
+- networklab
+- zamp-public-workflow-sdk
+- pulumi-vault
+- authentik-client
+- aiscriptgenerator-mcp
+- pulumi-oci
+- appwrite
+- titanoboa
+- mlflow-tracing
+- mwdrive
+- nonebot-plugin-pxchat
+- udata-hydra
+- mlflow-skinny
+- quantchdb
+- odc-stats
+- dycw-utilities
+- cli-phone-book
+- sam4onnx
+- sklekmeans
+- aalpy
+- pydoc-markdown-havsalt
+- codemie-tools
+- dsslab-wdc-client
+- proxies-tg-wrapper
+- odoo-addon-ddmrp
+- odoo-addon-ddmrp-cron-actions-as-job
+- odoo-addon-ddmrp-adjustment
+- checkov
+- dotstat_io
+- huggingface-hub
+- wandelbots-isaacsim-api
+- crawlee
+- nanowakeword
+- wandelbots-api-client
+- tmodbus
+- horilla-crm
+- python-libratone-zipp
+- pulumi-wavefront
+- ms-thermo
+- effect-edc
+- georeferencer
+- pulumi-vsphere
+- pulumi-snowflake
+- mkdocstrings-github
+- pulumi-tls
+- ai-cogence-tools
 - n8nControl
 - dynafield
 - onnxscript
@@ -23,17 +76,14 @@
 - anothertestproject
 - pulumi-spotinst
 - streamlit-nightly
-- proxies-tg-wrapper
 - pasarguard-node-bridge
 - pulumi-splunk
 - gima
-- authentik-client
 - taiji-pysimulator
 - trulens
 - trulens-eval
 - trulens-providers-openai
 - trulens-providers-litellm
-- cli-phone-book
 - trulens-providers-langchain
 - trulens-providers-huggingface
 - trulens-providers-google
@@ -47,56 +97,3 @@
 - orq-ai-sdk
 - trulens-connectors-snowflake
 - trulens-benchmark
-- trulens-apps-nemo
-- trulens-apps-llamaindex
-- trulens-apps-langgraph
-- trulens-apps-langchain
-- jaf-py
-- wayspiritmcp-weather
-- pulumi-sdwan
-- pulumi-slack
-- artificial-terrains
-- dstack-sdk
-- weather-mcp-rick
-- pulumi-signalfx
-- pulumi-random
-- sparkxgb
-- tf-models-nightly
-- pulumi-rancher2
-- pulumi-scm
-- tomwer
-- z-zytome
-- django-all-in-one-accessibility
-- tiny-3d-engine
-- pulumi-okta
-- xpander-sdk
-- pulumi-postgresql
-- pulumi-pagerduty
-- pulumi-rabbitmq
-- jubilant-backports
-- libmysoltest
-- lava-lyra
-- plone.app.mosaic
-- prefect-mcp-server
-- notalib
-- legit-api-client
-- afl-ai-utils
-- apify-client
-- pulumi-opsgenie
-- ai-creature-lang
-- ZAmino.fix
-- pulumi-openstack
-- bluer-sbc
-- pozansky-stock-server
-- starlasu-specs
-- crawlee
-- bg4h
-- osu.py
-- taxman-lib
-- evileye
-- oarepo-ui
-- pulumi-null
-- shinkuro
-- pulumi-nomad
-- pulumi-newrelic
-- Rmoney_bhavcopy

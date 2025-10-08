@@ -1,11 +1,11 @@
 {
   "name": "wayspiritmcp-weather",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "MCP attack test for weather",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wayspiritmcp_weather-0.2.6.tar.gz",
-  "download_time": "2025-10-08T07:19:27.631110",
+  "download_filename": "wayspiritmcp_weather-0.2.7.tar.gz",
+  "download_time": "2025-10-08T07:39:09.586187",
   "package_url": "https://pypi.org/project/wayspiritmcp-weather/"
 }

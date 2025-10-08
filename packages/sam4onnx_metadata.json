@@ -1,0 +1,11 @@
+{
+  "name": "sam4onnx",
+  "version": "1.0.17",
+  "summary": "A very simple tool to rewrite parameters such as attributes and constants for OPs in ONNX models. Simple Attribute and Constant Modifier for ONNX.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/sam4onnx",
+  "download_filename": "sam4onnx-1.0.17.tar.gz",
+  "download_time": "2025-10-08T07:39:21.080086",
+  "package_url": "https://pypi.org/project/sam4onnx/"
+}
