@@ -1,0 +1,11 @@
+{
+  "name": "tweakwcs",
+  "version": "0.8.12",
+  "summary": "A package for correcting alignment errors in WCS objects",
+  "author": "Mihai Cara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tweakwcs-0.8.12.tar.gz",
+  "download_time": "2025-10-08T23:38:32.143188",
+  "package_url": "https://pypi.org/project/tweakwcs/"
+}

@@ -1,19 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T23:18:24.455412
-- **Total Packages**: 84
-- **Total Size**: 9.74 MB
+- **Download Time**: 2025-10-08T23:39:07.164936
+- **Total Packages**: 80
+- **Total Size**: 12.22 MB
 
 ## Packages List
+- zepben.eas
+- authentik-client
+- emt
+- cxc-toolkit
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- lokzzpylib
+- passgenius
+- onellm
+- dashboard-lego
+- pyqrackising
+- qolsys-controller
+- compiletools
+- honeybee-display
+- agnt5
+- dkist-processing-common
+- svc-infra
+- ruru
+- grooveshop-django-api
+- emod-generic
+- pedalboard
+- tweakwcs
+- reporters-db
+- iatoolkit
 - pulumi-spotinst
 - sporco
 - norvelang
 - norve
-- lokzzpylib
 - siglab-py
 - networking-utils
-- svc-infra
 - ingame
 - unicode-raw-input
 - figpack
@@ -21,13 +44,11 @@
 - graphbit
 - fastQuast
 - sumeh
-- iatoolkit
 - strava-activity-mcp-server
 - promptrek
 - prime
 - graph-games-proto
 - llm-provider-factory
-- authentik-client
 - arcade-mcp-server
 - nirs4all
 - flwr-nightly
@@ -65,28 +86,3 @@
 - space-agents
 - aind-sharepoint-service-client
 - aind-sharepoint-service-async-client
-- amitysolutions.dolphin-mcp
-- cisco-ai-mcp-scanner
-- openai_stt
-- rcs
-- amazon-braket-schemas
-- dkist-processing-visp
-- ImtiazAnalysis
-- styly-netsync-server
-- deepagents
-- cellmaps-generate-hierarchy
-- ap-cfg
-- sangfroid
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.core
-- thds.adls
-- echr-extractor
-- pyvinecopulib
-- qs-codec
-- multidimio
-- Himon
-- changedetection.io
-- lbt-dragonfly
-- pulumi-provider-boilerplate
