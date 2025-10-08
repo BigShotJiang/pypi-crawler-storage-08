@@ -1,0 +1,11 @@
+{
+  "name": "aissemble-foundation-core-python",
+  "version": "2.0.0",
+  "summary": "Core classes for supporting concepts (alerting, metadata, etc) that are needed across most Python-based components",
+  "author": "aiSSEMBLE Baseline Community",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/boozallen/aissemble",
+  "download_filename": "aissemble_foundation_core_python-2.0.0.tar.gz",
+  "download_time": "2025-10-08T16:24:57.688045",
+  "package_url": "https://pypi.org/project/aissemble-foundation-core-python/"
+}

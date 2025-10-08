@@ -1,0 +1,11 @@
+{
+  "name": "alves-blindpay",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for the Blindpay API — Global payments infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alves_blindpay-1.0.1.tar.gz",
+  "download_time": "2025-10-08T16:25:34.831109",
+  "package_url": "https://pypi.org/project/alves-blindpay/"
+}

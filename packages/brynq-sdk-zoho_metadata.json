@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-zoho",
+  "version": "3.1.0",
+  "summary": "ZOHO wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_zoho-3.1.0.tar.gz",
+  "download_time": "2025-10-08T16:25:20.875119",
+  "package_url": "https://pypi.org/project/brynq-sdk-zoho/"
+}

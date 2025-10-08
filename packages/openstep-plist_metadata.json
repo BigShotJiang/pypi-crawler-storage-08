@@ -1,0 +1,11 @@
+{
+  "name": "openstep-plist",
+  "version": "0.5.1",
+  "summary": "ASCII plist parser written in Cython",
+  "author": "Cosimo Lupo",
+  "license": "MIT",
+  "home_page": "https://github.com/fonttools/openstep-plist",
+  "download_filename": "openstep_plist-0.5.1.tar.gz",
+  "download_time": "2025-10-08T16:25:27.604357",
+  "package_url": "https://pypi.org/project/openstep-plist/"
+}

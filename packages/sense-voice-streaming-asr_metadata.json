@@ -1,0 +1,11 @@
+{
+  "name": "sense-voice-streaming-asr",
+  "version": "0.1.0",
+  "summary": "Streaming speech recongnition supporting zh, en, yue, ja, and ko with SenseVoiceSmall.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sense_voice_streaming_asr-0.1.0.tar.gz",
+  "download_time": "2025-10-08T16:25:10.941837",
+  "package_url": "https://pypi.org/project/sense-voice-streaming-asr/"
+}

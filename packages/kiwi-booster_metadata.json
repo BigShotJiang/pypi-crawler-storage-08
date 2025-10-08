@@ -1,0 +1,11 @@
+{
+  "name": "kiwi-booster",
+  "version": "0.3.16",
+  "summary": "Python utility functions and classes for KiwiBot AI&Robotics team",
+  "author": "Sebastian Hernandez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiwi_booster-0.3.16.tar.gz",
+  "download_time": "2025-10-08T16:25:06.901390",
+  "package_url": "https://pypi.org/project/kiwi-booster/"
+}

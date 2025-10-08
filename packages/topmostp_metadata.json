@@ -1,0 +1,11 @@
+{
+  "name": "topmostp",
+  "version": "0.1.10",
+  "summary": "A simple CLI tool to retrieve the N top most used ports",
+  "author": "SecSI",
+  "license": "MIT",
+  "home_page": "https://github.com/cybersecsi/topmostp",
+  "download_filename": "topmostp-0.1.10.tar.gz",
+  "download_time": "2025-10-08T16:25:11.487993",
+  "package_url": "https://pypi.org/project/topmostp/"
+}

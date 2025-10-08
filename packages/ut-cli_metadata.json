@@ -1,11 +1,11 @@
 {
   "name": "ut-cli",
-  "version": "1.1.4.20251008",
+  "version": "1.1.5.20251008",
   "summary": "Utilities for Communication",
   "author": "Bernd Stroehle",
   "license": null,
   "home_page": null,
-  "download_filename": "ut_cli-1.1.4.20251008.tar.gz",
-  "download_time": "2025-10-08T12:41:55.569818",
+  "download_filename": "ut_cli-1.1.5.20251008.tar.gz",
+  "download_time": "2025-10-08T16:25:45.156672",
   "package_url": "https://pypi.org/project/ut-cli/"
 }

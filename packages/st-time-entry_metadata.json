@@ -1,0 +1,11 @@
+{
+  "name": "st-time-entry",
+  "version": "0.4.0",
+  "summary": "A Streamlit component that adds a modern time picker using MUI X TimePicker. Supports AM/PM and 24-hour formats, time range limits, and input validation.",
+  "author": "Luis",
+  "license": null,
+  "home_page": "https://github.com/lperezmo/st-time-entry",
+  "download_filename": "st_time_entry-0.4.0.tar.gz",
+  "download_time": "2025-10-08T16:25:40.278206",
+  "package_url": "https://pypi.org/project/st-time-entry/"
+}

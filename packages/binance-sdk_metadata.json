@@ -1,11 +1,11 @@
 {
   "name": "binance-sdk",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Binance Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binance_sdk-2.0.5.tar.gz",
-  "download_time": "2025-10-08T15:42:40.730204",
+  "download_filename": "binance_sdk-2.0.6.tar.gz",
+  "download_time": "2025-10-08T16:25:35.384859",
   "package_url": "https://pypi.org/project/binance-sdk/"
 }
