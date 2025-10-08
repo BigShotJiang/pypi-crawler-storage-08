@@ -1,0 +1,11 @@
+{
+  "name": "ohmyapi",
+  "version": "0.4.0",
+  "summary": "Django-flavored scaffolding and management layer around FastAPI, Pydantic, TortoiseORM and Aerich migrations",
+  "author": "Brian Wiborg",
+  "license": null,
+  "home_page": "https://code.c-base.org/baccenfutter/ohmyapi",
+  "download_filename": "ohmyapi-0.4.0.tar.gz",
+  "download_time": "2025-10-08T11:16:38.413000",
+  "package_url": "https://pypi.org/project/ohmyapi/"
+}

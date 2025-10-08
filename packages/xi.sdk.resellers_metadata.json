@@ -1,0 +1,11 @@
+{
+  "name": "xi.sdk.resellers",
+  "version": "1.3.0",
+  "summary": "Ingram Micro - Xvantage Integration (XI) Python Server-side SDK.",
+  "author": "Ingram Micro Xvantage Integration(XI)",
+  "license": "MIT",
+  "home_page": "https://github.com/ingrammicro-xvantage/xi-sdk-resellers-python",
+  "download_filename": "xi_sdk_resellers-1.3.0.tar.gz",
+  "download_time": "2025-10-08T11:16:59.755657",
+  "package_url": "https://pypi.org/project/xi.sdk.resellers/"
+}

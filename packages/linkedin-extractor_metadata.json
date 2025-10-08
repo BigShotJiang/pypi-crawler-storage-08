@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-extractor",
+  "version": "0.1.0",
+  "summary": "A LinkedIn data extraction toolkit for scraping skills, experience, and more.",
+  "author": "Kristian Julsgaard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linkedin_extractor-0.1.0.tar.gz",
+  "download_time": "2025-10-08T11:16:51.535295",
+  "package_url": "https://pypi.org/project/linkedin-extractor/"
+}

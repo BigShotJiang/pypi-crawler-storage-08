@@ -1,11 +1,11 @@
 {
   "name": "fairml-datasets",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A package for managing and processing datasets for fairness research in machine learning",
   "author": null,
   "license": "CC BY 4.0",
   "home_page": null,
-  "download_filename": "fairml_datasets-0.1.2.tar.gz",
-  "download_time": "2025-10-08T10:21:07.267191",
+  "download_filename": "fairml_datasets-0.1.3.tar.gz",
+  "download_time": "2025-10-08T11:16:32.360131",
   "package_url": "https://pypi.org/project/fairml-datasets/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spotdl",
+  "version": "4.4.3",
+  "summary": "Download your Spotify playlists and songs along with album art and metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotdl-4.4.3.tar.gz",
+  "download_time": "2025-10-08T11:16:56.538138",
+  "package_url": "https://pypi.org/project/spotdl/"
+}

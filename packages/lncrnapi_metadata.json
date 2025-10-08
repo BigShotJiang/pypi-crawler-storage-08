@@ -1,11 +1,11 @@
 {
   "name": "lncrnapi",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A CLI tool for predicting lncRNA–Protein interactions using transformer embeddings and CatBoost",
   "author": "Gajendra P.S. Raghava",
-  "license": "GPL-3.0-only",
+  "license": null,
   "home_page": "https://github.com/raghavagps/lncrnapi",
-  "download_filename": "lncrnapi-0.1.0.tar.gz",
-  "download_time": "2025-10-08T09:52:55.702506",
+  "download_filename": "lncrnapi-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-08T11:16:30.731274",
   "package_url": "https://pypi.org/project/lncrnapi/"
 }
