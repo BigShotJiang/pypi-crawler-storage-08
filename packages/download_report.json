@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-10-08T23:39:07.164936",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 12.22,
+  "download_time": "2025-10-08T23:52:26.729788",
+  "total_packages_downloaded": 79,
+  "total_size_mb": 0.26,
   "packages": [
+    "sphinx-autodoc-typehints",
+    "treescript-builder",
+    "lbt-honeybee",
+    "archetypeai",
+    "arc-superset-dialect",
+    "qupled",
     "zepben.eas",
     "authentik-client",
     "emt",
@@ -75,13 +81,6 @@
     "google-api-client-wrapper",
     "moderators",
     "verifiers",
-    "ai-space",
-    "topolib",
-    "dsf-aml-sdk",
-    "stanford-mais",
-    "aiosonic",
-    "space-agents",
-    "aind-sharepoint-service-client",
-    "aind-sharepoint-service-async-client"
+    "ai-space"
   ]
 }

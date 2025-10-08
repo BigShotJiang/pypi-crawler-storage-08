@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T23:39:07.164936
-- **Total Packages**: 80
-- **Total Size**: 12.22 MB
+- **Download Time**: 2025-10-08T23:52:26.729788
+- **Total Packages**: 79
+- **Total Size**: 0.26 MB
 
 ## Packages List
+- sphinx-autodoc-typehints
+- treescript-builder
+- lbt-honeybee
+- archetypeai
+- arc-superset-dialect
+- qupled
 - zepben.eas
 - authentik-client
 - emt
@@ -79,10 +85,3 @@
 - moderators
 - verifiers
 - ai-space
-- topolib
-- dsf-aml-sdk
-- stanford-mais
-- aiosonic
-- space-agents
-- aind-sharepoint-service-client
-- aind-sharepoint-service-async-client
