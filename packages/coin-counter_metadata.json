@@ -1,0 +1,11 @@
+{
+  "name": "coin-counter",
+  "version": "2.0.0",
+  "summary": "A computer vision-based coin detection and counting system with CLI and GUI interfaces",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coin_counter-2.0.0.tar.gz",
+  "download_time": "2025-10-08T13:46:42.340781",
+  "package_url": "https://pypi.org/project/coin-counter/"
+}

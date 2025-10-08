@@ -1,0 +1,11 @@
+{
+  "name": "py-machineid",
+  "version": "0.8.1",
+  "summary": "Get the unique machine ID of any host (without admin privileges)",
+  "author": "Zeke Gabrielse",
+  "license": "MIT",
+  "home_page": "https://github.com/keygen-sh/py-machineid",
+  "download_filename": "py-machineid-0.8.1.tar.gz",
+  "download_time": "2025-10-08T13:46:37.183619",
+  "package_url": "https://pypi.org/project/py-machineid/"
+}

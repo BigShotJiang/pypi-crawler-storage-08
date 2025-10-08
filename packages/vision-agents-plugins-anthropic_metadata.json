@@ -1,11 +1,11 @@
 {
   "name": "vision-agents-plugins-anthropic",
-  "version": "0.0.12",
+  "version": "0.0.18",
   "summary": "Anthropic/Claude LLM integration for Vision Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vision_agents_plugins_anthropic-0.0.12.tar.gz",
-  "download_time": "2025-10-08T12:42:05.972023",
+  "download_filename": "vision_agents_plugins_anthropic-0.0.18.tar.gz",
+  "download_time": "2025-10-08T13:46:01.293098",
   "package_url": "https://pypi.org/project/vision-agents-plugins-anthropic/"
 }

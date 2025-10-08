@@ -1,0 +1,11 @@
+{
+  "name": "calisim",
+  "version": "0.6.2",
+  "summary": "A toolbox for the calibration and evaluation of simulation models.",
+  "author": "James Bristow",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Plant-Food-Research-Open/calisim",
+  "download_filename": "calisim-0.6.2.tar.gz",
+  "download_time": "2025-10-08T13:46:24.171726",
+  "package_url": "https://pypi.org/project/calisim/"
+}
