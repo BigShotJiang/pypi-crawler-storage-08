@@ -1,0 +1,11 @@
+{
+  "name": "pygcc",
+  "version": "1.5.1",
+  "summary": "A tool for thermodynamic calculations and geochemical database generation",
+  "author": "Dapo Awolayo and Benjamin Tutolo",
+  "license": null,
+  "home_page": "https://pygcc.readthedocs.io/en/",
+  "download_filename": "pygcc-1.5.1.tar.gz",
+  "download_time": "2025-10-08T19:59:36.951986",
+  "package_url": "https://pypi.org/project/pygcc/"
+}

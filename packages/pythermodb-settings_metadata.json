@@ -1,11 +1,11 @@
 {
   "name": "pythermodb-settings",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythermodb_settings-0.1.4.tar.gz",
-  "download_time": "2025-10-08T19:40:35.603975",
+  "download_filename": "pythermodb_settings-0.1.5.tar.gz",
+  "download_time": "2025-10-08T19:59:50.532669",
   "package_url": "https://pypi.org/project/pythermodb-settings/"
 }

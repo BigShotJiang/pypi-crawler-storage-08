@@ -1,11 +1,11 @@
 {
   "name": "flask-inputfilter",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "A library to easily filter and validate input data in Flask applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flask_inputfilter-0.7.3.tar.gz",
-  "download_time": "2025-10-08T13:46:35.620535",
+  "download_filename": "flask_inputfilter-0.7.4.tar.gz",
+  "download_time": "2025-10-08T19:59:55.680442",
   "package_url": "https://pypi.org/project/flask-inputfilter/"
 }

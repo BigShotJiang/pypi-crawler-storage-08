@@ -1,0 +1,11 @@
+{
+  "name": "mabel",
+  "version": "0.6.28",
+  "summary": "Python Data Libraries",
+  "author": "joocer",
+  "license": null,
+  "home_page": "https://github.com/mabel-dev/mabel/",
+  "download_filename": "mabel-0.6.28.tar.gz",
+  "download_time": "2025-10-08T19:59:24.264922",
+  "package_url": "https://pypi.org/project/mabel/"
+}

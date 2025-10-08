@@ -1,0 +1,11 @@
+{
+  "name": "deepinv",
+  "version": "0.3.5",
+  "summary": "DeepInverse: a PyTorch library for imaging with deep learning",
+  "author": "DeepInverse maintainers (see https://github.com/deepinv/deepinv/blob/main/MAINTAINERS.md)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepinv-0.3.5.tar.gz",
+  "download_time": "2025-10-08T19:59:45.323559",
+  "package_url": "https://pypi.org/project/deepinv/"
+}

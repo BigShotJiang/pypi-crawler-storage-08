@@ -1,0 +1,11 @@
+{
+  "name": "policystack-cli",
+  "version": "0.3.0",
+  "summary": "CLI tool for PolicyStack marketplace - discover, search and install configuration templates",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "policystack_cli-0.3.0.tar.gz",
+  "download_time": "2025-10-08T19:59:37.580183",
+  "package_url": "https://pypi.org/project/policystack-cli/"
+}

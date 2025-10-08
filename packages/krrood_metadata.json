@@ -1,0 +1,11 @@
+{
+  "name": "krrood",
+  "version": "0.1.0",
+  "summary": "A university data generator based on the LUBM (Lehigh University Benchmark) ontology",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "krrood-0.1.0.tar.gz",
+  "download_time": "2025-10-08T19:59:35.757271",
+  "package_url": "https://pypi.org/project/krrood/"
+}
