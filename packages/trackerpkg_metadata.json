@@ -1,0 +1,11 @@
+{
+  "name": "trackerpkg",
+  "version": "1.0.0",
+  "summary": "Token and resource usage tracker for OpenAI API calls with weighted dynabits calculation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trackerpkg-1.0.0.tar.gz",
+  "download_time": "2025-10-08T08:27:36.962157",
+  "package_url": "https://pypi.org/project/trackerpkg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hyperflask",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Full stack web framework",
   "author": "Maxime Bouroumeau-Fuseau",
   "license": null,
   "home_page": null,
-  "download_filename": "hyperflask-0.4.1.tar.gz",
-  "download_time": "2025-10-07T15:20:56.898183",
+  "download_filename": "hyperflask-0.4.2.tar.gz",
+  "download_time": "2025-10-08T08:27:58.263076",
   "package_url": "https://pypi.org/project/hyperflask/"
 }

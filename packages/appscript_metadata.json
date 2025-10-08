@@ -1,0 +1,11 @@
+{
+  "name": "appscript",
+  "version": "1.4.0",
+  "summary": "Control AppleScriptable applications from Python.",
+  "author": null,
+  "license": "Public Domain",
+  "home_page": "http://appscript.sourceforge.net",
+  "download_filename": "appscript-1.4.0.tar.gz",
+  "download_time": "2025-10-08T08:27:56.711052",
+  "package_url": "https://pypi.org/project/appscript/"
+}

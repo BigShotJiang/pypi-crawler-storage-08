@@ -1,0 +1,11 @@
+{
+  "name": "cytosim",
+  "version": "1.0.0",
+  "summary": "Cytosim: Langevin dynamics of active polymer networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cytosim-1.0.0.tar.gz",
+  "download_time": "2025-10-08T08:27:27.595566",
+  "package_url": "https://pypi.org/project/cytosim/"
+}

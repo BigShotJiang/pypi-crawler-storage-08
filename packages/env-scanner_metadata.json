@@ -1,0 +1,11 @@
+{
+  "name": "env-scanner",
+  "version": "0.1.1",
+  "summary": "Automatically scan Python projects for environment variables and generate .env-example files",
+  "author": "Ammar Munir",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/env-scanner",
+  "download_filename": "env_scanner-0.1.1.tar.gz",
+  "download_time": "2025-10-08T08:27:23.953334",
+  "package_url": "https://pypi.org/project/env-scanner/"
+}

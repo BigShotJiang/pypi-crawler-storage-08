@@ -1,0 +1,11 @@
+{
+  "name": "PhyPraKit",
+  "version": "1.2.10",
+  "summary": "Tools for data visualisation and analysis in Physics Lab Courses",
+  "author": "Guenter Quast",
+  "license": "GNU Public Licence",
+  "home_page": "http://www.etp.kit.edu/~quast/",
+  "download_filename": "PhyPraKit-1.2.10.tar.gz",
+  "download_time": "2025-10-08T08:27:49.988970",
+  "package_url": "https://pypi.org/project/PhyPraKit/"
+}

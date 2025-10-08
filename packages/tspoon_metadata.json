@@ -1,0 +1,11 @@
+{
+  "name": "tspoon",
+  "version": "0.2.10",
+  "summary": "Time-series pre-processing, period conversion, normalization, visualization, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tspoon-0.2.10-py3-none-any.whl",
+  "download_time": "2025-10-08T08:27:53.581877",
+  "package_url": "https://pypi.org/project/tspoon/"
+}
