@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-registry",
+  "version": "1.10.1",
+  "summary": "The HEA registry service.",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_registry-1.10.1.tar.gz",
+  "download_time": "2025-10-08T21:18:05.528739",
+  "package_url": "https://pypi.org/project/heaserver-registry/"
+}

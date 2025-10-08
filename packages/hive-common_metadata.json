@@ -1,0 +1,11 @@
+{
+  "name": "hive-common",
+  "version": "0.4.2",
+  "summary": "Common code for Hive libraries and services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hive_common-0.4.2.tar.gz",
+  "download_time": "2025-10-08T21:17:57.615431",
+  "package_url": "https://pypi.org/project/hive-common/"
+}

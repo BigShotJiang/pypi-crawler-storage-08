@@ -1,0 +1,11 @@
+{
+  "name": "compintpy",
+  "version": "0.0.5",
+  "summary": "Python bindings for compintc: A variable length compression algorithm.",
+  "author": "Jeffrey Wigger",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/JeffWigger/compintpy",
+  "download_filename": "compintpy-0.0.5.tar.gz",
+  "download_time": "2025-10-08T21:18:19.906362",
+  "package_url": "https://pypi.org/project/compintpy/"
+}

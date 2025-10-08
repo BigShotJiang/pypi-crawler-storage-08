@@ -1,0 +1,11 @@
+{
+  "name": "parsnip-cif",
+  "version": "0.4.1",
+  "summary": "Minimal library for parsing CIF & mmCIF files in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parsnip_cif-0.4.1.tar.gz",
+  "download_time": "2025-10-08T21:18:32.682031",
+  "package_url": "https://pypi.org/project/parsnip-cif/"
+}

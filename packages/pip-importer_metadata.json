@@ -1,0 +1,11 @@
+{
+  "name": "pip-importer",
+  "version": "0.1.0",
+  "summary": "This is pip-importer, which can import a package, or pip install first if the package does not exist.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pip_importer-0.1.0.tar.gz",
+  "download_time": "2025-10-08T21:18:08.742335",
+  "package_url": "https://pypi.org/project/pip-importer/"
+}

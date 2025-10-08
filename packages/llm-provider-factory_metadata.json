@@ -1,11 +1,11 @@
 {
   "name": "llm-provider-factory",
-  "version": "0.1.1",
-  "summary": "A unified interface for multiple LLM providers (OpenAI, Anthropic, Gemini, etc.)",
+  "version": "0.3.0",
+  "summary": "A unified interface for multiple LLM providers (OpenAI, Anthropic, Gemini, VertexAI with Mistral support)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_provider_factory-0.1.1.tar.gz",
-  "download_time": "2025-10-08T18:52:53.934128",
+  "download_filename": "llm_provider_factory-0.3.0.tar.gz",
+  "download_time": "2025-10-08T21:18:14.611553",
   "package_url": "https://pypi.org/project/llm-provider-factory/"
 }
