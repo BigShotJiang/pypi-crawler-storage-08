@@ -1,13 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T06:31:05.533251
-- **Total Packages**: 95
-- **Total Size**: 49.26 MB
+- **Download Time**: 2025-10-08T06:52:00.446194
+- **Total Packages**: 91
+- **Total Size**: 24.94 MB
 
 ## Packages List
-- snippy-nextgen
+- apify-client
+- pulumi-opsgenie
+- ai-creature-lang
+- ZAmino.fix
+- pulumi-openstack
+- bluer-sbc
+- pozansky-stock-server
+- starlasu-specs
+- lib-my-sol-test
+- crawlee
+- bg4h
+- osu.py
 - authentik-client
+- taxman-lib
+- evileye
+- oarepo-ui
+- pulumi-null
+- shinkuro
+- pulumi-nomad
+- pulumi-newrelic
+- Rmoney_bhavcopy
+- albert
+- pulumi-ns1
+- raga-canvas-cli
+- pulumi-mongodbatlas
+- pulumi-meraki
+- pulumi-mysql
+- MeoX
+- InvokeAI
+- langbot-plugin
+- statickg
+- varray
+- sfn-exec-mcp
+- ffmpy
+- sphinx-svgio
+- pulumi-minio
+- cxstat
+- castpfoldpy
+- pulumi-juniper-mist
+- pulumi-docker
+- taxman-common
+- pulumi-linode
+- pulumi-cloudinit
+- pulumi-mailgun
+- snippy-nextgen
 - sleipnirgroup-jormungandr
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
@@ -35,7 +78,6 @@
 - pulumi-hcloud
 - pulumi-docker-build
 - drepr-v2
-- pozansky-stock-server
 - pulumi-ise
 - greenstream-config
 - pulumi-http
@@ -55,49 +97,3 @@
 - pulumi-github
 - z3c.rml
 - pymetaf
-- pyg-nightly
-- python-dbusmock
-- pulumi-fastly
-- jax-vocos
-- django-codenerix-email
-- lance-namespace-urllib3-client
-- lance-namespace
-- ollm
-- openspeleo-core
-- wybthon
-- pulumi-digitalocean
-- friendly-module-not-found-error
-- pulumi-f5bigip
-- ss-dbcache
-- pulumi-databricks
-- tensorkube
-- pulumi-external
-- ai-agent-manager
-- openhive
-- Albion-GLS
-- vectorwrap
-- syft-flwr
-- pulumi-dnsimple
-- dashio
-- wayspiritmcp-weather
-- dvlogger
-- oshconnect
-- dfm-tools
-- pulumi-dbtcloud
-- wattleflow-workflow
-- zignal-processing
-- pgpack-dumper
-- mygame-mahes222
-- moleditpy
-- jj-pre-push
-- temporal-activity-cache
-- shipit-cli
-- pulumi-consul
-- whisper-ai-zxs
-- grainsize
-- pulumi-confluentcloud
-- pulumi-cloudngfwaws
-- libdatachannel-py
-- repairwheel
-- pyturso
-- openroute-mcp

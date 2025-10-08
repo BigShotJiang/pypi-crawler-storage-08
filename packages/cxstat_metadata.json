@@ -1,11 +1,11 @@
 {
   "name": "cxstat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Token usage analytics for Codex CLI sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cxstat-0.1.0.tar.gz",
-  "download_time": "2025-10-08T02:44:09.477934",
+  "download_filename": "cxstat-0.1.1.tar.gz",
+  "download_time": "2025-10-08T06:51:32.138363",
   "package_url": "https://pypi.org/project/cxstat/"
 }
