@@ -1,0 +1,11 @@
+{
+  "name": "pyquil",
+  "version": "4.17.0",
+  "summary": "A Python library for creating Quantum Instruction Language (Quil) programs.",
+  "author": "Rigetti Computing",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rigetti/pyquil.git",
+  "download_filename": "pyquil-4.17.0.tar.gz",
+  "download_time": "2025-10-08T21:52:18.253723",
+  "package_url": "https://pypi.org/project/pyquil/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "terminal-mcp-server",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "summary": "Smart terminal session management for AI assistants",
   "author": "kanniganfan",
   "license": "MIT",
   "home_page": "https://github.com/kanniganfan/terminal-mcp",
-  "download_filename": "terminal_mcp_server-1.1.2.tar.gz",
-  "download_time": "2025-10-08T21:17:58.657534",
+  "download_filename": "terminal_mcp_server-1.1.6.tar.gz",
+  "download_time": "2025-10-08T21:52:07.404557",
   "package_url": "https://pypi.org/project/terminal-mcp-server/"
 }

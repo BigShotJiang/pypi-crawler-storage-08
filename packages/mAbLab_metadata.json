@@ -1,11 +1,11 @@
 {
   "name": "mAbLab",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "A library for analyzing monoclonal antibody characteristics by domain.",
   "author": "R. Paul Nobrega",
   "license": null,
   "home_page": "https://github.com/PaulNobrega/mAbLab",
-  "download_filename": "mablab-1.0.8.tar.gz",
-  "download_time": "2025-10-08T21:18:01.289331",
+  "download_filename": "mablab-1.0.9.tar.gz",
+  "download_time": "2025-10-08T21:52:21.802841",
   "package_url": "https://pypi.org/project/mAbLab/"
 }
