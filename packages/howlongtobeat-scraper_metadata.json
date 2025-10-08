@@ -1,11 +1,11 @@
 {
   "name": "howlongtobeat-scraper",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Un scraper para obtener los tiempos de juego desde HowLongToBeat.com.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "howlongtobeat_scraper-1.1.1.tar.gz",
-  "download_time": "2025-10-08T10:54:25.966666",
+  "download_filename": "howlongtobeat_scraper-1.1.2.tar.gz",
+  "download_time": "2025-10-08T11:52:12.304533",
   "package_url": "https://pypi.org/project/howlongtobeat-scraper/"
 }

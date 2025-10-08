@@ -1,11 +1,11 @@
 {
   "name": "fastapi-cacher",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A caching library for FastAPI",
   "author": "Fahad Mawlood",
   "license": null,
   "home_page": "https://github.com/Fahadukr/fastapi-cacher",
-  "download_filename": "fastapi-cacher-0.3.2.tar.gz",
-  "download_time": "2025-10-08T11:39:00.746828",
+  "download_filename": "fastapi_cacher-0.3.3.tar.gz",
+  "download_time": "2025-10-08T11:52:18.698954",
   "package_url": "https://pypi.org/project/fastapi-cacher/"
 }

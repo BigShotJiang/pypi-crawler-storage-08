@@ -1,11 +1,11 @@
 {
   "name": "agi-env",
-  "version": "0.8.19",
+  "version": "0.8.22",
   "summary": "AGI Env",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_env-0.8.19-py3-none-any.whl",
-  "download_time": "2025-10-08T11:38:23.932877",
+  "download_filename": "agi_env-0.8.22-py3-none-any.whl",
+  "download_time": "2025-10-08T11:51:52.727548",
   "package_url": "https://pypi.org/project/agi-env/"
 }

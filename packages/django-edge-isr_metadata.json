@@ -1,0 +1,11 @@
+{
+  "name": "django-edge-isr",
+  "version": "0.0.8",
+  "summary": "Incremental Static Revalidation for Django (SWR + tag-based invalidation + warmup + CDN connectors).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_edge_isr-0.0.8.tar.gz",
+  "download_time": "2025-10-08T11:51:47.517517",
+  "package_url": "https://pypi.org/project/django-edge-isr/"
+}
