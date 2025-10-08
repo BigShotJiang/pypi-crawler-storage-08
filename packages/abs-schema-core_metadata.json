@@ -1,0 +1,11 @@
+{
+  "name": "abs-schema-core",
+  "version": "0.1.4",
+  "summary": "AutoBridge Systems Schema Library",
+  "author": "AutoBridgeSystems",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abs_schema_core-0.1.4.tar.gz",
+  "download_time": "2025-10-08T13:19:41.354989",
+  "package_url": "https://pypi.org/project/abs-schema-core/"
+}

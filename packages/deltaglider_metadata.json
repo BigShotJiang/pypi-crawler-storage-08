@@ -1,11 +1,11 @@
 {
   "name": "deltaglider",
-  "version": "4.2.3",
+  "version": "5.0.0",
   "summary": "Store 4TB in 5GB: S3-compatible storage with 99.9% compression for versioned files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deltaglider-4.2.3.tar.gz",
-  "download_time": "2025-10-08T05:41:18.089858",
+  "download_filename": "deltaglider-5.0.0.tar.gz",
+  "download_time": "2025-10-08T13:19:35.106952",
   "package_url": "https://pypi.org/project/deltaglider/"
 }

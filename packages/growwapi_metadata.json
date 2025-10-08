@@ -1,0 +1,11 @@
+{
+  "name": "growwapi",
+  "version": "1.1.0",
+  "summary": "The foundational SDK for accessing Groww APIs and listening to live data streams. This package provides the core functionalities required to interact with Groww's trading platform.",
+  "author": "Groww",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "growwapi-1.1.0.tar.gz",
+  "download_time": "2025-10-08T13:19:24.462057",
+  "package_url": "https://pypi.org/project/growwapi/"
+}

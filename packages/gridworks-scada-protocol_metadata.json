@@ -1,0 +1,11 @@
+{
+  "name": "gridworks-scada-protocol",
+  "version": "1.0.1",
+  "summary": "Data structures used in messages between gridworks-scada devices, the gridworks ATN and the gridworks-admin monitoring CLI.",
+  "author": "Jessica Millar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gridworks_scada_protocol-1.0.1.tar.gz",
+  "download_time": "2025-10-08T13:19:27.228004",
+  "package_url": "https://pypi.org/project/gridworks-scada-protocol/"
+}

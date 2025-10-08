@@ -1,0 +1,11 @@
+{
+  "name": "weaviate-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server for Weaviate vector database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weaviate_mcp-0.1.4.tar.gz",
+  "download_time": "2025-10-08T13:19:02.915298",
+  "package_url": "https://pypi.org/project/weaviate-mcp/"
+}

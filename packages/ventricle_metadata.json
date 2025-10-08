@@ -1,0 +1,11 @@
+{
+  "name": "ventricle",
+  "version": "0.0.10",
+  "summary": "An opinionated modern async server, worker and scheduler",
+  "author": "Bobby Lange",
+  "license": null,
+  "home_page": "https://github.com/LangeRobert/ventricle",
+  "download_filename": "ventricle-0.0.10.tar.gz",
+  "download_time": "2025-10-08T13:19:44.301510",
+  "package_url": "https://pypi.org/project/ventricle/"
+}

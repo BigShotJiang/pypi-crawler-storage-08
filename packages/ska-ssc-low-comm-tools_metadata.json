@@ -1,11 +1,11 @@
 {
   "name": "ska-ssc-low-comm-tools",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "SKA-Low Commissioning Tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ska_ssc_low_comm_tools-1.1.1-py3-none-any.whl",
-  "download_time": "2025-10-08T11:17:02.960401",
+  "download_filename": "ska_ssc_low_comm_tools-1.1.2-py3-none-any.whl",
+  "download_time": "2025-10-08T13:19:45.935216",
   "package_url": "https://pypi.org/project/ska-ssc-low-comm-tools/"
 }
