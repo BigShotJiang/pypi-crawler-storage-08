@@ -1,0 +1,11 @@
+{
+  "name": "fdsnwsscripts",
+  "version": "2025.282",
+  "summary": "fdsnwsscripts: Scripts for working with (EIDA) FDSN web services",
+  "author": "Andres Heinloo",
+  "license": "GPLv3",
+  "home_page": "https://geofon.gfz-potsdam.de/software/fdsnws_scripts",
+  "download_filename": "fdsnwsscripts-2025.282.tar.gz",
+  "download_time": "2025-10-08T18:30:37.488774",
+  "package_url": "https://pypi.org/project/fdsnwsscripts/"
+}

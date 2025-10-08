@@ -1,0 +1,11 @@
+{
+  "name": "coopgame",
+  "version": "1.18",
+  "summary": "Tooling and templates used for building games",
+  "author": "tburns",
+  "license": "MIT",
+  "home_page": "https://github.com/tylertjburns/coopgame",
+  "download_filename": "coopgame-1.18.tar.gz",
+  "download_time": "2025-10-08T18:30:51.751255",
+  "package_url": "https://pypi.org/project/coopgame/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hdf5plugin",
+  "version": "6.0.0",
+  "summary": "HDF5 Plugins for Windows, MacOS, and Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdf5plugin-6.0.0-py3-none-win_amd64.whl",
+  "download_time": "2025-10-08T18:30:50.192330",
+  "package_url": "https://pypi.org/project/hdf5plugin/"
+}

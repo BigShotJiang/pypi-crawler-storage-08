@@ -1,0 +1,11 @@
+{
+  "name": "techlens-cache-utils",
+  "version": "0.2.0",
+  "summary": "This tool memoizes data to sqlite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "techlens_cache_utils-0.2.0.tar.gz",
+  "download_time": "2025-10-08T18:30:22.531868",
+  "package_url": "https://pypi.org/project/techlens-cache-utils/"
+}

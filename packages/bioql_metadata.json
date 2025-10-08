@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "5.4.2",
-  "summary": "Enterprise Quantum Computing v5.4.2 - BENCHMARK VALIDATED: IBM Torino 133q (10k shots, 99.7% fidelity), Chemical Filters (Lipinski/PAINS/Brenk), DE NOVO Drug Design V2, REAL AutoDock Vina, Disease-Specific Libraries, Full QEC Control",
+  "version": "5.5.0",
+  "summary": "Enterprise Quantum Computing v5.5.0 - CLINICAL CRISPR THERAPY DESIGN: 20+ genes (NCBI sequences), CFD off-target scoring, AAV/LNP delivery optimization, IND documentation, IBM Torino 133q (10k shots, 99.7% fidelity), DE NOVO Drug Design V2, Real AutoDock Vina",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-5.4.2.tar.gz",
-  "download_time": "2025-10-08T03:21:28.126925",
+  "download_filename": "bioql-5.5.0.tar.gz",
+  "download_time": "2025-10-08T18:30:55.390660",
   "package_url": "https://pypi.org/project/bioql/"
 }

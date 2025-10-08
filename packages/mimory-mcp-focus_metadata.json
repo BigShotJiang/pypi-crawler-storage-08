@@ -1,0 +1,11 @@
+{
+  "name": "mimory-mcp-focus",
+  "version": "0.1.1",
+  "summary": "Focus-enforcing wrapper for MCP Python clients (dict-based param and tool allowlists).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mimory_mcp_focus-0.1.1.tar.gz",
+  "download_time": "2025-10-08T18:30:53.826618",
+  "package_url": "https://pypi.org/project/mimory-mcp-focus/"
+}

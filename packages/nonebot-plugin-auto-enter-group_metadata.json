@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-auto-enter-group",
+  "version": "1.0.1",
+  "summary": "NoneBot2 加群自动审批",
+  "author": "padoru233",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_auto_enter_group-1.0.1.tar.gz",
+  "download_time": "2025-10-08T18:30:28.531178",
+  "package_url": "https://pypi.org/project/nonebot-plugin-auto-enter-group/"
+}
