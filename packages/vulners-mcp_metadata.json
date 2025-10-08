@@ -1,0 +1,11 @@
+{
+  "name": "vulners-mcp",
+  "version": "1.0.0",
+  "summary": "MCP interface server fronting the Vulners API (https://vulners.com)",
+  "author": "Vulners Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vulners_mcp-1.0.0.tar.gz",
+  "download_time": "2025-10-08T14:56:12.512247",
+  "package_url": "https://pypi.org/project/vulners-mcp/"
+}

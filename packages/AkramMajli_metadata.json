@@ -1,11 +1,11 @@
 {
   "name": "AkramMajli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library with examples, functions, and plots.",
   "author": "Akram Majli",
   "license": "MIT",
   "home_page": "https://example.com",
-  "download_filename": "akrammajli-0.1.0.tar.gz",
-  "download_time": "2025-10-08T14:45:59.954195",
+  "download_filename": "akrammajli-0.2.0.tar.gz",
+  "download_time": "2025-10-08T14:56:36.908011",
   "package_url": "https://pypi.org/project/AkramMajli/"
 }

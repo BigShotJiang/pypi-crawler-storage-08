@@ -1,0 +1,11 @@
+{
+  "name": "turkle-client",
+  "version": "0.5.0",
+  "summary": "Client for the Turkle REST API",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "turkle_client-0.5.0.tar.gz",
+  "download_time": "2025-10-08T14:56:09.580787",
+  "package_url": "https://pypi.org/project/turkle-client/"
+}

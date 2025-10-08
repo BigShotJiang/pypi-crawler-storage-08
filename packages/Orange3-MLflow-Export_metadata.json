@@ -5,7 +5,7 @@
   "author": "NIRLAB AG",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/NIRLab-com/mlflow-model-widget",
-  "download_filename": "orange3_mlflow_export-0.6.4-py3-none-any.whl",
-  "download_time": "2025-10-08T14:45:45.576536",
+  "download_filename": "orange3_mlflow_export-0.6.4.tar.gz",
+  "download_time": "2025-10-08T14:56:52.659315",
   "package_url": "https://pypi.org/project/Orange3-MLflow-Export/"
 }
