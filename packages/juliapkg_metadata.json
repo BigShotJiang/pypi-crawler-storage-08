@@ -1,11 +1,11 @@
 {
   "name": "juliapkg",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Julia version manager and package manager",
   "author": "Christopher Doris",
   "license": null,
   "home_page": null,
-  "download_filename": "juliapkg-0.1.21.tar.gz",
-  "download_time": "2025-10-08T11:39:01.788056",
+  "download_filename": "juliapkg-0.1.22.tar.gz",
+  "download_time": "2025-10-08T20:22:35.673523",
   "package_url": "https://pypi.org/project/juliapkg/"
 }

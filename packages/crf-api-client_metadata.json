@@ -1,0 +1,11 @@
+{
+  "name": "crf-api-client",
+  "version": "0.0.22",
+  "summary": "A client for the CRF API",
+  "author": "CRF",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crf_api_client-0.0.22.tar.gz",
+  "download_time": "2025-10-08T20:22:23.946604",
+  "package_url": "https://pypi.org/project/crf-api-client/"
+}

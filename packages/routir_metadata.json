@@ -1,11 +1,11 @@
 {
   "name": "routir",
-  "version": "0.0.1b0",
+  "version": "0.0.1b1",
   "summary": "A simple and fast search service for hosting state-of-the-art retrieval models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "routir-0.0.1b0.tar.gz",
-  "download_time": "2025-10-08T19:59:38.160166",
+  "download_filename": "routir-0.0.1b1.tar.gz",
+  "download_time": "2025-10-08T20:23:01.131048",
   "package_url": "https://pypi.org/project/routir/"
 }

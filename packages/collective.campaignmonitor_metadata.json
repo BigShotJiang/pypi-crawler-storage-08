@@ -1,0 +1,11 @@
+{
+  "name": "collective.campaignmonitor",
+  "version": "2.0.0",
+  "summary": "CampaignMonitor integration for Plone",
+  "author": "Mikel Larreategi",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.campaignmonitor",
+  "download_filename": "collective_campaignmonitor-2.0.0.tar.gz",
+  "download_time": "2025-10-08T20:22:28.140910",
+  "package_url": "https://pypi.org/project/collective.campaignmonitor/"
+}

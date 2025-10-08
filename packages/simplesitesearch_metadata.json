@@ -1,11 +1,11 @@
 {
   "name": "simplesitesearch",
-  "version": "1.0.0",
-  "summary": "A simple Django app for site search functionality with Django CMS integration",
-  "author": "Your Name",
+  "version": "1.0.2",
+  "summary": "Reptile Simple Site Search django app",
+  "author": "Reptile Tech",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/simplesitesearch",
-  "download_filename": "simplesitesearch-1.0.0.tar.gz",
-  "download_time": "2025-10-08T17:41:26.131008",
+  "home_page": "https://github.com/reptiletech/simplesitesearch",
+  "download_filename": "simplesitesearch-1.0.2.tar.gz",
+  "download_time": "2025-10-08T20:22:38.555235",
   "package_url": "https://pypi.org/project/simplesitesearch/"
 }
