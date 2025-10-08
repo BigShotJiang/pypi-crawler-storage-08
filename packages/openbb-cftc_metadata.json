@@ -1,0 +1,11 @@
+{
+  "name": "openbb-cftc",
+  "version": "1.2.0",
+  "summary": "The mission of the Commodity Futures Trading Commission (CFTC) is to promote the integrity, resilience, and vibrancy of the U.S. derivatives markets through sound regulation.",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_cftc-1.2.0.tar.gz",
+  "download_time": "2025-10-08T16:47:50.376826",
+  "package_url": "https://pypi.org/project/openbb-cftc/"
+}

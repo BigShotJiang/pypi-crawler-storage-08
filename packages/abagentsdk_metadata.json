@@ -1,11 +1,11 @@
 {
   "name": "abagentsdk",
-  "version": "0.8",
+  "version": "0.8.1",
   "summary": "The fastest way to build AI agents using Google Gemini",
   "author": "Abu Bakar",
   "license": "MIT",
   "home_page": "https://github.com/ABZAgent/abzagentsdk",
-  "download_filename": "abagentsdk-0.8.tar.gz",
-  "download_time": "2025-10-08T10:43:47.121809",
+  "download_filename": "abagentsdk-0.8.1.tar.gz",
+  "download_time": "2025-10-08T16:47:44.167146",
   "package_url": "https://pypi.org/project/abagentsdk/"
 }

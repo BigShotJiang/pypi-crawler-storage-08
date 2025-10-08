@@ -1,11 +1,11 @@
 {
   "name": "agilab",
-  "version": "2025.10.8.post4",
+  "version": "2025.10.8.post5",
   "summary": "AGILAB is a PyCharm‑integrated AI experimentation lab for engineering (requires PyCharm for full workflow)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agilab-2025.10.8.post4-py3-none-any.whl",
-  "download_time": "2025-10-08T16:25:15.920535",
+  "download_filename": "agilab-2025.10.8.post5-py3-none-any.whl",
+  "download_time": "2025-10-08T16:47:15.676134",
   "package_url": "https://pypi.org/project/agilab/"
 }

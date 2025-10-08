@@ -1,0 +1,11 @@
+{
+  "name": "openbb-deribit",
+  "version": "1.1.0",
+  "summary": "Deribit is a crypto-native derivatives exchange.",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_deribit-1.1.0.tar.gz",
+  "download_time": "2025-10-08T16:47:48.694493",
+  "package_url": "https://pypi.org/project/openbb-deribit/"
+}

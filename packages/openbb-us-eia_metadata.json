@@ -1,0 +1,11 @@
+{
+  "name": "openbb-us-eia",
+  "version": "1.2.0",
+  "summary": "The U.S. Energy Information Administration is committed to its free and open data by making it available through an Application Programming Interface (API) and its open data tools. See https://www.eia.gov/opendata/ for more information.",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_us_eia-1.2.0.tar.gz",
+  "download_time": "2025-10-08T16:47:47.010452",
+  "package_url": "https://pypi.org/project/openbb-us-eia/"
+}

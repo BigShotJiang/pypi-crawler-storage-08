@@ -1,0 +1,11 @@
+{
+  "name": "openbb-wsj",
+  "version": "1.5.0",
+  "summary": "wsj extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_wsj-1.5.0.tar.gz",
+  "download_time": "2025-10-08T16:47:27.781237",
+  "package_url": "https://pypi.org/project/openbb-wsj/"
+}

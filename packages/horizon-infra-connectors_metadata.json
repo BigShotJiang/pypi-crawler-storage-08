@@ -1,0 +1,11 @@
+{
+  "name": "horizon-infra-connectors",
+  "version": "0.0.0.1.dev1",
+  "summary": "Async helpers that wrap Argo CD, Git providers, and Vault APIs.",
+  "author": "Yehonatan Magen, Alon Elimelech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "horizon_infra_connectors-0.0.0.1.dev1.tar.gz",
+  "download_time": "2025-10-08T16:47:14.130933",
+  "package_url": "https://pypi.org/project/horizon-infra-connectors/"
+}

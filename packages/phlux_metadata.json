@@ -1,0 +1,11 @@
+{
+  "name": "phlux",
+  "version": "0.0.1",
+  "summary": "A simple 3d rendering engine for python.",
+  "author": "Muhammad Usman",
+  "license": "MIT",
+  "home_page": "https://github.com/m-usman-k/phlux",
+  "download_filename": "phlux-0.0.1.tar.gz",
+  "download_time": "2025-10-08T16:47:20.926498",
+  "package_url": "https://pypi.org/project/phlux/"
+}
