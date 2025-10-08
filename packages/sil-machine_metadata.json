@@ -1,0 +1,11 @@
+{
+  "name": "sil-machine",
+  "version": "1.8.4",
+  "summary": "A natural language processing library that is focused on providing tools for resource-poor languages.",
+  "author": "SIL International",
+  "license": "MIT",
+  "home_page": "https://github.com/sillsdev/machine.py",
+  "download_filename": "sil_machine-1.8.4.tar.gz",
+  "download_time": "2025-10-08T14:20:56.225775",
+  "package_url": "https://pypi.org/project/sil-machine/"
+}

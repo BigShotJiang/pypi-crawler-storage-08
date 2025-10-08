@@ -1,11 +1,11 @@
 {
   "name": "calculator-doug-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Biblioteca de operações matemáticas básicas em Python.",
   "author": "Douglas Lima",
   "license": null,
   "home_page": "https://github.com/douglasbolis/ps_calculadora_lib",
-  "download_filename": "calculator_doug_lib-0.1.0.tar.gz",
-  "download_time": "2025-10-08T13:46:22.043054",
+  "download_filename": "calculator_doug_lib-0.1.1.tar.gz",
+  "download_time": "2025-10-08T14:21:05.626534",
   "package_url": "https://pypi.org/project/calculator-doug-lib/"
 }

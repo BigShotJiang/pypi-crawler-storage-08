@@ -1,0 +1,11 @@
+{
+  "name": "comed",
+  "version": "2.1.1",
+  "summary": "CoMed: A framework for analyzing co-medication risks using Chain-of-Thought reasoning. FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY - NOT FOR CLINICAL USE.",
+  "author": "Studentiz",
+  "license": null,
+  "home_page": "https://github.com/studentiz/comed",
+  "download_filename": "comed-2.1.1.tar.gz",
+  "download_time": "2025-10-08T14:20:46.718644",
+  "package_url": "https://pypi.org/project/comed/"
+}

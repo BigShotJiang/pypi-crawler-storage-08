@@ -1,11 +1,11 @@
 {
   "name": "calculator-xyz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Biblioteca de operações matemáticas básicas em Python.",
   "author": "Vitor Ramos",
   "license": null,
   "home_page": "https://github.com/paulossjunior/calculatora-fastapi-lib",
-  "download_filename": "calculator_xyz-0.1.0.tar.gz",
-  "download_time": "2025-10-08T13:46:36.669545",
+  "download_filename": "calculator_xyz-0.1.1.tar.gz",
+  "download_time": "2025-10-08T14:20:57.283744",
   "package_url": "https://pypi.org/project/calculator-xyz/"
 }

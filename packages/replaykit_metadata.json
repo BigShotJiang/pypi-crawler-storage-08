@@ -1,0 +1,11 @@
+{
+  "name": "replaykit",
+  "version": "0.2.0",
+  "summary": "Record and replay mouse, keyboard, and scroll actions for automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "replaykit-0.2.0.tar.gz",
+  "download_time": "2025-10-08T14:20:54.563265",
+  "package_url": "https://pypi.org/project/replaykit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sdeper",
+  "version": "1.7.1",
+  "summary": "Spatial Deconvolution method with Platform Effect Removal",
+  "author": "Ningshan Li",
+  "license": null,
+  "home_page": "https://az7jh2.github.io/SDePER/",
+  "download_filename": "sdeper-1.7.1.tar.gz",
+  "download_time": "2025-10-08T14:20:37.738454",
+  "package_url": "https://pypi.org/project/sdeper/"
+}

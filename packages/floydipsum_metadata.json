@@ -1,0 +1,11 @@
+{
+  "name": "floydipsum",
+  "version": "0.1.0",
+  "summary": "Generates Lorem Ipsum text using Pink Floyd lyrics",
+  "author": "Steve Scholnick",
+  "license": null,
+  "home_page": "https://pypi.org/project/floydipsum/",
+  "download_filename": "floydipsum-0.1.0.tar.gz",
+  "download_time": "2025-10-08T14:20:47.237412",
+  "package_url": "https://pypi.org/project/floydipsum/"
+}

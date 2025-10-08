@@ -1,0 +1,11 @@
+{
+  "name": "mutwo.mmml",
+  "version": "0.9.0",
+  "summary": "MMML extension for event based framework for generative art",
+  "author": "Levin Eric Zimmermann",
+  "license": "GPL",
+  "home_page": "https://github.com/mutwo-org/mutwo.ext",
+  "download_filename": "mutwo_mmml-0.9.0.tar.gz",
+  "download_time": "2025-10-08T14:21:00.408465",
+  "package_url": "https://pypi.org/project/mutwo.mmml/"
+}

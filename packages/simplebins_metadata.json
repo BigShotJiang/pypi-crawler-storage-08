@@ -1,0 +1,11 @@
+{
+  "name": "simplebins",
+  "version": "0.3.0",
+  "summary": "A lightweight Python package to discretize numeric values into bins, similar to pandas.cut(), but simpler and more intuitive.",
+  "author": "Marius Kaffai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simplebins-0.3.0.tar.gz",
+  "download_time": "2025-10-08T14:20:24.114169",
+  "package_url": "https://pypi.org/project/simplebins/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "calculator-lib-fastpedro",
+  "version": "0.1.1",
+  "summary": "Biblioteca de operações matemáticas básicas em Python.",
+  "author": "Pedro Renã da Silva Moreira",
+  "license": null,
+  "home_page": "https://github.com/Pedrordsm/Calculadora_Simples_fastAPI",
+  "download_filename": "calculator_lib_fastpedro-0.1.1.tar.gz",
+  "download_time": "2025-10-08T14:21:07.187522",
+  "package_url": "https://pypi.org/project/calculator-lib-fastpedro/"
+}
