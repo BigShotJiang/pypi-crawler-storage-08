@@ -1,0 +1,11 @@
+{
+  "name": "DAWG2",
+  "version": "0.13.3",
+  "summary": "Fast and memory efficient DAWG (DAFSA) for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dawg2-0.13.3.tar.gz",
+  "download_time": "2025-10-08T12:42:10.588386",
+  "package_url": "https://pypi.org/project/DAWG2/"
+}

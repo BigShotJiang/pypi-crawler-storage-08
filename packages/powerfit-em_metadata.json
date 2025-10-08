@@ -1,11 +1,11 @@
 {
   "name": "powerfit-em",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Rigid body fitting of high-resolution structures in low-resolution cryo-electron microscopy density maps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "powerfit_em-4.0.0.tar.gz",
-  "download_time": "2025-10-08T10:43:43.046677",
+  "download_filename": "powerfit_em-4.0.1.tar.gz",
+  "download_time": "2025-10-08T12:41:49.394205",
   "package_url": "https://pypi.org/project/powerfit-em/"
 }

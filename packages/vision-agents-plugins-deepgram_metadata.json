@@ -1,0 +1,11 @@
+{
+  "name": "vision-agents-plugins-deepgram",
+  "version": "0.0.12",
+  "summary": "Deepgram STT integration for Vision Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vision_agents_plugins_deepgram-0.0.12.tar.gz",
+  "download_time": "2025-10-08T12:41:57.578135",
+  "package_url": "https://pypi.org/project/vision-agents-plugins-deepgram/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inopyutils",
-  "version": "0.2.7",
+  "version": "1.1.1",
   "summary": "A comprehensive Python utility library for S3 storage, media processing, file management, configuration, and logging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inopyutils-0.2.7.tar.gz",
-  "download_time": "2025-10-07T09:31:54.214274",
+  "download_filename": "inopyutils-1.1.1.tar.gz",
+  "download_time": "2025-10-08T12:41:35.572508",
   "package_url": "https://pypi.org/project/inopyutils/"
 }

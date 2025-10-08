@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-line-cancel-sale-stock",
+  "version": "16.0.2.0.0",
+  "summary": "Sale cancel remaining stock",
+  "author": "Okia, BCIM, Camptocamp, ACSONE SA/NV, MT Software, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_line_cancel_sale_stock-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-10-08T12:42:07.699956",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-cancel-sale-stock/"
+}
