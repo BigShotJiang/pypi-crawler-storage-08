@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-10-08T19:16:36.142413",
+  "download_time": "2025-10-08T19:31:22.297351",
   "total_packages_downloaded": 83,
-  "total_size_mb": 32.33,
+  "total_size_mb": 2.22,
   "packages": [
-    "mat3ra-code",
-    "codex-resume",
     "iatoolkit",
     "flask-imagekitio",
     "free-views-telegram",
@@ -71,6 +69,7 @@
     "cc-clients-python-lib",
     "pr-install-pack",
     "spectralcubekit",
+    "MEDfl",
     "pytest-sigil",
     "pixel-patrol",
     "pretty-midi",
@@ -85,6 +84,7 @@
     "team-digest",
     "slthcore",
     "steamcom",
-    "mimory-mcp-focus-langchain"
+    "mimory-mcp-focus-langchain",
+    "pixel-patrol-base"
   ]
 }
