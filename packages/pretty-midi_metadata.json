@@ -1,0 +1,11 @@
+{
+  "name": "pretty-midi",
+  "version": "0.2.11",
+  "summary": "Functions and classes for handling MIDI data conveniently.",
+  "author": "Colin Raffel",
+  "license": "MIT",
+  "home_page": "https://github.com/craffel/pretty-midi",
+  "download_filename": "pretty_midi-0.2.11.tar.gz",
+  "download_time": "2025-10-08T19:16:27.947730",
+  "package_url": "https://pypi.org/project/pretty-midi/"
+}

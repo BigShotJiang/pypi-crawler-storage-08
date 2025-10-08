@@ -1,0 +1,11 @@
+{
+  "name": "amino.py.api",
+  "version": "0.9.8.2",
+  "summary": "Library for creating amino bots and scripts.",
+  "author": "Xsarz",
+  "license": "MIT",
+  "home_page": "https://github.com/xXxCLOTIxXx/amino.py",
+  "download_filename": "amino_py_api-0.9.8.2.tar.gz",
+  "download_time": "2025-10-08T19:15:58.869095",
+  "package_url": "https://pypi.org/project/amino.py.api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytme",
+  "version": "0.3.3",
+  "summary": "Python Template Matching Engine",
+  "author": "Valentin Maurer",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/KosinskiLab/pyTME",
+  "download_filename": "pytme-0.3.3.tar.gz",
+  "download_time": "2025-10-08T19:16:08.788252",
+  "package_url": "https://pypi.org/project/pytme/"
+}

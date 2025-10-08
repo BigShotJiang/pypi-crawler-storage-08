@@ -1,11 +1,11 @@
 {
   "name": "codex-resume",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Textual-based TUI to browse and resume Codex CLI sessions",
   "author": "darvell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codex_resume-0.4.1.tar.gz",
-  "download_time": "2025-10-08T17:52:13.052972",
+  "download_filename": "codex_resume-0.4.2.tar.gz",
+  "download_time": "2025-10-08T19:15:52.155463",
   "package_url": "https://pypi.org/project/codex-resume/"
 }

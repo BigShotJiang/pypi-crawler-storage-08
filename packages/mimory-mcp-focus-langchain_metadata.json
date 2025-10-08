@@ -1,0 +1,11 @@
+{
+  "name": "mimory-mcp-focus-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain integration for mimory-mcp-focus",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimory_mcp_focus_langchain-0.1.0.tar.gz",
+  "download_time": "2025-10-08T19:16:35.641495",
+  "package_url": "https://pypi.org/project/mimory-mcp-focus-langchain/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cachesaver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A caching library built with LLM experiments in mind",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cachesaver-0.0.1.tar.gz",
-  "download_time": "2025-10-08T18:52:58.285138",
+  "download_filename": "cachesaver-0.0.2.tar.gz",
+  "download_time": "2025-10-08T19:15:55.754384",
   "package_url": "https://pypi.org/project/cachesaver/"
 }

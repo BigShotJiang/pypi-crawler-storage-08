@@ -1,0 +1,11 @@
+{
+  "name": "pytrms",
+  "version": "0.9.8",
+  "summary": "Python bundle for proton-transfer reaction mass-spectrometry (PTR-MS).",
+  "author": "Moritz Koenemann",
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "pytrms-0.9.8.tar.gz",
+  "download_time": "2025-10-08T19:16:01.958955",
+  "package_url": "https://pypi.org/project/pytrms/"
+}

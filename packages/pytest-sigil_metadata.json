@@ -1,0 +1,11 @@
+{
+  "name": "pytest-sigil",
+  "version": "0.0.0",
+  "summary": "Proper fixture resource cleanup by handling signals",
+  "author": "lovetheguitar",
+  "license": "MIT",
+  "home_page": "https://github.com/hey-works/pytest-sigil",
+  "download_filename": "pytest_sigil-0.0.0.tar.gz",
+  "download_time": "2025-10-08T19:16:26.888565",
+  "package_url": "https://pypi.org/project/pytest-sigil/"
+}

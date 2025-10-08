@@ -1,0 +1,11 @@
+{
+  "name": "divent",
+  "version": "5.1.2",
+  "summary": "The discord scheduled event calendar generator",
+  "author": "Xéfir Destiny",
+  "license": "WTFPL",
+  "home_page": "https://divent.crystalyx.net/",
+  "download_filename": "divent-5.1.2.tar.gz",
+  "download_time": "2025-10-08T19:16:21.221682",
+  "package_url": "https://pypi.org/project/divent/"
+}

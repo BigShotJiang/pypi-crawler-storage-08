@@ -1,0 +1,11 @@
+{
+  "name": "mmfutils",
+  "version": "0.7.2",
+  "summary": "Small set of utilities: containers and interfaces.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mmfutils-0.7.2.tar.gz",
+  "download_time": "2025-10-08T19:16:31.536029",
+  "package_url": "https://pypi.org/project/mmfutils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "close-paving",
+  "version": "0.1",
+  "summary": "toolkit for hexagonal grid",
+  "author": "A.Star",
+  "license": "Apache v2.0",
+  "home_page": "https://gitee.com/hoops/close-paving",
+  "download_filename": "close_paving-0.1.tar.gz",
+  "download_time": "2025-10-08T19:16:00.406508",
+  "package_url": "https://pypi.org/project/close-paving/"
+}

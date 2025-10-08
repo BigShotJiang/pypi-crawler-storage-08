@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-data-customcode",
+  "version": "0.1.13",
+  "summary": "Data Cloud Custom Code SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salesforce_data_customcode-0.1.13.tar.gz",
+  "download_time": "2025-10-08T19:16:07.689577",
+  "package_url": "https://pypi.org/project/salesforce-data-customcode/"
+}
