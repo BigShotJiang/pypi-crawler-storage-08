@@ -1,23 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-08T20:42:00.723575
-- **Total Packages**: 91
-- **Total Size**: 29.82 MB
+- **Download Time**: 2025-10-08T20:52:37.556820
+- **Total Packages**: 87
+- **Total Size**: 28.63 MB
 
 ## Packages List
+- maleo-imaging
+- xnlinkfinder
+- reinforcenow
+- InvokeAI
+- factrainer-xgboost
+- factrainer-sklearn
+- plain.models
+- factrainer-lightgbm
+- factrainer-core
+- factrainer-catboost
+- factrainer-base
+- factrainer
+- authentik-client
+- t-nextgen
+- rfc3230-digest-headers
+- kywy
+- library-and-tools
+- imicpe
+- lemonade-sdk
+- hassl
+- rapidpro-python
+- rustac
+- mastml
+- suma-ulsa
+- skypilot-nightly
+- opentrons-shared-data
+- sqlmesh
+- unique_toolkit
+- bedrock-agentcore-starter-toolkit
+- ape-safe
+- pvw-cli
+- opentrons
+- polars-genson
+- transformerlab
+- diffhouse
+- foundry-sdk
+- kasawa
+- pytechnicalindicators
+- polymo
 - masai-framework
 - lintro
-- imicpe
 - faraday-agent-dispatcher
 - scikit-base
 - ihexsrec
 - cdklabs.cdk-proserve-lib
-- reinforcenow
 - codearkt
 - dyngle
 - maleo-managers
-- authentik-client
 - bioql
 - pdf-to-md-llm
 - nmea2000
@@ -27,7 +63,6 @@
 - one-step-frames
 - xai-review
 - sequana-rnaseq
-- kasawa
 - kuzu-memory
 - csoundengine
 - codecarbon
@@ -58,42 +93,3 @@
 - large-image-source-pil
 - large-image-source-openslide
 - maleo-database
-- large-image-source-openjpeg
-- large-image-source-ometiff
-- large-image-source-nd2
-- large-image-source-multi
-- maleo-infra
-- large-image-source-mapnik
-- optics-framework
-- large-image-source-gdal
-- interface-expander
-- subcalc
-- large-image-source-dummy
-- datamorph-airflow
-- large-image-source-dicom
-- quisk
-- large-image-source-deepzoom
-- large-image-source-bioformats
-- singer-encodings
-- large-image-tasks
-- virtualenv
-- agents-upstream
-- large-image-converter
-- girder-large-image-annotation
-- girder-large-image
-- large-image
-- dtpyfw
-- openmetadata-managed-apis
-- django-admin-contexts
-- voidlight-plan
-- lg-payroll-api
-- assemblyline-core
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- cc-clients-python-lib
-- maleo-schemas
-- nodestream
-- py-eol
