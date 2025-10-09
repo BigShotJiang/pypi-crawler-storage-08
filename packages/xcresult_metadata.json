@@ -1,0 +1,11 @@
+{
+  "name": "xcresult",
+  "version": "16.3.0",
+  "summary": "An xcresult parser.",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/dalemyers/xcresult",
+  "download_filename": "xcresult-16.3.0.tar.gz",
+  "download_time": "2025-10-09T17:18:46.893155",
+  "package_url": "https://pypi.org/project/xcresult/"
+}

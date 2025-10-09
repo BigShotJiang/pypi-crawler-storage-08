@@ -1,0 +1,11 @@
+{
+  "name": "tfq0seo",
+  "version": "2.3.2",
+  "summary": "Fast SEO analysis tool with reports",
+  "author": "TFQ0 SEO Team",
+  "license": "MIT",
+  "home_page": "https://github.com/tfq0seo/tfq0seo",
+  "download_filename": "tfq0seo-2.3.2.tar.gz",
+  "download_time": "2025-10-09T17:19:13.320496",
+  "package_url": "https://pypi.org/project/tfq0seo/"
+}

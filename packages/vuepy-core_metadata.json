@@ -1,0 +1,11 @@
+{
+  "name": "vuepy-core",
+  "version": "0.1.11",
+  "summary": "Vue.py is a progressive, incrementally-adoptable Python framework for building web interface in Jupyter Notebook.",
+  "author": "vuepy.org",
+  "license": "MIT",
+  "home_page": "https://www.vuepy.org",
+  "download_filename": "vuepy_core-0.1.11.tar.gz",
+  "download_time": "2025-10-09T17:18:57.972215",
+  "package_url": "https://pypi.org/project/vuepy-core/"
+}

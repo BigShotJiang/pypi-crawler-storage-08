@@ -1,11 +1,11 @@
 {
   "name": "uniovi-simur-wearablepermed-utils",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "summary": "Uniovi Simur WearablePerMed Utils",
   "author": "'Miguel Angel Salinas Gancedo, Alejandro Castellanos Alonso, Antonio Miguel López Rodriguez'",
   "license": "MIT",
   "home_page": "https://github.com/pyscaffold/pyscaffold/",
-  "download_filename": "uniovi_simur_wearablepermed_utils-1.14.0.tar.gz",
-  "download_time": "2025-10-08T16:47:05.633945",
+  "download_filename": "uniovi_simur_wearablepermed_utils-1.15.0.tar.gz",
+  "download_time": "2025-10-09T17:18:43.780473",
   "package_url": "https://pypi.org/project/uniovi-simur-wearablepermed-utils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claudecut",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "AI-powered video editing agent using Claude",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "claudecut-0.1.0.tar.gz",
-  "download_time": "2025-10-09T12:41:41.796093",
+  "download_filename": "claudecut-0.1.4.tar.gz",
+  "download_time": "2025-10-09T17:19:18.063512",
   "package_url": "https://pypi.org/project/claudecut/"
 }

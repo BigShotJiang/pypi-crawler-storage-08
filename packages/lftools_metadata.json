@@ -1,0 +1,11 @@
+{
+  "name": "lftools",
+  "version": "0.37.15",
+  "summary": "Linux Foundation Release Engineering Tools",
+  "author": null,
+  "license": "EPL-1.0",
+  "home_page": null,
+  "download_filename": "lftools-0.37.15.tar.gz",
+  "download_time": "2025-10-09T17:19:20.687856",
+  "package_url": "https://pypi.org/project/lftools/"
+}

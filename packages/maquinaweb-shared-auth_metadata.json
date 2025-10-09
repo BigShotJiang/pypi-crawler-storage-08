@@ -1,11 +1,11 @@
 {
   "name": "maquinaweb-shared-auth",
-  "version": "0.2.16",
+  "version": "0.2.19",
   "summary": "Models read-only para autenticação compartilhada entre projetos Django.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maquinaweb_shared_auth-0.2.16.tar.gz",
-  "download_time": "2025-10-09T15:53:01.053624",
+  "download_filename": "maquinaweb_shared_auth-0.2.19.tar.gz",
+  "download_time": "2025-10-09T17:18:42.682489",
   "package_url": "https://pypi.org/project/maquinaweb-shared-auth/"
 }

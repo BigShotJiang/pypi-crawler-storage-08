@@ -1,0 +1,11 @@
+{
+  "name": "dingo-gw",
+  "version": "0.9.0",
+  "summary": "Deep inference for gravitational-wave observations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dingo_gw-0.9.0.tar.gz",
+  "download_time": "2025-10-09T17:18:58.512523",
+  "package_url": "https://pypi.org/project/dingo-gw/"
+}
