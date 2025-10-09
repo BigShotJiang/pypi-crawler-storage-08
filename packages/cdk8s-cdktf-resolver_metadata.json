@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-cdktf-resolver",
-  "version": "0.0.201",
+  "version": "0.0.202",
   "summary": "@cdk8s/cdktf-resolver",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-cdktf-resolver.git",
-  "download_filename": "cdk8s_cdktf_resolver-0.0.201.tar.gz",
-  "download_time": "2025-10-08T12:41:54.921659",
+  "download_filename": "cdk8s_cdktf_resolver-0.0.202.tar.gz",
+  "download_time": "2025-10-09T12:41:52.405879",
   "package_url": "https://pypi.org/project/cdk8s-cdktf-resolver/"
 }

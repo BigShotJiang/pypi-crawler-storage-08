@@ -1,11 +1,11 @@
 {
   "name": "aiokalshi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "An asyncio-native Kalshi API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiokalshi-0.0.1.tar.gz",
-  "download_time": "2025-10-08T13:46:40.800465",
+  "download_filename": "aiokalshi-0.1.0.tar.gz",
+  "download_time": "2025-10-09T12:41:29.502783",
   "package_url": "https://pypi.org/project/aiokalshi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lumenradio-hwscan",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Hardware detector CLI for USB serial/debug devices (TriLightSense, STLINK-V3, ESP32, host info).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lumenradio_hwscan-0.2.1.tar.gz",
-  "download_time": "2025-10-09T11:52:48.305874",
+  "download_filename": "lumenradio_hwscan-0.2.2.tar.gz",
+  "download_time": "2025-10-09T12:41:28.983553",
   "package_url": "https://pypi.org/project/lumenradio-hwscan/"
 }

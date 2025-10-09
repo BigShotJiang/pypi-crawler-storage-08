@@ -1,11 +1,11 @@
 {
   "name": "strava-activity-mcp-server",
-  "version": "0.1.7",
-  "summary": "Trying to implement environment variables for client_id",
+  "version": "0.1.8",
+  "summary": "STRAVA ACTIVITY MCP SERVER",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strava_activity_mcp_server-0.1.7.tar.gz",
-  "download_time": "2025-10-09T11:17:23.462703",
+  "download_filename": "strava_activity_mcp_server-0.1.8.tar.gz",
+  "download_time": "2025-10-09T12:41:48.163229",
   "package_url": "https://pypi.org/project/strava-activity-mcp-server/"
 }

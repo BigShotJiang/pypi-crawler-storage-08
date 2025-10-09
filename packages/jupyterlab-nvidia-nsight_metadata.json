@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-nvidia-nsight",
+  "version": "0.8.0",
+  "summary": "A JupyterLab extension for profiling cells execution using NVIDIA Nsight tools.",
+  "author": null,
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "jupyterlab_nvidia_nsight-0.8.0-py3-none-any.whl",
+  "download_time": "2025-10-09T12:41:57.666903",
+  "package_url": "https://pypi.org/project/jupyterlab-nvidia-nsight/"
+}

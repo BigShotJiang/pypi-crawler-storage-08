@@ -1,0 +1,11 @@
+{
+  "name": "animplotlib",
+  "version": "0.2.5",
+  "summary": "A thin wrapper around the matplotlib FuncAnimation class",
+  "author": "Aymen Hafeez",
+  "license": "MIT",
+  "home_page": "https://github.com/aymenhafeez/animplotlib/",
+  "download_filename": "animplotlib-0.2.5.tar.gz",
+  "download_time": "2025-10-09T12:42:07.654263",
+  "package_url": "https://pypi.org/project/animplotlib/"
+}

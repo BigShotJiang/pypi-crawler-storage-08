@@ -1,11 +1,11 @@
 {
   "name": "lumivox",
-  "version": "0.4.5",
-  "summary": "Offline voice-controlled LED system for students and robotics labs",
+  "version": "0.4.7",
+  "summary": "🎤 Offline voice-controlled LED system for students and robotics labs.",
   "author": "Arjun",
   "license": null,
-  "home_page": null,
-  "download_filename": "lumivox-0.4.5.tar.gz",
-  "download_time": "2025-10-09T11:52:49.933542",
+  "home_page": "https://pypi.org/project/lumivox/",
+  "download_filename": "lumivox-0.4.7.tar.gz",
+  "download_time": "2025-10-09T12:42:09.212169",
   "package_url": "https://pypi.org/project/lumivox/"
 }

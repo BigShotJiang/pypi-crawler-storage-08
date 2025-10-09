@@ -1,11 +1,11 @@
 {
   "name": "pdtrain",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Pipedream Training Orchestrator CLI - Train ML models on AWS SageMaker",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdtrain-0.1.0.tar.gz",
-  "download_time": "2025-10-07T14:55:02.484378",
+  "download_filename": "pdtrain-0.2.0.tar.gz",
+  "download_time": "2025-10-09T12:41:37.037491",
   "package_url": "https://pypi.org/project/pdtrain/"
 }

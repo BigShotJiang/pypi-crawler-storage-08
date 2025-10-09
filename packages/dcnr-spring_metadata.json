@@ -1,0 +1,11 @@
+{
+  "name": "dcnr-spring",
+  "version": "1.0.2",
+  "summary": "Scheduling python functions for execution.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dcnr_spring-1.0.2.tar.gz",
+  "download_time": "2025-10-09T12:42:08.172855",
+  "package_url": "https://pypi.org/project/dcnr-spring/"
+}

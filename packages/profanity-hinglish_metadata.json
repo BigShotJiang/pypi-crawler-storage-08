@@ -1,0 +1,11 @@
+{
+  "name": "profanity-hinglish",
+  "version": "0.1.2",
+  "summary": "A lightweight profanity filter for English and Hinglish text, built on top of better_profanity.",
+  "author": "Poornachandra A N",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "profanity_hinglish-0.1.2.tar.gz",
+  "download_time": "2025-10-09T12:41:42.314379",
+  "package_url": "https://pypi.org/project/profanity-hinglish/"
+}

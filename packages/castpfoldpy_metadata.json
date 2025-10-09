@@ -1,11 +1,11 @@
 {
   "name": "castpfoldpy",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Python CLI program to run [CASTpFold](https://cfold.bme.uic.edu/castpfold/) code from the command line",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "castpfoldpy-0.1.0.tar.gz",
-  "download_time": "2025-10-08T06:51:32.657203",
+  "download_filename": "castpfoldpy-0.1.2.tar.gz",
+  "download_time": "2025-10-09T12:41:49.728779",
   "package_url": "https://pypi.org/project/castpfoldpy/"
 }
