@@ -1,0 +1,11 @@
+{
+  "name": "robot-hat",
+  "version": "2.1.0",
+  "summary": "Extensible and type-hinted library for controlling robot hardware (motors, servos, ultrasonic, ADC, I2C).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robot_hat-2.1.0.tar.gz",
+  "download_time": "2025-10-09T09:21:45.958667",
+  "package_url": "https://pypi.org/project/robot-hat/"
+}

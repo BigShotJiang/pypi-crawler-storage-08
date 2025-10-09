@@ -1,11 +1,11 @@
 {
   "name": "e-invoice-api",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "summary": "The official Python library for the e-invoice API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "e_invoice_api-1.11.0.tar.gz",
-  "download_time": "2025-10-08T19:40:41.469950",
+  "download_filename": "e_invoice_api-1.12.0.tar.gz",
+  "download_time": "2025-10-09T09:21:25.629035",
   "package_url": "https://pypi.org/project/e-invoice-api/"
 }

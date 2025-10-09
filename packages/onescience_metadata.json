@@ -1,0 +1,11 @@
+{
+  "name": "onescience",
+  "version": "0.2.0",
+  "summary": "First release",
+  "author": "sugon-ai4s",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/hpccube/OneScience",
+  "download_filename": "onescience-0.2.0.tar.gz",
+  "download_time": "2025-10-09T09:21:14.038584",
+  "package_url": "https://pypi.org/project/onescience/"
+}

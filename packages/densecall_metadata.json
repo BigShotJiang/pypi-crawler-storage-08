@@ -1,11 +1,11 @@
 {
   "name": "densecall",
-  "version": "0.0.2.3",
+  "version": "0.0.2.5",
   "summary": null,
   "author": "linlian",
   "license": null,
   "home_page": "https://github.com/n-damo/densecall",
-  "download_filename": "densecall-0.0.2.3.tar.gz",
-  "download_time": "2025-10-09T08:49:13.825119",
+  "download_filename": "densecall-0.0.2.5.tar.gz",
+  "download_time": "2025-10-09T09:21:22.506564",
   "package_url": "https://pypi.org/project/densecall/"
 }

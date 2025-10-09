@@ -1,0 +1,11 @@
+{
+  "name": "libcuvs-cu13",
+  "version": "25.10.0",
+  "summary": "cuVS: Vector Search on the GPU (C++)",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "libcuvs_cu13-25.10.0.tar.gz",
+  "download_time": "2025-10-09T09:21:45.438931",
+  "package_url": "https://pypi.org/project/libcuvs-cu13/"
+}

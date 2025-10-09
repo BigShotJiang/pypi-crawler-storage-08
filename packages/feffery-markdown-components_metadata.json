@@ -1,0 +1,11 @@
+{
+  "name": "feffery-markdown-components",
+  "version": "0.4.2",
+  "summary": "Better markdown render component in Plotly Dash.",
+  "author": "CNFeffery <fefferypzy@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/CNFeffery/feffery-markdown-components",
+  "download_filename": "feffery_markdown_components-0.4.2.tar.gz",
+  "download_time": "2025-10-09T09:21:48.045802",
+  "package_url": "https://pypi.org/project/feffery-markdown-components/"
+}

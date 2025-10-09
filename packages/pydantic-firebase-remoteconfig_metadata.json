@@ -1,11 +1,11 @@
 {
   "name": "pydantic-firebase-remoteconfig",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "A simple Firebase Remote Config binding for Pydantic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_firebase_remoteconfig-0.2.2.tar.gz",
-  "download_time": "2025-10-07T18:29:06.750059",
+  "download_filename": "pydantic_firebase_remoteconfig-0.3.0.tar.gz",
+  "download_time": "2025-10-09T09:21:26.669275",
   "package_url": "https://pypi.org/project/pydantic-firebase-remoteconfig/"
 }

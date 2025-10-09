@@ -1,0 +1,11 @@
+{
+  "name": "pyroaring",
+  "version": "1.0.3",
+  "summary": "Library for handling efficiently sorted integer sets.",
+  "author": "Tom Cornebize",
+  "license": "MIT",
+  "home_page": "https://github.com/Ezibenroc/PyRoaringBitMap",
+  "download_filename": "pyroaring-1.0.3.tar.gz",
+  "download_time": "2025-10-09T09:21:49.606872",
+  "package_url": "https://pypi.org/project/pyroaring/"
+}

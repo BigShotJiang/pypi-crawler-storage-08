@@ -1,11 +1,11 @@
 {
   "name": "quillai-filescanner",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A comprehensive file system scanner for organizing and analyzing files",
   "author": "Quillai Mohammed Eise Mohammed",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "quillai_filescanner-1.0.3.tar.gz",
-  "download_time": "2025-10-09T01:26:14.061236",
+  "home_page": "https://github.com/quillaiMohammed/filescanner-",
+  "download_filename": "quillai_filescanner-1.0.4.tar.gz",
+  "download_time": "2025-10-09T09:21:31.349895",
   "package_url": "https://pypi.org/project/quillai-filescanner/"
 }
