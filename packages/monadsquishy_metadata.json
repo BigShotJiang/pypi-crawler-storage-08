@@ -1,0 +1,11 @@
+{
+  "name": "monadsquishy",
+  "version": "0.1.17",
+  "summary": "A Python package for squishy data transformation and monads",
+  "author": "Wasit Limprasert",
+  "license": null,
+  "home_page": "https://github.com/wasit7/monadsquishy",
+  "download_filename": "monadsquishy-0.1.17.tar.gz",
+  "download_time": "2025-10-09T08:49:19.353805",
+  "package_url": "https://pypi.org/project/monadsquishy/"
+}

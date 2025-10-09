@@ -1,0 +1,11 @@
+{
+  "name": "automizor",
+  "version": "0.4.19",
+  "summary": "Python Automizor framework",
+  "author": "Christian Fischer",
+  "license": "Apache License",
+  "home_page": "https://github.com/automizor/automizor-python",
+  "download_filename": "automizor-0.4.19.tar.gz",
+  "download_time": "2025-10-09T08:49:05.848031",
+  "package_url": "https://pypi.org/project/automizor/"
+}
