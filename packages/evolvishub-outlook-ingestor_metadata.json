@@ -1,11 +1,11 @@
 {
   "name": "evolvishub-outlook-ingestor",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Enterprise-ready email ingestion system with unified database connector architecture supporting 8 database types with equal implementation quality",
   "author": null,
   "license": "Evolvis AI License",
   "home_page": null,
-  "download_filename": "evolvishub_outlook_ingestor-2.1.0.tar.gz",
-  "download_time": "2025-10-08T21:18:20.952924",
+  "download_filename": "evolvishub_outlook_ingestor-2.1.1-py3-none-any.whl",
+  "download_time": "2025-10-09T22:18:53.340709",
   "package_url": "https://pypi.org/project/evolvishub-outlook-ingestor/"
 }

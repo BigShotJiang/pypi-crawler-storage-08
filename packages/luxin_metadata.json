@@ -1,0 +1,11 @@
+{
+  "name": "luxin",
+  "version": "0.1.0",
+  "summary": "Interactive HTML tables with drill-down capabilities for exploring aggregated data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "luxin-0.1.0.tar.gz",
+  "download_time": "2025-10-09T22:19:11.065019",
+  "package_url": "https://pypi.org/project/luxin/"
+}

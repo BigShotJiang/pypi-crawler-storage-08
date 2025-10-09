@@ -1,0 +1,11 @@
+{
+  "name": "graph-sitter",
+  "version": "0.56.14",
+  "summary": "Scriptable interface to a powerful, multi-lingual language server built on top of Tree-sitter",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "graph_sitter-0.56.14-cp312-cp312-macosx_10_13_x86_64.whl",
+  "download_time": "2025-10-09T22:18:35.689216",
+  "package_url": "https://pypi.org/project/graph-sitter/"
+}

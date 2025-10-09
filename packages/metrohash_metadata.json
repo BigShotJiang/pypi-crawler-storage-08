@@ -1,0 +1,11 @@
+{
+  "name": "metrohash",
+  "version": "0.4.1",
+  "summary": "Python bindings for MetroHash, a fast non-cryptographic hash algorithm",
+  "author": "Eugene Scherba",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/escherba/python-metrohash",
+  "download_filename": "metrohash-0.4.1.tar.gz",
+  "download_time": "2025-10-09T22:18:59.265538",
+  "package_url": "https://pypi.org/project/metrohash/"
+}

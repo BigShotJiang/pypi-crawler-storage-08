@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-hetzner-cloud",
+  "version": "0.2.8",
+  "summary": "Certbot DNS Plugin for Hetzner Cloud DNS",
+  "author": "Rüdiger Olschewsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "certbot_dns_hetzner_cloud-0.2.8.tar.gz",
+  "download_time": "2025-10-09T22:18:41.000013",
+  "package_url": "https://pypi.org/project/certbot-dns-hetzner-cloud/"
+}

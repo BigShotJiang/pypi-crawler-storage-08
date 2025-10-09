@@ -1,0 +1,11 @@
+{
+  "name": "cityhash",
+  "version": "0.4.10",
+  "summary": "Python bindings for CityHash and FarmHash",
+  "author": "Eugene Scherba",
+  "license": "MIT",
+  "home_page": "https://github.com/escherba/python-cityhash",
+  "download_filename": "cityhash-0.4.10.tar.gz",
+  "download_time": "2025-10-09T22:18:58.745882",
+  "package_url": "https://pypi.org/project/cityhash/"
+}

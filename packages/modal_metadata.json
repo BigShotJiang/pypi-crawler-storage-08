@@ -1,11 +1,11 @@
 {
   "name": "modal",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "summary": "Python client library for Modal",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "modal-1.1.4.tar.gz",
-  "download_time": "2025-10-07T13:46:20.273510",
+  "download_filename": "modal-1.2.0.tar.gz",
+  "download_time": "2025-10-09T22:19:04.132174",
   "package_url": "https://pypi.org/project/modal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "powerbin",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "PowerBin: Fast Adaptive Data Binning with Centroidal Power Diagrams",
   "author": "Michele Cappellari",
   "license": "Other/Proprietary License",
   "home_page": "https://pypi.org/project/powerbin/",
-  "download_filename": "powerbin-1.1.8.tar.gz",
-  "download_time": "2025-10-09T21:52:42.047947",
+  "download_filename": "powerbin-1.1.9.tar.gz",
+  "download_time": "2025-10-09T22:18:51.188851",
   "package_url": "https://pypi.org/project/powerbin/"
 }

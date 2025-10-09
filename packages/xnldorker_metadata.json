@@ -1,11 +1,11 @@
 {
   "name": "xnldorker",
-  "version": "1.6",
+  "version": "1.7",
   "summary": "Run a dork on different search sites",
   "author": "@xnl-h4ck3r",
   "license": null,
   "home_page": "https://github.com/xnl-h4ck3r/xnldorker",
-  "download_filename": "xnldorker-1.6.tar.gz",
-  "download_time": "2025-10-09T17:50:45.121237",
+  "download_filename": "xnldorker-1.7.tar.gz",
+  "download_time": "2025-10-09T22:19:14.776021",
   "package_url": "https://pypi.org/project/xnldorker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flax-weightwatcher",
+  "version": "0.1.1",
+  "summary": "A smaller, faster, cleaner WeightWatcher for FLAX/JAX with XLA",
+  "author": "Jaisidh Singh",
+  "license": null,
+  "home_page": "https://github.com/jaisidhsingh/flax-weightwatcher",
+  "download_filename": "flax_weightwatcher-0.1.1.tar.gz",
+  "download_time": "2025-10-09T22:18:56.098750",
+  "package_url": "https://pypi.org/project/flax-weightwatcher/"
+}
