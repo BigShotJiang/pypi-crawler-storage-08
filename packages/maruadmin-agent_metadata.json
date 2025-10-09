@@ -1,11 +1,11 @@
 {
   "name": "maruadmin-agent",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "MaruAdmin Remote Server Management Agent",
   "author": "MaruAdmin Team",
   "license": null,
   "home_page": null,
-  "download_filename": "maruadmin_agent-0.2.3.tar.gz",
-  "download_time": "2025-10-07T09:31:44.338006",
+  "download_filename": "maruadmin_agent-0.2.5.tar.gz",
+  "download_time": "2025-10-09T07:52:45.879208",
   "package_url": "https://pypi.org/project/maruadmin-agent/"
 }

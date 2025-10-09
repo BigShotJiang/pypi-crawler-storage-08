@@ -1,0 +1,11 @@
+{
+  "name": "access-nri-intake",
+  "version": "1.4.1",
+  "summary": "Intake catalog managed by ACCESS-NRI and associated tools",
+  "author": "ACCESS-NRI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "access_nri_intake-1.4.1.tar.gz",
+  "download_time": "2025-10-09T07:52:49.027784",
+  "package_url": "https://pypi.org/project/access-nri-intake/"
+}

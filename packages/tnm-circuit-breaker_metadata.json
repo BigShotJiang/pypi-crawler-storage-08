@@ -1,0 +1,11 @@
+{
+  "name": "tnm-circuit-breaker",
+  "version": "0.2.2",
+  "summary": "A ligthweight circuit breaker implementation for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tnm_circuit_breaker-0.2.2.tar.gz",
+  "download_time": "2025-10-09T07:52:54.208378",
+  "package_url": "https://pypi.org/project/tnm-circuit-breaker/"
+}

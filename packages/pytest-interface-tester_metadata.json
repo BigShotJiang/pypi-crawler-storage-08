@@ -1,0 +1,11 @@
+{
+  "name": "pytest-interface-tester",
+  "version": "3.4.0",
+  "summary": "Pytest plugin for checking charm relation interface protocol compliance.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_interface_tester-3.4.0.tar.gz",
+  "download_time": "2025-10-09T07:52:11.241118",
+  "package_url": "https://pypi.org/project/pytest-interface-tester/"
+}

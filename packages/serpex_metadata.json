@@ -1,0 +1,11 @@
+{
+  "name": "serpex",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for Serpex SERP API - Fetch search results in JSON format",
+  "author": "Serpex Team",
+  "license": "MIT",
+  "home_page": "https://github.com/divyeshradadiya/serp-frontend",
+  "download_filename": "serpex-2.0.0.tar.gz",
+  "download_time": "2025-10-09T07:52:40.096356",
+  "package_url": "https://pypi.org/project/serpex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "holm",
+  "version": "0.3.2",
+  "summary": "Web development framework that brings the Next.js developer experience to Python, built on FastAPI, htmy, and FastHX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "holm-0.3.2.tar.gz",
+  "download_time": "2025-10-09T07:52:29.654639",
+  "package_url": "https://pypi.org/project/holm/"
+}

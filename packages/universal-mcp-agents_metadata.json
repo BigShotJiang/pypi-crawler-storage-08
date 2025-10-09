@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-agents",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "Add your description here",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_agents-0.1.15.tar.gz",
-  "download_time": "2025-10-09T01:26:20.454185",
+  "download_filename": "universal_mcp_agents-0.1.17.tar.gz",
+  "download_time": "2025-10-09T07:52:27.040969",
   "package_url": "https://pypi.org/project/universal-mcp-agents/"
 }

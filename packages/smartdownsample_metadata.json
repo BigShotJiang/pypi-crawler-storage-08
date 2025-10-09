@@ -1,11 +1,11 @@
 {
   "name": "smartdownsample",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "Smart image downsampling for image classification datasets",
   "author": "Peter van Lunteren",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartdownsample-1.9.1.tar.gz",
-  "download_time": "2025-10-08T18:52:28.203766",
+  "download_filename": "smartdownsample-1.9.2.tar.gz",
+  "download_time": "2025-10-09T07:52:29.136255",
   "package_url": "https://pypi.org/project/smartdownsample/"
 }

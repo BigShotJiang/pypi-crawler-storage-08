@@ -1,0 +1,11 @@
+{
+  "name": "tinkoff-investments",
+  "version": "0.2.0b117",
+  "summary": "Tinkoff Python SDK",
+  "author": "Tinkoff Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RussianInvestments/invest-python",
+  "download_filename": "tinkoff_investments-0.2.0b117.tar.gz",
+  "download_time": "2025-10-09T07:52:40.616828",
+  "package_url": "https://pypi.org/project/tinkoff-investments/"
+}

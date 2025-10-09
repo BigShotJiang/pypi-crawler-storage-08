@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-toggler",
+  "version": "0.1.0",
+  "summary": "A Python library to start and stop AWS resources (EC2, RDS, ECS) based on tags.",
+  "author": "Your Name or Company",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/aws-resource-toggler",
+  "download_filename": "aws_resource_toggler-0.1.0.tar.gz",
+  "download_time": "2025-10-09T07:52:53.689376",
+  "package_url": "https://pypi.org/project/aws-resource-toggler/"
+}

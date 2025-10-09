@@ -1,0 +1,11 @@
+{
+  "name": "simpblog",
+  "version": "0.1.1",
+  "summary": "Simple static site generator, for blogs and basic sites",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpblog-0.1.1.tar.gz",
+  "download_time": "2025-10-09T07:52:30.717391",
+  "package_url": "https://pypi.org/project/simpblog/"
+}
