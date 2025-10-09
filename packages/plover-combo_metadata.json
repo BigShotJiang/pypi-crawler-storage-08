@@ -1,0 +1,11 @@
+{
+  "name": "plover-combo",
+  "version": "2.0.0",
+  "summary": "Combo Mode for Plover",
+  "author": "Kaoffie",
+  "license": "MIT License (MIT)",
+  "home_page": "https://github.com/Kaoffie/plover_combo",
+  "download_filename": "plover_combo-2.0.0.tar.gz",
+  "download_time": "2025-10-09T06:56:35.261049",
+  "package_url": "https://pypi.org/project/plover-combo/"
+}

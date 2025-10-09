@@ -1,0 +1,11 @@
+{
+  "name": "ceregrep-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for ceregrep - exposes ceregrep query capabilities to other agents",
+  "author": "Swarm-Code",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ceregrep_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-09T06:56:09.188400",
+  "package_url": "https://pypi.org/project/ceregrep-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hcr-nn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hcr_nn-1.0.0-py3-none-any.whl",
-  "download_time": "2025-10-08T19:40:36.651579",
+  "download_filename": "hcr_nn-1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-09T06:56:38.891064",
   "package_url": "https://pypi.org/project/hcr-nn/"
 }

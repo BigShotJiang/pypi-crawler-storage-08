@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-stubs-elephant-fork",
+  "version": "34.1.0",
+  "summary": "Type stubs for the Kubernetes Python API client",
+  "author": "Nikhil Benesch",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/lexdene/kubernetes-stubs",
+  "download_filename": "kubernetes_stubs_elephant_fork-34.1.0.tar.gz",
+  "download_time": "2025-10-09T06:56:28.508914",
+  "package_url": "https://pypi.org/project/kubernetes-stubs-elephant-fork/"
+}

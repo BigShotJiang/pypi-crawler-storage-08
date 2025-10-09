@@ -1,0 +1,11 @@
+{
+  "name": "repl-python-wakatime",
+  "version": "0.1.6",
+  "summary": "Python REPL plugin for automatic time tracking and metrics generated from your programming activity",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "repl_python_wakatime-0.1.6.tar.gz",
+  "download_time": "2025-10-09T06:56:42.525578",
+  "package_url": "https://pypi.org/project/repl-python-wakatime/"
+}

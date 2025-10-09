@@ -1,0 +1,11 @@
+{
+  "name": "scine-art",
+  "version": "2.1.0",
+  "summary": "Automated Reaction Templates",
+  "author": "ETH Zurich, Department of Chemistry and Applied Biosciences, Jan Unsleber",
+  "license": "BSD (3-clause)",
+  "home_page": "https://www.scine.ethz.ch",
+  "download_filename": "scine_art-2.1.0.tar.gz",
+  "download_time": "2025-10-09T06:56:42.004587",
+  "package_url": "https://pypi.org/project/scine-art/"
+}

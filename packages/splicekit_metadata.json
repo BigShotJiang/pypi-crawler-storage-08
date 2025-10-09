@@ -1,0 +1,11 @@
+{
+  "name": "splicekit",
+  "version": "0.8",
+  "summary": "splicekit: comprehensive toolkit for splicing analysis from short-read RNA-seq",
+  "author": "Roche, PMDA Spliceosome team",
+  "license": null,
+  "home_page": "https://github.com/bedapub/splicekit",
+  "download_filename": "splicekit-0.8.tar.gz",
+  "download_time": "2025-10-09T06:56:06.572028",
+  "package_url": "https://pypi.org/project/splicekit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alibaba-cloud-ops-mcp-server",
+  "version": "0.9.7",
+  "summary": "A MCP server for Alibaba Cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alibaba_cloud_ops_mcp_server-0.9.7.tar.gz",
+  "download_time": "2025-10-09T06:56:12.310412",
+  "package_url": "https://pypi.org/project/alibaba-cloud-ops-mcp-server/"
+}
