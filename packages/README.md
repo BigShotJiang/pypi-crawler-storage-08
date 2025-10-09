@@ -1,15 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T04:24:37.314211
-- **Total Packages**: 79
-- **Total Size**: 22.25 MB
+- **Download Time**: 2025-10-09T04:44:23.971200
+- **Total Packages**: 82
+- **Total Size**: 20.72 MB
 
 ## Packages List
+- sqlite-mcp-server-enhanced
+- singlefile-storage
+- maven-proxy
+- better-jupyter-mcp-server
+- frenztoolkit
+- agentci-client-config
+- gllm-core-binary
+- authentik-client
+- aiqtoolkit-crewai
+- 1d-qt-ideal-solver
+- vega-framework
+- machineconfig
+- alphaaidig-datacenter-client
+- alphaaidig-datacenter-common
+- recollex
+- recollex-gpu
+- graphrag
+- iplotx
+- rebel-forge
+- bioscript
+- p-template-generator
+- cisco-ai-mcp-scanner
+- hspfbintoolbox
+- llmswap
+- aiiware-cli
+- aiscriptgenerator-mcp
+- DAOModel
+- sumeh
+- compressed-lists
+- promptware-dev
+- sidemantic
+- greenstream-config
 - ttkbootstrap
 - vpp-vrouter
 - tarot-reader
-- rebel-forge
 - maxapi-python
 - ysa-signal
 - pipefunc
@@ -17,7 +48,6 @@
 - pex
 - keras-nlp-nightly
 - keras-hub-nightly
-- sidemantic
 - intentkit
 - suma-ulsa
 - session-mgmt-mcp
@@ -32,7 +62,6 @@
 - ambient-package-update
 - plasen
 - microplate
-- authentik-client
 - talk-to-a-file
 - omniopt2
 - aolog
@@ -57,31 +86,5 @@
 - jaxl-python
 - discretize
 - depkit
-- machineconfig
 - benchling-sdk
 - xldashboard
-- davidkhala.ai
-- maleo-imaging
-- llmling-agent
-- securevibes
-- kailash-nexus
-- timecopilot
-- upplib
-- BabelDOC
-- ai-shell-command-generator
-- jaxion
-- openvoicelab
-- autocoder-nano
-- odoo-addons-oca-sale-workflow
-- odoo-addon-sale-order-line-cancel
-- pulumi-pagerduty
-- pulumi-confluentcloud
-- langchain-dev-utils
-- am3
-- gllm-inference-binary
-- MinimalLLMAgent
-- etherscan-v2
-- sqlite-mcp-server-enhanced
-- frenztoolkit
-- jbag
-- BrainX

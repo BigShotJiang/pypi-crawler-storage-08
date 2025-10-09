@@ -1,0 +1,11 @@
+{
+  "name": "bioscript",
+  "version": "0.1.0",
+  "summary": "A library for analyzing biological scripts and genetic data",
+  "author": "BioScript Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bioscript-0.1.0.tar.gz",
+  "download_time": "2025-10-09T04:43:49.695836",
+  "package_url": "https://pypi.org/project/bioscript/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "frenztoolkit",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A toolkit for processing and analyzing physiological signals",
   "author": "Frenz Team",
   "license": null,
   "home_page": "https://github.com/earable/frenztoolkit",
-  "download_filename": "frenztoolkit-0.3.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-09T03:55:04.251689",
+  "download_filename": "frenztoolkit-0.3.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-09T04:43:40.977226",
   "package_url": "https://pypi.org/project/frenztoolkit/"
 }
