@@ -1,0 +1,11 @@
+{
+  "name": "appwithpipeline",
+  "version": "0.1.0",
+  "summary": "Sample app for Jenkins CI/CD packaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "appwithpipeline-0.1.0.tar.gz",
+  "download_time": "2025-10-09T20:53:01.155259",
+  "package_url": "https://pypi.org/project/appwithpipeline/"
+}

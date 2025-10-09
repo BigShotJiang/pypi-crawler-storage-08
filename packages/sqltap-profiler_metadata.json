@@ -1,11 +1,11 @@
 {
   "name": "sqltap-profiler",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Enhanced SQL profiling and introspection for applications using sqlalchemy",
-  "author": "Bruno Cardoso",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/brunobcardoso/sqltap-profiler",
-  "download_filename": "sqltap_profiler-1.1.0.tar.gz",
-  "download_time": "2025-10-08T18:52:42.194276",
+  "home_page": null,
+  "download_filename": "sqltap_profiler-1.2.0.tar.gz",
+  "download_time": "2025-10-09T20:53:06.399716",
   "package_url": "https://pypi.org/project/sqltap-profiler/"
 }

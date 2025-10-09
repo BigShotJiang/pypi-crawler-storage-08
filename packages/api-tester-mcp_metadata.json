@@ -1,11 +1,11 @@
 {
   "name": "api-tester-mcp",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "Multi-language MCP server for API testing with TypeScript/Playwright, JavaScript/Jest, Python/pytest support",
   "author": "API Tester MCP",
   "license": "MIT",
   "home_page": "https://github.com/kirti676/api_tester_mcp",
-  "download_filename": "api_tester_mcp-1.4.4.tar.gz",
-  "download_time": "2025-10-09T20:40:17.799256",
+  "download_filename": "api_tester_mcp-1.4.5.tar.gz",
+  "download_time": "2025-10-09T20:53:12.722779",
   "package_url": "https://pypi.org/project/api-tester-mcp/"
 }

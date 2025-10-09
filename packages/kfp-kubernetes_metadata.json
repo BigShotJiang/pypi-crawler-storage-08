@@ -1,0 +1,11 @@
+{
+  "name": "kfp-kubernetes",
+  "version": "2.14.5",
+  "summary": "Kubernetes platform configuration library and generated protos.",
+  "author": "google",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/kubeflow/pipelines",
+  "download_filename": "kfp_kubernetes-2.14.5.tar.gz",
+  "download_time": "2025-10-09T20:53:11.632608",
+  "package_url": "https://pypi.org/project/kfp-kubernetes/"
+}

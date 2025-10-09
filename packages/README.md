@@ -1,15 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T20:40:46.855232
-- **Total Packages**: 78
-- **Total Size**: 42.01 MB
+- **Download Time**: 2025-10-09T20:53:37.194555
+- **Total Packages**: 83
+- **Total Size**: 33.54 MB
 
 ## Packages List
-- dkist-service-configuration
+- adk-mongodb-session
+- circuitpython-stubs
+- tastytrade-mcp
+- devpi-process
+- aiofiles
+- tox-gh
+- secxbrl
+- authentik-client
+- artlib
+- langchain-trigger-server
+- m01.i18n
+- ipuppy-notebooks
+- maleo-imaging
+- protobuf
+- ut-pac
+- PyThermoLinkDB
+- orbit-nrel
+- pycoro
+- appwithpipeline
+- pyairahome
+- jacktrade
+- intersystems-irispython
+- ragger-python-sdk
+- varray
+- stencils
+- OpenFisca-Core
+- requp
+- sqltap-profiler
+- cereggii
+- drafter
+- svc-infra
+- nhc
+- ipyparallel
+- grid-cortex-client
 - pulse-mantine
 - pulse-framework
-- authentik-client
+- kfp-kubernetes
+- clarifai-grpc
+- api-tester-mcp
+- taskiq-postgres
+- torch-sim-atomistic
+- answerrocket-client
+- prefect
+- tox-uv
+- kfp
+- universal-mcp-agents
+- workos
+- gtfs-kit
+- annotated-logger
+- prefect-client
+- dkist-service-configuration
 - rms-cloud-tasks
 - transformerlab
 - letta-nightly
@@ -20,12 +67,10 @@
 - rda-python-dsrqst
 - gamuLogger
 - orcheo-backend
-- taskiq-postgres
 - fennec-ml
 - xradio
 - atmoswing-api
 - turbopdf
-- adk-mongodb-session
 - mosaicml-cli
 - airbyte-cdk
 - jabs-postprocess
@@ -36,7 +81,6 @@
 - kryptools
 - django-cfg
 - pingera-sdk
-- api-tester-mcp
 - mp-api
 - foundry-sdk
 - tap-dbf
@@ -45,42 +89,3 @@
 - claude-mpm
 - judgeval
 - deltaglider
-- cuda-core
-- yt-dlp-apple-webkit-jsi
-- xwsystem
-- exonware-xwsystem
-- cryogrid_pytools
-- nanovdb-editor
-- Excalidraw-Interface
-- unionai-reuse
-- siga-mcp
-- SingletonProcess
-- imzML-Writer
-- evo-objects
-- wybthon
-- truss
-- orcheo-sdk
-- neural-sdk
-- grid-cortex-client
-- slownie
-- coshed-model
-- CV-Robot
-- uniovi-simur-wearablepermed-pipeline
-- 168x-cua
-- figpack
-- tidy3d-mcp
-- CLAM
-- poemai-utils
-- easy-subprocess
-- easy-vitessce
-- catocli
-- decksmith
-- anyscale
-- cogames
-- modrl
-- great-expectations
-- facade-sdk
-- muffinbite
-- exonware-xwnode
-- RobertJN64TemplatePackage
-- s4-platform-api

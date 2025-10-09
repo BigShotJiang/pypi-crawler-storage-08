@@ -1,11 +1,11 @@
 {
   "name": "prefect",
-  "version": "3.4.22",
+  "version": "3.4.23",
   "summary": "Workflow orchestration and management.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prefect-3.4.22.tar.gz",
-  "download_time": "2025-10-08T08:27:41.139729",
+  "download_filename": "prefect-3.4.23.tar.gz",
+  "download_time": "2025-10-09T20:53:14.989572",
   "package_url": "https://pypi.org/project/prefect/"
 }

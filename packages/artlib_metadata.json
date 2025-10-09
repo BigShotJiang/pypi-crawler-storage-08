@@ -1,0 +1,11 @@
+{
+  "name": "artlib",
+  "version": "0.1.7",
+  "summary": "A Python library for Adaptive Resonance Theory (ART) algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "artlib-0.1.7-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-09T20:52:55.460009",
+  "package_url": "https://pypi.org/project/artlib/"
+}

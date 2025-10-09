@@ -1,11 +1,11 @@
 {
   "name": "pulse-framework",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "Pulse - Full-stack framework for building real-time React applications in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulse_framework-0.1.28.tar.gz",
-  "download_time": "2025-10-09T20:40:02.248513",
+  "download_filename": "pulse_framework-0.1.29.tar.gz",
+  "download_time": "2025-10-09T20:53:11.064120",
   "package_url": "https://pypi.org/project/pulse-framework/"
 }

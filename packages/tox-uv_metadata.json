@@ -1,11 +1,11 @@
 {
   "name": "tox-uv",
-  "version": "1.28.1",
+  "version": "1.29.0",
   "summary": "Integration of uv with tox.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tox_uv-1.28.1.tar.gz",
-  "download_time": "2025-10-09T16:27:22.839472",
+  "download_filename": "tox_uv-1.29.0.tar.gz",
+  "download_time": "2025-10-09T20:53:15.543790",
   "package_url": "https://pypi.org/project/tox-uv/"
 }
