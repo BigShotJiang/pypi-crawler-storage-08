@@ -1,0 +1,11 @@
+{
+  "name": "text-formater",
+  "version": "0.1.1",
+  "summary": "A CLI tool for polishing text with Chinese typography rules",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text_formater-0.1.1.tar.gz",
+  "download_time": "2025-10-09T04:24:16.866971",
+  "package_url": "https://pypi.org/project/text-formater/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "automated-interpretability",
+  "version": "0.0.16",
+  "summary": "OpenAI and Neuronpedia's implementation of automated-interpretability, with some updates. Not officially affiliated with OpenAI.",
+  "author": "OpenAI, Neuronpedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "automated_interpretability-0.0.16.tar.gz",
+  "download_time": "2025-10-09T04:24:19.439612",
+  "package_url": "https://pypi.org/project/automated-interpretability/"
+}

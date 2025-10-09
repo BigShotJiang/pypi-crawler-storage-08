@@ -1,0 +1,11 @@
+{
+  "name": "vpp-vrouter",
+  "version": "0.1.28",
+  "summary": "USDN vRouter with VPP",
+  "author": "Filip Gschwandtner",
+  "license": "US Data Networks. All rights reserved.",
+  "home_page": null,
+  "download_filename": "vpp_vrouter-0.1.28.tar.gz",
+  "download_time": "2025-10-09T04:23:55.586219",
+  "package_url": "https://pypi.org/project/vpp-vrouter/"
+}

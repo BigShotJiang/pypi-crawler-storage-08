@@ -1,0 +1,11 @@
+{
+  "name": "ysa-signal",
+  "version": "1.2.0",
+  "summary": "YSA Signal - Standalone signal analyzer for .brw/.h5 files",
+  "author": "Jake Cahoon",
+  "license": "MIT",
+  "home_page": "https://github.com/ParrishLab/ysa-signal",
+  "download_filename": "ysa_signal-1.2.0.tar.gz",
+  "download_time": "2025-10-09T04:23:57.640391",
+  "package_url": "https://pypi.org/project/ysa-signal/"
+}
