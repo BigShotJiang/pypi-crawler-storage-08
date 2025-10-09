@@ -1,26 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T11:39:47.297650
-- **Total Packages**: 85
-- **Total Size**: 47.69 MB
+- **Download Time**: 2025-10-09T11:53:13.487670
+- **Total Packages**: 82
+- **Total Size**: 11.89 MB
 
 ## Packages List
+- MeUtils
+- audiobook-reader
+- markdown_javadoc_references
+- odxtools
+- biblemate
+- aipyapp
+- napari
+- autocsv-profiler
+- csv-detective
+- authentik-client
+- simera
+- fastblocks
+- litmus-libs
+- whittlehurst
+- meta-edc
+- bigtools
+- odoo-addon-account-check-printing-report-base
+- randomdice
+- trustregion
+- scopey
+- yet-another-retry
+- skfolio
+- dggal
+- junshan-kit
+- eclips-blossom-ai
+- kndxhz-tools
+- das-cli
+- pyriodicity
+- octus
+- social-auth-core
+- kmm
+- herosdevices
+- nomenklatura-mpt
+- mxray
+- hyperx-htmx
+- vega-framework
+- tritium-remote-py
+- lumenradio-hwscan
+- jupyter-mcp-server
+- repo-architecture-mcp-server
+- lumivox
+- mal-simulator
+- locust-cloud
 - tree-sitter-hokku
 - ppio-sandbox
 - snowdrop-adjudicators
 - easy-worktree
 - chutes
-- lumenradio-hwscan
 - qase-tavern
-- hyperx-htmx
 - apolo-app-types
 - spec2sdk
 - itar
 - ai4u-ml
 - obelisk-py
 - qase-robotframework
-- authentik-client
 - win32more-Microsoft.Windows.SDK.Win32Metadata
 - qase-pytest
 - apparun
@@ -29,12 +69,9 @@
 - uipath
 - environment-client
 - treesimulator
-- lumivox
 - rio-tiler
-- locust-cloud
 - nebius
 - kabukit
-- vega-framework
 - django-sivuvahti
 - react-tk
 - talks-reducer
@@ -45,49 +82,9 @@
 - apify
 - rockpool
 - upplib
-- aipyapp
 - duckrun
 - ls-buildtools
 - torchx-nightly
-- das-cli
 - retracesoftware-utils
 - tp-shared
 - imxInsights
-- odoo-addon-auth-oidc
-- torchft-nightly
-- frogml
-- anomalib
-- writer
-- lium-cli
-- nexusai
-- tzmerkle
-- workflows-mcp
-- openmodule-commands
-- fmu-settings
-- run-r
-- openmodule-test
-- openmodule
-- reydb
-- cleanote
-- reyserver
-- reykit
-- reyfetch
-- aiogram-renderer
-- MeUtils
-- opentargets-otter
-- dkinst
-- ecdev
-- volcengine-python-sdk
-- wcgw
-- clwe
-- seanox-ai-nlp
-- apigatewaybuilder
-- odoo-addon-l10n-ro-vat-on-payment
-- odoo-addon-l10n-ro-nondeductible-vat
-- multistate
-- tonpy-dev
-- pedantic
-- tb-nightly
-- agora-python-server-sdk
-- dycw-pre-commit-hooks
-- pesapal-sdk

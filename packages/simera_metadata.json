@@ -1,11 +1,11 @@
 {
   "name": "simera",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Supply Chain Simulation Tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simera-0.3.0.tar.gz",
-  "download_time": "2025-10-09T11:17:20.895781",
+  "download_filename": "simera-0.3.1.tar.gz",
+  "download_time": "2025-10-09T11:52:33.583442",
   "package_url": "https://pypi.org/project/simera/"
 }

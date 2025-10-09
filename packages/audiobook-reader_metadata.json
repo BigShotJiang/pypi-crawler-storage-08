@@ -1,0 +1,11 @@
+{
+  "name": "audiobook-reader",
+  "version": "0.1.0",
+  "summary": "Professional audiobook production CLI with character-aware voices, emotion analysis, and hardware acceleration. Built with Kokoro-82M TTS for production-quality narration.",
+  "author": "corsano",
+  "license": "MIT",
+  "home_page": "https://github.com/dcrsn/reader",
+  "download_filename": "audiobook_reader-0.1.0.tar.gz",
+  "download_time": "2025-10-09T11:52:28.596386",
+  "package_url": "https://pypi.org/project/audiobook-reader/"
+}

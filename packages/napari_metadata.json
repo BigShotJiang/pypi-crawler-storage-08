@@ -1,0 +1,11 @@
+{
+  "name": "napari",
+  "version": "0.6.5",
+  "summary": "n-dimensional array viewer in Python",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "napari-0.6.5.tar.gz",
+  "download_time": "2025-10-09T11:52:31.393279",
+  "package_url": "https://pypi.org/project/napari/"
+}

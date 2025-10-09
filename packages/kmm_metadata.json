@@ -1,0 +1,11 @@
+{
+  "name": "kmm",
+  "version": "0.1.7",
+  "summary": "Minimalistic library for reading files in the kmm/kmm2 file format",
+  "author": "NextML AB",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "kmm-0.1.7.tar.gz",
+  "download_time": "2025-10-09T11:52:44.500747",
+  "package_url": "https://pypi.org/project/kmm/"
+}

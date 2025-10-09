@@ -1,0 +1,11 @@
+{
+  "name": "autocsv-profiler",
+  "version": "2.0.0",
+  "summary": "Automated CSV data analysis with statistical profiling and visualization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autocsv_profiler-2.0.0.tar.gz",
+  "download_time": "2025-10-09T11:52:31.929111",
+  "package_url": "https://pypi.org/project/autocsv-profiler/"
+}

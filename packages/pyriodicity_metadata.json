@@ -1,0 +1,11 @@
+{
+  "name": "pyriodicity",
+  "version": "0.6.1",
+  "summary": "Pyriodicity provides an intuitive and efficient Python implementation of periodicity length detection methods in univariate signals.",
+  "author": "Iskander Gaba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyriodicity-0.6.1.tar.gz",
+  "download_time": "2025-10-09T11:52:42.892036",
+  "package_url": "https://pypi.org/project/pyriodicity/"
+}

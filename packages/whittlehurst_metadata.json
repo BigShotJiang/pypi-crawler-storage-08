@@ -1,0 +1,11 @@
+{
+  "name": "whittlehurst",
+  "version": "1.2",
+  "summary": "Hurst exponent estimation using Whittle's method",
+  "author": "Bálint Csanády",
+  "license": "MIT",
+  "home_page": "https://github.com/aielte-research/whittlehurst.git",
+  "download_filename": "whittlehurst-1.2-py3-none-any.whl",
+  "download_time": "2025-10-09T11:52:35.193863",
+  "package_url": "https://pypi.org/project/whittlehurst/"
+}
