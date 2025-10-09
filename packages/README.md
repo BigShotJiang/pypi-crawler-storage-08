@@ -1,37 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T21:19:13.185530
-- **Total Packages**: 91
-- **Total Size**: 28.63 MB
+- **Download Time**: 2025-10-09T21:40:01.993693
+- **Total Packages**: 93
+- **Total Size**: 0.01 MB
 
 ## Packages List
-- boring-math-integer-math
-- rebel-forge
-- flake8-annotations
-- otpylib-logger
-- masai-framework
-- pingera-mcp-server
-- pycarlo
-- otpylib-config
-- GENERAL7
-- cuenca
-- netbox-validity
-- langchain-trigger-server
-- PYield
-- openmetadata-managed-apis
-- youtube-indirici-atilla
-- pymicro-features
-- Sardou
-- trame-simput
-- standardbots
-- cje-eval
-- stencils
-- chloris-app-sdk
-- pds-epitome
-- wmill-pg
-- wmill
-- windmill-api
 - azure-monitor-opentelemetry-exporter
 - exa-py
 - bump-deps-index
@@ -44,6 +18,7 @@
 - ruff-format
 - claude-mpm
 - vcp-cli
+- rebel-forge
 - nominal-api-protos
 - nominal-api
 - sqlguardian
@@ -53,6 +28,7 @@
 - rdf-engine
 - ebook2text
 - scenvi
+- masai-framework
 - near-sdk-py
 - pypi-changes
 - eval-protocol
@@ -85,6 +61,7 @@
 - tox-gh
 - secxbrl
 - artlib
+- langchain-trigger-server
 - m01.i18n
 - ipuppy-notebooks
 - maleo-imaging
@@ -97,3 +74,28 @@
 - jacktrade
 - intersystems-irispython
 - ragger-python-sdk
+- varray
+- stencils
+- OpenFisca-Core
+- requp
+- sqltap-profiler
+- cereggii
+- drafter
+- svc-infra
+- nhc
+- ipyparallel
+- grid-cortex-client
+- pulse-mantine
+- pulse-framework
+- kfp-kubernetes
+- clarifai-grpc
+- taskiq-postgres
+- torch-sim-atomistic
+- answerrocket-client
+- prefect
+- tox-uv
+- kfp
+- universal-mcp-agents
+- workos
+- gtfs-kit
+- annotated-logger
