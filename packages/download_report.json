@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-10-09T22:41:36.211559",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 36.74,
+  "download_time": "2025-10-09T22:53:15.127117",
+  "total_packages_downloaded": 84,
+  "total_size_mb": 0.25,
   "packages": [
-    "stewbeet",
-    "pyqrackising",
-    "Sardou",
-    "eVAIRpathplanning",
     "aristotlelib",
     "authentik-client",
     "kalibr",
@@ -85,6 +81,11 @@
     "cybrid-api-bank-python",
     "fast-agent-mcp",
     "cybrid-api-id-python",
-    "prompt-contracts"
+    "prompt-contracts",
+    "cybrid-api-organization-python",
+    "kubernator",
+    "ai2-scholar-qa",
+    "azure-search-documents",
+    "powerbin"
   ]
 }
