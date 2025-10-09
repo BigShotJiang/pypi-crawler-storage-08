@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-sourced-by-line",
+  "version": "18.0.1.0.1",
+  "summary": "Multiple warehouse source locations for Sale order",
+  "author": "Camptocamp,ForgeFlow,SerpentCS,Info a tout prix,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_sourced_by_line-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-09T19:18:03.098883",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-sourced-by-line/"
+}

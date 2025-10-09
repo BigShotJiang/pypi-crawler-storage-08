@@ -1,0 +1,11 @@
+{
+  "name": "domiknows",
+  "version": "1.0.0",
+  "summary": "A library provides integration between Domain Knowledge and Deep Learning.",
+  "author": "Andrzej Uszok, Parisa Kordjamshidi",
+  "license": null,
+  "home_page": "https://github.com/HLR/DomiKnowS",
+  "download_filename": "domiknows-1.0.0.tar.gz",
+  "download_time": "2025-10-09T19:17:33.561620",
+  "package_url": "https://pypi.org/project/domiknows/"
+}

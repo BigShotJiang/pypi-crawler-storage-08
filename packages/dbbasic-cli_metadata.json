@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-cli",
+  "version": "1.0.0",
+  "summary": "Command-line tool for creating and managing DBBasic apps",
+  "author": "DBBasic Project",
+  "license": null,
+  "home_page": "https://github.com/askrobots/dbbasic-cli-new",
+  "download_filename": "dbbasic_cli-1.0.0.tar.gz",
+  "download_time": "2025-10-09T19:17:32.475585",
+  "package_url": "https://pypi.org/project/dbbasic-cli/"
+}

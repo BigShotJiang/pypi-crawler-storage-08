@@ -1,0 +1,11 @@
+{
+  "name": "facade-sdk",
+  "version": "0.1.0",
+  "summary": "A simple greeting package",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/Mseavers1/facade_sdk",
+  "download_filename": "facade_sdk-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-09T19:17:45.878860",
+  "package_url": "https://pypi.org/project/facade-sdk/"
+}

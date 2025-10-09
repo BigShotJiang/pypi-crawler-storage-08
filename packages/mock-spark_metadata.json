@@ -1,11 +1,11 @@
 {
   "name": "mock-spark",
-  "version": "1.4.0",
+  "version": "2.0.1",
   "summary": "Lightning-fast PySpark testing without JVM - 10x faster with 100% API compatibility",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mock_spark-1.4.0.tar.gz",
-  "download_time": "2025-10-09T14:21:34.768467",
+  "download_filename": "mock_spark-2.0.1.tar.gz",
+  "download_time": "2025-10-09T19:17:35.742719",
   "package_url": "https://pypi.org/project/mock-spark/"
 }

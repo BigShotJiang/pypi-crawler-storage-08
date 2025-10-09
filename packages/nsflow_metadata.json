@@ -1,0 +1,11 @@
+{
+  "name": "nsflow",
+  "version": "0.6.0",
+  "summary": "A Neuro-San powered Smart Agent Network Framework",
+  "author": "Deepak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nsflow-0.6.0.tar.gz",
+  "download_time": "2025-10-09T19:17:53.380652",
+  "package_url": "https://pypi.org/project/nsflow/"
+}
