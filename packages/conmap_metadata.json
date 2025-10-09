@@ -1,0 +1,11 @@
+{
+  "name": "conmap",
+  "version": "0.2.0",
+  "summary": "Subnet MCP endpoint discovery and vulnerability analysis toolkit with CLI and API interfaces.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "conmap-0.2.0.tar.gz",
+  "download_time": "2025-10-09T04:54:55.750451",
+  "package_url": "https://pypi.org/project/conmap/"
+}

@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T04:44:23.971200
-- **Total Packages**: 82
-- **Total Size**: 20.72 MB
+- **Download Time**: 2025-10-09T04:55:32.455056
+- **Total Packages**: 80
+- **Total Size**: 4.28 MB
 
 ## Packages List
+- annofabcli
+- uv-ship
+- authentik-client
+- plasen
+- AutoImblearn
+- moleditpy
+- ldc-lender-datalayer
+- ydata-profiling-multilingual
+- rebel-forge
+- 1d-qt-ideal-solver
+- pytorch-dlrs
+- iamdata
+- conmap
+- tarot-reader
+- sidemantic
 - sqlite-mcp-server-enhanced
 - singlefile-storage
 - maven-proxy
@@ -13,9 +28,7 @@
 - frenztoolkit
 - agentci-client-config
 - gllm-core-binary
-- authentik-client
 - aiqtoolkit-crewai
-- 1d-qt-ideal-solver
 - vega-framework
 - machineconfig
 - alphaaidig-datacenter-client
@@ -24,7 +37,6 @@
 - recollex-gpu
 - graphrag
 - iplotx
-- rebel-forge
 - bioscript
 - p-template-generator
 - cisco-ai-mcp-scanner
@@ -36,11 +48,9 @@
 - sumeh
 - compressed-lists
 - promptware-dev
-- sidemantic
 - greenstream-config
 - ttkbootstrap
 - vpp-vrouter
-- tarot-reader
 - maxapi-python
 - ysa-signal
 - pipefunc
@@ -60,7 +70,6 @@
 - ifgen
 - intelliw
 - ambient-package-update
-- plasen
 - microplate
 - talk-to-a-file
 - omniopt2
@@ -77,14 +86,3 @@
 - glaip-sdk
 - cdktf-cdktf-provider-pagerduty
 - text-formater
-- otlmow-model
-- rlbidder
-- pozansky-stock-server
-- graphiant-sdk
-- automated-interpretability
-- crackerjack
-- jaxl-python
-- discretize
-- depkit
-- benchling-sdk
-- xldashboard

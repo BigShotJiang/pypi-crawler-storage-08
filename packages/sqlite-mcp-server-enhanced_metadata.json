@@ -1,11 +1,11 @@
 {
   "name": "sqlite-mcp-server-enhanced",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "summary": "A SQLite MCP server with JSONB support, database administration tools, and advanced database operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlite_mcp_server_enhanced-2.6.2.tar.gz",
-  "download_time": "2025-10-09T03:55:02.220531",
+  "download_filename": "sqlite_mcp_server_enhanced-2.6.3.tar.gz",
+  "download_time": "2025-10-09T04:54:57.289488",
   "package_url": "https://pypi.org/project/sqlite-mcp-server-enhanced/"
 }
