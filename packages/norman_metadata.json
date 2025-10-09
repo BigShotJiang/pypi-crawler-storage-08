@@ -1,0 +1,11 @@
+{
+  "name": "norman",
+  "version": "0.0.1",
+  "summary": "Placeholder package for Norman AI",
+  "author": "Norman AI",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/norman-ml",
+  "download_filename": "norman-0.0.1.tar.gz",
+  "download_time": "2025-10-09T07:20:27.083478",
+  "package_url": "https://pypi.org/project/norman/"
+}

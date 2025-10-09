@@ -1,0 +1,11 @@
+{
+  "name": "pozansky-stock-analysis",
+  "version": "1.4.0",
+  "summary": "Advanced stock analysis server with candlestick pattern detection and chart generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pozansky_stock_analysis-1.4.0-py3-none-any.whl",
+  "download_time": "2025-10-09T07:20:09.546274",
+  "package_url": "https://pypi.org/project/pozansky-stock-analysis/"
+}

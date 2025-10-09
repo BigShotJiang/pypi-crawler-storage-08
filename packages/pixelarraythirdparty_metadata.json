@@ -1,11 +1,11 @@
 {
   "name": "pixelarraythirdparty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "PixelArray 第三方微服务客户端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixelarraythirdparty-1.0.0.tar.gz",
-  "download_time": "2025-10-09T06:56:53.659194",
+  "download_filename": "pixelarraythirdparty-1.0.1.tar.gz",
+  "download_time": "2025-10-09T07:19:48.299050",
   "package_url": "https://pypi.org/project/pixelarraythirdparty/"
 }

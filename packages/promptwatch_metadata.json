@@ -1,0 +1,11 @@
+{
+  "name": "promptwatch",
+  "version": "0.4.6",
+  "summary": "promptwatch.io python client to trace langchain sessions",
+  "author": "Juraj Bezdek",
+  "license": "MIT License",
+  "home_page": "https://github.com/blip-solutions/promptwatch-client",
+  "download_filename": "promptwatch-0.4.6.tar.gz",
+  "download_time": "2025-10-09T07:19:57.090518",
+  "package_url": "https://pypi.org/project/promptwatch/"
+}

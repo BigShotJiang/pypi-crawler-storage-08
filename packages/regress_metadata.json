@@ -1,0 +1,11 @@
+{
+  "name": "regress",
+  "version": "2025.10.1",
+  "summary": "Python bindings to Rust's regress ECMA regular expressions library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regress-2025.10.1.tar.gz",
+  "download_time": "2025-10-09T07:20:04.919208",
+  "package_url": "https://pypi.org/project/regress/"
+}
