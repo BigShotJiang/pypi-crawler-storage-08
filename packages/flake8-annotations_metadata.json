@@ -1,0 +1,11 @@
+{
+  "name": "flake8-annotations",
+  "version": "3.2.0",
+  "summary": "Flake8 Type Annotation Checks",
+  "author": "sco1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_annotations-3.2.0.tar.gz",
+  "download_time": "2025-10-09T21:18:25.153640",
+  "package_url": "https://pypi.org/project/flake8-annotations/"
+}

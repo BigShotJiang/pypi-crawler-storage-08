@@ -1,11 +1,11 @@
 {
   "name": "otpylib-config",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Runtime configuration management for otpylib applications with hot reloading and change notifications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "otpylib_config-0.2.7.tar.gz",
-  "download_time": "2025-10-08T02:44:20.854127",
+  "download_filename": "otpylib_config-0.2.8.tar.gz",
+  "download_time": "2025-10-09T21:18:27.807784",
   "package_url": "https://pypi.org/project/otpylib-config/"
 }

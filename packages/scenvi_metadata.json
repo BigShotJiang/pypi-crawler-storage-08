@@ -1,0 +1,11 @@
+{
+  "name": "scenvi",
+  "version": "0.4.6",
+  "summary": "Integration of scRNA-seq and spatial transcpriptomics data",
+  "author": "Doron Haviv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scenvi-0.4.6.tar.gz",
+  "download_time": "2025-10-09T21:18:49.534183",
+  "package_url": "https://pypi.org/project/scenvi/"
+}

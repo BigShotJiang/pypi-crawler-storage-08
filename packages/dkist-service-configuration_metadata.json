@@ -1,11 +1,11 @@
 {
   "name": "dkist-service-configuration",
-  "version": "4.1.9",
+  "version": "4.1.10",
   "summary": "Library for retrieving configurations for DKIST services",
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "dkist_service_configuration-4.1.9.tar.gz",
-  "download_time": "2025-10-09T17:51:31.598990",
+  "download_filename": "dkist_service_configuration-4.1.10.tar.gz",
+  "download_time": "2025-10-09T21:19:02.377954",
   "package_url": "https://pypi.org/project/dkist-service-configuration/"
 }

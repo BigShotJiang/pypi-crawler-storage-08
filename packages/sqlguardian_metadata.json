@@ -1,0 +1,11 @@
+{
+  "name": "sqlguardian",
+  "version": "0.3.1",
+  "summary": "SQLGuardian.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlguardian-0.3.1.tar.gz",
+  "download_time": "2025-10-09T21:18:46.402677",
+  "package_url": "https://pypi.org/project/sqlguardian/"
+}

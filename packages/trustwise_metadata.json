@@ -1,11 +1,11 @@
 {
   "name": "trustwise",
-  "version": "1.0.0b11",
+  "version": "1.0.0b12",
   "summary": "Trustwise Python SDK for interacting with the Trustwise APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustwise-1.0.0b11-py3-none-any.whl",
-  "download_time": "2025-10-08T15:53:57.211438",
+  "download_filename": "trustwise-1.0.0b12-py3-none-any.whl",
+  "download_time": "2025-10-09T21:18:53.377215",
   "package_url": "https://pypi.org/project/trustwise/"
 }

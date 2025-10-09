@@ -1,0 +1,11 @@
+{
+  "name": "ebook2text",
+  "version": "2.2.0",
+  "summary": "Convert common book file types to text for machine learning",
+  "author": "Ashlynn Antrobus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ebook2text-2.2.0.tar.gz",
+  "download_time": "2025-10-09T21:18:49.012826",
+  "package_url": "https://pypi.org/project/ebook2text/"
+}

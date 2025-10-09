@@ -1,11 +1,11 @@
 {
   "name": "xwnode",
-  "version": "0.0.1.14",
-  "summary": "Node-based data processing and graph computation library",
+  "version": "0.0.1.18",
+  "summary": "Convenience wrapper for exonware-xwnode - provides 'import xwnode' alias",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xwnode-0.0.1.14.tar.gz",
-  "download_time": "2025-10-09T08:27:22.691364",
+  "download_filename": "xwnode-0.0.1.18-py3-none-any.whl",
+  "download_time": "2025-10-09T21:18:57.635301",
   "package_url": "https://pypi.org/project/xwnode/"
 }
