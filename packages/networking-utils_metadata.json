@@ -1,11 +1,11 @@
 {
   "name": "networking-utils",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "A small collection of networking-related utility helpers (demo).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "networking_utils-0.1.1.tar.gz",
-  "download_time": "2025-10-08T23:17:41.407134",
+  "download_filename": "networking_utils-0.1.6.tar.gz",
+  "download_time": "2025-10-09T10:55:48.641769",
   "package_url": "https://pypi.org/project/networking-utils/"
 }

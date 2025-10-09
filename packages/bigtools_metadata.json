@@ -1,11 +1,11 @@
 {
   "name": "bigtools",
-  "version": "1.3.5",
+  "version": "1.3.7",
   "summary": "Tools for python",
   "author": "hongbo liu",
   "license": "Apache",
   "home_page": "https://gitee.com/maxbanana",
-  "download_filename": "bigtools-1.3.5.tar.gz",
-  "download_time": "2025-10-09T10:44:38.108093",
+  "download_filename": "bigtools-1.3.7.tar.gz",
+  "download_time": "2025-10-09T10:55:40.232327",
   "package_url": "https://pypi.org/project/bigtools/"
 }

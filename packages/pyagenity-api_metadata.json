@@ -1,0 +1,11 @@
+{
+  "name": "pyagenity-api",
+  "version": "0.1.4",
+  "summary": "CLI and API for Pyagenity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyagenity_api-0.1.4.tar.gz",
+  "download_time": "2025-10-09T10:55:43.363962",
+  "package_url": "https://pypi.org/project/pyagenity-api/"
+}

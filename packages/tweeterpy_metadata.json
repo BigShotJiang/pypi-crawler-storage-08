@@ -1,0 +1,11 @@
+{
+  "name": "tweeterpy",
+  "version": "2.0.14",
+  "summary": "TweeterPy is a python library to extract data from Twitter. TweeterPy API lets you scrape data from a user's profile like username, userid, bio, followers/followings list, profile media, tweets, etc.",
+  "author": "Sarabjit Dhiman",
+  "license": "MIT",
+  "home_page": "https://github.com/iSarabjitDhiman/TweeterPy",
+  "download_filename": "tweeterpy-2.0.14.tar.gz",
+  "download_time": "2025-10-09T10:55:45.977056",
+  "package_url": "https://pypi.org/project/tweeterpy/"
+}

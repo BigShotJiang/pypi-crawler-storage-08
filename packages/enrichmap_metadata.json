@@ -1,0 +1,11 @@
+{
+  "name": "enrichmap",
+  "version": "0.1.10",
+  "summary": "EnrichMap: Spatially informed enrichment analysis for functional interpretation of spatial transcriptomics",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "enrichmap-0.1.10-py3-none-any.whl",
+  "download_time": "2025-10-09T10:55:42.844164",
+  "package_url": "https://pypi.org/project/enrichmap/"
+}

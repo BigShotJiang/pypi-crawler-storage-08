@@ -1,0 +1,11 @@
+{
+  "name": "ashclip",
+  "version": "1.0.0",
+  "summary": "A discreet CLI tool to fetch file content from Nexus Hub to the clipboard via a hotkey.",
+  "author": "Heisenberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ashclip-1.0.0.tar.gz",
+  "download_time": "2025-10-09T10:55:37.051562",
+  "package_url": "https://pypi.org/project/ashclip/"
+}

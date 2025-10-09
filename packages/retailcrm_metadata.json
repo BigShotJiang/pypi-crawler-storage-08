@@ -1,0 +1,11 @@
+{
+  "name": "retailcrm",
+  "version": "5.2.1",
+  "summary": "RetailCRM API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retailcrm-5.2.1.tar.gz",
+  "download_time": "2025-10-09T10:55:50.199773",
+  "package_url": "https://pypi.org/project/retailcrm/"
+}

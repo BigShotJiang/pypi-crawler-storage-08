@@ -1,11 +1,11 @@
 {
   "name": "taha",
-  "version": "2.2.3",
-  "summary": "it is the great library you can find right or left click and select color and open GIF or TEXT or change format it do you want to USE IT??__________ اين يه کتابخانه است براي تو ميتوني باهاش تغيير فرمت بدي و يا کليک ها را تشخيص بدي و کلي کار ديگه نظرت چيه ؟؟",
-  "author": "T_programmer",
+  "version": "2.2.4",
+  "summary": "📦 Taha Library - Premium Edition with voice, AI, and tools",
+  "author": "Taha",
   "license": null,
   "home_page": null,
-  "download_filename": "taha-2.2.3.tar.gz",
-  "download_time": "2025-10-09T10:21:58.795145",
+  "download_filename": "taha-2.2.4.tar.gz",
+  "download_time": "2025-10-09T10:55:53.821976",
   "package_url": "https://pypi.org/project/taha/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "intersphinx-registry",
+  "version": "0.2510.9",
+  "summary": "This package provides convenient utilities and data to write a sphinx config file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intersphinx_registry-0.2510.9.tar.gz",
+  "download_time": "2025-10-09T10:55:47.016075",
+  "package_url": "https://pypi.org/project/intersphinx-registry/"
+}
