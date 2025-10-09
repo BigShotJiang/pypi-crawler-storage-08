@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sqla",
+  "version": "3.5.4",
+  "summary": "SQLAlchemy extension for FastAPI with support for pagination, asyncio, SQLModel, and pytest, ready for production.",
+  "author": "Hadrien David",
+  "license": "MIT",
+  "home_page": "https://github.com/dialoguemd/fastapi-sqla",
+  "download_filename": "fastapi_sqla-3.5.4.tar.gz",
+  "download_time": "2025-10-09T13:48:43.842428",
+  "package_url": "https://pypi.org/project/fastapi-sqla/"
+}

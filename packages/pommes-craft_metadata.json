@@ -1,0 +1,11 @@
+{
+  "name": "pommes-craft",
+  "version": "0.1.1",
+  "summary": "High-level interface to the POMMES energy system modeling tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pommes_craft-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-09T13:49:20.151886",
+  "package_url": "https://pypi.org/project/pommes-craft/"
+}

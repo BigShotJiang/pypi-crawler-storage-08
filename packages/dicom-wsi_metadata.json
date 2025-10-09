@@ -1,0 +1,11 @@
+{
+  "name": "dicom-wsi",
+  "version": "1.0.5",
+  "summary": "Package for converting whole slide image files to dicom.",
+  "author": "Steven N. Hart",
+  "license": "MIT license",
+  "home_page": "https://github.com/Steven-N-Hart/dicom_wsi",
+  "download_filename": "dicom_wsi-1.0.5.tar.gz",
+  "download_time": "2025-10-09T13:48:37.440146",
+  "package_url": "https://pypi.org/project/dicom-wsi/"
+}

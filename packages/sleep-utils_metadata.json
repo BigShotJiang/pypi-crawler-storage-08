@@ -1,0 +1,11 @@
+{
+  "name": "sleep-utils",
+  "version": "1.25",
+  "summary": "A collection of tools for sleep research",
+  "author": "skjerns",
+  "license": "GNU 2.0",
+  "home_page": "http://github.com/skjerns/sleep-utils",
+  "download_filename": "sleep_utils-1.25.tar.gz",
+  "download_time": "2025-10-09T13:49:08.658470",
+  "package_url": "https://pypi.org/project/sleep-utils/"
+}

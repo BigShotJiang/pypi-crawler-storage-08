@@ -1,11 +1,11 @@
 {
   "name": "yaxai",
-  "version": "0.10.0",
+  "version": "0.12.0",
   "summary": null,
   "author": "Henryk Konsek",
   "license": null,
   "home_page": null,
-  "download_filename": "yaxai-0.10.0.tar.gz",
-  "download_time": "2025-10-09T10:22:37.019318",
+  "download_filename": "yaxai-0.12.0.tar.gz",
+  "download_time": "2025-10-09T13:49:03.402920",
   "package_url": "https://pypi.org/project/yaxai/"
 }

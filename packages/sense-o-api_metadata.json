@@ -1,0 +1,11 @@
+{
+  "name": "sense-o-api",
+  "version": "1.42",
+  "summary": "SENSE-Orchestrator Northbound API Client",
+  "author": "Xi Yang",
+  "license": null,
+  "home_page": "https://github.com/esnet/StackV",
+  "download_filename": "sense_o_api-1.42.tar.gz",
+  "download_time": "2025-10-09T13:48:38.481846",
+  "package_url": "https://pypi.org/project/sense-o-api/"
+}

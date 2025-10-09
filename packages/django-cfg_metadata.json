@@ -1,11 +1,11 @@
 {
   "name": "django-cfg",
-  "version": "1.4.19",
+  "version": "1.4.20",
   "summary": "Django AI framework with built-in agents, type-safe Pydantic v2 configuration, and 8 enterprise apps. Replace settings.py, validate at startup, 90% less code. Production-ready AI workflows for Django.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cfg-1.4.19.tar.gz",
-  "download_time": "2025-10-09T07:52:22.227693",
+  "download_filename": "django_cfg-1.4.20.tar.gz",
+  "download_time": "2025-10-09T13:48:50.645195",
   "package_url": "https://pypi.org/project/django-cfg/"
 }

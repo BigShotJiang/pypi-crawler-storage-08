@@ -1,0 +1,11 @@
+{
+  "name": "lexia",
+  "version": "1.2.3",
+  "summary": "Clean, minimal package for Lexia platform integration",
+  "author": "Lexia Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Xalantico/lexia-pip",
+  "download_filename": "lexia-1.2.3.tar.gz",
+  "download_time": "2025-10-09T13:48:44.361160",
+  "package_url": "https://pypi.org/project/lexia/"
+}

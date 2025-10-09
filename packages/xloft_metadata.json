@@ -1,11 +1,11 @@
 {
   "name": "xloft",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "(XLOFT) X-Library of tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xloft-0.6.3-py3-none-any.whl",
-  "download_time": "2025-10-09T13:21:09.502696",
+  "download_filename": "xloft-0.6.4-py3-none-any.whl",
+  "download_time": "2025-10-09T13:48:33.033720",
   "package_url": "https://pypi.org/project/xloft/"
 }

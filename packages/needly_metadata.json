@@ -1,0 +1,11 @@
+{
+  "name": "needly",
+  "version": "2.5.95",
+  "summary": "Python Needle Editor for openQA",
+  "author": "Lukáš Růžička",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "needly-2.5.95.tar.gz",
+  "download_time": "2025-10-09T13:49:02.352930",
+  "package_url": "https://pypi.org/project/needly/"
+}

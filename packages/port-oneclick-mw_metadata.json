@@ -1,0 +1,11 @@
+{
+  "name": "port-oneclick-mw",
+  "version": "0.1.0",
+  "summary": "A Python middleware service for managing Port.io guides (blueprints, actions, mappings, widgets)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "port_oneclick_mw-0.1.0.tar.gz",
+  "download_time": "2025-10-09T13:48:58.613730",
+  "package_url": "https://pypi.org/project/port-oneclick-mw/"
+}

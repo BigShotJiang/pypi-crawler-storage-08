@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-concepts",
+  "version": "0.0.12",
+  "summary": "Concept-Based Deep Learning Library for PyTorch.",
+  "author": "PyC Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pyc-team/pytorch_concepts",
+  "download_filename": "pytorch_concepts-0.0.12.tar.gz",
+  "download_time": "2025-10-09T13:49:01.832973",
+  "package_url": "https://pypi.org/project/pytorch-concepts/"
+}

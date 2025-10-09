@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-SRW",
+  "version": "1.1.121",
+  "summary": "SRW in OASYS",
+  "author": "Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/lucarebuffi/OASYS-SRW",
+  "download_filename": "OASYS1-SRW-1.1.121.tar.gz",
+  "download_time": "2025-10-09T13:49:06.029390",
+  "package_url": "https://pypi.org/project/OASYS1-SRW/"
+}

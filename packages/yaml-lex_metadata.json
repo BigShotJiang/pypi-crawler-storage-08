@@ -1,0 +1,11 @@
+{
+  "name": "yaml-lex",
+  "version": "0.2.2",
+  "summary": "A corpus-statutes YAML formatter with smart wrapping rules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaml_lex-0.2.2.tar.gz",
+  "download_time": "2025-10-09T13:48:39.532333",
+  "package_url": "https://pypi.org/project/yaml-lex/"
+}
