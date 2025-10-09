@@ -1,0 +1,11 @@
+{
+  "name": "jellyjoin",
+  "version": "0.2.2",
+  "summary": "Utilities for dataset similarity and joins",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jellyjoin-0.2.2.tar.gz",
+  "download_time": "2025-10-09T02:47:19.700594",
+  "package_url": "https://pypi.org/project/jellyjoin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-invoicing-date-from-picking",
+  "version": "16.0.1.0.0.4",
+  "summary": "Applies the wizard date to invoices generated from pickings",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_sale_invoicing_date_from_picking-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-09T02:46:52.892058",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-invoicing-date-from-picking/"
+}

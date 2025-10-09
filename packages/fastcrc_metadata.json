@@ -1,0 +1,11 @@
+{
+  "name": "fastcrc",
+  "version": "0.3.3",
+  "summary": "A hyper-fast Python module for computing CRC(8, 16, 32, 64) checksum",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/overcat/fastcrc",
+  "download_filename": "fastcrc-0.3.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-10-09T02:46:49.431469",
+  "package_url": "https://pypi.org/project/fastcrc/"
+}

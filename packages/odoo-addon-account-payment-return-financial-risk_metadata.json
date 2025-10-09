@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-return-financial-risk",
+  "version": "18.0.1.0.0.2",
+  "summary": "Partner Payment Return Risk",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_account_payment_return_financial_risk-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-09T02:46:41.578658",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-return-financial-risk/"
+}

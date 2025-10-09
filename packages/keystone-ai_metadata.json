@@ -1,0 +1,11 @@
+{
+  "name": "keystone-ai",
+  "version": "0.2.2",
+  "summary": "Python SDK for Nexus AI Platform - The keystone of your AI applications",
+  "author": "Nexus AI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keystone_ai-0.2.2.tar.gz",
+  "download_time": "2025-10-09T02:47:06.931059",
+  "package_url": "https://pypi.org/project/keystone-ai/"
+}

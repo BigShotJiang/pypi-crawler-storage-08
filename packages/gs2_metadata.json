@@ -1,0 +1,11 @@
+{
+  "name": "gs2",
+  "version": "1.1.243",
+  "summary": "GS2 SDK for Python.",
+  "author": "Game Server Services, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://gs2.io/",
+  "download_filename": "gs2-1.1.243.tar.gz",
+  "download_time": "2025-10-09T02:47:22.246048",
+  "package_url": "https://pypi.org/project/gs2/"
+}

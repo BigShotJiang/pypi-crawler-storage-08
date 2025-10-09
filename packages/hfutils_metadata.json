@@ -1,0 +1,11 @@
+{
+  "name": "hfutils",
+  "version": "0.12.1",
+  "summary": "Useful utilities for huggingface",
+  "author": "narugo1992",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/deepghs/hfutils",
+  "download_filename": "hfutils-0.12.1.tar.gz",
+  "download_time": "2025-10-09T02:47:12.522701",
+  "package_url": "https://pypi.org/project/hfutils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "get-unicode-multiline-input-with-editor",
+  "version": "0.1.0a1",
+  "summary": "Opens `$EDITOR` to get multi-line input as a list of Unicode strings, just like what `git commit` does.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_unicode_multiline_input_with_editor-0.1.0a1.tar.gz",
+  "download_time": "2025-10-09T02:46:48.312583",
+  "package_url": "https://pypi.org/project/get-unicode-multiline-input-with-editor/"
+}

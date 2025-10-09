@@ -1,0 +1,11 @@
+{
+  "name": "xs3d",
+  "version": "1.12.2",
+  "summary": "Compute cross sectional area of 3d shapes.",
+  "author": "William Silversmith",
+  "license": "\"LGPL-3.0-or-later\"",
+  "home_page": "https://github.com/seung-lab/cross-section/",
+  "download_filename": "xs3d-1.12.2.tar.gz",
+  "download_time": "2025-10-09T02:46:59.052381",
+  "package_url": "https://pypi.org/project/xs3d/"
+}

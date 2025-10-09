@@ -1,11 +1,11 @@
 {
   "name": "cloud-db-service",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A unified cloud db package for AWS, Azure, and GCP",
   "author": "Aaditya Muleva, Vinay Shankar Miryala, Aakash Kag",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloud_db_service-0.1.5.tar.gz",
-  "download_time": "2025-10-08T16:47:06.896794",
+  "download_filename": "cloud_db_service-0.1.6.tar.gz",
+  "download_time": "2025-10-09T02:47:03.536436",
   "package_url": "https://pypi.org/project/cloud-db-service/"
 }
