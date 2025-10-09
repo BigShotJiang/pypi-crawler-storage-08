@@ -1,0 +1,11 @@
+{
+  "name": "cloudmask-aws",
+  "version": "0.1.1",
+  "summary": "Anonymize AWS infrastructure identifiers for secure LLM processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudmask_aws-0.1.1.tar.gz",
+  "download_time": "2025-10-09T18:29:27.114375",
+  "package_url": "https://pypi.org/project/cloudmask-aws/"
+}

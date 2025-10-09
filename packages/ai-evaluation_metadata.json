@@ -1,0 +1,11 @@
+{
+  "name": "ai-evaluation",
+  "version": "0.2.1",
+  "summary": "We help GenAI teams maintain high-accuracy for their Models in production.",
+  "author": "Future AGI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_evaluation-0.2.1.tar.gz",
+  "download_time": "2025-10-09T18:29:32.987729",
+  "package_url": "https://pypi.org/project/ai-evaluation/"
+}

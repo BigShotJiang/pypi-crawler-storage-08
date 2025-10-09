@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-mcmotd",
+  "version": "2.0.0",
+  "summary": "A NoneBot2 plugin for querying Minecraft server status and generating status images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_mcmotd-2.0.0.tar.gz",
+  "download_time": "2025-10-09T18:29:44.341926",
+  "package_url": "https://pypi.org/project/nonebot-plugin-mcmotd/"
+}

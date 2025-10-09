@@ -1,0 +1,11 @@
+{
+  "name": "HoyoSophonDL",
+  "version": "1.0.4",
+  "summary": "HoyoSophonDL CLI is a Python-based reimplementation of HoYoPlay’s downloader logic. It allows users to list, validate, and download game assets directly from HoYoPlay manifests, with support for multi-threading, resumable downloads, and optional GUI mode.",
+  "author": "Mr.Jo0x01",
+  "license": null,
+  "home_page": "https://github.com/Jo0X01/HoyoSophonDL",
+  "download_filename": "hoyosophondl-1.0.4.tar.gz",
+  "download_time": "2025-10-09T18:29:28.188806",
+  "package_url": "https://pypi.org/project/HoyoSophonDL/"
+}
