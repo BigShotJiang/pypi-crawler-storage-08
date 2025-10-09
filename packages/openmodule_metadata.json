@@ -1,11 +1,11 @@
 {
   "name": "openmodule",
-  "version": "16.0.3",
+  "version": "16.0.4",
   "summary": "Libraries for developing the arivo openmodule",
   "author": "ARIVO",
   "license": "GNU General Public License v2 (GPLv2)",
   "home_page": "https://gitlab.com/arivo-public/device-python/openmodule.git",
-  "download_filename": "openmodule-16.0.3.tar.gz",
-  "download_time": "2025-10-08T13:19:21.656554",
+  "download_filename": "openmodule-16.0.4.tar.gz",
+  "download_time": "2025-10-09T11:39:33.335370",
   "package_url": "https://pypi.org/project/openmodule/"
 }
