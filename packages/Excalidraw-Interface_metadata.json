@@ -1,0 +1,11 @@
+{
+  "name": "Excalidraw-Interface",
+  "version": "0.1.3",
+  "summary": "Create excalidraw drawings with python",
+  "author": "Robert Nies",
+  "license": "MIT",
+  "home_page": "https://github.com/RobertJN64/Excalidraw_Interface",
+  "download_filename": "excalidraw_interface-0.1.3.tar.gz",
+  "download_time": "2025-10-09T20:40:27.049247",
+  "package_url": "https://pypi.org/project/Excalidraw-Interface/"
+}

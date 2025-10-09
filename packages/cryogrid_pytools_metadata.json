@@ -1,0 +1,11 @@
+{
+  "name": "cryogrid_pytools",
+  "version": "0.3.20",
+  "summary": "Tools to read in CryoGrid MATLAB data to Python and create forcing data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryogrid_pytools-0.3.20.tar.gz",
+  "download_time": "2025-10-09T20:40:25.941239",
+  "package_url": "https://pypi.org/project/cryogrid_pytools/"
+}

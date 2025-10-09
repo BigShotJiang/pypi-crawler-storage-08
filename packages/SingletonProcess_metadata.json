@@ -1,0 +1,11 @@
+{
+  "name": "SingletonProcess",
+  "version": "0.1.5",
+  "summary": "Allows existing functions to be run and stopped in seperate processes",
+  "author": "Robert Nies",
+  "license": "MIT",
+  "home_page": "https://github.com/RobertJN64/SingletonProcess",
+  "download_filename": "singletonprocess-0.1.5.tar.gz",
+  "download_time": "2025-10-09T20:40:28.960712",
+  "package_url": "https://pypi.org/project/SingletonProcess/"
+}

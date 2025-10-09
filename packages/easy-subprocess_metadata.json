@@ -1,0 +1,11 @@
+{
+  "name": "easy-subprocess",
+  "version": "1.1.0.post2",
+  "summary": "A higher level alternative to subprocess.Popen which also supports non-blocking reads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_subprocess-1.1.0.post2.tar.gz",
+  "download_time": "2025-10-09T20:40:39.662077",
+  "package_url": "https://pypi.org/project/easy-subprocess/"
+}

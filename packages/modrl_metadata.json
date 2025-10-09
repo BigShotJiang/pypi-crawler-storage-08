@@ -1,11 +1,11 @@
 {
   "name": "modrl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A Python package for modular implementation of classical and deep Reinforcement Learning algorithms.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "modrl-0.0.1.tar.gz",
-  "download_time": "2025-10-09T19:18:05.814326",
+  "download_filename": "modrl-0.0.2.tar.gz",
+  "download_time": "2025-10-09T20:40:43.041484",
   "package_url": "https://pypi.org/project/modrl/"
 }

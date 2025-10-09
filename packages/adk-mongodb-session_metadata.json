@@ -1,0 +1,11 @@
+{
+  "name": "adk-mongodb-session",
+  "version": "1.0.3",
+  "summary": "A project to integrate Google Ads API with MongoDB session management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adk_mongodb_session-1.0.3.tar.gz",
+  "download_time": "2025-10-09T20:40:11.771840",
+  "package_url": "https://pypi.org/project/adk-mongodb-session/"
+}

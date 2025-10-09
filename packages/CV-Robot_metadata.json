@@ -1,0 +1,11 @@
+{
+  "name": "CV-Robot",
+  "version": "0.4.6",
+  "summary": "Computer vision robotics project",
+  "author": "Robert Nies",
+  "license": "MIT",
+  "home_page": "https://github.com/RobertJN64/CV_Robot",
+  "download_filename": "cv_robot-0.4.6.tar.gz",
+  "download_time": "2025-10-09T20:40:35.670531",
+  "package_url": "https://pypi.org/project/CV-Robot/"
+}
