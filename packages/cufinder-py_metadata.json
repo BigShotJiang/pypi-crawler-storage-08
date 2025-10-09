@@ -1,11 +1,11 @@
 {
   "name": "cufinder-py",
-  "version": "1.1.0",
-  "summary": "Type-safe Python SDK for easily integrating with the Cufinder API",
+  "version": "0.1.0",
+  "summary": "Python SDK for easily integrating with the CUFinder API",
   "author": "Cufinder Team",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/CUFinder/cufinder-py",
-  "download_filename": "cufinder_py-1.1.0.tar.gz",
-  "download_time": "2025-10-09T09:42:01.123970",
+  "download_filename": "cufinder_py-0.1.0.tar.gz",
+  "download_time": "2025-10-09T09:53:13.456327",
   "package_url": "https://pypi.org/project/cufinder-py/"
 }

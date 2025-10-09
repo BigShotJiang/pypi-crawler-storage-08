@@ -1,0 +1,11 @@
+{
+  "name": "langchain-db2",
+  "version": "0.1.7",
+  "summary": "An integration package connecting Db2 vector store and LangChain",
+  "author": "IBM",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-ibm",
+  "download_filename": "langchain_db2-0.1.7.tar.gz",
+  "download_time": "2025-10-09T09:52:56.579374",
+  "package_url": "https://pypi.org/project/langchain-db2/"
+}

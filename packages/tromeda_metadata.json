@@ -1,0 +1,11 @@
+{
+  "name": "tromeda",
+  "version": "0.1.10",
+  "summary": "A tool for getting available data-files of TROPOS devices",
+  "author": "Andi Klamt",
+  "license": "MIT License",
+  "home_page": "https://github.com/ulysses78/tromeda",
+  "download_filename": "tromeda-0.1.10.tar.gz",
+  "download_time": "2025-10-09T09:53:08.734888",
+  "package_url": "https://pypi.org/project/tromeda/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "surquest-utils-scrappers-grocery",
-  "version": "0.0.1rc1",
+  "version": "0.0.1rc2",
   "summary": "A collection of web scrapers designed to extract grocery product data from grocery retailers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "surquest_utils_scrappers_grocery-0.0.1rc1.tar.gz",
-  "download_time": "2025-10-09T09:42:16.956322",
+  "download_filename": "surquest_utils_scrappers_grocery-0.0.1rc2.tar.gz",
+  "download_time": "2025-10-09T09:53:11.902532",
   "package_url": "https://pypi.org/project/surquest-utils-scrappers-grocery/"
 }

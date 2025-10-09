@@ -1,0 +1,11 @@
+{
+  "name": "geneci",
+  "version": "4.0.1.2",
+  "summary": "Software package whose main functionality consists of an evolutionary algorithm to determine the optimal ensemble of machine learning techniques for genetic network inference based on the confidence levels and topological characteristics of its results.",
+  "author": "adrian_segura",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geneci-4.0.1.2.tar.gz",
+  "download_time": "2025-10-09T09:53:09.779779",
+  "package_url": "https://pypi.org/project/geneci/"
+}

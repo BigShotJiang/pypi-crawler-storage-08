@@ -1,0 +1,11 @@
+{
+  "name": "typestry",
+  "version": "0.0.0.dev0",
+  "summary": "Tool to verify type checker behavior by ensuring failures occur when expected.",
+  "author": "Chris",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typestry-0.0.0.dev0.tar.gz",
+  "download_time": "2025-10-09T09:53:07.125497",
+  "package_url": "https://pypi.org/project/typestry/"
+}

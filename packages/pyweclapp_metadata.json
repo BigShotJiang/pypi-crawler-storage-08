@@ -1,0 +1,11 @@
+{
+  "name": "pyweclapp",
+  "version": "0.1.16",
+  "summary": "Provides methods, classes and classbuilders to interact with the Weclapp API",
+  "author": "Altruan GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/AltruanGmbH/pyweclapp",
+  "download_filename": "pyweclapp-0.1.16.tar.gz",
+  "download_time": "2025-10-09T09:53:15.022109",
+  "package_url": "https://pypi.org/project/pyweclapp/"
+}
