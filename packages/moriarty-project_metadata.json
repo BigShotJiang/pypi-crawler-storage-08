@@ -1,11 +1,11 @@
 {
   "name": "moriarty-project",
-  "version": "0.1.22",
+  "version": "0.1.24",
   "summary": "Client-side OSINT toolkit with forensic-grade evidence handling.",
   "author": "Moriarty Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moriarty_project-0.1.22-py3-none-any.whl",
-  "download_time": "2025-10-07T23:17:39.146074",
+  "download_filename": "moriarty_project-0.1.24-py3-none-any.whl",
+  "download_time": "2025-10-09T16:52:10.823597",
   "package_url": "https://pypi.org/project/moriarty-project/"
 }

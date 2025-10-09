@@ -1,11 +1,11 @@
 {
   "name": "a3dgamemaker",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "create a 3d game in 10 lines (without map)",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "a3dgamemaker-0.0.5.tar.gz",
-  "download_time": "2025-10-09T15:52:28.064315",
+  "download_filename": "a3dgamemaker-0.0.6.tar.gz",
+  "download_time": "2025-10-09T16:51:43.800678",
   "package_url": "https://pypi.org/project/a3dgamemaker/"
 }

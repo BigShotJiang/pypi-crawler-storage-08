@@ -1,0 +1,11 @@
+{
+  "name": "detective-snapshot",
+  "version": "0.1.16",
+  "summary": "A Python package for capturing and comparing function input/output snapshots",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "detective_snapshot-0.1.16.tar.gz",
+  "download_time": "2025-10-09T16:52:00.078252",
+  "package_url": "https://pypi.org/project/detective-snapshot/"
+}

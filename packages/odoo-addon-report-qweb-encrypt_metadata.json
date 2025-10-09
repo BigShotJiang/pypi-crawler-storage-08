@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-report-qweb-encrypt",
+  "version": "18.0.1.0.0.2",
+  "summary": "Allow to encrypt qweb pdfs",
+  "author": "Creu Blanca,Ecosoft,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_report_qweb_encrypt-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-09T16:51:51.728117",
+  "package_url": "https://pypi.org/project/odoo-addon-report-qweb-encrypt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "idzhiblavi-libdots",
-  "version": "0.0.5",
+  "version": "0.0.11",
   "summary": "Dotfiles management library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idzhiblavi_libdots-0.0.5.tar.gz",
-  "download_time": "2025-10-09T16:27:06.621471",
+  "download_filename": "idzhiblavi_libdots-0.0.11.tar.gz",
+  "download_time": "2025-10-09T16:51:47.651236",
   "package_url": "https://pypi.org/project/idzhiblavi-libdots/"
 }
