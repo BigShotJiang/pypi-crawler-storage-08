@@ -1,11 +1,11 @@
 {
   "name": "expr_tracker",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "expr_tracker-0.1.4.tar.gz",
-  "download_time": "2025-10-08T09:53:13.916927",
+  "download_filename": "expr_tracker-0.1.5.tar.gz",
+  "download_time": "2025-10-09T08:27:16.669686",
   "package_url": "https://pypi.org/project/expr_tracker/"
 }

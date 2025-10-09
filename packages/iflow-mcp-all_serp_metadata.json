@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-all_serp",
+  "version": "0.2.0",
+  "summary": "SERP API allows you to Scrape Search results from top 5 Search Engines includes Google, Bing, Yahoo, Ask and Duckduckgo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_all_serp-0.2.0.tar.gz",
+  "download_time": "2025-10-09T08:27:06.280794",
+  "package_url": "https://pypi.org/project/iflow-mcp-all_serp/"
+}

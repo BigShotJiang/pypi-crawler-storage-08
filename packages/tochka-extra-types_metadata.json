@@ -1,11 +1,11 @@
 {
   "name": "tochka-extra-types",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tochka_extra_types-0.0.1.tar.gz",
-  "download_time": "2025-10-09T07:52:20.118423",
+  "download_filename": "tochka_extra_types-0.1.0.tar.gz",
+  "download_time": "2025-10-09T08:27:10.031698",
   "package_url": "https://pypi.org/project/tochka-extra-types/"
 }

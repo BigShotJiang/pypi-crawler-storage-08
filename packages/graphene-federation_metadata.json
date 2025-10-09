@@ -1,0 +1,11 @@
+{
+  "name": "graphene-federation",
+  "version": "3.3.0",
+  "summary": "Federation implementation for graphene",
+  "author": "Igor Kasianov",
+  "license": "MIT",
+  "home_page": "https://github.com/graphql-python/graphene-federation",
+  "download_filename": "graphene_federation-3.3.0.tar.gz",
+  "download_time": "2025-10-09T08:27:11.660401",
+  "package_url": "https://pypi.org/project/graphene-federation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pserve",
+  "version": "0.1.0",
+  "summary": "A simple HTTP/HTTPS server package with self-signed certificates",
+  "author": "Saimon",
+  "license": "MIT",
+  "home_page": "https://github.com/nextsaimon/pserve",
+  "download_filename": "pserve-0.1.0.tar.gz",
+  "download_time": "2025-10-09T08:27:05.220130",
+  "package_url": "https://pypi.org/project/pserve/"
+}

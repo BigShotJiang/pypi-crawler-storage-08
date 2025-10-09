@@ -1,0 +1,11 @@
+{
+  "name": "orient-ficc-pricer",
+  "version": "0.0.1",
+  "summary": "orient securities ficc option pricing module",
+  "author": "zhanghongyu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orient_ficc_pricer-0.0.1.tar.gz",
+  "download_time": "2025-10-09T08:27:06.811916",
+  "package_url": "https://pypi.org/project/orient-ficc-pricer/"
+}
