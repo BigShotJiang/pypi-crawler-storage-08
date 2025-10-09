@@ -1,19 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T23:39:04.356535
-- **Total Packages**: 82
-- **Total Size**: 24.86 MB
+- **Download Time**: 2025-10-09T23:53:05.005969
+- **Total Packages**: 81
+- **Total Size**: 13.17 MB
 
 ## Packages List
+- cmpparis
+- inferedge-moss
+- authentik-client
+- easier-openai
+- cogames
+- python-digilog
+- arcade-mcp-server
+- samcell
+- gh_release_tools
+- pk3make
+- langgraph-checkpoint-s3
+- nlsq
+- policyengine-us
+- qrotor
+- nubrain
+- thailint
+- django-typst
+- lionagi
+- mathykit
 - OpenMM-CUDA-13
 - haikufy
-- cmpparis
 - actsnclass
 - sera-2
 - CompactObject-TOV
-- policyengine-us
-- authentik-client
 - hf
 - pocketbase-bin
 - langsmith
@@ -43,7 +59,6 @@
 - cjk-text-formatter
 - haystack-test-package
 - changedetection.io
-- easier-openai
 - ruurd-photos-ml
 - assemblyline-core
 - assemblyline
@@ -72,19 +87,3 @@
 - boston-harbor-ferries
 - tripwire-py
 - sphinx-svgio
-- aio-azure-clients-toolbox
-- omserv
-- ommlds
-- omlish
-- omlish-cext
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- emerald-hws
-- gac
-- airflow-mcp-server
-- iatoolkit
-- team-digest
-- qrImageIndexerGUI
