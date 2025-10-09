@@ -1,0 +1,11 @@
+{
+  "name": "wowmysql-sdk",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for WowMySQL - MySQL Backend-as-a-Service",
+  "author": "WowMySQL Team",
+  "license": null,
+  "home_page": "https://github.com/wowmysql/wowmysql",
+  "download_filename": "wowmysql_sdk-2.0.0.tar.gz",
+  "download_time": "2025-10-09T16:27:27.023486",
+  "package_url": "https://pypi.org/project/wowmysql-sdk/"
+}

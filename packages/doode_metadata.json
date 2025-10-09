@@ -1,0 +1,11 @@
+{
+  "name": "doode",
+  "version": "0.48.3",
+  "summary": "Doode: DoodStream CLI, API Client, Url link Generator",
+  "author": "Hadi Cahyadi LD",
+  "license": "GPL",
+  "home_page": "https://github.com/cumulus13/doode",
+  "download_filename": "doode-0.48.3-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-09T16:27:20.756353",
+  "package_url": "https://pypi.org/project/doode/"
+}

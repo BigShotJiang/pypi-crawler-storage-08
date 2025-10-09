@@ -1,11 +1,11 @@
 {
   "name": "slink-pyortal",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Control PORTAL operations programatically from Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slink_pyortal-0.2.1.tar.gz",
-  "download_time": "2025-10-09T13:21:28.118511",
+  "download_filename": "slink_pyortal-0.2.4.tar.gz",
+  "download_time": "2025-10-09T16:27:27.538784",
   "package_url": "https://pypi.org/project/slink-pyortal/"
 }

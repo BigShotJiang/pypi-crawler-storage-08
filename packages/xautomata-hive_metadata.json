@@ -1,11 +1,11 @@
 {
   "name": "xautomata-hive",
-  "version": "4.0.16",
+  "version": "4.0.18",
   "summary": null,
   "author": "Enrico Ferro - Andrea Jacassi",
   "license": "MIT",
   "home_page": "https://github.com/sherlogic/xautomata-hive.git",
-  "download_filename": "xautomata_hive-4.0.16.tar.gz",
-  "download_time": "2025-10-09T08:27:28.177676",
+  "download_filename": "xautomata_hive-4.0.18.tar.gz",
+  "download_time": "2025-10-09T16:27:23.868006",
   "package_url": "https://pypi.org/project/xautomata-hive/"
 }

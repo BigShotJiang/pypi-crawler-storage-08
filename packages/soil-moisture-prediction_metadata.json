@@ -1,0 +1,11 @@
+{
+  "name": "soil-moisture-prediction",
+  "version": "0.0.43",
+  "summary": "Predicts soil moisture from cosmic ray neutron sensor data using a random forest model",
+  "author": "Segolene Dega",
+  "license": "EUPL 1.2",
+  "home_page": null,
+  "download_filename": "soil_moisture_prediction-0.0.43.tar.gz",
+  "download_time": "2025-10-09T16:27:25.994423",
+  "package_url": "https://pypi.org/project/soil-moisture-prediction/"
+}

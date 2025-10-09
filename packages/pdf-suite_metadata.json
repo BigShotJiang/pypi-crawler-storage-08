@@ -1,0 +1,11 @@
+{
+  "name": "pdf-suite",
+  "version": "0.9.0",
+  "summary": "PDF CLI tool that allows to merge, extractimages, compress and more from PDF documents.",
+  "author": "Faissal Wahabali",
+  "license": "MIT",
+  "home_page": "https://github.com/faissaloux/pdf-suite",
+  "download_filename": "pdf_suite-0.9.0-py3-none-any.whl",
+  "download_time": "2025-10-09T16:27:01.460932",
+  "package_url": "https://pypi.org/project/pdf-suite/"
+}

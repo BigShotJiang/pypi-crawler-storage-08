@@ -1,11 +1,11 @@
 {
   "name": "rebrandly-otel",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Python OTEL wrapper by Rebrandly",
   "author": "Antonio Romano",
   "license": null,
   "home_page": "https://github.com/rebrandly/rebrandly-otel-python",
-  "download_filename": "rebrandly_otel-0.2.5.tar.gz",
-  "download_time": "2025-10-09T13:21:27.541026",
+  "download_filename": "rebrandly_otel-0.2.6.tar.gz",
+  "download_time": "2025-10-09T16:27:16.559438",
   "package_url": "https://pypi.org/project/rebrandly-otel/"
 }
