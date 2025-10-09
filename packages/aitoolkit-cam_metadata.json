@@ -1,0 +1,11 @@
+{
+  "name": "aitoolkit-cam",
+  "version": "3.5.0",
+  "summary": "ARM摄像头工具包 v3.0 - 专为Jupyter环境和ARM设备优化，修复MJPEG流问题",
+  "author": "Haitao Wang",
+  "license": null,
+  "home_page": "https://github.com/dianx12/aitoolkit-cam",
+  "download_filename": "aitoolkit_cam-3.5.0.tar.gz",
+  "download_time": "2025-10-09T15:25:18.822219",
+  "package_url": "https://pypi.org/project/aitoolkit-cam/"
+}

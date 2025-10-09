@@ -1,11 +1,11 @@
 {
   "name": "automod",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Automated modification and crossover placement for the design of curved DNA origami structures.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automod-0.0.3.tar.gz",
-  "download_time": "2025-10-09T14:59:58.012071",
+  "download_filename": "automod-0.0.4.tar.gz",
+  "download_time": "2025-10-09T15:25:19.986000",
   "package_url": "https://pypi.org/project/automod/"
 }

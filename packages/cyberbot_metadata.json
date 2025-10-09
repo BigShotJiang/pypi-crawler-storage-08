@@ -1,11 +1,11 @@
 {
   "name": "cyberbot",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "CyberBot is a versatile AI-powered automation bot and SDK designed for developers and tech enthusiasts. It simplifies bot creation, automates repetitive tasks, and enables seamless API integration. With support for Python and JavaScript, CyberBot helps you manage workflows, monitor activity, and interact with servers effortlessly—all while keeping security and scalability in mind.",
   "author": "Alex Austin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyberbot-1.1.5.tar.gz",
-  "download_time": "2025-10-09T15:00:24.309385",
+  "download_filename": "cyberbot-1.1.6.tar.gz",
+  "download_time": "2025-10-09T15:25:14.771855",
   "package_url": "https://pypi.org/project/cyberbot/"
 }

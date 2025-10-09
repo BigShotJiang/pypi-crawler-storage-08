@@ -1,11 +1,11 @@
 {
   "name": "arc-superset-dialect",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "SQLAlchemy dialect for Arc time-series database with multi-database support for Apache Superset",
   "author": "Arc Core Team",
   "license": null,
   "home_page": "https://github.com/basekick-labs/arc-superset-dialect",
-  "download_filename": "arc_superset_dialect-1.2.0.tar.gz",
-  "download_time": "2025-10-09T02:47:27.263941",
+  "download_filename": "arc_superset_dialect-1.2.1.tar.gz",
+  "download_time": "2025-10-09T15:25:25.192892",
   "package_url": "https://pypi.org/project/arc-superset-dialect/"
 }
