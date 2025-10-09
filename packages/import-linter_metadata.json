@@ -1,0 +1,11 @@
+{
+  "name": "import-linter",
+  "version": "2.5.1",
+  "summary": "Enforces rules for the imports within and between Python packages.",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "import_linter-2.5.1.tar.gz",
+  "download_time": "2025-10-09T10:22:05.620805",
+  "package_url": "https://pypi.org/project/import-linter/"
+}

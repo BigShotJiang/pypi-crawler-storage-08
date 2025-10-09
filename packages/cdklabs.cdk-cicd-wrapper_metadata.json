@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.cdk-cicd-wrapper",
+  "version": "0.3.2",
+  "summary": "This repository contains the infrastructure as code to wrap your AWS CDK project with CI/CD around it.",
+  "author": "CDK CI/CD Wrapper Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-cicd-wrapper.git",
+  "download_filename": "cdklabs_cdk_cicd_wrapper-0.3.2.tar.gz",
+  "download_time": "2025-10-09T10:22:13.494143",
+  "package_url": "https://pypi.org/project/cdklabs.cdk-cicd-wrapper/"
+}

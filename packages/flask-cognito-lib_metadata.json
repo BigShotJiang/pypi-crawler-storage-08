@@ -1,11 +1,11 @@
 {
   "name": "flask-cognito-lib",
-  "version": "1.9.5",
+  "version": "1.9.6",
   "summary": "A Flask extension that supports protecting routes with AWS Cognito following OAuth 2.1 best practices",
-  "author": "mblackgeo",
-  "license": "MIT",
-  "home_page": "https://github.com/mblackgeo/flask-cognito-lib",
-  "download_filename": "flask_cognito_lib-1.9.5.tar.gz",
-  "download_time": "2025-10-08T11:17:00.850194",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_cognito_lib-1.9.6.tar.gz",
+  "download_time": "2025-10-09T10:22:04.072426",
   "package_url": "https://pypi.org/project/flask-cognito-lib/"
 }

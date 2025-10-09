@@ -5,7 +5,7 @@
   "author": "Samuel Lusandi",
   "license": null,
   "home_page": null,
-  "download_filename": "bosa_core_binary-0.9.1-cp311-cp311-manylinux_2_31_x86_64.whl",
-  "download_time": "2025-10-09T09:52:52.799830",
+  "download_filename": "bosa_core_binary-0.9.1-cp311-cp311-macosx_13_0_arm64.macosx_15_0_arm64.whl",
+  "download_time": "2025-10-09T10:22:38.055364",
   "package_url": "https://pypi.org/project/bosa-core-binary/"
 }

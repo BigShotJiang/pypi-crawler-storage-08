@@ -1,11 +1,11 @@
 {
   "name": "run-r",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A lightweight Python plugin to execute R scripts and retrieve workspace variables",
   "author": "bsgarcia",
   "license": "MIT",
   "home_page": "https://github.com/bsgarcia/run-r",
-  "download_filename": "run_r-0.2.1.tar.gz",
-  "download_time": "2025-10-08T17:19:08.914498",
+  "download_filename": "run_r-0.2.3.tar.gz",
+  "download_time": "2025-10-09T10:21:57.726205",
   "package_url": "https://pypi.org/project/run-r/"
 }
