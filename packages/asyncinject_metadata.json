@@ -1,0 +1,11 @@
+{
+  "name": "asyncinject",
+  "version": "0.6.1",
+  "summary": "Run async workflows using pytest-fixtures-style dependency injection",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncinject-0.6.1.tar.gz",
+  "download_time": "2025-10-09T03:33:18.931357",
+  "package_url": "https://pypi.org/project/asyncinject/"
+}

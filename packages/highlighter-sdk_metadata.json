@@ -1,0 +1,11 @@
+{
+  "name": "highlighter-sdk",
+  "version": "2.6.16",
+  "summary": "Package to interact with the Highlighter Perception System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "highlighter_sdk-2.6.16.tar.gz",
+  "download_time": "2025-10-09T03:33:41.880250",
+  "package_url": "https://pypi.org/project/highlighter-sdk/"
+}

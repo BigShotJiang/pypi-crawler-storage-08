@@ -1,11 +1,11 @@
 {
   "name": "reinforcenow",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "ReinforceNow CLI - Reinforcement Learning platform command-line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reinforcenow-0.4.3.tar.gz",
-  "download_time": "2025-10-09T02:47:16.332926",
+  "download_filename": "reinforcenow-0.4.4.tar.gz",
+  "download_time": "2025-10-09T03:33:49.241169",
   "package_url": "https://pypi.org/project/reinforcenow/"
 }

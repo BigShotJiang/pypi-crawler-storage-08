@@ -1,0 +1,11 @@
+{
+  "name": "piperna",
+  "version": "1.82",
+  "summary": "A python wrapper for fast and parallel processing of bulk RNA Seq data",
+  "author": "Scott Furlan",
+  "license": null,
+  "home_page": "https://github.com/scfurl/piperna.git",
+  "download_filename": "piperna-1.82.tar.gz",
+  "download_time": "2025-10-09T03:33:32.324564",
+  "package_url": "https://pypi.org/project/piperna/"
+}
