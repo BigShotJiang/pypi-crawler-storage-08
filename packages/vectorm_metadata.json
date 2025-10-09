@@ -1,0 +1,11 @@
+{
+  "name": "vectorm",
+  "version": "0.1.0",
+  "summary": "ORM layer for vector databases",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "vectorm-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-09T06:31:53.626366",
+  "package_url": "https://pypi.org/project/vectorm/"
+}
