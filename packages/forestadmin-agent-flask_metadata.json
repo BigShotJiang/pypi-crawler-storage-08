@@ -1,0 +1,11 @@
+{
+  "name": "forestadmin-agent-flask",
+  "version": "1.23.8",
+  "summary": "flask agent for forestadmin python agent",
+  "author": "Valentin Monté",
+  "license": null,
+  "home_page": "https://www.forestadmin.com",
+  "download_filename": "forestadmin_agent_flask-1.23.8.tar.gz",
+  "download_time": "2025-10-09T17:51:00.811278",
+  "package_url": "https://pypi.org/project/forestadmin-agent-flask/"
+}

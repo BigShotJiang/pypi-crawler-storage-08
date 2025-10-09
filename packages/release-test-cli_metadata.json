@@ -1,0 +1,11 @@
+{
+  "name": "release-test-cli",
+  "version": "1.0.0",
+  "summary": "CLI tool for release testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "release_test_cli-1.0.0.tar.gz",
+  "download_time": "2025-10-09T17:51:31.021127",
+  "package_url": "https://pypi.org/project/release-test-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "forestadmin-datasource-toolkit",
+  "version": "1.23.8",
+  "summary": "datasource toolkit for forestadmin python agent",
+  "author": "Valentin Monté",
+  "license": null,
+  "home_page": "https://www.forestadmin.com",
+  "download_filename": "forestadmin_datasource_toolkit-1.23.8.tar.gz",
+  "download_time": "2025-10-09T17:50:59.062265",
+  "package_url": "https://pypi.org/project/forestadmin-datasource-toolkit/"
+}

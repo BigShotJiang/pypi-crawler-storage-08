@@ -1,0 +1,11 @@
+{
+  "name": "Chat-Completion-Server",
+  "version": "0.2.0",
+  "summary": "A chat server built with FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chat_completion_server-0.2.0.tar.gz",
+  "download_time": "2025-10-09T17:50:48.106272",
+  "package_url": "https://pypi.org/project/Chat-Completion-Server/"
+}

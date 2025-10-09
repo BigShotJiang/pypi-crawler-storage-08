@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-queue",
+  "version": "1.0.0",
+  "summary": "TSV-based job queue for async tasks",
+  "author": "DBBasic Project",
+  "license": null,
+  "home_page": "https://github.com/askrobots/dbbasic-queue",
+  "download_filename": "dbbasic_queue-1.0.0.tar.gz",
+  "download_time": "2025-10-09T17:51:28.727987",
+  "package_url": "https://pypi.org/project/dbbasic-queue/"
+}

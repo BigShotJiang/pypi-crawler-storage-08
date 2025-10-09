@@ -1,0 +1,11 @@
+{
+  "name": "route1io-connectors",
+  "version": "0.20.0",
+  "summary": "Connectors for interacting with popular API's used in marketing analytics using clean and concise Python code.",
+  "author": "route1.io",
+  "license": "GPLv3",
+  "home_page": "https://github.com/route1io/route1io-python-connectors",
+  "download_filename": "route1io-connectors-0.20.0.tar.gz",
+  "download_time": "2025-10-09T17:51:32.176724",
+  "package_url": "https://pypi.org/project/route1io-connectors/"
+}
