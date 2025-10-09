@@ -1,0 +1,11 @@
+{
+  "name": "django-otp-webauthn",
+  "version": "0.7.0",
+  "summary": "FIDO2 WebAuthn support for django-otp: lets your users authenticate with Passkeys",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_otp_webauthn-0.7.0.tar.gz",
+  "download_time": "2025-10-09T13:21:21.898751",
+  "package_url": "https://pypi.org/project/django-otp-webauthn/"
+}

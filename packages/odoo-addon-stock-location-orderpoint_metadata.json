@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-location-orderpoint",
+  "version": "18.0.1.0.2.1",
+  "summary": "Declare orderpoint on a location allowing to replenish any product with the same criteria.",
+  "author": "MT Software, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-orderpoint",
+  "download_filename": "odoo_addon_stock_location_orderpoint-18.0.1.0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-09T13:21:04.248989",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-location-orderpoint/"
+}

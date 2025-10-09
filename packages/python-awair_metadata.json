@@ -1,0 +1,11 @@
+{
+  "name": "python-awair",
+  "version": "0.2.5",
+  "summary": "asyncio client for the Awair GraphQL and Local APIs",
+  "author": "Andrew Hayworth",
+  "license": "MIT",
+  "home_page": "https://github.com/ahayworth/python_awair",
+  "download_filename": "python_awair-0.2.5.tar.gz",
+  "download_time": "2025-10-09T13:21:13.156252",
+  "package_url": "https://pypi.org/project/python-awair/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kabaret.flow-contextual-dict",
+  "version": "0.3.0",
+  "summary": "kabaret.flow contextual dict",
+  "author": "Damien \"dee\" Coureau",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/kabaretstudio/kabaret.flow_contextual_dict",
+  "download_filename": "kabaret_flow_contextual_dict-0.3.0.tar.gz",
+  "download_time": "2025-10-09T13:21:18.804786",
+  "package_url": "https://pypi.org/project/kabaret.flow-contextual-dict/"
+}
