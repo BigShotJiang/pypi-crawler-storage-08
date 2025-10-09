@@ -1,0 +1,11 @@
+{
+  "name": "easy-whitelist",
+  "version": "1.0.90",
+  "summary": "A small hello world package",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourname/mypkg",
+  "download_filename": "easy_whitelist-1.0.90-py3-none-any.whl",
+  "download_time": "2025-10-09T15:31:07.261320",
+  "package_url": "https://pypi.org/project/easy-whitelist/"
+}

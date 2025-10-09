@@ -1,11 +1,11 @@
 {
   "name": "jintra-aether",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A lightweight, extensible framework for structured content authoring and validation with AI assistance",
   "author": "Jayce",
   "license": "FSL-1.1-MIT",
   "home_page": null,
-  "download_filename": "jintra_aether-1.0.1.tar.gz",
-  "download_time": "2025-10-09T14:20:50.462658",
+  "download_filename": "jintra_aether-1.0.2.tar.gz",
+  "download_time": "2025-10-09T15:31:22.790268",
   "package_url": "https://pypi.org/project/jintra-aether/"
 }

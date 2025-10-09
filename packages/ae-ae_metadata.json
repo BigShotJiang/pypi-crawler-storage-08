@@ -1,0 +1,11 @@
+{
+  "name": "ae-ae",
+  "version": "0.3.101",
+  "summary": "ae namespace-root: bundling and maintaining templates and documentation of the portions of this namespace.",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_ae",
+  "download_filename": "ae_ae-0.3.101.tar.gz",
+  "download_time": "2025-10-09T15:31:25.692649",
+  "package_url": "https://pypi.org/project/ae-ae/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rightnow-cli",
+  "version": "1.0.0",
+  "summary": "RightNow CLI - GPU-Native AI Code Editor for CUDA development",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "rightnow_cli-1.0.0.tar.gz",
+  "download_time": "2025-10-09T15:31:10.156340",
+  "package_url": "https://pypi.org/project/rightnow-cli/"
+}

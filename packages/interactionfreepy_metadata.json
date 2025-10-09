@@ -1,0 +1,11 @@
+{
+  "name": "interactionfreepy",
+  "version": "1.8.0",
+  "summary": "A intuitive and cross-languige RCP lib for Python.",
+  "author": "Hwaipy",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/hwaipy/InteractionFreePy",
+  "download_filename": "interactionfreepy-1.8.0.tar.gz",
+  "download_time": "2025-10-09T15:31:15.059482",
+  "package_url": "https://pypi.org/project/interactionfreepy/"
+}

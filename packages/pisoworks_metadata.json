@@ -1,11 +1,11 @@
 {
   "name": "pisoworks",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "PySide6-based application for controlling NV200 devices.",
   "author": "piezosystem jena GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "pisoworks-2.0.0.tar.gz",
-  "download_time": "2025-10-08T08:27:44.251308",
+  "download_filename": "pisoworks-2.0.1.tar.gz",
+  "download_time": "2025-10-09T15:31:15.660200",
   "package_url": "https://pypi.org/project/pisoworks/"
 }

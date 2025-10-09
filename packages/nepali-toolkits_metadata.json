@@ -1,0 +1,11 @@
+{
+  "name": "nepali-toolkits",
+  "version": "1.0.0",
+  "summary": "Production-ready utilities for Nepali: BS calendar & holidays, script tools, gazetteer, units, treks.",
+  "author": "Sujit Khanal",
+  "license": "MIT",
+  "home_page": "https://github.com/yourorg/nepali-toolkit",
+  "download_filename": "nepali_toolkits-1.0.0.tar.gz",
+  "download_time": "2025-10-09T15:31:21.174038",
+  "package_url": "https://pypi.org/project/nepali-toolkits/"
+}
