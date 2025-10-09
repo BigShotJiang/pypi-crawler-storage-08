@@ -1,0 +1,11 @@
+{
+  "name": "Fortuna",
+  "version": "5.6.0",
+  "summary": "High Performance Random Value Toolkit",
+  "author": "Robert Sharp",
+  "license": "Free for non-commercial use",
+  "home_page": "https://github.com/BrokenShell/Fortuna",
+  "download_filename": "fortuna-5.6.0.tar.gz",
+  "download_time": "2025-10-09T14:20:51.621855",
+  "package_url": "https://pypi.org/project/Fortuna/"
+}

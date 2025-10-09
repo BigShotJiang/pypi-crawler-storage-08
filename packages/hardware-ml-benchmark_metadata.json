@@ -1,0 +1,11 @@
+{
+  "name": "hardware-ml-benchmark",
+  "version": "0.2.1",
+  "summary": "A hardware benchmarking tool for evaluating the inference performance of deep learning models. It supports pretrained tasks in image classification, object detection, and image segmentation, along with a variety of datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hardware_ml_benchmark-0.2.1.tar.gz",
+  "download_time": "2025-10-09T14:21:12.215780",
+  "package_url": "https://pypi.org/project/hardware-ml-benchmark/"
+}

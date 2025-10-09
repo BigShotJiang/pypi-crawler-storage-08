@@ -1,11 +1,11 @@
 {
   "name": "tldc",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "too lazy; didn't code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tldc-0.9.0.tar.gz",
-  "download_time": "2025-10-09T13:49:11.794194",
+  "download_filename": "tldc-0.9.1.tar.gz",
+  "download_time": "2025-10-09T14:21:27.860299",
   "package_url": "https://pypi.org/project/tldc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tictacsync",
-  "version": "1.1.0a0",
+  "version": "1.2.0b0",
   "summary": "commands for syncing audio video recordings",
   "author": "Raymond Lutz",
   "license": null,
   "home_page": "https://tictacsync.org/",
-  "download_filename": "tictacsync-1.1.0a0.tar.gz",
-  "download_time": "2025-10-09T02:46:57.875028",
+  "download_filename": "tictacsync-1.2.0b0.tar.gz",
+  "download_time": "2025-10-09T14:21:15.647636",
   "package_url": "https://pypi.org/project/tictacsync/"
 }

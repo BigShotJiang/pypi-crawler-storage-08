@@ -1,0 +1,11 @@
+{
+  "name": "extended-sklearn-metrics",
+  "version": "0.4.0",
+  "summary": "Comprehensive evaluation library for scikit-learn models with advanced metrics, custom thresholds, and visualizations",
+  "author": "Subashanan Nair",
+  "license": "MIT",
+  "home_page": "https://github.com/subashanannair/extended-sklearn-metrics",
+  "download_filename": "extended_sklearn_metrics-0.4.0.tar.gz",
+  "download_time": "2025-10-09T14:21:02.312068",
+  "package_url": "https://pypi.org/project/extended-sklearn-metrics/"
+}

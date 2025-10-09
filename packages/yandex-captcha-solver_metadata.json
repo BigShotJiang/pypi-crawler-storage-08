@@ -1,0 +1,11 @@
+{
+  "name": "yandex-captcha-solver",
+  "version": "1.0.0",
+  "summary": "Automatic Yandex CAPTCHA solver using Playwright and external API",
+  "author": "ryuz0",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yandex_captcha_solver-1.0.0.tar.gz",
+  "download_time": "2025-10-09T14:21:33.604475",
+  "package_url": "https://pypi.org/project/yandex-captcha-solver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pltr-cli",
+  "version": "0.11.0",
+  "summary": "Command-line interface for Palantir Foundry APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pltr_cli-0.11.0.tar.gz",
+  "download_time": "2025-10-09T14:20:56.396947",
+  "package_url": "https://pypi.org/project/pltr-cli/"
+}

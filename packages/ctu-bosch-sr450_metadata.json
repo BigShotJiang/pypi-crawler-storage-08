@@ -1,0 +1,11 @@
+{
+  "name": "ctu-bosch-sr450",
+  "version": "1.0.6",
+  "summary": "Package to control CTU/CIIRC robot Bosch SR450 via MARS control unit.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "ctu_bosch_sr450-1.0.6.tar.gz",
+  "download_time": "2025-10-09T14:21:13.406245",
+  "package_url": "https://pypi.org/project/ctu-bosch-sr450/"
+}

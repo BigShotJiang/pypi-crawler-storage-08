@@ -1,0 +1,11 @@
+{
+  "name": "clownload",
+  "version": "0.0.3",
+  "summary": "download files from clown computers",
+  "author": "Lawrence D'Anna",
+  "license": null,
+  "home_page": "https://github.com/smoofra/clownload",
+  "download_filename": "clownload-0.0.3.tar.gz",
+  "download_time": "2025-10-09T14:21:31.283350",
+  "package_url": "https://pypi.org/project/clownload/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ams-sdk",
+  "version": "1.0.6",
+  "summary": "Python SDK for the Alternative Macro Signals API",
+  "author": "Laurent Bilke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ams_sdk-1.0.6.tar.gz",
+  "download_time": "2025-10-09T14:21:20.897700",
+  "package_url": "https://pypi.org/project/ams-sdk/"
+}

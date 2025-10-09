@@ -1,11 +1,11 @@
 {
   "name": "melody-features",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Python package for computing tonnes of melodic features found in computational musicology literature.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "melody_features-1.0.3.tar.gz",
-  "download_time": "2025-10-07T13:18:51.834319",
+  "download_filename": "melody_features-1.0.4.tar.gz",
+  "download_time": "2025-10-09T14:20:58.254096",
   "package_url": "https://pypi.org/project/melody-features/"
 }
