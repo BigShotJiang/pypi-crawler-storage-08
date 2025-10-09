@@ -1,11 +1,11 @@
 {
   "name": "django-backup-migrations",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "summary": "Расширение механизма миграций Django для резервного копирования данных",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_backup_migrations-0.0.1.tar.gz",
-  "download_time": "2025-10-09T05:19:38.425438",
+  "download_filename": "django_backup_migrations-1.0.0.tar.gz",
+  "download_time": "2025-10-09T05:53:12.326079",
   "package_url": "https://pypi.org/project/django-backup-migrations/"
 }

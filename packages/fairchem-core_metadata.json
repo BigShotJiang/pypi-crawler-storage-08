@@ -1,11 +1,11 @@
 {
   "name": "fairchem-core",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "summary": "Machine learning models for chemistry and materials science by the FAIR Chemistry team",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "fairchem_core-2.8.0.tar.gz",
-  "download_time": "2025-10-07T22:18:22.244656",
+  "download_filename": "fairchem_core-2.9.0.tar.gz",
+  "download_time": "2025-10-09T05:53:08.706034",
   "package_url": "https://pypi.org/project/fairchem-core/"
 }

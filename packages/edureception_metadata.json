@@ -1,0 +1,11 @@
+{
+  "name": "edureception",
+  "version": "1.6.0",
+  "summary": "Пакет \"Приема специалиста\"",
+  "author": "BARS Group",
+  "license": null,
+  "home_page": "https://stash.bars-open.ru/projects/EDUBASE/repos/specialist_reception",
+  "download_filename": "edureception-1.6.0.tar.gz",
+  "download_time": "2025-10-09T05:53:09.236062",
+  "package_url": "https://pypi.org/project/edureception/"
+}

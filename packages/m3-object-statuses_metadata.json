@@ -1,0 +1,11 @@
+{
+  "name": "m3-object-statuses",
+  "version": "1.2.0",
+  "summary": "Инструментарий для работы со статусами объектов",
+  "author": "BARS Group",
+  "license": "MIT",
+  "home_page": "https://stash.bars-open.ru/projects/M3/repos/m3-object-statuses",
+  "download_filename": "m3_object_statuses-1.2.0.tar.gz",
+  "download_time": "2025-10-09T05:53:11.299129",
+  "package_url": "https://pypi.org/project/m3-object-statuses/"
+}

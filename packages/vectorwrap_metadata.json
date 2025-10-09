@@ -1,11 +1,11 @@
 {
   "name": "vectorwrap",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Universal vector search wrapper for Postgres, MySQL, SQLite, DuckDB, ClickHouse (pgvector, HeatWave, sqlite-vss, DuckDB VSS, ClickHouse ANN)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vectorwrap-0.5.0.tar.gz",
-  "download_time": "2025-10-08T06:30:51.613727",
+  "download_filename": "vectorwrap-0.6.0.tar.gz",
+  "download_time": "2025-10-09T05:52:41.524406",
   "package_url": "https://pypi.org/project/vectorwrap/"
 }

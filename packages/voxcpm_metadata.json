@@ -1,0 +1,11 @@
+{
+  "name": "voxcpm",
+  "version": "1.0.5",
+  "summary": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voxcpm-1.0.5.tar.gz",
+  "download_time": "2025-10-09T05:53:15.463755",
+  "package_url": "https://pypi.org/project/voxcpm/"
+}

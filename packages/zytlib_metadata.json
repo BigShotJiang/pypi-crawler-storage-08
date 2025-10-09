@@ -1,0 +1,11 @@
+{
+  "name": "zytlib",
+  "version": "0.3.350",
+  "summary": "This is A foundamental package containing some basic self-designed functions and types for Project PyCTLib.",
+  "author": "All contributors of PyCTLib",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/Bertie97/pyctlib/tree/main/pyctlib",
+  "download_filename": "zytlib-0.3.350-py3-none-any.whl",
+  "download_time": "2025-10-09T05:52:51.438786",
+  "package_url": "https://pypi.org/project/zytlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xiangxinai",
+  "version": "2.6.1",
+  "summary": "象信AI安全护栏 Python 客户端 - 基于LLM的上下文感知AI安全护栏",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xiangxinai-2.6.1.tar.gz",
+  "download_time": "2025-10-09T05:52:55.607252",
+  "package_url": "https://pypi.org/project/xiangxinai/"
+}

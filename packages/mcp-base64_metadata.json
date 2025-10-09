@@ -1,0 +1,11 @@
+{
+  "name": "mcp-base64",
+  "version": "0.1.1",
+  "summary": "MCP server for Base64 file conversion (stdio transport)",
+  "author": "Stefan Kuhn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_base64-0.1.1.tar.gz",
+  "download_time": "2025-10-09T05:52:41.010985",
+  "package_url": "https://pypi.org/project/mcp-base64/"
+}

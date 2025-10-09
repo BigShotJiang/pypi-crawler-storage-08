@@ -1,0 +1,11 @@
+{
+  "name": "snowfakery",
+  "version": "4.1.0",
+  "summary": "Snowfakery is a tool for generating fake data that has relations between tables. Every row is faked data, but also unique and random, like a snowflake.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "snowfakery-4.1.0.tar.gz",
+  "download_time": "2025-10-09T05:52:38.325958",
+  "package_url": "https://pypi.org/project/snowfakery/"
+}
