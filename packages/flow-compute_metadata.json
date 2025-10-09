@@ -1,11 +1,11 @@
 {
   "name": "flow-compute",
-  "version": "0.1.4",
-  "summary": "Simplified SDK for Mithril - GPU compute made simple",
+  "version": "0.1.7",
+  "summary": "CLI and SDK for submitting and managing GPU workloads",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "flow_compute-0.1.4.tar.gz",
-  "download_time": "2025-10-09T03:33:33.939074",
+  "download_filename": "flow_compute-0.1.7.tar.gz",
+  "download_time": "2025-10-09T23:18:30.891190",
   "package_url": "https://pypi.org/project/flow-compute/"
 }

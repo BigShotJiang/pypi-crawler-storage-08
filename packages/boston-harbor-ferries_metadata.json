@@ -1,0 +1,11 @@
+{
+  "name": "boston-harbor-ferries",
+  "version": "0.1.0",
+  "summary": "APRS-based Boston Harbor commuter ferry tracker with MCP server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boston_harbor_ferries-0.1.0.tar.gz",
+  "download_time": "2025-10-09T23:18:40.819038",
+  "package_url": "https://pypi.org/project/boston-harbor-ferries/"
+}
