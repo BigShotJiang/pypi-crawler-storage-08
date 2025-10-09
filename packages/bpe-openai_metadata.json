@@ -1,0 +1,11 @@
+{
+  "name": "bpe-openai",
+  "version": "0.1.1",
+  "summary": "Python bindings wrapping the bpe-openai Rust tokenizer crate with a tiktoken-compatible API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bpe_openai-0.1.1.tar.gz",
+  "download_time": "2025-10-09T01:25:48.997669",
+  "package_url": "https://pypi.org/project/bpe-openai/"
+}

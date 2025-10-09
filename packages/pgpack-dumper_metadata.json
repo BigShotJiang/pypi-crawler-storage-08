@@ -1,11 +1,11 @@
 {
   "name": "pgpack-dumper",
-  "version": "0.2.0.6",
+  "version": "0.2.0.7",
   "summary": "Library for read and write PGPack format between PostgreSQL and file.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pgpack_dumper-0.2.0.6.tar.gz",
-  "download_time": "2025-10-08T11:16:48.204219",
+  "download_filename": "pgpack_dumper-0.2.0.7.tar.gz",
+  "download_time": "2025-10-09T01:25:44.740012",
   "package_url": "https://pypi.org/project/pgpack-dumper/"
 }

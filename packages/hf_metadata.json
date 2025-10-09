@@ -1,0 +1,11 @@
+{
+  "name": "hf",
+  "version": "0.0.9",
+  "summary": "Simple Mapping interface to HuggingFace",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/hf",
+  "download_filename": "hf-0.0.9.tar.gz",
+  "download_time": "2025-10-09T01:25:45.326205",
+  "package_url": "https://pypi.org/project/hf/"
+}

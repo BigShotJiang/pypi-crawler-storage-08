@@ -1,11 +1,11 @@
 {
   "name": "cxc-toolkit",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Toolbox contains a lot of utility functions",
   "author": "Xiaochen Cui",
   "license": "GPLv3",
   "home_page": "https://github.com/XiaochenCui/cxc-toolkit",
-  "download_filename": "cxc_toolkit-0.9.2-py3-none-any.whl",
-  "download_time": "2025-10-08T23:38:19.830324",
+  "download_filename": "cxc_toolkit-0.9.3-py3-none-any.whl",
+  "download_time": "2025-10-09T01:26:11.723386",
   "package_url": "https://pypi.org/project/cxc-toolkit/"
 }

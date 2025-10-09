@@ -1,0 +1,11 @@
+{
+  "name": "bisslog-schema",
+  "version": "0.0.9",
+  "summary": "It is a lightweight framework to organize and document the key elements of a distributed system, focusing on its use cases and service design. It structures the metadata without exposing any underlying technical or implementation-specific details.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bisslog_schema-0.0.9.tar.gz",
+  "download_time": "2025-10-09T01:25:52.172490",
+  "package_url": "https://pypi.org/project/bisslog-schema/"
+}

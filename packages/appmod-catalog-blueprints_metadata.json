@@ -1,0 +1,11 @@
+{
+  "name": "appmod-catalog-blueprints",
+  "version": "1.2.1",
+  "summary": "Serverless infrastructure components organized by business use cases",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-appmod-catalog-blueprints.git",
+  "download_filename": "appmod_catalog_blueprints-1.2.1.tar.gz",
+  "download_time": "2025-10-09T01:25:55.748554",
+  "package_url": "https://pypi.org/project/appmod-catalog-blueprints/"
+}

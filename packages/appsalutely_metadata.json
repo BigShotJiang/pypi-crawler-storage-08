@@ -1,0 +1,11 @@
+{
+  "name": "appsalutely",
+  "version": "0.1.9",
+  "summary": "A utility library for building apps with FastAPI and Vue.js",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appsalutely-0.1.9.tar.gz",
+  "download_time": "2025-10-09T01:25:51.557782",
+  "package_url": "https://pypi.org/project/appsalutely/"
+}
