@@ -1,28 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T07:20:35.734414
-- **Total Packages**: 91
-- **Total Size**: 28.76 MB
+- **Download Time**: 2025-10-09T07:40:10.236862
+- **Total Packages**: 88
+- **Total Size**: 14.95 MB
 
 ## Packages List
-- elasticsearch-haystack
-- pulumi-wavefront
-- pixelarraythirdparty
-- clear-skies
-- better-jupyter-mcp-server
-- mcp-server-vector-memory
-- pulumi-vsphere
-- upplib
-- onnxscript
-- tritonparse
-- fastapi-scaff
-- academic-research-mentor
-- rebrandly-otel
-- dataflow-core
-- open-door-mcp
 - lattica
 - pyjolt
+- upplib
 - grainsize
 - pulumi-venafi
 - promptwatch
@@ -97,3 +83,14 @@
 - dify_plugin
 - eiogram
 - agentcrew-ai
+- bbo-svidreader
+- r2x-pypsa
+- jobtty
+- prime
+- pygfx
+- acb
+- pulumi-opsgenie
+- pylambdatasks
+- autoagents-graph
+- alibabacloud-pai-dlc20201203
+- graphene-directives

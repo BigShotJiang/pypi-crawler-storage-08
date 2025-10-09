@@ -1,11 +1,11 @@
 {
   "name": "ctf-common",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Common library for CTF projects",
   "author": "Joanney Wang",
   "license": null,
   "home_page": "https://github.com/joanne-cyw/ctf_common",
-  "download_filename": "ctf_common-0.1.2.tar.gz",
-  "download_time": "2025-10-09T07:20:00.726504",
+  "download_filename": "ctf_common-0.1.5.tar.gz",
+  "download_time": "2025-10-09T07:39:26.049222",
   "package_url": "https://pypi.org/project/ctf-common/"
 }
