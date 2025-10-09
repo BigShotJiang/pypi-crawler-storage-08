@@ -1,11 +1,11 @@
 {
   "name": "singlefile-storage",
-  "version": "1.0.10",
+  "version": "1.0.15",
   "summary": "SingleFile Rest Storage for python.",
   "author": "qicongsheng",
   "license": "MIT License",
   "home_page": "https://github.com/qicongsheng/singlefile-storage",
-  "download_filename": "singlefile_storage-1.0.10.tar.gz",
-  "download_time": "2025-10-09T04:43:38.880259",
+  "download_filename": "singlefile_storage-1.0.15.tar.gz",
+  "download_time": "2025-10-09T05:19:43.936860",
   "package_url": "https://pypi.org/project/singlefile-storage/"
 }

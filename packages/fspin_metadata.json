@@ -1,0 +1,11 @@
+{
+  "name": "fspin",
+  "version": "0.3.6",
+  "summary": "ROS like rate control through python decorator",
+  "author": "Yusuke Tanaka",
+  "license": "MIT",
+  "home_page": "https://github.com/Suke0811/fspin",
+  "download_filename": "fspin-0.3.6.tar.gz",
+  "download_time": "2025-10-09T05:19:40.077278",
+  "package_url": "https://pypi.org/project/fspin/"
+}

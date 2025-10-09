@@ -1,28 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T04:55:32.455056
-- **Total Packages**: 80
-- **Total Size**: 4.28 MB
+- **Download Time**: 2025-10-09T05:20:18.913376
+- **Total Packages**: 75
+- **Total Size**: 8.11 MB
 
 ## Packages List
-- annofabcli
-- uv-ship
+- pulumi-akamai
+- django-backup-migrations
+- pulumi-archive
+- sidemantic
+- fspin
+- wmill-pg
+- wmill
+- windmill-api
+- pulumi-aiven
+- open-door-mcp
+- etherscan-v2
+- singlefile-storage
+- xyra
+- sentry-infra-tools
+- hee888
+- fplanck
+- wybthon
+- pytorch-dlrs
+- mchnpkg
+- aiqtoolkit-weave
+- ros-mcp
 - authentik-client
+- arpakitlib
+- stac-mcp
+- soso-qt-extras
 - plasen
+- hexdoc-hextrace
+- prophecy-libs
+- orbitkit
+- statsig-python-core
+- ci-starter
+- backup-reporter
+- 1d-qt-ideal-solver
+- promptware-dev
+- postgres-mcp-enhanced
+- tree-sitter-analyzer
+- modfile
+- agentci
+- openpii-vault
+- fast-backend-builder
+- nedo-vision-training
+- wicked-print
+- annofabcli
+- observatory-mcp
+- uv-ship
 - AutoImblearn
 - moleditpy
 - ldc-lender-datalayer
 - ydata-profiling-multilingual
 - rebel-forge
-- 1d-qt-ideal-solver
-- pytorch-dlrs
 - iamdata
 - conmap
 - tarot-reader
-- sidemantic
 - sqlite-mcp-server-enhanced
-- singlefile-storage
 - maven-proxy
 - better-jupyter-mcp-server
 - frenztoolkit
@@ -44,45 +81,3 @@
 - llmswap
 - aiiware-cli
 - aiscriptgenerator-mcp
-- DAOModel
-- sumeh
-- compressed-lists
-- promptware-dev
-- greenstream-config
-- ttkbootstrap
-- vpp-vrouter
-- maxapi-python
-- ysa-signal
-- pipefunc
-- veris-ai
-- pex
-- keras-nlp-nightly
-- keras-hub-nightly
-- intentkit
-- suma-ulsa
-- session-mgmt-mcp
-- nexaai
-- AntiCAP
-- pypomes-scheduling
-- snowflake-connector-python-nightly
-- memory-journal-mcp
-- lt-tensor
-- ifgen
-- intelliw
-- ambient-package-update
-- microplate
-- talk-to-a-file
-- omniopt2
-- aolog
-- hkjc
-- odoo-addon-l10n-br-account
-- odoo-addon-l10n-br-fiscal
-- odoo-addon-shopfloor-base
-- cs-models
-- chromedriver-binary
-- dsf-aml-sdk
-- odoo-addons-oca-web
-- odoo-addon-web-pwa-oca
-- glaip-sdk
-- cdktf-cdktf-provider-pagerduty
-- text-formater

@@ -1,11 +1,11 @@
 {
   "name": "etherscan-v2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etherscan_v2-0.0.2.tar.gz",
-  "download_time": "2025-10-09T03:55:01.531815",
+  "download_filename": "etherscan_v2-0.0.3.tar.gz",
+  "download_time": "2025-10-09T05:19:43.409786",
   "package_url": "https://pypi.org/project/etherscan-v2/"
 }
