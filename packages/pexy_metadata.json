@@ -1,0 +1,11 @@
+{
+  "name": "pexy",
+  "version": "0.9.6",
+  "summary": "Shopify Store Swiss Knife.",
+  "author": "Clivern",
+  "license": "MIT",
+  "home_page": "https://github.com/Clivern/Pexy/",
+  "download_filename": "pexy-0.9.6.tar.gz",
+  "download_time": "2025-10-09T18:51:38.430653",
+  "package_url": "https://pypi.org/project/pexy/"
+}

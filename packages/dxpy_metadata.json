@@ -1,0 +1,11 @@
+{
+  "name": "dxpy",
+  "version": "0.399.1",
+  "summary": "DNAnexus Platform API bindings for Python",
+  "author": "Aleksandra Zalcman, Andrey Kislyuk, Anurag Biyani, Geet Duggal, Katherine Lai, Kurt Jensen, Marek Hrvol, Ohad Rodeh, Phil Sung",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/dnanexus/dx-toolkit",
+  "download_filename": "dxpy-0.399.1.tar.gz",
+  "download_time": "2025-10-09T18:51:22.511636",
+  "package_url": "https://pypi.org/project/dxpy/"
+}

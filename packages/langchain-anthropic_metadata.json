@@ -1,11 +1,11 @@
 {
   "name": "langchain-anthropic",
-  "version": "0.3.21",
+  "version": "0.3.22",
   "summary": "An integration package connecting Anthropic and LangChain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_anthropic-0.3.21.tar.gz",
-  "download_time": "2025-10-07T13:46:13.939389",
+  "download_filename": "langchain_anthropic-0.3.22.tar.gz",
+  "download_time": "2025-10-09T18:51:34.708687",
   "package_url": "https://pypi.org/project/langchain-anthropic/"
 }

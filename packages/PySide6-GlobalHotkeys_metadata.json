@@ -1,11 +1,11 @@
 {
   "name": "PySide6-GlobalHotkeys",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "System-wide hotkeys for applications developed with PySide6.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyside6_globalhotkeys-0.0.1.tar.gz",
-  "download_time": "2025-10-07T21:37:43.918062",
+  "download_filename": "pyside6_globalhotkeys-0.0.2.tar.gz",
+  "download_time": "2025-10-09T18:51:41.061481",
   "package_url": "https://pypi.org/project/PySide6-GlobalHotkeys/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arraykit",
+  "version": "1.2.0",
+  "summary": "Array utilities for StaticFrame",
+  "author": "Christopher Ariza, Brandt Bucher, Charles Burkland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arraykit-1.2.0.tar.gz",
+  "download_time": "2025-10-09T18:51:44.745192",
+  "package_url": "https://pypi.org/project/arraykit/"
+}

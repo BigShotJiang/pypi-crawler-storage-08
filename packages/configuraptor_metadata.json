@@ -1,0 +1,11 @@
+{
+  "name": "configuraptor",
+  "version": "1.28.2",
+  "summary": "Load toml/yaml/json config files into classes for a typed config (type hinting etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "configuraptor-1.28.2.tar.gz",
+  "download_time": "2025-10-09T18:51:43.184402",
+  "package_url": "https://pypi.org/project/configuraptor/"
+}

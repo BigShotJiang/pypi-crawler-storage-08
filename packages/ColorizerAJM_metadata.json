@@ -1,0 +1,11 @@
+{
+  "name": "ColorizerAJM",
+  "version": "0.5",
+  "summary": "Taken from https://medium.com/@ryan_forrester_/adding-color-to-python-terminal-output-a-complete-guide-147fcb1c335f uses ANSI escape codes to colorize terminal output",
+  "author": "Amcsparron",
+  "license": "MIT License",
+  "home_page": "https://github.com/amcsparron2793-Water/ColorizerAJM",
+  "download_filename": "colorizerajm-0.5.tar.gz",
+  "download_time": "2025-10-09T18:51:35.787619",
+  "package_url": "https://pypi.org/project/ColorizerAJM/"
+}

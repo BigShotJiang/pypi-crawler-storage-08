@@ -1,0 +1,11 @@
+{
+  "name": "seo-mcp-fastmcp",
+  "version": "0.2.5",
+  "summary": "A free SEO tool MCP (Model Control Protocol) service based on Ahrefs data. Includes features such as backlinks, keyword ideas, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seo_mcp_fastmcp-0.2.5.tar.gz",
+  "download_time": "2025-10-09T18:51:18.319310",
+  "package_url": "https://pypi.org/project/seo-mcp-fastmcp/"
+}
