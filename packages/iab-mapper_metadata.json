@@ -1,0 +1,11 @@
+{
+  "name": "iab-mapper",
+  "version": "1.0.0",
+  "summary": "Local IAB Content Taxonomy 2.x -> 3.0 mapper with vectors, SCD, OpenRTB/VAST exporters.",
+  "author": "Mixpeek",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "iab_mapper-1.0.0.tar.gz",
+  "download_time": "2025-10-09T19:38:34.875693",
+  "package_url": "https://pypi.org/project/iab-mapper/"
+}

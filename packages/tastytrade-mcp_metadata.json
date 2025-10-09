@@ -1,11 +1,11 @@
 {
   "name": "tastytrade-mcp",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "TastyTrade MCP Server - Production-ready OAuth trading with full instrument support",
   "author": "TastyTrade MCP Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tastytrade_mcp-1.4.1.tar.gz",
-  "download_time": "2025-10-09T19:17:42.553381",
+  "download_filename": "tastytrade_mcp-1.4.2.tar.gz",
+  "download_time": "2025-10-09T19:38:57.760804",
   "package_url": "https://pypi.org/project/tastytrade-mcp/"
 }
