@@ -1,11 +1,11 @@
 {
   "name": "django-global-search",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Global search for Django Admin, search across all registered models with permissions and search_fields support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_global_search-0.1.1.tar.gz",
-  "download_time": "2025-10-07T19:16:10.261665",
+  "download_filename": "django_global_search-0.1.2.tar.gz",
+  "download_time": "2025-10-09T09:42:17.982213",
   "package_url": "https://pypi.org/project/django-global-search/"
 }

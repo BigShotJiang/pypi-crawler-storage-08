@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-storagecache",
+  "version": "3.0.1",
+  "summary": "Microsoft Azure Storagecache Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_storagecache-3.0.1.tar.gz",
+  "download_time": "2025-10-09T09:42:03.429798",
+  "package_url": "https://pypi.org/project/azure-mgmt-storagecache/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aldryn-django-cms",
+  "version": "4.0.1.19",
+  "summary": "An opinionated django CMS setup bundled as an Divio Cloud addon",
+  "author": "Divio AG",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/divio/aldryn-django-cms",
+  "download_filename": "aldryn_django_cms-4.0.1.19.tar.gz",
+  "download_time": "2025-10-09T09:42:19.024169",
+  "package_url": "https://pypi.org/project/aldryn-django-cms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-zephyr",
+  "version": "0.0.15",
+  "summary": "An easy to use Zephyr Scale library for python",
+  "author": "Atabey Onur",
+  "license": null,
+  "home_page": "https://bitbucket.org/melectrification/python-zephyr/src/master/",
+  "download_filename": "python_zephyr-0.0.15.tar.gz",
+  "download_time": "2025-10-09T09:42:07.409714",
+  "package_url": "https://pypi.org/project/python-zephyr/"
+}
