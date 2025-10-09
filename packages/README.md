@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T19:39:20.187328
-- **Total Packages**: 87
-- **Total Size**: 26.76 MB
+- **Download Time**: 2025-10-09T19:54:08.756733
+- **Total Packages**: 90
+- **Total Size**: 15.31 MB
 
 ## Packages List
+- yak-server
+- sealights-python-agent
+- n23
+- evo-sdk-common
+- writeadoc
+- togglr-sdk
+- authentik-client
+- lit-mcp
+- wmill-pg
+- leafmap
+- starlark-pyo3
+- wmill
+- windmill-api
+- terminaltexteffects
+- flow-compute
+- hussh
+- elody
+- rust-template
+- aind-zarr-utils
+- PLD-subsampling
+- jnpr-pathfinder-mcp
+- fw-file-rs
+- tidy3d-mcp
+- cartesia-line
+- dean-utils
+- netra-zen
+- pyxcrypt
+- latch
+- bandripper
+- ut-aod
+- requirements-installer
+- t-nextgen
+- conviso-cli
+- pandas-plots
+- turbopdf
+- exonware-xwsystem
+- github-action-toolkit
+- projectaria-vrs-health-check
+- deps-rocker
 - cpz-ai
 - ormodel
 - modal
@@ -13,13 +52,11 @@
 - muffinbite
 - sapiopycommons
 - iab-mapper
-- authentik-client
 - keba-keenergy-api
 - xaspy
 - svc-infra
 - nominal-api-protos
 - nominal-api
-- aind-zarr-utils
 - quasimodo
 - dql-core
 - engines4ai
@@ -59,37 +96,3 @@
 - agent-lab-sdk
 - typed-everywhere
 - reorder-python-imports
-- api-tester-mcp
-- plato-sdk
-- gs-quant
-- find-asteroids
-- boto3
-- awscli
-- tidy3d-mcp
-- flake8-typing-imports
-- dql-parser
-- requirements-installer
-- dawgie
-- lightly-train
-- pytest-print
-- markdown_javadoc_references
-- archetypeai
-- langchain-tool-server
-- AOT-biomaps
-- lit-mcp
-- douki
-- hf
-- pandas-plots
-- nucleofind
-- ibm-watsonx-orchestrate-evaluation-framework
-- dbbasic-cli
-- pytest-env
-- domiknows
-- lsdb
-- pi-web-sdk
-- allotropy
-- mock-spark
-- ascii-library
-- batch-img
-- taha
-- a3dgamemaker

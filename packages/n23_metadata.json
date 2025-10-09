@@ -1,0 +1,11 @@
+{
+  "name": "n23",
+  "version": "0.10.6",
+  "summary": "n23 - data acquisition and processing framework",
+  "author": "Artur Wroblewski",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.com/n23/n23",
+  "download_filename": "n23-0.10.6.tar.gz",
+  "download_time": "2025-10-09T19:53:14.976771",
+  "package_url": "https://pypi.org/project/n23/"
+}

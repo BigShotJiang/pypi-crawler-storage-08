@@ -1,0 +1,11 @@
+{
+  "name": "bandripper",
+  "version": "0.3.1",
+  "summary": "Rip mp3s from bandcamp.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bandripper-0.3.1.tar.gz",
+  "download_time": "2025-10-09T19:53:30.972644",
+  "package_url": "https://pypi.org/project/bandripper/"
+}

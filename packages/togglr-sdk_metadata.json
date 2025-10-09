@@ -1,0 +1,11 @@
+{
+  "name": "togglr-sdk",
+  "version": "1.0.0",
+  "summary": "SDK for Togglr feature flags management system",
+  "author": "Roman Chudov",
+  "license": null,
+  "home_page": "https://github.com/togglr-project/togglr-sdk-python",
+  "download_filename": "togglr_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-09T19:53:16.712496",
+  "package_url": "https://pypi.org/project/togglr-sdk/"
+}
