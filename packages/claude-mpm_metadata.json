@@ -1,11 +1,11 @@
 {
   "name": "claude-mpm",
-  "version": "4.7.7",
+  "version": "4.7.8",
   "summary": "Claude Multi-Agent Project Manager - Orchestrate Claude with agent delegation and ticket tracking",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_mpm-4.7.7.tar.gz",
-  "download_time": "2025-10-09T21:18:43.770422",
+  "download_filename": "claude_mpm-4.7.8.tar.gz",
+  "download_time": "2025-10-09T22:41:11.863617",
   "package_url": "https://pypi.org/project/claude-mpm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "azol",
+  "version": "0.4.3",
+  "summary": "A python-based pentesting library for Azure and Entra ID",
+  "author": "Cody Burkard",
+  "license": null,
+  "home_page": "https://github.com/cdburkard/azol",
+  "download_filename": "azol-0.4.3.tar.gz",
+  "download_time": "2025-10-09T22:40:57.374415",
+  "package_url": "https://pypi.org/project/azol/"
+}

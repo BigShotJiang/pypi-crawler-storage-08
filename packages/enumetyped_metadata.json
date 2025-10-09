@@ -1,0 +1,11 @@
+{
+  "name": "enumetyped",
+  "version": "0.5.1",
+  "summary": "Type-containing enumeration",
+  "author": "Rinat Balbekov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enumetyped-0.5.1.tar.gz",
+  "download_time": "2025-10-09T22:41:12.902406",
+  "package_url": "https://pypi.org/project/enumetyped/"
+}

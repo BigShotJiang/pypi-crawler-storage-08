@@ -1,0 +1,11 @@
+{
+  "name": "kalibr",
+  "version": "1.0.7",
+  "summary": "Kalibr SDK — Integrate your SaaS with every major AI model using a single SDK.",
+  "author": "Devon",
+  "license": "MIT",
+  "home_page": "https://github.com/devon/kalibr-sdk",
+  "download_filename": "kalibr-1.0.7.tar.gz",
+  "download_time": "2025-10-09T22:40:55.313317",
+  "package_url": "https://pypi.org/project/kalibr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloud-sql-python-connector",
+  "version": "1.18.5",
+  "summary": "Google Cloud SQL Python Connector library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloud_sql_python_connector-1.18.5.tar.gz",
+  "download_time": "2025-10-09T22:41:04.090703",
+  "package_url": "https://pypi.org/project/cloud-sql-python-connector/"
+}

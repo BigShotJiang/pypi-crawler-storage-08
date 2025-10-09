@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-aws-auth",
+  "version": "0.0.2",
+  "summary": "Provides AWS authentication middlewares to be used with aiohttp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiohttp_aws_auth-0.0.2.tar.gz",
+  "download_time": "2025-10-09T22:41:19.181590",
+  "package_url": "https://pypi.org/project/aiohttp-aws-auth/"
+}
