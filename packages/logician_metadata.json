@@ -1,0 +1,11 @@
+{
+  "name": "logician",
+  "version": "0.0.0.dev7",
+  "summary": "Fully typed, simple, intuitive, sensible and pragmatic logger configurator for standard python logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logician-0.0.0.dev7.tar.gz",
+  "download_time": "2025-10-09T10:44:35.277965",
+  "package_url": "https://pypi.org/project/logician/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xclienttransaction",
+  "version": "1.0.1",
+  "summary": "Twitter X-Client-Transaction-Id generator written in python.",
+  "author": "Sarabjit Dhiman",
+  "license": "MIT",
+  "home_page": "https://github.com/iSarabjitDhiman/XClientTransaction",
+  "download_filename": "xclienttransaction-1.0.1.tar.gz",
+  "download_time": "2025-10-09T10:44:39.479978",
+  "package_url": "https://pypi.org/project/xclienttransaction/"
+}
