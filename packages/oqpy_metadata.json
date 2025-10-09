@@ -1,0 +1,11 @@
+{
+  "name": "oqpy",
+  "version": "0.3.9",
+  "summary": "Generating OpenQASM 3 + OpenPulse in Python",
+  "author": "OQpy Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/openqasm/oqpy",
+  "download_filename": "oqpy-0.3.9.tar.gz",
+  "download_time": "2025-10-09T15:52:44.465244",
+  "package_url": "https://pypi.org/project/oqpy/"
+}

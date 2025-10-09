@@ -1,11 +1,11 @@
 {
   "name": "bigwig-io",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "summary": "Process bigWig and bigBed files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bigwig_io-0.0.30.tar.gz",
-  "download_time": "2025-10-08T11:16:55.994151",
+  "download_filename": "bigwig_io-0.0.31.tar.gz",
+  "download_time": "2025-10-09T15:52:38.021298",
   "package_url": "https://pypi.org/project/bigwig-io/"
 }

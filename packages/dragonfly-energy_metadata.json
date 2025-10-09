@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-energy",
-  "version": "1.35.34",
+  "version": "1.35.37",
   "summary": "Dragonfly extension for energy simulation.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-energy",
-  "download_filename": "dragonfly_energy-1.35.34.tar.gz",
-  "download_time": "2025-10-07T22:18:05.220667",
+  "download_filename": "dragonfly_energy-1.35.37.tar.gz",
+  "download_time": "2025-10-09T15:52:37.381800",
   "package_url": "https://pypi.org/project/dragonfly-energy/"
 }

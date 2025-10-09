@@ -1,11 +1,11 @@
 {
   "name": "hyperx-htmx",
-  "version": "3.2.4.1",
+  "version": "3.2.5",
   "summary": "Declarative HTMX + Elementy framework for Django",
   "author": "Jeff Panasuik",
   "license": "MIT",
   "home_page": "https://github.com/faroncoder/hyperx-htmx",
-  "download_filename": "hyperx_htmx-3.2.4.1.tar.gz",
-  "download_time": "2025-10-09T11:52:46.683462",
+  "download_filename": "hyperx_htmx-3.2.5.tar.gz",
+  "download_time": "2025-10-09T15:52:57.394699",
   "package_url": "https://pypi.org/project/hyperx-htmx/"
 }

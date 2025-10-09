@@ -1,0 +1,11 @@
+{
+  "name": "cia-python",
+  "version": "1.0a8",
+  "summary": "Cluster Independent Annotation",
+  "author": "Ivan Ferrari, Mattia Battistella, Francesca Vincenti, Andrea Gobbini, Eugenia Galeota",
+  "license": "MIT",
+  "home_page": "https://github.com/ingmbioinfo/cia",
+  "download_filename": "cia_python-1.0a8.tar.gz",
+  "download_time": "2025-10-09T15:52:38.711745",
+  "package_url": "https://pypi.org/project/cia-python/"
+}
