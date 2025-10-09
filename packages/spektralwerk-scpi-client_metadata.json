@@ -1,11 +1,11 @@
 {
   "name": "spektralwerk-scpi-client",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Spektralwerk SCPI communication library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spektralwerk_scpi_client-0.3.1.tar.gz",
-  "download_time": "2025-10-08T09:41:45.836792",
+  "download_filename": "spektralwerk_scpi_client-0.3.2.tar.gz",
+  "download_time": "2025-10-09T11:17:42.032258",
   "package_url": "https://pypi.org/project/spektralwerk-scpi-client/"
 }

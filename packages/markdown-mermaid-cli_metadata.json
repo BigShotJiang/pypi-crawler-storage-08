@@ -1,0 +1,11 @@
+{
+  "name": "markdown-mermaid-cli",
+  "version": "0.3.0",
+  "summary": "Mermaid extension for Python-Markdown using mermaid-cli.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_mermaid_cli-0.3.0.tar.gz",
+  "download_time": "2025-10-09T11:17:46.699498",
+  "package_url": "https://pypi.org/project/markdown-mermaid-cli/"
+}

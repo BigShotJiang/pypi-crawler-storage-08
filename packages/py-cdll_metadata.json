@@ -1,0 +1,11 @@
+{
+  "name": "py-cdll",
+  "version": "2025.10.9.12.57",
+  "summary": "Circular doubly linked list data structure. Emulates Python list behavior and has additional features.",
+  "author": "tompy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_cdll-2025.10.9.12.57.tar.gz",
+  "download_time": "2025-10-09T11:17:44.650151",
+  "package_url": "https://pypi.org/project/py-cdll/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-comment-template",
+  "version": "18.0.1.0.2.2",
+  "summary": "Comments texts templates on Purchase documents",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-reporting",
+  "download_filename": "odoo_addon_purchase_comment_template-18.0.1.0.2.2-py3-none-any.whl",
+  "download_time": "2025-10-09T11:17:34.273413",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-comment-template/"
+}
