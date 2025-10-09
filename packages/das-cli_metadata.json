@@ -1,11 +1,11 @@
 {
   "name": "das-cli",
-  "version": "1.0.7",
+  "version": "1.0.12",
   "summary": "DAS api client.",
   "author": "Royal Netherlands Institute for Sea Research",
   "license": null,
   "home_page": null,
-  "download_filename": "das_cli-1.0.7.tar.gz",
-  "download_time": "2025-10-09T11:52:42.353497",
+  "download_filename": "das_cli-1.0.12.tar.gz",
+  "download_time": "2025-10-09T15:00:01.267556",
   "package_url": "https://pypi.org/project/das-cli/"
 }

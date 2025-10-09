@@ -1,0 +1,11 @@
+{
+  "name": "hcam-widgets",
+  "version": "1.2.2",
+  "summary": "Common Tkinter widgets for HiPerCAM",
+  "author": "Stuart Littlefair",
+  "license": "MIT license",
+  "home_page": "https://github.com/HiPERCAM/hcam_widgets",
+  "download_filename": "hcam_widgets-1.2.2.tar.gz",
+  "download_time": "2025-10-09T15:00:06.516561",
+  "package_url": "https://pypi.org/project/hcam-widgets/"
+}

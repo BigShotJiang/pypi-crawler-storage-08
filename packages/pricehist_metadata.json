@@ -1,0 +1,11 @@
+{
+  "name": "pricehist",
+  "version": "1.4.13",
+  "summary": "Fetch and format historical price data",
+  "author": "Chris Berkhout",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/chrisberkhout/pricehist",
+  "download_filename": "pricehist-1.4.13.tar.gz",
+  "download_time": "2025-10-09T15:00:46.181387",
+  "package_url": "https://pypi.org/project/pricehist/"
+}

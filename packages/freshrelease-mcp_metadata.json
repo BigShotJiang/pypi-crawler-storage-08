@@ -1,11 +1,11 @@
 {
   "name": "freshrelease-mcp",
-  "version": "1.11.0",
+  "version": "1.11.7",
   "summary": "An MCP server for Freshrelease - enables Cursor AI to interact with Freshrelease projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freshrelease_mcp-1.11.0.tar.gz",
-  "download_time": "2025-10-08T15:22:31.730958",
+  "download_filename": "freshrelease_mcp-1.11.7.tar.gz",
+  "download_time": "2025-10-09T15:00:04.718442",
   "package_url": "https://pypi.org/project/freshrelease-mcp/"
 }

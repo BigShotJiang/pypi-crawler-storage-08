@@ -1,0 +1,11 @@
+{
+  "name": "slapos.core",
+  "version": "1.19.0",
+  "summary": "SlapOS core.",
+  "author": "VIFIB",
+  "license": "GPLv3",
+  "home_page": "https://slapos.nexedi.com/",
+  "download_filename": "slapos_core-1.19.0.tar.gz",
+  "download_time": "2025-10-09T15:00:35.279738",
+  "package_url": "https://pypi.org/project/slapos.core/"
+}

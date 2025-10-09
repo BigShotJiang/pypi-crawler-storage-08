@@ -1,0 +1,11 @@
+{
+  "name": "nicos-pyctl",
+  "version": "1.3",
+  "summary": "NICOS pyctl c module",
+  "author": "Georg Brandl",
+  "license": null,
+  "home_page": "https://forge.frm2.tum.de/simple/nicos-pyctl/",
+  "download_filename": "nicos_pyctl-1.3.tar.gz",
+  "download_time": "2025-10-09T14:59:59.898601",
+  "package_url": "https://pypi.org/project/nicos-pyctl/"
+}

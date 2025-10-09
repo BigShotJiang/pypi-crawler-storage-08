@@ -1,11 +1,11 @@
 {
   "name": "hcube",
-  "version": "0.32.0",
+  "version": "0.32.1",
   "summary": "HCube is a simple ORM for working with hyper-cube OLAP data stored in various backends.",
   "author": null,
   "license": "WTFPL",
   "home_page": null,
-  "download_filename": "hcube-0.32.0.tar.gz",
-  "download_time": "2025-10-07T10:20:08.011802",
+  "download_filename": "hcube-0.32.1.tar.gz",
+  "download_time": "2025-10-09T15:00:29.988506",
   "package_url": "https://pypi.org/project/hcube/"
 }
