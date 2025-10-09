@@ -1,24 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-09T05:20:18.913376
-- **Total Packages**: 75
-- **Total Size**: 8.11 MB
+- **Download Time**: 2025-10-09T05:42:20.721383
+- **Total Packages**: 72
+- **Total Size**: 0.22 MB
 
 ## Packages List
-- pulumi-akamai
-- django-backup-migrations
-- pulumi-archive
-- sidemantic
-- fspin
-- wmill-pg
-- wmill
-- windmill-api
-- pulumi-aiven
-- open-door-mcp
-- etherscan-v2
-- singlefile-storage
-- xyra
 - sentry-infra-tools
 - hee888
 - fplanck
@@ -37,6 +24,7 @@
 - orbitkit
 - statsig-python-core
 - ci-starter
+- singlefile-storage
 - backup-reporter
 - 1d-qt-ideal-solver
 - promptware-dev
@@ -59,6 +47,7 @@
 - iamdata
 - conmap
 - tarot-reader
+- sidemantic
 - sqlite-mcp-server-enhanced
 - maven-proxy
 - better-jupyter-mcp-server
@@ -81,3 +70,11 @@
 - llmswap
 - aiiware-cli
 - aiscriptgenerator-mcp
+- DAOModel
+- sumeh
+- compressed-lists
+- greenstream-config
+- ttkbootstrap
+- vpp-vrouter
+- maxapi-python
+- ysa-signal

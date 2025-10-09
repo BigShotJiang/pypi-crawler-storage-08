@@ -1,11 +1,11 @@
 {
   "name": "ci-starter",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "Kickstarts the semantic release pipeline for your Python project",
   "author": "fleetingbytes",
   "license": null,
   "home_page": null,
-  "download_filename": "ci_starter-0.10.1.tar.gz",
-  "download_time": "2025-10-09T05:19:54.399633",
+  "download_filename": "ci_starter-0.10.2.tar.gz",
+  "download_time": "2025-10-09T05:41:49.460872",
   "package_url": "https://pypi.org/project/ci-starter/"
 }
