@@ -1,0 +1,11 @@
+{
+  "name": "stockdex",
+  "version": "1.2.2",
+  "summary": "A package to get stock data from Yahoo Finance",
+  "author": "Amir Nazary",
+  "license": null,
+  "home_page": "https://github.com/ahnazary/stockdex",
+  "download_filename": "stockdex-1.2.2.tar.gz",
+  "download_time": "2025-10-09T21:52:36.709611",
+  "package_url": "https://pypi.org/project/stockdex/"
+}

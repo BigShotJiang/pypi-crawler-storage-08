@@ -1,0 +1,11 @@
+{
+  "name": "stistools",
+  "version": "1.4.6",
+  "summary": "Tools for STIS (Space Telescope Imaging Spectrograph)",
+  "author": "Paul Barrett, Phil Hodge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stistools-1.4.6.tar.gz",
+  "download_time": "2025-10-09T21:52:49.627808",
+  "package_url": "https://pypi.org/project/stistools/"
+}

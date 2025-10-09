@@ -1,0 +1,11 @@
+{
+  "name": "timewarp-ide",
+  "version": "1.0.0",
+  "summary": "Educational Programming IDE with Multi-Language Support",
+  "author": "James-HoneyBadger",
+  "license": "MIT",
+  "home_page": "https://github.com/James-HoneyBadger/Time_Warp",
+  "download_filename": "timewarp_ide-1.0.0.tar.gz",
+  "download_time": "2025-10-09T21:52:45.505927",
+  "package_url": "https://pypi.org/project/timewarp-ide/"
+}

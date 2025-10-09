@@ -1,0 +1,11 @@
+{
+  "name": "toponymy",
+  "version": "0.4.0",
+  "summary": "A library for using large language models to name topics",
+  "author": "John Healy, Leland McInnes",
+  "license": "MIT License",
+  "home_page": "https://github.com/TutteInstitute/toponymy",
+  "download_filename": "toponymy-0.4.0.tar.gz",
+  "download_time": "2025-10-09T21:52:56.004253",
+  "package_url": "https://pypi.org/project/toponymy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-warehouse",
+  "version": "0.1.5",
+  "summary": "Auto-capture OpenAI and Anthropic LLM calls for warehousing and observability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_warehouse-0.1.5.tar.gz",
+  "download_time": "2025-10-09T21:52:35.411041",
+  "package_url": "https://pypi.org/project/llm-warehouse/"
+}
