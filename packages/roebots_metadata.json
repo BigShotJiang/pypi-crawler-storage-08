@@ -1,0 +1,11 @@
+{
+  "name": "roebots",
+  "version": "2025.10.10",
+  "summary": "A package of some utils for doing robotics and ML.",
+  "author": "Adrian Röfer",
+  "license": null,
+  "home_page": "http://pypi.python.org/pypi/roebots/",
+  "download_filename": "roebots-2025.10.10-py3-none-any.whl",
+  "download_time": "2025-10-10T11:39:22.360816",
+  "package_url": "https://pypi.org/project/roebots/"
+}

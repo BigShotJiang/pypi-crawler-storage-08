@@ -1,0 +1,11 @@
+{
+  "name": "reflink-copy",
+  "version": "0.3.3",
+  "summary": "Python wrapper for reflink_copy Rust library",
+  "author": "Saugat Pachhai",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/iterative/reflink-copy",
+  "download_filename": "reflink_copy-0.3.3.tar.gz",
+  "download_time": "2025-10-10T11:39:16.398251",
+  "package_url": "https://pypi.org/project/reflink-copy/"
+}

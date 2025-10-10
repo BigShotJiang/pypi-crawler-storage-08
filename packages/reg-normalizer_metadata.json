@@ -1,11 +1,11 @@
 {
   "name": "reg-normalizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Tool for normalizing and standardizing Russian region names",
   "author": null,
   "license": "CC BY-NC-SA 4.0",
   "home_page": null,
-  "download_filename": "reg_normalizer-1.0.0.tar.gz",
-  "download_time": "2025-10-10T11:17:58.519146",
+  "download_filename": "reg_normalizer-1.0.1.tar.gz",
+  "download_time": "2025-10-10T11:39:23.926573",
   "package_url": "https://pypi.org/project/reg-normalizer/"
 }

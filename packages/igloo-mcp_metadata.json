@@ -1,0 +1,11 @@
+{
+  "name": "igloo-mcp",
+  "version": "0.1.0",
+  "summary": "Igloo MCP - Snowflake MCP Server for agentic native workflows",
+  "author": "Evan Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "igloo_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-10T11:39:18.491681",
+  "package_url": "https://pypi.org/project/igloo-mcp/"
+}

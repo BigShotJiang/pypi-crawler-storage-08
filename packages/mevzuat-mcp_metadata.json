@@ -1,0 +1,11 @@
+{
+  "name": "mevzuat-mcp",
+  "version": "0.3.0",
+  "summary": "MCP Server for Turkish Legislation - 18 tools for comprehensive access to Turkish laws, decrees, regulations and circulars",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mevzuat_mcp-0.3.0.tar.gz",
+  "download_time": "2025-10-10T11:39:14.277354",
+  "package_url": "https://pypi.org/project/mevzuat-mcp/"
+}

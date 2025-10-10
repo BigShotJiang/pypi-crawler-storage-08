@@ -1,11 +1,11 @@
 {
   "name": "codeset-gym",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "summary": "A Python package for testing code patches in Docker containers",
   "author": "Codeset",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codeset_gym-0.0.6.tar.gz",
-  "download_time": "2025-10-08T16:25:21.426541",
+  "download_filename": "codeset_gym-0.1.0.tar.gz",
+  "download_time": "2025-10-10T11:39:30.674789",
   "package_url": "https://pypi.org/project/codeset-gym/"
 }

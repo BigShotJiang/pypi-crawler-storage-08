@@ -1,0 +1,11 @@
+{
+  "name": "blockingpy-gpu",
+  "version": "0.2.8",
+  "summary": "BlockingPy meta package (GPU)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blockingpy_gpu-0.2.8.tar.gz",
+  "download_time": "2025-10-10T11:39:25.456984",
+  "package_url": "https://pypi.org/project/blockingpy-gpu/"
+}

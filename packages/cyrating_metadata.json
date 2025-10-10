@@ -1,0 +1,11 @@
+{
+  "name": "cyrating",
+  "version": "1.0.18",
+  "summary": "Python wrapper for https://www.cyrating.com",
+  "author": "Cyrating",
+  "license": "ISC",
+  "home_page": "https://www.cyrating.com",
+  "download_filename": "cyrating-1.0.18-py3-none-any.whl",
+  "download_time": "2025-10-10T11:39:05.883838",
+  "package_url": "https://pypi.org/project/cyrating/"
+}

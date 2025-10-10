@@ -1,0 +1,11 @@
+{
+  "name": "chunking-strategy",
+  "version": "0.4.1",
+  "summary": "A comprehensive chunking library for text, documents, audio, video, and data streams (Linux and macOS only)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunking_strategy-0.4.1.tar.gz",
+  "download_time": "2025-10-10T11:39:21.787336",
+  "package_url": "https://pypi.org/project/chunking-strategy/"
+}
