@@ -1,11 +1,11 @@
 {
   "name": "kiarina-llm",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "LLM utilities and context management for kiarina namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina_llm-1.6.0.tar.gz",
-  "download_time": "2025-10-10T03:34:11.551498",
+  "download_filename": "kiarina_llm-1.6.1.tar.gz",
+  "download_time": "2025-10-10T03:55:20.109279",
   "package_url": "https://pypi.org/project/kiarina-llm/"
 }

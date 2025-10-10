@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-10-10T03:34:20.918761",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 28.86,
+  "download_time": "2025-10-10T03:55:30.263745",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 3.25,
   "packages": [
     "parseur-py",
     "hyrax",
@@ -9,7 +9,6 @@
     "deferrer",
     "multimodal-sdk",
     "msgpack-white",
-    "a-stock-mcp",
     "sequins-inventory-tool",
     "dagnostics",
     "authentik-client",

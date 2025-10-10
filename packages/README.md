@@ -1,9 +1,9 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T03:34:20.918761
-- **Total Packages**: 82
-- **Total Size**: 28.86 MB
+- **Download Time**: 2025-10-10T03:55:30.263745
+- **Total Packages**: 81
+- **Total Size**: 3.25 MB
 
 ## Packages List
 - parseur-py
@@ -12,7 +12,6 @@
 - deferrer
 - multimodal-sdk
 - msgpack-white
-- a-stock-mcp
 - sequins-inventory-tool
 - dagnostics
 - authentik-client

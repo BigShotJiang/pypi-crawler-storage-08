@@ -1,11 +1,11 @@
 {
   "name": "lerobot-robot-viola",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "LeRobot viola integration",
   "author": "Spes Robotics",
   "license": null,
   "home_page": null,
-  "download_filename": "lerobot_robot_viola-0.0.1.tar.gz",
-  "download_time": "2025-10-10T03:34:01.631604",
+  "download_filename": "lerobot_robot_viola-0.0.2.tar.gz",
+  "download_time": "2025-10-10T03:55:09.434528",
   "package_url": "https://pypi.org/project/lerobot-robot-viola/"
 }
