@@ -1,0 +1,11 @@
+{
+  "name": "SQLAlchemy-Continuum",
+  "version": "1.5.2",
+  "summary": "Versioning and auditing extension for SQLAlchemy.",
+  "author": "Mark Steward, Jose Soto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_continuum-1.5.2.tar.gz",
+  "download_time": "2025-10-10T17:20:14.336189",
+  "package_url": "https://pypi.org/project/SQLAlchemy-Continuum/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "robotcode-runner",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "RobotCode runner for Robot Framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robotcode_runner-2.0.0-py3-none-any.whl",
-  "download_time": "2025-10-10T12:41:23.431798",
+  "download_filename": "robotcode_runner-2.0.1.tar.gz",
+  "download_time": "2025-10-10T17:20:22.857516",
   "package_url": "https://pypi.org/project/robotcode-runner/"
 }

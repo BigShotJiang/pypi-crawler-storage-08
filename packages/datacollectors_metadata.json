@@ -1,0 +1,11 @@
+{
+  "name": "datacollectors",
+  "version": "0.7.35",
+  "summary": "Datacollectors to load energy market data from various sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datacollectors-0.7.35.tar.gz",
+  "download_time": "2025-10-10T17:20:27.576506",
+  "package_url": "https://pypi.org/project/datacollectors/"
+}

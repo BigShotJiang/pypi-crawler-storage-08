@@ -1,0 +1,11 @@
+{
+  "name": "extract-monster",
+  "version": "0.1.0",
+  "summary": "Python SDK for Extract Monster - Extract structured data from files and text using AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "extract_monster-0.1.0.tar.gz",
+  "download_time": "2025-10-10T17:20:45.173257",
+  "package_url": "https://pypi.org/project/extract-monster/"
+}

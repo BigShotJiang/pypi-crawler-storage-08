@@ -1,11 +1,11 @@
 {
   "name": "morphik",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Morphik Python Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "morphik-0.2.13.tar.gz",
-  "download_time": "2025-10-08T18:30:45.980003",
+  "download_filename": "morphik-0.2.14.tar.gz",
+  "download_time": "2025-10-10T17:20:19.171286",
   "package_url": "https://pypi.org/project/morphik/"
 }

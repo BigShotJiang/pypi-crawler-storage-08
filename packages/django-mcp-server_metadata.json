@@ -1,0 +1,11 @@
+{
+  "name": "django-mcp-server",
+  "version": "0.5.7",
+  "summary": "Django MCP Server is a Django extensions to easily enable AI Agents to interact with Django Apps through the Model Context Protocol it works equally well on WSGI and ASGI",
+  "author": "Omar BENHAMID",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_mcp_server-0.5.7.tar.gz",
+  "download_time": "2025-10-10T17:20:30.179820",
+  "package_url": "https://pypi.org/project/django-mcp-server/"
+}
