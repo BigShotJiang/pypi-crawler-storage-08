@@ -1,0 +1,11 @@
+{
+  "name": "bitquery-pb2-kafka-package",
+  "version": "0.2.3",
+  "summary": "This package contains the pb2 files necessary to interact with Bitquery Kafka Protobuf messages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bitquery_pb2_kafka_package-0.2.3.tar.gz",
+  "download_time": "2025-10-10T14:44:28.654915",
+  "package_url": "https://pypi.org/project/bitquery-pb2-kafka-package/"
+}

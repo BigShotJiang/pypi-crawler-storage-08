@@ -1,11 +1,11 @@
 {
   "name": "csv2notion_neo",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Upload & Merge CSV or JSON Data with Images to Notion Database",
   "author": "Arjun",
   "license": "MIT",
   "home_page": "https://github.com/TheAcharya/csv2notion-neo",
-  "download_filename": "csv2notion_neo-2.0.0.tar.gz",
-  "download_time": "2025-10-08T03:21:18.126227",
+  "download_filename": "csv2notion_neo-2.0.2.tar.gz",
+  "download_time": "2025-10-10T14:44:04.253788",
   "package_url": "https://pypi.org/project/csv2notion_neo/"
 }

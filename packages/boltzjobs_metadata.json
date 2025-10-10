@@ -1,0 +1,11 @@
+{
+  "name": "boltzjobs",
+  "version": "0.2.0",
+  "summary": "Module for defining molecular components, modifications, and job configurations for Boltz-2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boltzjobs-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-10T14:43:59.269173",
+  "package_url": "https://pypi.org/project/boltzjobs/"
+}

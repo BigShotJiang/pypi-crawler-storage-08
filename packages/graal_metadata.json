@@ -1,0 +1,11 @@
+{
+  "name": "graal",
+  "version": "1.2.0",
+  "summary": "A generic source code analyzer",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "graal-1.2.0.tar.gz",
+  "download_time": "2025-10-10T14:44:08.627585",
+  "package_url": "https://pypi.org/project/graal/"
+}

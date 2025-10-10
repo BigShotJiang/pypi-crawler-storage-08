@@ -1,11 +1,11 @@
 {
   "name": "glue3d",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Official project for GLUE3D.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glue3d-0.2.3.tar.gz",
-  "download_time": "2025-10-08T13:46:18.978543",
+  "download_filename": "glue3d-0.2.4.tar.gz",
+  "download_time": "2025-10-10T14:43:59.805723",
   "package_url": "https://pypi.org/project/glue3d/"
 }

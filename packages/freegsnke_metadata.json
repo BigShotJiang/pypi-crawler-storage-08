@@ -1,0 +1,11 @@
+{
+  "name": "freegsnke",
+  "version": "2.1.0",
+  "summary": "FreeGSNKE: A Python code for evolutive free-boundary tokamak plasma equilibrium simulations",
+  "author": "The FreeGSNKE Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "freegsnke-2.1.0.tar.gz",
+  "download_time": "2025-10-10T14:44:18.142281",
+  "package_url": "https://pypi.org/project/freegsnke/"
+}

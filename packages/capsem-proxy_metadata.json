@@ -1,0 +1,11 @@
+{
+  "name": "capsem-proxy",
+  "version": "0.1.0",
+  "summary": "Multi-tenant LLM proxy with CAPSEM security policy enforcement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "capsem_proxy-0.1.0.tar.gz",
+  "download_time": "2025-10-10T14:44:21.792691",
+  "package_url": "https://pypi.org/project/capsem-proxy/"
+}

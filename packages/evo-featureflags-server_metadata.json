@@ -1,11 +1,11 @@
 {
   "name": "evo-featureflags-server",
-  "version": "1.24.3",
+  "version": "1.24.4",
   "summary": "Feature flags server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evo_featureflags_server-1.24.3.tar.gz",
-  "download_time": "2025-10-10T13:57:02.384190",
+  "download_filename": "evo_featureflags_server-1.24.4.tar.gz",
+  "download_time": "2025-10-10T14:44:19.196762",
   "package_url": "https://pypi.org/project/evo-featureflags-server/"
 }
