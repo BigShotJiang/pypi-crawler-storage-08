@@ -1,0 +1,11 @@
+{
+  "name": "cnda_dl",
+  "version": "1.2.0",
+  "summary": "A command line utility for downloading fMRI data from CNDA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnda_dl-1.2.0.tar.gz",
+  "download_time": "2025-10-10T19:41:13.558234",
+  "package_url": "https://pypi.org/project/cnda_dl/"
+}
