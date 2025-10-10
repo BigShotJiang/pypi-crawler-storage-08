@@ -1,11 +1,11 @@
 {
   "name": "rusty-tags",
-  "version": "0.6.3",
+  "version": "0.6.31",
   "summary": "Core HTML generation library with Rust-based Python extension - high performance, minimal dependencies",
   "author": "RustyTags Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusty_tags-0.6.3.tar.gz",
-  "download_time": "2025-10-08T17:18:42.785782",
+  "download_filename": "rusty_tags-0.6.31.tar.gz",
+  "download_time": "2025-10-10T10:54:56.289228",
   "package_url": "https://pypi.org/project/rusty-tags/"
 }

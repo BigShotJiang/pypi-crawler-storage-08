@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T10:44:37.798985
-- **Total Packages**: 83
-- **Total Size**: 17.42 MB
+- **Download Time**: 2025-10-10T10:55:40.577989
+- **Total Packages**: 80
+- **Total Size**: 7.98 MB
 
 ## Packages List
-- nexusai
+- rusty-tags
+- nonebot-plugin-randpic
+- pytestomatio
+- simplr
+- vital
+- jupyterlab-filesystem-access
+- readerCoerente
+- pyzenkit
+- GridSeisPy
+- free-deepl-translator
+- ppio-sandbox
+- authentik-client
+- api-foundry-query-engine
+- qkit-gla
+- gnobjects
+- testit-api-client
+- fmu-tools
+- agent-lab-sdk
+- llama-index-readers-gitlab
+- tf-keras-nightly
+- python-event-sourcery
+- flounder-score
+- aiovodafone
+- hmmix
+- carm
+- redis-mcp-server
+- konduktor-nightly
+- azol
+- oneforall-gui
+- shomei
 - rai_core
+- trainy-policy-nightly
+- qtealeaves
+- nexusai
 - aabd
 - incept-eval
 - letta-nightly
@@ -16,7 +48,6 @@
 - fastapi-slim
 - fastapi
 - alibabacloud-iqs20241111
-- authentik-client
 - qkan
 - aryaxai
 - tidy3d-mcp
@@ -30,7 +61,6 @@
 - graph-datasets
 - matchbox-db
 - myspace-cli
-- simplr
 - ukraine
 - masai-framework
 - eventio
@@ -56,36 +86,3 @@
 - hyapp
 - LCPDelta
 - tezkormath
-- cybrid-api-bank-python
-- cybrid-api-organization-python
-- mapchete
-- cybrid-api-id-python
-- 1d-qt-ideal-solver
-- seetrain-ml
-- Calibrator-KS1200
-- tenzir-test
-- cwrap
-- multiai
-- xknx
-- datamaster-mcp-enhanced
-- dump-things-service
-- aeonsdk
-- urnc
-- causal-conv1d
-- tf-keras-nightly
-- machineconfig
-- amitysolutions.dolphin-mcp
-- pynocaptcha
-- ai-edge-torch-nightly
-- django-sodar-core
-- ontoripple
-- m3-cli
-- latitude-sdk
-- github2gerrit
-- genomehubs
-- pyrobale
-- dazbo-commons
-- opik
-- sun-agent-toolkit
-- nvidia-nat-opentelemetry
-- nvidia-nat-phoenix

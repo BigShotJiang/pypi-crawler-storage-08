@@ -1,0 +1,11 @@
+{
+  "name": "pyzenkit",
+  "version": "0.66",
+  "summary": "Python 3 script and daemon toolkit",
+  "author": "Honza Mach",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/pyzenkit/",
+  "download_filename": "pyzenkit-0.66.tar.gz",
+  "download_time": "2025-10-10T10:55:00.125403",
+  "package_url": "https://pypi.org/project/pyzenkit/"
+}

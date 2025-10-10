@@ -1,0 +1,11 @@
+{
+  "name": "free-deepl-translator",
+  "version": "1.2.3",
+  "summary": "Unofficial free DeepL translator client (No auth)",
+  "author": "Darkcraft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "free_deepl_translator-1.2.3-py3-none-any.whl",
+  "download_time": "2025-10-10T10:55:01.148233",
+  "package_url": "https://pypi.org/project/free-deepl-translator/"
+}
