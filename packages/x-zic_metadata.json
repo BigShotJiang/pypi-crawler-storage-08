@@ -1,11 +1,11 @@
 {
   "name": "x-zic",
-  "version": "0.1.0.post3",
+  "version": "0.1.4",
   "summary": "Pythonic timezone compiler based on tzdb",
   "author": null,
   "license": "GPL version 3",
   "home_page": null,
-  "download_filename": "x_zic-0.1.0.post3.tar.gz",
-  "download_time": "2025-10-10T08:27:06.736858",
+  "download_filename": "x_zic-0.1.4.tar.gz",
+  "download_time": "2025-10-10T09:41:51.754710",
   "package_url": "https://pypi.org/project/x-zic/"
 }

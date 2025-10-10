@@ -1,0 +1,11 @@
+{
+  "name": "fyle-accounting-mappings",
+  "version": "2.9.1",
+  "summary": "Django application to store the fyle accounting mappings in a generic manner",
+  "author": "Shwetabh Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/fylein/fyle-accounting-mappings",
+  "download_filename": "fyle_accounting_mappings-2.9.1.tar.gz",
+  "download_time": "2025-10-10T09:42:09.228143",
+  "package_url": "https://pypi.org/project/fyle-accounting-mappings/"
+}

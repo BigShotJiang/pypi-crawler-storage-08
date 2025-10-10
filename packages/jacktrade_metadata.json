@@ -1,11 +1,11 @@
 {
   "name": "jacktrade",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "A collection of commonly used Python utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jacktrade-0.12.0.tar.gz",
-  "download_time": "2025-10-09T20:53:02.263444",
+  "download_filename": "jacktrade-0.13.0.tar.gz",
+  "download_time": "2025-10-10T09:41:44.507563",
   "package_url": "https://pypi.org/project/jacktrade/"
 }

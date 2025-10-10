@@ -1,0 +1,11 @@
+{
+  "name": "cryptocom-agent-plugin-discord",
+  "version": "1.0.2",
+  "summary": "Discord plugin for Crypto.com Agent Client",
+  "author": "Ric Arcifa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptocom_agent_plugin_discord-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-10T09:42:06.147117",
+  "package_url": "https://pypi.org/project/cryptocom-agent-plugin-discord/"
+}

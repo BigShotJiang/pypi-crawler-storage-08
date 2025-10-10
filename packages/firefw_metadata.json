@@ -1,0 +1,11 @@
+{
+  "name": "firefw",
+  "version": "1.4.3",
+  "summary": "Frame for IR Runtime",
+  "author": "FireDucks Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firefw-1.4.3-py3-none-any.whl",
+  "download_time": "2025-10-10T09:42:03.551139",
+  "package_url": "https://pypi.org/project/firefw/"
+}

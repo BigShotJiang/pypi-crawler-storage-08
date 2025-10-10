@@ -1,0 +1,11 @@
+{
+  "name": "django_pg_simple_hll",
+  "version": "0.3.1",
+  "summary": "A low-privilege implementation of hyperloglog for django and postgres",
+  "author": "Beauhurst",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_pg_simple_hll-0.3.1.tar.gz",
+  "download_time": "2025-10-10T09:41:38.261869",
+  "package_url": "https://pypi.org/project/django_pg_simple_hll/"
+}
