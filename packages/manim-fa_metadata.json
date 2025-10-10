@@ -1,11 +1,11 @@
 {
   "name": "manim-fa",
-  "version": "0.1.0",
-  "summary": "Plugin Manim pour le texte persan (RTL) avec translittération",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "manim_fa-0.1.0.tar.gz",
-  "download_time": "2025-10-07T22:40:04.285467",
+  "version": "0.2.1",
+  "summary": "افزونه‌ی مانیم برای نمایش متن فارسی (راست به چپ) با قابلیت تبدیل خودکار از حروف لاتین به فارسی",
+  "author": "علی تابش",
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Alli Tabesh\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software...",
+  "home_page": "https://github.com/<username>/manim-fa",
+  "download_filename": "manim_fa-0.2.1.tar.gz",
+  "download_time": "2025-10-10T13:57:16.340277",
   "package_url": "https://pypi.org/project/manim-fa/"
 }

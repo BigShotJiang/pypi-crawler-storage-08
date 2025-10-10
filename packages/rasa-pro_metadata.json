@@ -1,11 +1,11 @@
 {
   "name": "rasa-pro",
-  "version": "3.14.0",
+  "version": "3.14.1",
   "summary": "State-of-the-art open-core Conversational AI framework for Enterprises that natively leverages generative AI for effortless assistant development.",
   "author": "Rasa Technologies GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "rasa_pro-3.14.0.tar.gz",
-  "download_time": "2025-10-09T16:27:13.481228",
+  "download_filename": "rasa_pro-3.14.1.tar.gz",
+  "download_time": "2025-10-10T13:56:55.917129",
   "package_url": "https://pypi.org/project/rasa-pro/"
 }

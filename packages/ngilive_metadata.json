@@ -1,11 +1,11 @@
 {
   "name": "ngilive",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": null,
   "author": "Ole-Jakob Olsen",
   "license": null,
   "home_page": null,
-  "download_filename": "ngilive-0.2.4.tar.gz",
-  "download_time": "2025-10-08T09:21:40.810668",
+  "download_filename": "ngilive-0.3.0.tar.gz",
+  "download_time": "2025-10-10T13:56:53.565011",
   "package_url": "https://pypi.org/project/ngilive/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "titiler-xarray",
+  "version": "0.24.1",
+  "summary": "Xarray plugin for TiTiler.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "titiler_xarray-0.24.1.tar.gz",
+  "download_time": "2025-10-10T13:56:57.656577",
+  "package_url": "https://pypi.org/project/titiler-xarray/"
+}

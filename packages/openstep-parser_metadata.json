@@ -1,0 +1,11 @@
+{
+  "name": "openstep-parser",
+  "version": "2.0.3",
+  "summary": "OpenStep plist reader into python objects",
+  "author": "Ignacio Calderon",
+  "license": null,
+  "home_page": "http://github.com/kronenthaler/openstep-parser",
+  "download_filename": "openstep_parser-2.0.3.tar.gz",
+  "download_time": "2025-10-10T13:57:05.271776",
+  "package_url": "https://pypi.org/project/openstep-parser/"
+}

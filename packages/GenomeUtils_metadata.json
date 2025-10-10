@@ -1,0 +1,11 @@
+{
+  "name": "GenomeUtils",
+  "version": "0.1.0",
+  "summary": "An object-oriented Python library for working with genomic data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genomeutils-0.1.0.tar.gz",
+  "download_time": "2025-10-10T13:57:12.804082",
+  "package_url": "https://pypi.org/project/GenomeUtils/"
+}

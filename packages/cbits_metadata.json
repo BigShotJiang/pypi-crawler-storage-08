@@ -1,0 +1,11 @@
+{
+  "name": "cbits",
+  "version": "0.2.0",
+  "summary": "High-performance BitVector with C backend.",
+  "author": "lambdaphoenix",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbits-0.2.0.tar.gz",
+  "download_time": "2025-10-10T13:57:21.493286",
+  "package_url": "https://pypi.org/project/cbits/"
+}
