@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T14:44:45.439931
-- **Total Packages**: 92
-- **Total Size**: 81.25 MB
+- **Download Time**: 2025-10-10T14:55:17.906569
+- **Total Packages**: 90
+- **Total Size**: 31.33 MB
 
 ## Packages List
+- python3.6
+- vectordbpipe
+- binance-sdk-margin-trading
+- binance-sdk-gift-card
+- mrok
+- binance-sdk-fiat
+- binance-sdk-dual-investment
+- wedge-lib
+- gcages
+- fiuai-sdk-python
+- binance-sdk-derivatives-trading-usds-futures
+- binance-sdk-derivatives-trading-portfolio-margin-pro
+- binance-sdk-derivatives-trading-portfolio-margin
+- binance-sdk-derivatives-trading-options
+- grimoire-elk
+- concave-sandbox
+- rugo
+- binance-sdk-derivatives-trading-coin-futures
+- binance-sdk-crypto-loan
+- binance-sdk-copy-trading
+- binance-sdk-convert
+- quillion-cli
+- langchain
+- binance-sdk-algo
+- binance-sdk-c2c
+- odoo-addon-slow-statement-logger
+- dve-lumipy-testing
+- austin-python
+- authentik-client
+- sobe
+- python-glinet
+- logyca-azure-storage-blob
+- remote-debug
+- lib-log-rich
+- astroviper
+- luminesce-sdk
+- qtui
+- x-transformers
+- team-pal
+- aotpy
+- oidc-provider-mock
+- weather-nws-mcp
+- indica
+- junit2html
+- prqlc
 - cybrid-api-bank-python
 - cybrid-api-organization-python
 - argos-translate-files-main
@@ -18,7 +63,6 @@
 - termina
 - sphinx-theme-mochi
 - jabs-postprocess
-- authentik-client
 - SQLAlchemy
 - my-cli-utilities
 - csv2notion_neo
@@ -52,49 +96,3 @@
 - evo-featureflags-server
 - pytest-ty
 - napari-orientation
-- pwconn
-- tiny-recursive-model
-- capsem-proxy
-- grobnercrystals
-- matrix-synapse
-- talks-reducer
-- remote-debug
-- mkdocs-asciinema-player
-- alphagenome
-- ravyn
-- avro-py
-- decayshape
-- dspyteach
-- signature-extraction
-- iparapheur-provisioning
-- bitquery-pb2-kafka-package
-- iparapheur-internal
-- kidash
-- airbyte-cdk
-- grimoirelab-toolkit
-- opshin
-- dagster-ray
-- vid2gifx
-- check-requirements-txt
-- mongo-charms-single-kernel
-- get-danmu
-- prek
-- locust-cloud
-- sphinx-theme-shiratama
-- azure-ai-search-haystack
-- PVNet
-- viktor
-- medfile
-- Py4HEAppE
-- mrok
-- mkdocs-recently-updated-docs
-- reyserver
-- reydb
-- ibm-watson-openscale
-- nac-yaml
-- corpus2alpino
-- fileglancer-central
-- rippling-flux-sdk
-- nucad
-- tortoise-vector
-- citiespy

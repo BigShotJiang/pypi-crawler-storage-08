@@ -1,0 +1,11 @@
+{
+  "name": "python-glinet",
+  "version": "0.8.0",
+  "summary": "Python3 client for Gl.Inet LUCI API firmware 4.0 onwards.",
+  "author": "Tomtana",
+  "license": null,
+  "home_page": "https://github.com/tomtana/python-glinet",
+  "download_filename": "python_glinet-0.8.0.tar.gz",
+  "download_time": "2025-10-10T14:54:45.806295",
+  "package_url": "https://pypi.org/project/python-glinet/"
+}

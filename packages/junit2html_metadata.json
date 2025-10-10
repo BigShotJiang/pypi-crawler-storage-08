@@ -1,0 +1,11 @@
+{
+  "name": "junit2html",
+  "version": "31.0.3",
+  "summary": "Generate HTML reports from Junit results",
+  "author": "Ian Norton",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://gitlab.com/inorton/junit2html",
+  "download_filename": "junit2html-31.0.3-py3-none-any.whl",
+  "download_time": "2025-10-10T14:54:53.193489",
+  "package_url": "https://pypi.org/project/junit2html/"
+}

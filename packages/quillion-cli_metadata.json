@@ -1,0 +1,11 @@
+{
+  "name": "quillion-cli",
+  "version": "0.1.4",
+  "summary": "Quillion Command Line Interface",
+  "author": "anybody",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quillion_cli-0.1.4.tar.gz",
+  "download_time": "2025-10-10T14:54:40.950337",
+  "package_url": "https://pypi.org/project/quillion-cli/"
+}

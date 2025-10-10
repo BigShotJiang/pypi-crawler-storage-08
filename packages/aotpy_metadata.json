@@ -1,0 +1,11 @@
+{
+  "name": "aotpy",
+  "version": "3.2.0",
+  "summary": "Helper package for handling Adaptive Optics Telemetry (AOT) standard files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aotpy-3.2.0.tar.gz",
+  "download_time": "2025-10-10T14:54:51.070973",
+  "package_url": "https://pypi.org/project/aotpy/"
+}
