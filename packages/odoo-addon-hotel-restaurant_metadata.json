@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hotel-restaurant",
+  "version": "15.0.1.0.0.29",
+  "summary": "Table booking facilities and Managing customers orders",
+  "author": "Odoo Community Association (OCA), Serpent Consulting Services Pvt. Ltd., Odoo S.A.",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/vertical-hotel",
+  "download_filename": "odoo_addon_hotel_restaurant-15.0.1.0.0.29-py3-none-any.whl",
+  "download_time": "2025-10-10T04:24:12.079170",
+  "package_url": "https://pypi.org/project/odoo-addon-hotel-restaurant/"
+}

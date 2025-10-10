@@ -1,11 +1,11 @@
 {
   "name": "elemental-tools",
-  "version": "0.0.6.2",
+  "version": "0.0.6.3",
   "summary": "A Collection of Utilities. Not even can be described.",
   "author": "Elemental Tools - Tom Neto",
   "license": "MIT",
   "home_page": "https://github.com/tomneto",
-  "download_filename": "elemental_tools-0.0.6.2-py3-none-any.whl",
-  "download_time": "2025-10-10T01:26:32.296239",
+  "download_filename": "elemental_tools-0.0.6.3-py3-none-any.whl",
+  "download_time": "2025-10-10T04:24:00.000298",
   "package_url": "https://pypi.org/project/elemental-tools/"
 }

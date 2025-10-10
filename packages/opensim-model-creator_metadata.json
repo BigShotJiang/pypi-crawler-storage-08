@@ -1,0 +1,11 @@
+{
+  "name": "opensim-model-creator",
+  "version": "0.1.15",
+  "summary": "Python code for OpenSim model creation using an articulated statistical shape model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opensim_model_creator-0.1.15.tar.gz",
+  "download_time": "2025-10-10T04:23:49.914215",
+  "package_url": "https://pypi.org/project/opensim-model-creator/"
+}

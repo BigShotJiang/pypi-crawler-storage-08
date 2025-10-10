@@ -1,0 +1,11 @@
+{
+  "name": "telepact",
+  "version": "1.0.0a150",
+  "summary": "The Python Telepact library",
+  "author": "Telepact Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "telepact-1.0.0a150.tar.gz",
+  "download_time": "2025-10-10T04:24:02.079734",
+  "package_url": "https://pypi.org/project/telepact/"
+}

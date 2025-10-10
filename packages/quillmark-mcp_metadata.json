@@ -1,11 +1,11 @@
 {
   "name": "quillmark-mcp",
-  "version": "0.0.6",
-  "summary": "MCP server for Quillmark document rendering. Run with uvx (recommended).",
+  "version": "0.0.9",
+  "summary": "MCP server for Quillmark document rendering. Run with `quillmark-mcp@0.0.8` (recommended).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quillmark_mcp-0.0.6.tar.gz",
-  "download_time": "2025-10-10T03:33:43.301421",
+  "download_filename": "quillmark_mcp-0.0.9.tar.gz",
+  "download_time": "2025-10-10T04:23:52.611167",
   "package_url": "https://pypi.org/project/quillmark-mcp/"
 }

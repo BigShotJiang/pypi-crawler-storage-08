@@ -1,0 +1,11 @@
+{
+  "name": "openinference-instrumentation-mistralai",
+  "version": "1.3.4",
+  "summary": "OpenInference Mistral AI Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinference_instrumentation_mistralai-1.3.4.tar.gz",
+  "download_time": "2025-10-10T04:24:35.993693",
+  "package_url": "https://pypi.org/project/openinference-instrumentation-mistralai/"
+}

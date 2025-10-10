@@ -1,0 +1,11 @@
+{
+  "name": "mgi-alphatool",
+  "version": "1.4.6",
+  "summary": "Library for designing protocols and running on MGI liquid handling machines.",
+  "author": "Brian Chan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgi_alphatool-1.4.6-py3-none-any.whl",
+  "download_time": "2025-10-10T04:24:03.121493",
+  "package_url": "https://pypi.org/project/mgi-alphatool/"
+}

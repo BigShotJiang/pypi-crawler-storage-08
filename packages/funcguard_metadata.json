@@ -1,0 +1,11 @@
+{
+  "name": "funcguard",
+  "version": "0.1.4",
+  "summary": "A funcguard for Python.",
+  "author": "tinycen",
+  "license": null,
+  "home_page": "https://github.com/tinycen/funcguard",
+  "download_filename": "funcguard-0.1.4.tar.gz",
+  "download_time": "2025-10-10T04:24:13.675122",
+  "package_url": "https://pypi.org/project/funcguard/"
+}
