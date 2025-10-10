@@ -1,11 +1,11 @@
 {
   "name": "electronex",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Python package for ECE & CSE engineering utilities",
   "author": "Hrishabh",
   "license": null,
   "home_page": "https://github.com/hrishabhxcode/enginex",
-  "download_filename": "electronex-1.0.0.tar.gz",
-  "download_time": "2025-10-10T14:44:17.613267",
+  "download_filename": "electronex-1.1.0.tar.gz",
+  "download_time": "2025-10-10T15:20:29.300735",
   "package_url": "https://pypi.org/project/electronex/"
 }

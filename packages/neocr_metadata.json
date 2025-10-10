@@ -1,0 +1,11 @@
+{
+  "name": "neocr",
+  "version": "0.1.0",
+  "summary": "NeoCR is a hierarchical, context-aware OCR system for mixed-content documents",
+  "author": "NeoSpace Technologies",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neocr-0.1.0.tar.gz",
+  "download_time": "2025-10-10T15:21:04.486284",
+  "package_url": "https://pypi.org/project/neocr/"
+}

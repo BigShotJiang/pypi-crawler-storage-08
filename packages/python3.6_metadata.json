@@ -1,11 +1,11 @@
 {
   "name": "python3.6",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A package with useful utilities for Python developers .",
   "author": "John Stephans",
   "license": null,
   "home_page": null,
-  "download_filename": "python3.6-0.2.0.tar.gz",
-  "download_time": "2025-10-10T14:54:28.911224",
+  "download_filename": "python3.6-0.3.0.tar.gz",
+  "download_time": "2025-10-10T15:20:36.566868",
   "package_url": "https://pypi.org/project/python3.6/"
 }

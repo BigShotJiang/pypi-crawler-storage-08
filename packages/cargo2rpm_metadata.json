@@ -1,0 +1,11 @@
+{
+  "name": "cargo2rpm",
+  "version": "0.2.0",
+  "summary": "Translation layer between cargo and RPM",
+  "author": "Fedora Rust SIG",
+  "license": "MIT",
+  "home_page": "https://pagure.io/fedora-rust/cargo2rpm",
+  "download_filename": "cargo2rpm-0.2.0.tar.gz",
+  "download_time": "2025-10-10T15:21:01.348175",
+  "package_url": "https://pypi.org/project/cargo2rpm/"
+}

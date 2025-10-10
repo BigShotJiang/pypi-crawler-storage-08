@@ -1,11 +1,11 @@
 {
   "name": "huggingface-paper-mcp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A MCP server for fetching HuggingFace papers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "huggingface_paper_mcp-0.1.5.tar.gz",
-  "download_time": "2025-10-09T02:47:14.242160",
+  "download_filename": "huggingface_paper_mcp-0.1.6.tar.gz",
+  "download_time": "2025-10-10T15:21:13.833081",
   "package_url": "https://pypi.org/project/huggingface-paper-mcp/"
 }

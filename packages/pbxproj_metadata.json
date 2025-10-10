@@ -1,11 +1,11 @@
 {
   "name": "pbxproj",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "summary": "XCode Project manipulation library for Python",
   "author": "Ignacio Calderon",
   "license": null,
   "home_page": "http://github.com/kronenthaler/mod-pbxproj",
-  "download_filename": "pbxproj-4.3.1.tar.gz",
-  "download_time": "2025-10-10T14:23:37.293974",
+  "download_filename": "pbxproj-4.3.2.tar.gz",
+  "download_time": "2025-10-10T15:20:42.239803",
   "package_url": "https://pypi.org/project/pbxproj/"
 }

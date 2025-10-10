@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-injector",
+  "version": "0.9.0",
+  "summary": "python-injector integration for FastAPI",
+  "author": "Matyas Richter",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "fastapi_injector-0.9.0.tar.gz",
+  "download_time": "2025-10-10T15:20:43.264979",
+  "package_url": "https://pypi.org/project/fastapi-injector/"
+}

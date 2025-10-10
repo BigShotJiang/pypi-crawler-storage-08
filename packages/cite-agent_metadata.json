@@ -1,0 +1,11 @@
+{
+  "name": "cite-agent",
+  "version": "1.0.0",
+  "summary": "AI Research Assistant - Backend-Only Distribution",
+  "author": "Cite-Agent Team",
+  "license": null,
+  "home_page": "https://github.com/Spectating101/cite-agent",
+  "download_filename": "cite_agent-1.0.0.tar.gz",
+  "download_time": "2025-10-10T15:20:34.993870",
+  "package_url": "https://pypi.org/project/cite-agent/"
+}

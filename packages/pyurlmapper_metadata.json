@@ -1,0 +1,11 @@
+{
+  "name": "pyurlmapper",
+  "version": "0.1.0",
+  "summary": "Lightweight URL mapper and proxy with optional DNS helper for local testing",
+  "author": "Leonardo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyurlmapper-0.1.0.tar.gz",
+  "download_time": "2025-10-10T15:20:27.698826",
+  "package_url": "https://pypi.org/project/pyurlmapper/"
+}

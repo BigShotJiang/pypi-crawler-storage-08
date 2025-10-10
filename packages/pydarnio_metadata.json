@@ -1,0 +1,11 @@
+{
+  "name": "pydarnio",
+  "version": "2.0",
+  "summary": "Python library for reading and writing SuperDARN data",
+  "author": "SuperDARN",
+  "license": null,
+  "home_page": "https://pydarnio.readthedocs.io/en/latest/",
+  "download_filename": "pydarnio-2.0.0.tar.gz",
+  "download_time": "2025-10-10T15:20:30.331571",
+  "package_url": "https://pypi.org/project/pydarnio/"
+}

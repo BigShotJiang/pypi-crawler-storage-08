@@ -1,11 +1,11 @@
 {
   "name": "opengris-scaler",
-  "version": "1.12.9",
+  "version": "1.12.11",
   "summary": "OpenGRIS Scaler Distribution Framework",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "opengris_scaler-1.12.9.tar.gz",
-  "download_time": "2025-10-09T21:52:54.833429",
+  "download_filename": "opengris_scaler-1.12.11.tar.gz",
+  "download_time": "2025-10-10T15:20:28.779970",
   "package_url": "https://pypi.org/project/opengris-scaler/"
 }

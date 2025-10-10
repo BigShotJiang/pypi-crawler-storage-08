@@ -1,11 +1,11 @@
 {
   "name": "jupyterpower",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "summary": "Utilities for Data Science using Python and Jupyter Notebook",
   "author": "Bruce DeSimas",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jupyterpower-0.9.4.tar.gz",
-  "download_time": "2025-10-09T18:30:00.246157",
+  "download_filename": "jupyterpower-0.9.6.tar.gz",
+  "download_time": "2025-10-10T15:21:09.715993",
   "package_url": "https://pypi.org/project/jupyterpower/"
 }
