@@ -1,11 +1,11 @@
 {
   "name": "xibe-chat-cli",
-  "version": "0.7.5",
+  "version": "0.7.7",
   "summary": "XIBE-CHAT CLI - AI-powered terminal assistant for text and image generation",
   "author": "iotserver24",
   "license": "Proprietary",
   "home_page": "https://github.com/iotserver24/xibe-chat-cli",
-  "download_filename": "xibe_chat_cli-0.7.5.tar.gz",
-  "download_time": "2025-10-10T17:40:34.522744",
+  "download_filename": "xibe_chat_cli-0.7.7.tar.gz",
+  "download_time": "2025-10-10T17:52:40.822133",
   "package_url": "https://pypi.org/project/xibe-chat-cli/"
 }

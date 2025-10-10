@@ -1,0 +1,11 @@
+{
+  "name": "rubin.citsci",
+  "version": "0.8.1",
+  "summary": "The companion package to the Rubin citizen science notebooks.",
+  "author": "Eric Rosas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubin_citsci-0.8.1.tar.gz",
+  "download_time": "2025-10-10T17:52:20.979277",
+  "package_url": "https://pypi.org/project/rubin.citsci/"
+}

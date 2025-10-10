@@ -1,11 +1,11 @@
 {
   "name": "cursorflow",
-  "version": "2.6.2",
+  "version": "2.7.2",
   "summary": "🔥 Complete page intelligence for AI-driven development with Hot Reload Intelligence - captures DOM, network, console, performance, HMR events, and comprehensive page analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cursorflow-2.6.2.tar.gz",
-  "download_time": "2025-10-09T22:18:37.775378",
+  "download_filename": "cursorflow-2.7.2.tar.gz",
+  "download_time": "2025-10-10T17:52:26.137114",
   "package_url": "https://pypi.org/project/cursorflow/"
 }

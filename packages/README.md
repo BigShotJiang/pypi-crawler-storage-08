@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T17:41:11.748972
-- **Total Packages**: 89
-- **Total Size**: 49.75 MB
+- **Download Time**: 2025-10-10T17:53:07.008470
+- **Total Packages**: 85
+- **Total Size**: 11.71 MB
 
 ## Packages List
+- MaxBridge
+- code-puppy
+- moleditpy-linux
+- tecton-runtime
+- OpenGeode-Stochastic
+- tecton
+- rubin.citsci
+- CliRemote
+- cobwood
+- alibabacloud-alb20200616
+- check-config
+- dreamer4
+- alibabacloud-ecs20140526
+- alibabacloud-sddp20190103
+- alibabacloud-mhub20170825
+- cursorflow
+- devstream-client
+- alibabacloud-rtc20180111
+- open-spiel
+- pydna-utils
+- translateturbo
 - alibabacloud-sae20190506
 - alibabacloud-rocketmq20220801
 - dawgie
@@ -21,7 +42,6 @@
 - spaceforge
 - svix
 - bk-precision-1900
-- CliRemote
 - imgrs
 - authentik-client
 - openagents
@@ -38,9 +58,7 @@
 - funtracks
 - mdsphinx
 - turboapi
-- tecton-runtime
 - clue-api
-- tecton
 - pulumi-vault
 - sagemaker
 - tng-python
@@ -73,25 +91,3 @@
 - pulumi-venafi
 - pipecat-ai
 - gac
-- moldenViz
-- assemblyline-core
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- sqlglot
-- terralab-cli
-- pynimcodec
-- medsenger-api
-- optimal-voting
-- vpe
-- invenio-classifier
-- pyopenapi-gen
-- groundhog-hpc
-- flagsmith-flag-engine
-- moleditpy-linux
-- cml-mcp
-- git-code-debt
-- SQLAlchemy-Continuum
-- kagura-ai
