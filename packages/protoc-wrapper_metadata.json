@@ -1,0 +1,11 @@
+{
+  "name": "protoc-wrapper",
+  "version": "32.1.0",
+  "summary": "Repackage official protoc compiler as Python wheels",
+  "author": "j178",
+  "license": null,
+  "home_page": null,
+  "download_filename": "protoc_wrapper-32.1.0-py3-none-macosx_12_0_arm64.whl",
+  "download_time": "2025-10-10T01:26:24.265458",
+  "package_url": "https://pypi.org/project/protoc-wrapper/"
+}
