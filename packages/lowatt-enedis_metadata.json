@@ -1,0 +1,11 @@
+{
+  "name": "lowatt-enedis",
+  "version": "3.2.0",
+  "summary": "Python client for Enedis SGE web-service",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "lowatt_enedis-3.2.0.tar.gz",
+  "download_time": "2025-10-10T09:22:38.898915",
+  "package_url": "https://pypi.org/project/lowatt-enedis/"
+}

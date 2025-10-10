@@ -1,11 +1,11 @@
 {
   "name": "feature-check",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Query a program for supported features",
   "author": null,
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "feature_check-2.3.0.tar.gz",
-  "download_time": "2025-10-08T15:42:44.360700",
+  "download_filename": "feature_check-2.3.1.tar.gz",
+  "download_time": "2025-10-10T09:22:26.853890",
   "package_url": "https://pypi.org/project/feature-check/"
 }

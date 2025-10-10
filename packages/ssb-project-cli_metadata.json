@@ -1,0 +1,11 @@
+{
+  "name": "ssb-project-cli",
+  "version": "1.7.2",
+  "summary": "SSB Project CLI",
+  "author": "Statistics Norway",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssb_project_cli-1.7.2.tar.gz",
+  "download_time": "2025-10-10T09:23:03.550923",
+  "package_url": "https://pypi.org/project/ssb-project-cli/"
+}

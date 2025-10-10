@@ -1,11 +1,11 @@
 {
   "name": "mlflow-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Model Context Protocol (MCP) server for MLflow - enables LLMs to interact with MLflow experiments, runs, metrics, and models",
   "author": "Kirill Kruglikov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlflow_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-10T08:48:58.738087",
+  "download_filename": "mlflow_mcp-0.1.2.tar.gz",
+  "download_time": "2025-10-10T09:22:17.037508",
   "package_url": "https://pypi.org/project/mlflow-mcp/"
 }

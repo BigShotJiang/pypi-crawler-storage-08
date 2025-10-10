@@ -1,0 +1,11 @@
+{
+  "name": "mthreads-ml-py",
+  "version": "0.0.1",
+  "summary": "A simple demo Python package for PyPI",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/hellopkg",
+  "download_filename": "mthreads_ml_py-0.0.1.tar.gz",
+  "download_time": "2025-10-10T09:22:45.735484",
+  "package_url": "https://pypi.org/project/mthreads-ml-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ianalyzer-readers",
+  "version": "0.4.0",
+  "summary": "Utilities for extracting XML, HTML, CSV, XLSX, and RDF data with a common interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ianalyzer_readers-0.4.0.tar.gz",
+  "download_time": "2025-10-10T09:23:03.032344",
+  "package_url": "https://pypi.org/project/ianalyzer-readers/"
+}

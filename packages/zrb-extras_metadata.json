@@ -1,11 +1,11 @@
 {
   "name": "zrb-extras",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Collection of Zrb additional utilities",
   "author": "Go Frendi Gunawan",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/goFrendiAsgard/zrb-extras",
-  "download_filename": "zrb_extras-0.1.5.tar.gz",
-  "download_time": "2025-10-10T02:48:59.151537",
+  "download_filename": "zrb_extras-0.1.6.tar.gz",
+  "download_time": "2025-10-10T09:22:22.667775",
   "package_url": "https://pypi.org/project/zrb-extras/"
 }
