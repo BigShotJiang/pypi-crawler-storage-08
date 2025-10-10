@@ -1,0 +1,11 @@
+{
+  "name": "ondewo-t2s-client",
+  "version": "6.1.1",
+  "summary": "ONDEWO Text 2 Speech (T2S) Client library for Python",
+  "author": "ONDEWO GmbH",
+  "license": null,
+  "home_page": "https://github.com/ondewo/ondewo-t2s-client-python",
+  "download_filename": "ondewo-t2s-client-6.1.1.tar.gz",
+  "download_time": "2025-10-10T11:52:37.507617",
+  "package_url": "https://pypi.org/project/ondewo-t2s-client/"
+}

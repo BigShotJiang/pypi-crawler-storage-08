@@ -1,0 +1,11 @@
+{
+  "name": "django-cleanhtmlfield",
+  "version": "1.4.0",
+  "summary": "A simple Django app that will give you a cleaned HTML field.",
+  "author": "Andreas Stocker",
+  "license": "MIT",
+  "home_page": "https://github.com/anexia/django-cleanhtmlfield",
+  "download_filename": "django_cleanhtmlfield-1.4.0.tar.gz",
+  "download_time": "2025-10-10T11:52:46.471111",
+  "package_url": "https://pypi.org/project/django-cleanhtmlfield/"
+}

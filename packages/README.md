@@ -1,19 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T11:39:47.608219
-- **Total Packages**: 82
-- **Total Size**: 19.05 MB
+- **Download Time**: 2025-10-10T11:53:17.137667
+- **Total Packages**: 87
+- **Total Size**: 24.05 MB
 
 ## Packages List
-- frscript
+- domino-py-iisas
+- binance-sdk
+- rusaint
+- authentik-client
+- yirgacheffe
+- arclet-letoderea
+- nexusai
+- fileagent
+- xibe-chat-cli
+- sensei-cli
+- django-bulk-triggers
+- foundry-sdk
+- azol
+- weathergrabber
+- ondewo-t2s-client
+- mcp-scan
+- doors
+- haiway
 - denkproto
+- tentris
+- ontoripple
+- apitally
+- medvision-classification
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- cloud-info-provider
+- lusid-sdk
+- cycode
+- upplib
+- gf-account-de-skr04-patch
+- django-cleanhtmlfield
+- incept-eval
+- guillotina
+- rusty-tags
+- GridSeisPy
+- dask-ms
+- eclips-blossom-ai
+- lb-tech-handler
+- rwth-jupyter-rdfify
+- unique_deep_research
+- frscript
 - keba-keenergy-api
 - ivolatility-backtesting
 - dify_plugin
 - cyrating
 - hydev
-- authentik-client
 - dg-mol-track
 - mlflow-mcp
 - metal-stack-api
@@ -27,7 +66,6 @@
 - PipeDSL
 - nidx-protos
 - mevzuat-mcp
-- django-bulk-triggers
 - mxcubeweb
 - pragmastat
 - reflink-copy
@@ -43,48 +81,15 @@
 - chunking-strategy
 - roebots
 - torchft-nightly
-- nexusai
 - reg-normalizer
 - shomei
 - aipyapp
 - blockingpy-gpu
 - blockingpy
 - blockingpy-core
-- GridSeisPy
 - jndataset-up
 - pulumi
 - netbox-static-routes-communities
 - kusosort
 - fmu-dataio
 - ultralytics
-- codeset-gym
-- rai-agent-sdk
-- metabase-migration-toolkit
-- magnet-pinn
-- dagster-ray
-- iqm-pulla
-- ytsaurus-client
-- insightfulpy
-- pyrobale
-- pymagento
-- antchain-securitytech
-- azol
-- wowool-dutch
-- stateful-data-processor
-- xautomata-hive
-- keplerio
-- HOPPET
-- testit-api-client
-- gloser
-- mcp-runcommand-server
-- tb-nightly
-- let3
-- SnakeScan
-- orq-ai-sdk
-- arpakitlib
-- smml
-- ecpcgrading
-- cognite-toolkit
-- ocean-runner
-- SARepo
-- morchaos

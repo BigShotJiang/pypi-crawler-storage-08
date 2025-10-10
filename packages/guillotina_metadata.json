@@ -1,0 +1,11 @@
+{
+  "name": "guillotina",
+  "version": "7.0.6",
+  "summary": "asyncio REST API Resource database",
+  "author": "Ramon Navarro Bosch & Nathan Van Gheem",
+  "license": "BSD",
+  "home_page": "https://github.com/plone/guillotina",
+  "download_filename": "guillotina-7.0.6.tar.gz",
+  "download_time": "2025-10-10T11:52:47.547696",
+  "package_url": "https://pypi.org/project/guillotina/"
+}
