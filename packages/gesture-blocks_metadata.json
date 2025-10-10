@@ -1,0 +1,11 @@
+{
+  "name": "gesture-blocks",
+  "version": "0.6.0",
+  "summary": "Block-style gesture control for Arduino + Python (LEDs, Otto Robot, Wonders Explorer, Pose Finder, Sign Language Converter, and more)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/gesture-blocks",
+  "download_filename": "gesture_blocks-0.6.0.tar.gz",
+  "download_time": "2025-10-10T02:48:28.597919",
+  "package_url": "https://pypi.org/project/gesture-blocks/"
+}

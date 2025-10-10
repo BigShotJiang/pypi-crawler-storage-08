@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-flockx",
+  "version": "0.2.0",
+  "summary": "MCP server for FlockX AI agent platform - enables AI assistants to interact with FlockX agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_flockx-0.2.0.tar.gz",
+  "download_time": "2025-10-10T02:49:00.346852",
+  "package_url": "https://pypi.org/project/mcp-server-flockx/"
+}
