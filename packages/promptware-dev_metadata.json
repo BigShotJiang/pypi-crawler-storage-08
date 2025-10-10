@@ -1,11 +1,11 @@
 {
   "name": "promptware-dev",
-  "version": "2.1.0b10",
+  "version": "2.1.0b11",
   "summary": "Production-ready MCP agent framework with multi-language support",
   "author": "Promptware Contributors",
   "license": null,
   "home_page": "https://github.com/promptware-dev/promptware",
-  "download_filename": "promptware_dev-2.1.0b10.tar.gz",
-  "download_time": "2025-10-10T02:48:28.018695",
+  "download_filename": "promptware_dev-2.1.0b11.tar.gz",
+  "download_time": "2025-10-10T03:34:18.855367",
   "package_url": "https://pypi.org/project/promptware-dev/"
 }

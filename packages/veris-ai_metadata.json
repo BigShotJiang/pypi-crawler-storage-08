@@ -1,11 +1,11 @@
 {
   "name": "veris-ai",
-  "version": "1.12.2",
+  "version": "1.12.3",
   "summary": "A Python package for Veris AI tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "veris_ai-1.12.2.tar.gz",
-  "download_time": "2025-10-09T04:23:58.672665",
+  "download_filename": "veris_ai-1.12.3.tar.gz",
+  "download_time": "2025-10-10T03:34:06.854718",
   "package_url": "https://pypi.org/project/veris-ai/"
 }

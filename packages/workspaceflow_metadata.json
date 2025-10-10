@@ -1,0 +1,11 @@
+{
+  "name": "workspaceflow",
+  "version": "0.1.0",
+  "summary": "Pluggable workspace management for Python web applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "workspaceflow-0.1.0.tar.gz",
+  "download_time": "2025-10-10T03:33:51.170661",
+  "package_url": "https://pypi.org/project/workspaceflow/"
+}

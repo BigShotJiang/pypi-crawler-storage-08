@@ -1,0 +1,11 @@
+{
+  "name": "msgpack-white",
+  "version": "1.0.0",
+  "summary": "Determine the end of MessagePack data quickly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msgpack_white-1.0.0.tar.gz",
+  "download_time": "2025-10-10T03:33:39.524715",
+  "package_url": "https://pypi.org/project/msgpack-white/"
+}

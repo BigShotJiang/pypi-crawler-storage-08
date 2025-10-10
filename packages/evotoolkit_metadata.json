@@ -1,0 +1,11 @@
+{
+  "name": "evotoolkit",
+  "version": "0.3.0b2",
+  "summary": "LLM-driven code evolution method library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evotoolkit-0.3.0b2.tar.gz",
+  "download_time": "2025-10-10T03:33:54.334012",
+  "package_url": "https://pypi.org/project/evotoolkit/"
+}

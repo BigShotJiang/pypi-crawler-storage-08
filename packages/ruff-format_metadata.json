@@ -1,11 +1,11 @@
 {
   "name": "ruff-format",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": null,
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ruff_format-0.1.0.tar.gz",
-  "download_time": "2025-10-09T21:18:43.229764",
+  "download_filename": "ruff_format-0.3.0.tar.gz",
+  "download_time": "2025-10-10T03:33:59.542747",
   "package_url": "https://pypi.org/project/ruff-format/"
 }

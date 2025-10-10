@@ -1,11 +1,11 @@
 {
   "name": "aviro",
-  "version": "0.1.2",
-  "summary": "A Python package for LLM execution tracking and flow analysis",
+  "version": "0.1.4",
+  "summary": "thin sdk for agents to learn through experience",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/aviro",
-  "download_filename": "aviro-0.1.2.tar.gz",
-  "download_time": "2025-10-10T02:48:25.565186",
+  "download_filename": "aviro-0.1.4.tar.gz",
+  "download_time": "2025-10-10T03:33:48.544139",
   "package_url": "https://pypi.org/project/aviro/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dagnostics",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagnostics-0.6.1.tar.gz",
-  "download_time": "2025-10-09T10:55:50.732609",
+  "download_filename": "dagnostics-0.6.2.tar.gz",
+  "download_time": "2025-10-10T03:33:41.108581",
   "package_url": "https://pypi.org/project/dagnostics/"
 }

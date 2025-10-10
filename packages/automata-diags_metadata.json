@@ -1,0 +1,11 @@
+{
+  "name": "automata-diags",
+  "version": "0.2.4",
+  "summary": "🤖 A powerful, modern, and educational Python toolkit for automata theory. Visualize DFAs, NFAs, CFGs, minimize automata, and more with an elegant, type-safe API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "automata_diags-0.2.4.tar.gz",
+  "download_time": "2025-10-10T03:33:47.505262",
+  "package_url": "https://pypi.org/project/automata-diags/"
+}

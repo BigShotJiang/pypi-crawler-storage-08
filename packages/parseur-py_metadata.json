@@ -1,0 +1,11 @@
+{
+  "name": "parseur-py",
+  "version": "1.3.1",
+  "summary": "A Python client for the Parseur.com API to manage mailboxes, documents, uploads, and listen for new parsing events.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parseur_py-1.3.1.tar.gz",
+  "download_time": "2025-10-10T03:33:36.840822",
+  "package_url": "https://pypi.org/project/parseur-py/"
+}
