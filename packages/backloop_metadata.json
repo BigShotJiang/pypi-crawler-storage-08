@@ -1,0 +1,11 @@
+{
+  "name": "backloop",
+  "version": "0.3.0",
+  "summary": "A web-based git diff viewer and review tool with MCP server integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backloop-0.3.0.tar.gz",
+  "download_time": "2025-10-10T22:53:05.837804",
+  "package_url": "https://pypi.org/project/backloop/"
+}
