@@ -1,0 +1,11 @@
+{
+  "name": "rippling-flux-sdk",
+  "version": "0.65.132",
+  "summary": "Defines the interfaces and data-models used by Rippling Flux Apps.",
+  "author": "Rippling Apps",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rippling_flux_sdk-0.65.132.tar.gz",
+  "download_time": "2025-10-10T14:23:01.843581",
+  "package_url": "https://pypi.org/project/rippling-flux-sdk/"
+}

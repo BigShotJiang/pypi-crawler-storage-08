@@ -1,11 +1,11 @@
 {
   "name": "tesserocr",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "summary": "A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython",
   "author": "Fayez Zouheiry",
   "license": "MIT",
   "home_page": "https://github.com/sirfz/tesserocr",
-  "download_filename": "tesserocr-2.9.0.tar.gz",
-  "download_time": "2025-10-09T13:21:24.555929",
+  "download_filename": "tesserocr-2.9.1.tar.gz",
+  "download_time": "2025-10-10T14:23:49.299036",
   "package_url": "https://pypi.org/project/tesserocr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tarot-reader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A lightweight tarot reading package that doubles as a powerful random content generator with personal seed support",
   "author": null,
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "tarot_reader-0.0.2.tar.gz",
-  "download_time": "2025-10-09T04:54:56.262053",
+  "download_filename": "tarot_reader-0.0.3.tar.gz",
+  "download_time": "2025-10-10T14:23:18.111904",
   "package_url": "https://pypi.org/project/tarot-reader/"
 }

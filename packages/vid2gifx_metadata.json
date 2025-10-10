@@ -1,0 +1,11 @@
+{
+  "name": "vid2gifx",
+  "version": "0.1.0",
+  "summary": "FFmpeg-only video to GIF converter with palettegen/paletteuse and size targeting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vid2gifx-0.1.0.tar.gz",
+  "download_time": "2025-10-10T14:23:03.904585",
+  "package_url": "https://pypi.org/project/vid2gifx/"
+}

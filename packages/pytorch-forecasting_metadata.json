@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-forecasting",
+  "version": "1.5.0",
+  "summary": "Forecasting timeseries with PyTorch - dataloaders, normalizers, metrics and models",
+  "author": "Jan Beitner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytorch_forecasting-1.5.0.tar.gz",
+  "download_time": "2025-10-10T14:23:09.718967",
+  "package_url": "https://pypi.org/project/pytorch-forecasting/"
+}

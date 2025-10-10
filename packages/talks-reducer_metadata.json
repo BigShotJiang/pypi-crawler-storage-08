@@ -1,11 +1,11 @@
 {
   "name": "talks-reducer",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "summary": "CLI for speeding up long-form talks by removing silence",
   "author": "Talks Reducer Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "talks_reducer-0.6.3.tar.gz",
-  "download_time": "2025-10-09T15:25:27.506493",
+  "download_filename": "talks_reducer-0.7.0.tar.gz",
+  "download_time": "2025-10-10T14:23:12.478712",
   "package_url": "https://pypi.org/project/talks-reducer/"
 }

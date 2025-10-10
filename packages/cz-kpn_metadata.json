@@ -1,0 +1,11 @@
+{
+  "name": "cz-kpn",
+  "version": "4.0.2",
+  "summary": "commitizen with kpn style",
+  "author": "Santiago Fraire Willemoes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cz_kpn-4.0.2.tar.gz",
+  "download_time": "2025-10-10T14:23:26.577772",
+  "package_url": "https://pypi.org/project/cz-kpn/"
+}
