@@ -1,0 +1,11 @@
+{
+  "name": "spotmate",
+  "version": "1.0.0",
+  "summary": "A CLI tool to manage your Spotify playlists.",
+  "author": "Ankit Kumar Ravi",
+  "license": null,
+  "home_page": "https://github.com/riAssinstAr/Spot-Mate",
+  "download_filename": "spotmate-1.0.0.tar.gz",
+  "download_time": "2025-10-10T18:50:23.298148",
+  "package_url": "https://pypi.org/project/spotmate/"
+}

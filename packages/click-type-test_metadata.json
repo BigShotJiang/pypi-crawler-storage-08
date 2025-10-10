@@ -1,0 +1,11 @@
+{
+  "name": "click-type-test",
+  "version": "2.0.0",
+  "summary": "Test that type annotations match click parameter types",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "click_type_test-2.0.0.tar.gz",
+  "download_time": "2025-10-10T18:50:14.324313",
+  "package_url": "https://pypi.org/project/click-type-test/"
+}

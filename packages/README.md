@@ -1,21 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T18:30:26.322089
-- **Total Packages**: 90
-- **Total Size**: 58.01 MB
+- **Download Time**: 2025-10-10T18:50:49.559767
+- **Total Packages**: 93
+- **Total Size**: 36.17 MB
 
 ## Packages List
+- zpui-lib
+- odoo-addon-l10n-es-verifactu-oca
+- dash
+- workers-py
+- onvif-python
+- ai4ce-helpers
+- snpit-utils
+- fastapi-reloader
+- boursobank-scraper
+- xpense
+- tlpytools
+- liger-kernel-nightly
+- netbek-periodic-table
+- tensorboard-plugin-profile
+- nvidia-cudnn-frontend
+- c2cciutils
+- quilt-mcp
+- llmling-agent
+- authentik-client
+- malevich-coretools
+- extend-ai
+- transformerlab
+- tripwire-py
+- slimformers
+- django-cfg
+- click-type-test
+- shudaodao
+- caffeinated-whale-cli
+- solace-agent-mesh
+- memu-py
+- retention
+- code-expert-mcp
+- rds-proxy-password-rotation
+- huqt-oracle-pysdk
+- python-digilog
+- arthur-common
+- pathlib-abc
+- nmdc-submission-schema
+- domaintools-api-test-upload
+- claude-mpm
+- agilicus
+- femtorun
+- spotmate
+- cooptools
+- qt-show-dialog
+- GNServer
+- medsenger-api
+- ayz-auth
+- ta-sites
+- anyscale
+- dreamer4
+- yes3
+- tgm-lib
+- knowrithm-py
+- cursorflow
+- nnsight
 - astro-geko
 - pyprocessors-openai_completion
-- authentik-client
 - dql-core
 - sdom
 - ensync-sdk
 - talks-reducer
 - plotlines
 - t-nextgen
-- cursorflow
 - BatchalignHK
 - uiwiz
 - mcp-fuzzer
@@ -45,54 +99,3 @@
 - google-tunix
 - aws-sam-translator
 - optics-framework
-- tng-python
-- papermodels
-- netbek-periodic-table
-- sapiopycommons
-- traccuracy
-- dql-parser
-- tarot-reader
-- checkamg
-- acex
-- tetra-rp
-- odoo-addon-account-statement-import-online-stripe
-- data-lib-save
-- agentex-sdk
-- vellum-ai
-- tko
-- azol
-- anss-formats
-- cogworks
-- openhands-ai
-- iatoolkit
-- okxv5
-- altimate-dataminion
-- isubrip
-- ncut-pytorch
-- sun-agent-toolkit
-- tiny-recursive-model
-- mlfastflow
-- clue-api
-- magic-duckdb
-- datarobot
-- bloqade-analog
-- nwp500-python
-- odoo-addon-spreadsheet-oca
-- cfncli
-- pyqrackising
-- siga-mcp
-- bizteamai-smcp-biz
-- bizteamai-smcp
-- truss
-- dsf-aml-sdk
-- chrys
-- add-trailing-comma
-- katana-openapi-client
-- html-to-markdown
-- localstack-core
-- collective.transmute
-- hyperbrowser
-- knowrithm-py
-- code-puppy
-- uipath
-- fundi
