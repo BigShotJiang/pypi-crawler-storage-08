@@ -1,11 +1,11 @@
 {
   "name": "OpenAIChatHelper",
-  "version": "0.1.1",
+  "version": "0.1.1.2",
   "summary": "A helper package for OpenAI API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openaichathelper-0.1.1.tar.gz",
-  "download_time": "2025-10-10T15:52:57.626257",
+  "download_filename": "openaichathelper-0.1.1.2.tar.gz",
+  "download_time": "2025-10-10T16:26:03.396391",
   "package_url": "https://pypi.org/project/OpenAIChatHelper/"
 }

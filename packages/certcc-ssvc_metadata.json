@@ -1,0 +1,11 @@
+{
+  "name": "certcc-ssvc",
+  "version": "2025.10.101215",
+  "summary": "Tools for working with a Stakeholder Specific Vulnerability Categorization (SSVC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certcc_ssvc-2025.10.101215.tar.gz",
+  "download_time": "2025-10-10T16:25:34.032107",
+  "package_url": "https://pypi.org/project/certcc-ssvc/"
+}

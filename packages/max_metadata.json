@@ -1,0 +1,11 @@
+{
+  "name": "max",
+  "version": "25.6.1",
+  "summary": "The Modular Accelerated Xecution (MAX) framework",
+  "author": "Modular Inc",
+  "license": "LicenseRef-MAX-Platform-Software-License",
+  "home_page": "https://modular.com",
+  "download_filename": "max-25.6.1-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-10T16:25:56.109519",
+  "package_url": "https://pypi.org/project/max/"
+}

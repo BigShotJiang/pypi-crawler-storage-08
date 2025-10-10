@@ -1,0 +1,11 @@
+{
+  "name": "django-siruta",
+  "version": "0.1.1",
+  "summary": "A bunch of form fields and utilities for Romanian counties and localities using SIRUTA codes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_siruta-0.1.1.tar.gz",
+  "download_time": "2025-10-10T16:26:02.877734",
+  "package_url": "https://pypi.org/project/django-siruta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "load-distribution",
+  "version": "0.1.6",
+  "summary": "A package for converting arbitrary polygons into linearly distributed",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "load_distribution-0.1.6.tar.gz",
+  "download_time": "2025-10-10T16:26:01.835160",
+  "package_url": "https://pypi.org/project/load-distribution/"
+}

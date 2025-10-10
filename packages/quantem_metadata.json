@@ -1,0 +1,11 @@
+{
+  "name": "quantem",
+  "version": "0.1.6",
+  "summary": "quantitative electron microscopy analysis toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantem-0.1.6.tar.gz",
+  "download_time": "2025-10-10T16:25:16.010741",
+  "package_url": "https://pypi.org/project/quantem/"
+}

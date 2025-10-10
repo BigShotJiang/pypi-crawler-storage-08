@@ -1,0 +1,11 @@
+{
+  "name": "mblack",
+  "version": "25.6.1",
+  "summary": "The Mojo programming language formatter, forked from black",
+  "author": "Modular Inc",
+  "license": "LicenseRef-MAX-Platform-Software-License",
+  "home_page": "https://modular.com",
+  "download_filename": "mblack-25.6.1-py3-none-any.whl",
+  "download_time": "2025-10-10T16:25:51.927960",
+  "package_url": "https://pypi.org/project/mblack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkfile",
+  "version": "1.0.3",
+  "summary": "Advanced file creator with brace expansion and notification support",
+  "author": "cumulus13",
+  "license": null,
+  "home_page": "https://github.com/cumulus13/mkfile",
+  "download_filename": "mkfile-1.0.3.tar.gz",
+  "download_time": "2025-10-10T16:25:19.187460",
+  "package_url": "https://pypi.org/project/mkfile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "postfix-mta-sts-resolver",
+  "version": "1.5.1",
+  "summary": "Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy",
+  "author": "Vladislav Yarmak",
+  "license": "MIT",
+  "home_page": "https://github.com/Snawoot/postfix-mta-sts-resolver",
+  "download_filename": "postfix_mta_sts_resolver-1.5.1.tar.gz",
+  "download_time": "2025-10-10T16:25:55.547089",
+  "package_url": "https://pypi.org/project/postfix-mta-sts-resolver/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyshp",
-  "version": "3.0.2.post0",
+  "version": "3.0.2.post1",
   "summary": "Pure Python read/write support for ESRI Shapefile format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyshp-3.0.2.post0.tar.gz",
-  "download_time": "2025-10-10T15:48:43.032064",
+  "download_filename": "pyshp-3.0.2.post1.tar.gz",
+  "download_time": "2025-10-10T16:25:51.406746",
   "package_url": "https://pypi.org/project/pyshp/"
 }

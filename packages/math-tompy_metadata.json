@@ -1,11 +1,11 @@
 {
   "name": "math-tompy",
-  "version": "2025.10.9.17.5",
+  "version": "2025.10.10.18.2",
   "summary": "Extra math for tompy projects",
   "author": "tompy",
   "license": null,
   "home_page": null,
-  "download_filename": "math_tompy-2025.10.9.17.5.tar.gz",
-  "download_time": "2025-10-09T15:25:17.664971",
+  "download_filename": "math_tompy-2025.10.10.18.2.tar.gz",
+  "download_time": "2025-10-10T16:25:57.657679",
   "package_url": "https://pypi.org/project/math-tompy/"
 }
