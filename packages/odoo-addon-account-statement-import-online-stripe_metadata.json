@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-statement-import-online-stripe",
+  "version": "18.0.1.0.0.2",
+  "summary": "Online bank statements for Stripe",
+  "author": "Akiles, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-statement-import",
+  "download_filename": "odoo_addon_account_statement_import_online_stripe-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-10T18:29:59.408681",
+  "package_url": "https://pypi.org/project/odoo-addon-account-statement-import-online-stripe/"
+}

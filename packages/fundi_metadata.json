@@ -1,11 +1,11 @@
 {
   "name": "fundi",
-  "version": "1.3.4",
+  "version": "1.3.7",
   "summary": "Dependency injection library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fundi-1.3.4.tar.gz",
-  "download_time": "2025-10-10T07:20:17.154899",
+  "download_filename": "fundi-1.3.7.tar.gz",
+  "download_time": "2025-10-10T18:30:25.821155",
   "package_url": "https://pypi.org/project/fundi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "add-trailing-comma",
+  "version": "4.0.0",
+  "summary": "Automatically add trailing commas to calls and literals",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/add-trailing-comma",
+  "download_filename": "add_trailing_comma-4.0.0.tar.gz",
+  "download_time": "2025-10-10T18:30:19.967632",
+  "package_url": "https://pypi.org/project/add-trailing-comma/"
+}

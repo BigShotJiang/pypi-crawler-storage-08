@@ -1,11 +1,11 @@
 {
   "name": "dql-parser",
-  "version": "0.1.1",
+  "version": "0.5.2",
   "summary": "Pure Python parser for Data Quality Language (DQL)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dql_parser-0.1.1.tar.gz",
-  "download_time": "2025-10-09T19:39:05.695519",
+  "download_filename": "dql_parser-0.5.2.tar.gz",
+  "download_time": "2025-10-10T18:29:56.235111",
   "package_url": "https://pypi.org/project/dql-parser/"
 }

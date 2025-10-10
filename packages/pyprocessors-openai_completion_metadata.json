@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-openai_completion",
+  "version": "0.5.387",
+  "summary": "OpenAICompletion processor",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyprocessors_openai_completion-0.5.387.tar.gz",
+  "download_time": "2025-10-10T18:29:26.052946",
+  "package_url": "https://pypi.org/project/pyprocessors-openai_completion/"
+}

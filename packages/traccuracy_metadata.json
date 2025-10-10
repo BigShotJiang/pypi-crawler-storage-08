@@ -1,0 +1,11 @@
+{
+  "name": "traccuracy",
+  "version": "0.4.1",
+  "summary": "Utilities for computing common accuracy metrics on cell tracking challenge solutions with ground truth",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "traccuracy-0.4.1.tar.gz",
+  "download_time": "2025-10-10T18:29:55.591939",
+  "package_url": "https://pypi.org/project/traccuracy/"
+}

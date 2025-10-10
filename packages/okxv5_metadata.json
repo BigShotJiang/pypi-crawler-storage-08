@@ -1,11 +1,11 @@
 {
   "name": "okxv5",
-  "version": "1.8.11",
-  "summary": "自己个人上传使用,精力有限没有整理调用方法，不知道怎么调用的可以查看源码发给AI，有疑问联系QQ：935233452 ",
+  "version": "1.8.12",
+  "summary": "okx RestAPI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "okxv5-1.8.11.tar.gz",
-  "download_time": "2025-10-08T18:30:39.658422",
+  "download_filename": "okxv5-1.8.12.tar.gz",
+  "download_time": "2025-10-10T18:30:05.972590",
   "package_url": "https://pypi.org/project/okxv5/"
 }
