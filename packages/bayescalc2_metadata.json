@@ -1,11 +1,11 @@
 {
   "name": "bayescalc2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Bayesian network calculator v2",
   "author": "ljp",
   "license": null,
   "home_page": null,
-  "download_filename": "bayescalc2-1.0.0.tar.gz",
-  "download_time": "2025-10-09T23:19:02.321704",
+  "download_filename": "bayescalc2-1.0.2.tar.gz",
+  "download_time": "2025-10-10T23:53:17.813236",
   "package_url": "https://pypi.org/project/bayescalc2/"
 }

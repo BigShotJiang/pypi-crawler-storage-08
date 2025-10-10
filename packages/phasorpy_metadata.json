@@ -1,0 +1,11 @@
+{
+  "name": "phasorpy",
+  "version": "0.8",
+  "summary": "Analysis of fluorescence lifetime and hyperspectral images using the phasor approach",
+  "author": "PhasorPy Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phasorpy-0.8.tar.gz",
+  "download_time": "2025-10-10T23:53:21.009029",
+  "package_url": "https://pypi.org/project/phasorpy/"
+}

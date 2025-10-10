@@ -1,11 +1,11 @@
 {
   "name": "fastmorph",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "Morphological image processing for 3D multi-label images.",
   "author": "William Silversmith",
   "license": "LGPL-3.0-or-later",
   "home_page": "https://github.com/seung-lab/fastmorph/",
-  "download_filename": "fastmorph-1.6.0.tar.gz",
-  "download_time": "2025-10-08T22:40:32.633782",
+  "download_filename": "fastmorph-1.6.1.tar.gz",
+  "download_time": "2025-10-10T23:53:09.570491",
   "package_url": "https://pypi.org/project/fastmorph/"
 }

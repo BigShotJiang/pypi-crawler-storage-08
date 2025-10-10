@@ -1,0 +1,11 @@
+{
+  "name": "mycelium-ai",
+  "version": "0.5.0",
+  "summary": "Plex collection creator and recommendation system using LAION-CLAP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mycelium_ai-0.5.0.tar.gz",
+  "download_time": "2025-10-10T23:53:14.013823",
+  "package_url": "https://pypi.org/project/mycelium-ai/"
+}
