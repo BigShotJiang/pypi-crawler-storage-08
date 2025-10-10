@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-spira",
+  "version": "1.1.1",
+  "summary": "A Model Context Protocol (MCP) server enabling AI assistants to interact with Spira by Inflectra.",
+  "author": "Inflectra Corporation",
+  "license": null,
+  "home_page": "https://github.com/Inflectra/mcp-server-spira",
+  "download_filename": "mcp_server_spira-1.1.1.tar.gz",
+  "download_time": "2025-10-10T21:52:52.545309",
+  "package_url": "https://pypi.org/project/mcp-server-spira/"
+}

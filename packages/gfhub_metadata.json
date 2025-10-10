@@ -1,11 +1,11 @@
 {
   "name": "gfhub",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": null,
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "gfhub-0.1.0-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-10T17:40:29.068974",
+  "home_page": "https://github.com/doplaydo/DataLab",
+  "download_filename": "gfhub-0.1.3-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-10T21:52:57.310942",
   "package_url": "https://pypi.org/project/gfhub/"
 }

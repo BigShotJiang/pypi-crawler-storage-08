@@ -5,7 +5,7 @@
   "author": "NVIDIA Multi-Storage Client Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "multi_storage_client-0.32.0-cp312-cp312-macosx_11_0_x86_64.whl",
-  "download_time": "2025-10-10T21:38:29.419614",
+  "download_filename": "multi_storage_client-0.32.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-10T21:53:16.763319",
   "package_url": "https://pypi.org/project/multi-storage-client/"
 }

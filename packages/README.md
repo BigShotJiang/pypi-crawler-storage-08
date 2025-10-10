@@ -1,20 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T21:39:15.938769
-- **Total Packages**: 87
-- **Total Size**: 39.17 MB
+- **Download Time**: 2025-10-10T21:53:37.804795
+- **Total Packages**: 85
+- **Total Size**: 31.69 MB
 
 ## Packages List
+- beast-mailbox-core
+- r2x-core
+- vs-stubs
+- Tahira
+- mcp-server-spira
+- authentik-client
+- bfi-toolkit
+- evolib
+- httpx-sse
+- lightcurvelynx
+- stewbeet
+- ven-speaker-py
+- gfhub
+- elexon-bmrs
+- phanterpwa
+- graph-games-proto
+- mymesh
+- rds-proxy-password-rotation
+- molecular-simulations
+- pycarlo
+- fluidattacks_etl_utils
+- claude-code-tools
+- pulumi
+- neo-reasoner
+- fennec-ml
+- tabdpt
+- istari-digital-client
+- myst-libre
+- scurrypy
+- statsig-python-core
+- pk3make
+- repti-logging
+- h2o-secure-store
+- apache-airflow-providers-anomalo
+- impyrium
 - ecopipeline
 - isanlp-rst
-- bfi-toolkit
 - keplerio
 - katana-openapi-client
 - crate2bib
 - calkit-python
-- phanterpwa
-- authentik-client
 - etielle
 - plain.models
 - plain.dev
@@ -42,7 +74,6 @@
 - mpltoolbox
 - pytest-sbase
 - selenium-base
-- ven-speaker-py
 - mcp-windbg
 - modal
 - matinverse
@@ -60,36 +91,3 @@
 - sanguine
 - turbopdf
 - plummy
-- pvw-cli
-- archytas
-- stable-delusion
-- types-hopper-disassembler
-- stisim
-- ScriptCollection
-- core-mixins
-- JMaths
-- ssscoring
-- connector-py
-- datallog
-- awslabs.aws-tasks-mcp-server
-- PyOCN
-- retinet
-- skypilot
-- dataclass-click
-- printerm
-- victron-mqtt
-- bella-companion
-- google-cloud-mldiagnostics
-- bim2rdf
-- quilt-mcp
-- arelle-release
-- h2o-audit-trail
-- kaqing
-- pyabpoa
-- OMSens
-- securevibes
-- Tahira
-- grid-data-models
-- GameSentenceMiner
-- devsecops-engine-tools
-- aiagents4pharma
