@@ -1,11 +1,11 @@
 {
   "name": "ensync-sdk",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Python SDK for EnSync Engine",
   "author": "EnSync Team",
   "license": null,
   "home_page": "https://github.com/EnSync-engine/Python-SDK",
-  "download_filename": "ensync-sdk-0.3.3.tar.gz",
-  "download_time": "2025-10-10T18:29:29.118629",
+  "download_filename": "ensync-sdk-0.3.4.tar.gz",
+  "download_time": "2025-10-10T20:41:22.483226",
   "package_url": "https://pypi.org/project/ensync-sdk/"
 }

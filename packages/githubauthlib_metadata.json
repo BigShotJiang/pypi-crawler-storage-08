@@ -1,0 +1,11 @@
+{
+  "name": "githubauthlib",
+  "version": "2.0.1",
+  "summary": "A library for authenticating with GitHub across different operating systems",
+  "author": "garotm",
+  "license": "MIT",
+  "home_page": "https://github.com/fleXRPL/githubauthlib",
+  "download_filename": "githubauthlib-2.0.1.tar.gz",
+  "download_time": "2025-10-10T20:41:41.519937",
+  "package_url": "https://pypi.org/project/githubauthlib/"
+}

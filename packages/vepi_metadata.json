@@ -1,0 +1,11 @@
+{
+  "name": "vepi",
+  "version": "0.1.4",
+  "summary": "A Python library for interacting with Vena's ETL API",
+  "author": "Greg Hetherington",
+  "license": null,
+  "home_page": "https://github.com/venasolutions/vena-etl-python-interface",
+  "download_filename": "vepi-0.1.4.tar.gz",
+  "download_time": "2025-10-10T20:41:02.732761",
+  "package_url": "https://pypi.org/project/vepi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rkwebutil",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "summary": "Rob Knop's Personal Web Utilities",
   "author": "Rob Knop",
   "license": null,
   "home_page": null,
-  "download_filename": "rkwebutil-2.1.1.tar.gz",
-  "download_time": "2025-10-10T02:48:53.922037",
+  "download_filename": "rkwebutil-2.2.0.tar.gz",
+  "download_time": "2025-10-10T20:41:24.045120",
   "package_url": "https://pypi.org/project/rkwebutil/"
 }

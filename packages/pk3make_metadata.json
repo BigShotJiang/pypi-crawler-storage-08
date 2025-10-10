@@ -1,11 +1,11 @@
 {
   "name": "pk3make",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Build system for Weissblatt PK3 files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pk3make-1.1.2.tar.gz",
-  "download_time": "2025-10-10T17:08:13.214827",
+  "download_filename": "pk3make-1.1.3.tar.gz",
+  "download_time": "2025-10-10T20:41:33.051281",
   "package_url": "https://pypi.org/project/pk3make/"
 }

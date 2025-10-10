@@ -1,0 +1,11 @@
+{
+  "name": "giql",
+  "version": "0.0.0.0",
+  "summary": "A Python utility for parsing and normalizing various DCC datapackages.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "giql-0.0.0.0.tar.gz",
+  "download_time": "2025-10-10T20:41:21.431152",
+  "package_url": "https://pypi.org/project/giql/"
+}
