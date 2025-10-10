@@ -1,0 +1,11 @@
+{
+  "name": "morchaos",
+  "version": "0.1.0",
+  "summary": "A collection of utilities for file management, deduplication, and system monitoring",
+  "author": "Jones Chung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "morchaos-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-10T11:18:09.994152",
+  "package_url": "https://pypi.org/project/morchaos/"
+}

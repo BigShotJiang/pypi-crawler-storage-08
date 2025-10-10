@@ -1,0 +1,11 @@
+{
+  "name": "ms-common-py",
+  "version": "0.1.0",
+  "summary": "Common instrumentation and APM utilities",
+  "author": "FinAccel Team",
+  "license": null,
+  "home_page": "https://bitbucket.org/finaccelteam/ms-common-py",
+  "download_filename": "ms_common_py-0.1.0.tar.gz",
+  "download_time": "2025-10-10T11:18:20.874870",
+  "package_url": "https://pypi.org/project/ms-common-py/"
+}

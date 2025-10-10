@@ -1,11 +1,11 @@
 {
   "name": "1d-qt-ideal-solver",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Idealized 1D quantum tunneling solver with two classic test cases",
   "author": "Siti N. Kaban",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "1d_qt_ideal_solver-0.0.6.tar.gz",
-  "download_time": "2025-10-10T10:22:17.035802",
+  "download_filename": "1d_qt_ideal_solver-0.0.7.tar.gz",
+  "download_time": "2025-10-10T11:18:28.612846",
   "package_url": "https://pypi.org/project/1d-qt-ideal-solver/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "psycopg2-binary",
+  "version": "2.9.11",
+  "summary": "psycopg2 - Python-PostgreSQL Database Adapter",
+  "author": "Federico Di Gregorio",
+  "license": "LGPL with exceptions",
+  "home_page": "https://psycopg.org/",
+  "download_filename": "psycopg2-binary-2.9.11.tar.gz",
+  "download_time": "2025-10-10T11:18:12.081710",
+  "package_url": "https://pypi.org/project/psycopg2-binary/"
+}
