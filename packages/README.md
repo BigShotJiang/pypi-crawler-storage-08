@@ -1,68 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T19:53:21.859261
-- **Total Packages**: 84
-- **Total Size**: 14.06 MB
+- **Download Time**: 2025-10-10T20:22:33.972075
+- **Total Packages**: 78
+- **Total Size**: 0.51 MB
 
 ## Packages List
-- bk-precision-1900
-- letschatty
-- specifyplus
-- operetta
-- shotgun-sh
-- quillmark-mcp
-- qrotor
-- authentik-client
-- psr-cloud
-- cisco-ai-mcp-scanner
-- mas-devops
-- RockyRoad
-- pytest-runtime-xfail
-- shudaodao
-- django-cfg
-- basic-open-agent-tools
-- local-weather-mcp
-- af3jobs
-- destral
-- qclab
-- ursa-ai
-- deadline
-- davidkhala.ai
-- bioql
-- lumivox
-- arcade-xero-api
-- signalwire-agents
-- pulumi-checkly
-- transformerlab
-- dishka-faststream
-- qlibx
-- spymot
-- dynamicdns
-- ibm-watsonx-orchestrate-mcp-server
-- ibm-watsonx-orchestrate
-- jnpr-pathfinder-mcp
-- natbus
-- pg-helpers
-- glitchlings
-- fountain-life-service-clients
-- integrate-ai
-- usesend
-- moriarty-project
-- aiter-metric
-- sibi-dst
-- t-sql
-- cursorflow
-- kaqing
-- tequila-basic
-- GNServer
-- parsagon
-- bd-sports-10-original
-- modularitypruning
 - cccgpu
 - uipath
 - neo-reasoner
 - okxv5
+- local-weather-mcp
+- pulumi-checkly
 - deephaven-mcp
 - cnda_dl
 - cerb-code
@@ -70,15 +19,19 @@
 - github-action-toolkit
 - mock-spark
 - chainguard-pig-latin
+- fountain-life-service-clients
 - azure-functions-runtime
 - click-type-test
 - netbek-periodic-table
 - fmconsult-utils-python-sdk
+- RockyRoad
+- spymot
 - react-agent-framework
 - clear-skies
 - async-server-ops
 - datallog
 - aiwebexplorer
+- authentik-client
 - h2o-engine-manager
 - pump-portal-mcp-server
 - chrys
@@ -90,3 +43,44 @@
 - tunacode-cli
 - veri-agents-api
 - odoo-addon-l10n-br-nfe
+- odoo-addon-l10n-br-fiscal
+- sae-lens
+- splunk-soar-sdk
+- metriq-gym
+- medsenger-api
+- bluer-ugv
+- docassemble.AssemblyLine
+- bloqade-geometry
+- letschatty
+- lbt-dragonfly
+- shotgun-sh
+- specifyplus
+- cybrid-api-organization-python
+- cybrid-api-bank-python
+- dragonfly-energy
+- step-cli-tools
+- cybrid-api-id-python
+- lbt-honeybee
+- auto-subs
+- pyontoenv
+- clue-api
+- balena-cloud
+- moldenViz
+- ssbc
+- mwxlib
+- livepyxel
+- maleo-database
+- tablefaker
+- tiferet
+- pyXSteam
+- R2Install
+- pycarlo
+- glean-api-client
+- django-cfg
+- smx-open-webui-pipelines
+- open-webui-pipelines
+- ShorelineFromImage
+- abm
+- QRH
+- gethonis
+- mixtrain
