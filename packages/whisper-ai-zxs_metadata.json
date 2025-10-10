@@ -1,11 +1,11 @@
 {
   "name": "whisper-ai-zxs",
-  "version": "0.2.74",
+  "version": "0.2.75",
   "summary": "植想说的AI客服工具",
   "author": "植想说",
   "license": null,
   "home_page": "https://github.com/yourusername/my_package",
-  "download_filename": "whisper_ai_zxs-0.2.74.tar.gz",
-  "download_time": "2025-10-08T05:51:51.419265",
+  "download_filename": "whisper_ai_zxs-0.2.75.tar.gz",
+  "download_time": "2025-10-10T15:52:45.255244",
   "package_url": "https://pypi.org/project/whisper-ai-zxs/"
 }

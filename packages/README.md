@@ -1,16 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T15:49:10.119628
-- **Total Packages**: 94
-- **Total Size**: 51.98 MB
+- **Download Time**: 2025-10-10T15:53:38.899379
+- **Total Packages**: 96
+- **Total Size**: 33.44 MB
 
 ## Packages List
+- leximpact-dotations-back
+- data-repo-client
+- fastquadtree
+- whisper-ai-zxs
+- circuit-agent-sdk
+- cogstack-model-gateway-client
+- perceval-weblate
+- tidy3d-mcp
+- perceval-mozilla
+- nac-test
+- perceval-opnfv
+- perceval-puppet
+- PyQt-builder
+- pyterrier-t5
+- asim
+- authentik-client
+- mycdp
+- graal
+- yachalk
+- nvflare
+- moriarty-project
+- OpenAIChatHelper
+- genebe
+- ccxt
+- sortinghat
+- increase
+- typed-everywhere
+- weather-nws-mcp
+- sand-drepr
+- nonebot-plugin-pxchat
+- sphinx-ai-cli
+- electronex
+- web-sand
+- taypi-create
+- bioql
+- cereslib
+- cloudmask-aws
+- epublib
+- bitmart
+- perceval
+- coinex-api
 - kucoin-api
 - bitget
 - binance
 - bitmex-api
 - TikLocal
+- okx-exchange
 - crypto-com-sdk
 - woo-api
 - mexc-exchange-api
@@ -60,43 +102,3 @@
 - python-cq
 - radiusdesk-api
 - clue-api
-- dve-lumipy-testing
-- osdental-library
-- mrok
-- svc-infra
-- authentik-client
-- hlit-dev
-- pyerrors
-- gobstopper
-- check-requirements-txt
-- consts-everywhere
-- camels-attrs
-- shudaodao
-- io4it
-- knowrithm-py
-- cite-agent
-- kalibr
-- luminesce-sdk
-- fastapi-pulse
-- rubxy
-- sed-extractor
-- increase
-- cdklabs.generative-ai-cdk-constructs
-- ordeq_files
-- cliify
-- dedalus-labs
-- aait
-- sip
-- crisp-t
-- langchain-trigger-server
-- telectric
-- openhands
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- eaopack
-- dagster-ray
-- cybrid-api-organization-python
-- air
-- context-reference-store
-- promis
-- pi-plates

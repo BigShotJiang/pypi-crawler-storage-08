@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "5.5.6",
-  "summary": "Enterprise Quantum Computing v5.5.6 - CRISPR IN-SILICO CALIBRATION: Classical baselines (Ising), z-score vs decoys, mean±SD uncertainty quantification, off-target precision limits with computational methods disclosure - IBM Torino 133q validated",
+  "version": "5.5.7",
+  "summary": "Enterprise Quantum Computing v5.5.7 - CRISPR IN-SILICO + DYNAMIC PDB/SMILES: GLP1R obesity drug design, automatic PDB lookup, classical baselines, z-score vs decoys, mean±SD uncertainty quantification, off-target precision limits - IBM Torino 133q validated",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-5.5.6-py3-none-any.whl",
-  "download_time": "2025-10-08T21:52:14.691732",
+  "download_filename": "bioql-5.5.7.tar.gz",
+  "download_time": "2025-10-10T15:53:04.491600",
   "package_url": "https://pypi.org/project/bioql/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "typed-everywhere",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Runtime type checking and not only for function arguments and class variables but even for the ordinary local and global variables!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typed_everywhere-1.0.0.tar.gz",
-  "download_time": "2025-10-09T19:38:59.844615",
+  "download_filename": "typed_everywhere-1.0.1.tar.gz",
+  "download_time": "2025-10-10T15:53:00.312524",
   "package_url": "https://pypi.org/project/typed-everywhere/"
 }
