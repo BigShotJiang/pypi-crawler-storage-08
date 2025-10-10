@@ -1,0 +1,11 @@
+{
+  "name": "pyabpoa",
+  "version": "1.5.5",
+  "summary": "pyabpoa: SIMD-based partial order alignment using adaptive band",
+  "author": "Yan Gao",
+  "license": "MIT",
+  "home_page": "https://github.com/yangao07/abPOA",
+  "download_filename": "pyabpoa-1.5.5.tar.gz",
+  "download_time": "2025-10-10T21:17:44.392907",
+  "package_url": "https://pypi.org/project/pyabpoa/"
+}

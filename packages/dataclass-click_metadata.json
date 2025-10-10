@@ -1,0 +1,11 @@
+{
+  "name": "dataclass-click",
+  "version": "1.0.4",
+  "summary": "Use PEP 593 annotations to define click options and arguments",
+  "author": "Philip Couling",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataclass_click-1.0.4.tar.gz",
+  "download_time": "2025-10-10T21:17:38.124333",
+  "package_url": "https://pypi.org/project/dataclass-click/"
+}

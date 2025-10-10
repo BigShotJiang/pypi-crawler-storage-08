@@ -1,0 +1,11 @@
+{
+  "name": "omnifetch",
+  "version": "1.0.0",
+  "summary": "Multi-source data retrieval with intelligent caching and storage backends",
+  "author": "Marco Bonoli",
+  "license": "MIT",
+  "home_page": "https://github.com/deinnovatie/omnifetch",
+  "download_filename": "omnifetch-1.0.0.tar.gz",
+  "download_time": "2025-10-10T21:18:13.443766",
+  "package_url": "https://pypi.org/project/omnifetch/"
+}

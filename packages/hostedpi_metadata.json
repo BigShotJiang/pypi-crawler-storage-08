@@ -1,0 +1,11 @@
+{
+  "name": "hostedpi",
+  "version": "0.4.4",
+  "summary": "Python interface to the Mythic Beasts Hosted Pi API",
+  "author": "Ben Nuttall",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "hostedpi-0.4.4.tar.gz",
+  "download_time": "2025-10-10T21:17:49.051274",
+  "package_url": "https://pypi.org/project/hostedpi/"
+}

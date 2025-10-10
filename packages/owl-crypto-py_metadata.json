@@ -1,11 +1,11 @@
 {
   "name": "owl-crypto-py",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Python implementation of the OWL aPAKE protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owl_crypto_py-1.0.3.tar.gz",
-  "download_time": "2025-10-09T15:53:17.986129",
+  "download_filename": "owl_crypto_py-1.0.5.tar.gz",
+  "download_time": "2025-10-10T21:17:51.106271",
   "package_url": "https://pypi.org/project/owl-crypto-py/"
 }
