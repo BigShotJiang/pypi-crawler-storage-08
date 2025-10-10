@@ -1,0 +1,11 @@
+{
+  "name": "nwp500-python",
+  "version": "1.0.0",
+  "summary": "Add a short description here!",
+  "author": "Emmanuel Levijarvi",
+  "license": "MIT",
+  "home_page": "https://github.com/pyscaffold/pyscaffold/",
+  "download_filename": "nwp500_python-1.0.0.tar.gz",
+  "download_time": "2025-10-10T06:30:52.353107",
+  "package_url": "https://pypi.org/project/nwp500-python/"
+}

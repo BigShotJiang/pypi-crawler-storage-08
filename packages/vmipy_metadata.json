@@ -1,0 +1,11 @@
+{
+  "name": "vmipy",
+  "version": "25.9.17",
+  "summary": "SDK for vmilabs",
+  "author": "vmilabs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/openvmi/vmipy",
+  "download_filename": "vmipy-25.9.17.tar.gz",
+  "download_time": "2025-10-10T06:31:12.582160",
+  "package_url": "https://pypi.org/project/vmipy/"
+}

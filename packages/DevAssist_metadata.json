@@ -1,0 +1,11 @@
+{
+  "name": "DevAssist",
+  "version": "0.0.6",
+  "summary": "Auxiliary development tools or services",
+  "author": "Tensor Py Ops",
+  "license": null,
+  "home_page": "https://github.com/TensorPyOps/DevAssist",
+  "download_filename": "devassist-0.0.6.tar.gz",
+  "download_time": "2025-10-10T06:30:57.753676",
+  "package_url": "https://pypi.org/project/DevAssist/"
+}

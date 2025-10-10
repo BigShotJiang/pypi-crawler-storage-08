@@ -1,11 +1,11 @@
 {
   "name": "twigs",
-  "version": "1.2.71",
+  "version": "1.2.72",
   "summary": "ThreatWorx Information Gathering Script",
   "author": "Paresh Borkar",
   "license": "GNU General Public License v3",
   "home_page": "https://github.com/threatworx/twigs",
-  "download_filename": "twigs-1.2.71.tar.gz",
-  "download_time": "2025-10-08T07:39:11.134368",
+  "download_filename": "twigs-1.2.72.tar.gz",
+  "download_time": "2025-10-10T06:31:10.391641",
   "package_url": "https://pypi.org/project/twigs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mathsys",
+  "version": "3.3.1",
+  "summary": "The Domain Specific Language for math.",
+  "author": null,
+  "license": "SEE LICENSE IN https://docs.abscissa.eu",
+  "home_page": null,
+  "download_filename": "mathsys-3.3.1.tar.gz",
+  "download_time": "2025-10-10T06:30:56.141652",
+  "package_url": "https://pypi.org/project/mathsys/"
+}
