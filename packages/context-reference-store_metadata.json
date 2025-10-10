@@ -1,11 +1,11 @@
 {
   "name": "context-reference-store",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "Efficient Large Context Window Management for AI Agents and Frameworks",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "context_reference_store-1.0.17-py3-none-any.whl",
-  "download_time": "2025-10-10T10:44:14.112060",
+  "download_filename": "context_reference_store-1.0.18.tar.gz",
+  "download_time": "2025-10-10T15:49:07.964158",
   "package_url": "https://pypi.org/project/context-reference-store/"
 }

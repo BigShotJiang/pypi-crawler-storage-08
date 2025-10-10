@@ -1,11 +1,11 @@
 {
   "name": "crisp-t",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Qualitative Research support tools in Python!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crisp_t-0.1.0.tar.gz",
-  "download_time": "2025-10-10T12:41:56.659660",
+  "download_filename": "crisp_t-0.2.0.tar.gz",
+  "download_time": "2025-10-10T15:49:02.058159",
   "package_url": "https://pypi.org/project/crisp-t/"
 }

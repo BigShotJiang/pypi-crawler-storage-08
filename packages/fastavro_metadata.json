@@ -1,0 +1,11 @@
+{
+  "name": "fastavro",
+  "version": "1.12.1",
+  "summary": "Fast read/write of AVRO files",
+  "author": "Miki Tebeka",
+  "license": "MIT",
+  "home_page": "https://github.com/fastavro/fastavro",
+  "download_filename": "fastavro-1.12.1.tar.gz",
+  "download_time": "2025-10-10T15:48:33.151103",
+  "package_url": "https://pypi.org/project/fastavro/"
+}

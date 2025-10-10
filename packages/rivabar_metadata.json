@@ -1,0 +1,11 @@
+{
+  "name": "rivabar",
+  "version": "0.1.2",
+  "summary": "A Python package to automatically extract channel centerlines and banklines from water index images of rivers",
+  "author": "Zoltan Sylvester",
+  "license": null,
+  "home_page": "https://github.com/zsylvester/rivabar",
+  "download_filename": "rivabar-0.1.2.tar.gz",
+  "download_time": "2025-10-10T15:48:30.825420",
+  "package_url": "https://pypi.org/project/rivabar/"
+}

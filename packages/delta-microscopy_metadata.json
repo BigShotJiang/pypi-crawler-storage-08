@@ -1,11 +1,11 @@
 {
   "name": "delta-microscopy",
-  "version": "3.0.0a0",
+  "version": "3.0.0a5",
   "summary": "Segments and tracks bacteria",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "delta_microscopy-3.0.0a0-py3-none-any.whl",
-  "download_time": "2025-10-10T13:18:12.920198",
+  "download_filename": "delta_microscopy-3.0.0a5-py3-none-any.whl",
+  "download_time": "2025-10-10T15:48:21.910019",
   "package_url": "https://pypi.org/project/delta-microscopy/"
 }

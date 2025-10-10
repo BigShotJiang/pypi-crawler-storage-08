@@ -1,0 +1,11 @@
+{
+  "name": "cftoolstext",
+  "version": "1.0.0",
+  "summary": "Library for multi-level encoding and file operations",
+  "author": "Feller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cftoolstext-1.0.0.tar.gz",
+  "download_time": "2025-10-10T15:48:23.790269",
+  "package_url": "https://pypi.org/project/cftoolstext/"
+}

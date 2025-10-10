@@ -1,11 +1,11 @@
 {
   "name": "dagster-ray",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Dagster integration library for Ray",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dagster_ray-0.3.1.tar.gz",
-  "download_time": "2025-10-09T22:41:06.665418",
+  "download_filename": "dagster_ray-0.4.0.tar.gz",
+  "download_time": "2025-10-10T15:49:06.191486",
   "package_url": "https://pypi.org/project/dagster-ray/"
 }

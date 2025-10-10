@@ -1,11 +1,11 @@
 {
   "name": "keplerio",
-  "version": "0.9.0",
-  "summary": "SDK to push Spark DataFrames to HDFS/Iceberg for Kepler usecases",
+  "version": "0.9.5",
+  "summary": "A PySpark utility for managing partitioned Apache Iceberg tables.",
   "author": "bahaeddine feriani",
   "license": null,
   "home_page": "https://github.com/Tanitlab-SAS/keplerio.git",
-  "download_filename": "keplerio-0.9.0.tar.gz",
-  "download_time": "2025-10-10T15:20:50.963544",
+  "download_filename": "keplerio-0.9.5.tar.gz",
+  "download_time": "2025-10-10T15:48:20.686977",
   "package_url": "https://pypi.org/project/keplerio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eaopack",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "summary": "A Framework for Optimizing Decentralized Portfolios",
   "author": "RIVACON",
   "license": null,
   "home_page": "https://github.com/RIVACON/EAO",
-  "download_filename": "eaopack-3.0.5.tar.gz",
-  "download_time": "2025-10-10T08:48:42.770792",
+  "download_filename": "eaopack-3.0.6.tar.gz",
+  "download_time": "2025-10-10T15:49:05.613693",
   "package_url": "https://pypi.org/project/eaopack/"
 }
