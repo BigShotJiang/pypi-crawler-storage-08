@@ -1,11 +1,11 @@
 {
   "name": "aria2py",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A modern, type-safe Python wrapper for aria2c with improved UX.",
   "author": "Omar Hanafy",
   "license": null,
   "home_page": null,
-  "download_filename": "aria2py-0.1.0.tar.gz",
-  "download_time": "2025-10-10T09:41:47.124396",
+  "download_filename": "aria2py-0.1.1.tar.gz",
+  "download_time": "2025-10-10T09:53:19.702295",
   "package_url": "https://pypi.org/project/aria2py/"
 }

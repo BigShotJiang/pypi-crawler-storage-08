@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T09:42:23.062242
-- **Total Packages**: 87
-- **Total Size**: 37.03 MB
+- **Download Time**: 2025-10-10T09:53:52.161776
+- **Total Packages**: 84
+- **Total Size**: 27.72 MB
 
 ## Packages List
+- simplr
+- timbal
+- pydpm-xl
+- klassez
+- wxswutilsapi
+- pesapal-sdk
+- graph-datasets
+- frykit
+- authentik-client
+- nonebot-plugin-mhguesser
+- fyers_helper
+- orbitkit
+- pixelarraythirdparty
+- secops
+- dapla-toolbelt-whodat
+- codemie-sdk-python
+- lazy-action
+- webquiz
+- MetaRpcMT5
+- espy-contact
+- mcp-runcommand-server
+- cache-dit
+- zowie-agent-sdk
+- web-sand
+- jupyter-mcp-server
+- ansys-pyensight-core
+- SurvivalScale
+- aria2py
+- nemo-library
+- github2gerrit
+- returnn
+- openedx-authz
+- easyrip
+- encourage-rag
+- jdti
+- seven-cloudapp-frame
 - pybrave
 - django_pg_simple_hll
 - scalebox-sdk
@@ -22,13 +58,10 @@
 - gena
 - nibcq
 - flarchitect
-- authentik-client
-- aria2py
 - renault-api
 - wizata-dsapi
 - llmling-agent
 - bear-dereth
-- simplr
 - tarrian
 - videometer
 - datahub-api-connector
@@ -47,11 +80,9 @@
 - decree
 - hl7conv2
 - eventio
-- mcp-runcommand-server
 - unique_toolkit
 - ylz-utils
 - sqlargon
-- pydpm-xl
 - spark-pipelines
 - co-datascientist
 - datadog-checks-base
@@ -59,37 +90,3 @@
 - fireducks
 - wildkcat
 - cryptocom-agent-plugin-sqlite
-- isa-model
-- cryptocom-agent-plugin-discord
-- cryptocom-agent-plugin-telegram
-- cryptocom-agent-client
-- batch-data-test-tool
-- aiovodafone
-- kiali-mcp-server
-- fyle-accounting-mappings
-- exchangelib
-- tlkcore
-- phase-cli
-- liger-kernel-nightly
-- pwnkit
-- dagster-ray
-- path-link
-- ut-path
-- giscemultitools
-- rusaint
-- ut-cli
-- workstack
-- vibe-llama
-- vectordbpipe
-- pyserato
-- scim2-tester
-- upplib
-- pm4pyminimal
-- pm4py
-- wowool-common
-- vibe-llama-core
-- django-askell
-- aa-dependency-overrides
-- mlflow-mcp
-- gha-utils
-- dialectical-framework
