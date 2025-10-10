@@ -1,11 +1,11 @@
 {
   "name": "Geode-Viewables",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "summary": "Geode module to objects visualization",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "geode_viewables-3.3.1-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-10-09T14:21:04.085741",
+  "download_filename": "geode_viewables-3.3.2-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-10T04:44:18.644729",
   "package_url": "https://pypi.org/project/Geode-Viewables/"
 }

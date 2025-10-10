@@ -1,19 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T04:24:36.494579
-- **Total Packages**: 91
-- **Total Size**: 23.07 MB
+- **Download Time**: 2025-10-10T04:44:54.092126
+- **Total Packages**: 77
+- **Total Size**: 19.27 MB
 
 ## Packages List
+- chunkformer
+- zepben.eas
+- cjk-text-formatter
+- dexsensor
+- os-forge
+- taiji-datacollector
+- authentik-client
+- cerb-code
+- funcguard
+- Geode-Simplex
+- pyloid-watcher
+- z-zytome
+- cvat-sdk
+- cvat-cli
+- pytidycensus
+- mtcli
+- cdk-factory
+- Geode-Viewables
+- dokku-api
+- evotoolkit
+- ncut-pytorch
+- article-cli
+- fastquadtree
+- Geode-Common
+- startrace
+- pgpack-dumper
+- moose-lib
 - canvas-mcp
 - sqlframe
 - dsf-aml-sdk
 - opensim-model-creator
 - lt-tensor
 - scapi
-- cjk-text-formatter
-- article-cli
 - quillmark-mcp
 - pypjt
 - davidkhala.data.frame
@@ -27,7 +52,6 @@
 - omniopt2
 - jij-cimod
 - snowflake-connector-python-nightly
-- z-zytome
 - elemental-tools
 - davidkhala.ai
 - telepact-cli
@@ -36,7 +60,6 @@
 - eth-event
 - mgi-alphatool
 - rayvision-api
-- authentik-client
 - sleap-io
 - tms-mcp
 - automata-diags
@@ -54,46 +77,9 @@
 - odoo-addon-hotel-restaurant
 - odoo14-addon-hotel-restaurant
 - mcp-server-datahub
-- funcguard
 - lrxy
 - jaxglm
 - emerald-hws
 - wpt-tools
 - adv-optm
 - pydantic-rpc
-- pyloid-watcher
-- gh-release-devpi
-- Blinter
-- httptools
-- clarifai-grpc
-- tgit
-- waldur-api-client
-- devstack-cli
-- autonomize-core
-- unifypy
-- akshare-tools
-- cerb-code
-- llmakits
-- libmc
-- lerobot-robot-viola
-- nbforager
-- vector-dataloader
-- openinference-instrumentation-langchain
-- openinference-instrumentation-groq
-- openinference-instrumentation-autogen-agentchat
-- openinference-semantic-conventions
-- multimodal-sdk
-- openinference-instrumentation-haystack
-- openinference-instrumentation-google-genai
-- openinference-instrumentation-agno
-- openinference-instrumentation-pydantic-ai
-- openinference-instrumentation-smolagents
-- openinference-instrumentation-portkey
-- openinference-instrumentation-mcp
-- openinference-instrumentation-google-adk
-- openinference-instrumentation-beeai
-- openinference-instrumentation-autogen
-- openinference-instrumentation-anthropic
-- openinference-instrumentation-openllmetry
-- openinference-instrumentation-guardrails
-- openinference-instrumentation-mistralai

@@ -1,11 +1,11 @@
 {
   "name": "funcguard",
-  "version": "0.1.4",
-  "summary": "A funcguard for Python.",
+  "version": "0.1.6",
+  "summary": "FuncGuard是一个Python库，提供函数执行超时控制、重试机制、HTTP请求封装和格式化打印工具。",
   "author": "tinycen",
   "license": null,
   "home_page": "https://github.com/tinycen/funcguard",
-  "download_filename": "funcguard-0.1.4.tar.gz",
-  "download_time": "2025-10-10T04:24:13.675122",
+  "download_filename": "funcguard-0.1.6.tar.gz",
+  "download_time": "2025-10-10T04:44:13.077012",
   "package_url": "https://pypi.org/project/funcguard/"
 }
