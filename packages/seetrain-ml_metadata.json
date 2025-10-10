@@ -1,11 +1,11 @@
 {
   "name": "seetrain-ml",
-  "version": "0.1.6",
-  "summary": "深度学习实验跟踪和框架集成工具",
-  "author": "SeeTrain Team",
+  "version": "0.1.8",
+  "summary": "深度学习实验跟踪工具",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/seetrain/seetrain",
-  "download_filename": "seetrain_ml-0.1.6.tar.gz",
-  "download_time": "2025-10-09T07:39:54.267074",
+  "home_page": null,
+  "download_filename": "seetrain_ml-0.1.8.tar.gz",
+  "download_time": "2025-10-10T10:22:18.172888",
   "package_url": "https://pypi.org/project/seetrain-ml/"
 }

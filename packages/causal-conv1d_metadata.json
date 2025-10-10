@@ -1,0 +1,11 @@
+{
+  "name": "causal-conv1d",
+  "version": "1.5.3.post1",
+  "summary": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+  "author": "Tri Dao",
+  "license": null,
+  "home_page": "https://github.com/Dao-AILab/causal-conv1d",
+  "download_filename": "causal_conv1d-1.5.3.post1.tar.gz",
+  "download_time": "2025-10-10T10:22:23.551973",
+  "package_url": "https://pypi.org/project/causal-conv1d/"
+}

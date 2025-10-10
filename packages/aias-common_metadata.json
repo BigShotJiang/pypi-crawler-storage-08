@@ -1,0 +1,11 @@
+{
+  "name": "aias-common",
+  "version": "0.7.2",
+  "summary": "ARLAS AIAS common library",
+  "author": "Gisaïa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aias_common-0.7.2.tar.gz",
+  "download_time": "2025-10-10T10:22:45.177981",
+  "package_url": "https://pypi.org/project/aias-common/"
+}
