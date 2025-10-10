@@ -1,18 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T04:44:54.092126
-- **Total Packages**: 77
-- **Total Size**: 19.27 MB
+- **Download Time**: 2025-10-10T04:54:51.182067
+- **Total Packages**: 78
+- **Total Size**: 11.82 MB
 
 ## Packages List
+- dsf-aml-sdk
+- jij-cimod
+- authentik-client
+- zepben.examples
+- allwise-mcp-fetch
+- whale-tda
+- yulk
+- horton-part
+- pytorch-dlrs
+- spice-labs-mcp
+- iamdata
+- mcp-novelaigen
+- pyprojectlib
+- benchling-api-client
+- orq-ai-sdk
+- truss
 - chunkformer
 - zepben.eas
 - cjk-text-formatter
 - dexsensor
 - os-forge
 - taiji-datacollector
-- authentik-client
 - cerb-code
 - funcguard
 - Geode-Simplex
@@ -35,7 +50,6 @@
 - moose-lib
 - canvas-mcp
 - sqlframe
-- dsf-aml-sdk
 - opensim-model-creator
 - lt-tensor
 - scapi
@@ -50,7 +64,6 @@
 - adrf
 - qvecopt-provider
 - omniopt2
-- jij-cimod
 - snowflake-connector-python-nightly
 - elemental-tools
 - davidkhala.ai
@@ -71,15 +84,3 @@
 - chromedriver-binary
 - provide-foundation
 - dragon-ml-toolbox
-- odoo-addon-web-form-banner
-- pgcopylib
-- odoo-addon-hotel-housekeeping
-- odoo-addon-hotel-restaurant
-- odoo14-addon-hotel-restaurant
-- mcp-server-datahub
-- lrxy
-- jaxglm
-- emerald-hws
-- wpt-tools
-- adv-optm
-- pydantic-rpc
