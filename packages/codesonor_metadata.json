@@ -1,0 +1,11 @@
+{
+  "name": "codesonor",
+  "version": "0.4.0",
+  "summary": "AI-Powered GitHub Repository Analyzer with multi-LLM support, caching, quality scoring, export formats, watch mode, and interactive dashboard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codesonor-0.4.0.tar.gz",
+  "download_time": "2025-10-10T23:18:13.030643",
+  "package_url": "https://pypi.org/project/codesonor/"
+}

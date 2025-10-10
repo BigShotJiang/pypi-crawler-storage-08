@@ -1,11 +1,11 @@
 {
   "name": "asaas-python-sdk",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "summary": "Client de comunicaçao c/ API do ASAAS",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
   "home_page": null,
-  "download_filename": "asaas_python_sdk-1.3.3.tar.gz",
-  "download_time": "2025-10-10T22:40:24.807063",
+  "download_filename": "asaas_python_sdk-1.3.4.tar.gz",
+  "download_time": "2025-10-10T23:18:17.368068",
   "package_url": "https://pypi.org/project/asaas-python-sdk/"
 }

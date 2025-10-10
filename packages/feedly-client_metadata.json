@@ -1,0 +1,11 @@
+{
+  "name": "feedly-client",
+  "version": "0.27",
+  "summary": "A lightweight client for the feedly api (https://developers.feedly.com).",
+  "author": "Feedly",
+  "license": "MIT",
+  "home_page": "https://github.com/feedly/python-api-client",
+  "download_filename": "feedly_client-0.27.tar.gz",
+  "download_time": "2025-10-10T23:18:26.351221",
+  "package_url": "https://pypi.org/project/feedly-client/"
+}

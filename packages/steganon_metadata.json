@@ -1,0 +1,11 @@
+{
+  "name": "steganon",
+  "version": "1.1",
+  "summary": "LSB Matching Steganography with PRNG & Deniable Hide",
+  "author": "NonProjects",
+  "license": "LGPL-2.1",
+  "home_page": "https://github.com/NonProjects/steganon",
+  "download_filename": "steganon-1.1.tar.gz",
+  "download_time": "2025-10-10T23:18:20.534374",
+  "package_url": "https://pypi.org/project/steganon/"
+}

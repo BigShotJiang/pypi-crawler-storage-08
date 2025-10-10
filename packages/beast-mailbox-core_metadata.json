@@ -1,11 +1,11 @@
 {
   "name": "beast-mailbox-core",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Redis-backed mailbox utilities from Beast Mode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beast_mailbox_core-0.2.4.tar.gz",
-  "download_time": "2025-10-10T22:52:51.921818",
+  "download_filename": "beast_mailbox_core-0.2.5.tar.gz",
+  "download_time": "2025-10-10T23:18:08.677215",
   "package_url": "https://pypi.org/project/beast-mailbox-core/"
 }

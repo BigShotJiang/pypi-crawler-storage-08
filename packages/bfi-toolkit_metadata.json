@@ -1,11 +1,11 @@
 {
   "name": "bfi-toolkit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A simple toolkit for baseflow separation and Baseflow Index (BFI) estimation from daily streamflow.",
   "author": "Mohammad Ali Farmani",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bfi_toolkit-0.1.2.tar.gz",
-  "download_time": "2025-10-10T22:53:01.226993",
+  "download_filename": "bfi_toolkit-0.1.3.tar.gz",
+  "download_time": "2025-10-10T23:18:22.608752",
   "package_url": "https://pypi.org/project/bfi-toolkit/"
 }

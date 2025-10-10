@@ -1,0 +1,11 @@
+{
+  "name": "pytest-once",
+  "version": "0.1.0",
+  "summary": "xdist-safe 'run once' fixture decorator for pytest (setup/teardown across workers)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_once-0.1.0.tar.gz",
+  "download_time": "2025-10-10T23:18:09.728052",
+  "package_url": "https://pypi.org/project/pytest-once/"
+}

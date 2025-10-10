@@ -1,0 +1,11 @@
+{
+  "name": "ixpepy",
+  "version": "1.0.0",
+  "summary": "3ML plugins for the IXPE mission",
+  "author": "Niccolò Di Lalla",
+  "license": null,
+  "home_page": "https://github.com/threeML/ixpepy",
+  "download_filename": "ixpepy-1.0.0.tar.gz",
+  "download_time": "2025-10-10T23:18:14.069580",
+  "package_url": "https://pypi.org/project/ixpepy/"
+}
