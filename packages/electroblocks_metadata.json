@@ -1,0 +1,11 @@
+{
+  "name": "electroblocks",
+  "version": "0.1.15",
+  "summary": "Python client library to interact with ElectroBlocks Arduino firmware",
+  "author": "Your Name",
+  "license": "GNU v3.0",
+  "home_page": "https://github.com/yourusername/electroblocks",
+  "download_filename": "electroblocks-0.1.15.tar.gz",
+  "download_time": "2025-10-10T05:42:30.435569",
+  "package_url": "https://pypi.org/project/electroblocks/"
+}

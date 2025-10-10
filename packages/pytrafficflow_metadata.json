@@ -1,0 +1,11 @@
+{
+  "name": "pytrafficflow",
+  "version": "1.0.0",
+  "summary": "A Python library for traffic flow simulation with PDE models, particle-based models, and real-world data pipelines",
+  "author": "Tiago Monteiro",
+  "license": "MIT",
+  "home_page": "https://github.com/tiagomonteiro0715/pytrafficflow",
+  "download_filename": "pytrafficflow-1.0.0.tar.gz",
+  "download_time": "2025-10-10T05:42:29.916358",
+  "package_url": "https://pypi.org/project/pytrafficflow/"
+}

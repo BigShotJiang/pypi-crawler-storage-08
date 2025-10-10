@@ -1,11 +1,11 @@
 {
   "name": "pytorch-dlrs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Dynamic Learning Rate Scheduler for PyTorch",
   "author": "Thabhelo",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/Thabhelo/pytorch-dlrs",
-  "download_filename": "pytorch_dlrs-0.2.0.tar.gz",
-  "download_time": "2025-10-10T04:54:13.427441",
+  "download_filename": "pytorch_dlrs-0.2.1.tar.gz",
+  "download_time": "2025-10-10T05:42:18.294576",
   "package_url": "https://pypi.org/project/pytorch-dlrs/"
 }

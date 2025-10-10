@@ -1,0 +1,11 @@
+{
+  "name": "auto-notifier",
+  "version": "0.1.0",
+  "summary": "Decorator and context manager for desktop notifications when Python jobs finish.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_notifier-0.1.0.tar.gz",
+  "download_time": "2025-10-10T05:42:40.923932",
+  "package_url": "https://pypi.org/project/auto-notifier/"
+}

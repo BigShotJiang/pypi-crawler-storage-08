@@ -1,0 +1,11 @@
+{
+  "name": "ijson",
+  "version": "3.4.0.post0",
+  "summary": "Iterative JSON parser with standard Python iterator interfaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ijson-3.4.0.post0.tar.gz",
+  "download_time": "2025-10-10T05:42:13.019401",
+  "package_url": "https://pypi.org/project/ijson/"
+}

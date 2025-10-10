@@ -1,11 +1,11 @@
 {
   "name": "vector-dataloader",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Production-grade embedding loader for CSV data to vector stores with multiple providers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vector_dataloader-1.2.2.tar.gz",
-  "download_time": "2025-10-10T04:24:26.135786",
+  "download_filename": "vector_dataloader-1.2.3.tar.gz",
+  "download_time": "2025-10-10T05:42:08.337360",
   "package_url": "https://pypi.org/project/vector-dataloader/"
 }
