@@ -1,0 +1,11 @@
+{
+  "name": "originpro",
+  "version": "1.1.14",
+  "summary": "OriginPro Utilities",
+  "author": "OriginLab",
+  "license": "BSD",
+  "home_page": "https://www.originlab.com",
+  "download_filename": "originpro-1.1.14-py3-none-any.whl",
+  "download_time": "2025-10-10T08:27:08.836143",
+  "package_url": "https://pypi.org/project/originpro/"
+}

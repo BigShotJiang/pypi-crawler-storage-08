@@ -1,11 +1,11 @@
 {
   "name": "obelisk-py",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "The one Obelisk client to rule them all",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "obelisk_py-2.0.2.tar.gz",
-  "download_time": "2025-10-10T07:19:57.513924",
+  "download_filename": "obelisk_py-2.0.3.tar.gz",
+  "download_time": "2025-10-10T08:27:15.880444",
   "package_url": "https://pypi.org/project/obelisk-py/"
 }

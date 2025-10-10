@@ -1,0 +1,11 @@
+{
+  "name": "lumerpy",
+  "version": "1.5.0",
+  "summary": "A Python package that provides a secondary wrapper for the official Python API of the optical simulation software Lumerical, enabling easier usage in more complex scenarios.",
+  "author": "OscarxChen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumerpy-1.5.0.tar.gz",
+  "download_time": "2025-10-10T08:27:31.212944",
+  "package_url": "https://pypi.org/project/lumerpy/"
+}

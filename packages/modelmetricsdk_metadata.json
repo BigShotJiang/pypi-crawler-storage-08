@@ -1,0 +1,11 @@
+{
+  "name": "modelmetricsdk",
+  "version": "0.4.0",
+  "summary": "model store SDK for Training Host",
+  "author": "O-RAN Software Community",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "modelmetricsdk-0.4.0.tar.gz",
+  "download_time": "2025-10-10T08:27:08.324129",
+  "package_url": "https://pypi.org/project/modelmetricsdk/"
+}

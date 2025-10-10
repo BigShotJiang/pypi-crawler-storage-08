@@ -1,0 +1,11 @@
+{
+  "name": "srctypes",
+  "version": "0.1.0",
+  "summary": "Type annotations for source code languages and file formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srctypes-0.1.0.tar.gz",
+  "download_time": "2025-10-10T08:27:26.972533",
+  "package_url": "https://pypi.org/project/srctypes/"
+}

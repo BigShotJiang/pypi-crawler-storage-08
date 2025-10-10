@@ -1,0 +1,11 @@
+{
+  "name": "battmo",
+  "version": "0.2.0",
+  "summary": "Battery simulation with BattMo in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "battmo-0.2.0.tar.gz",
+  "download_time": "2025-10-10T08:27:22.224750",
+  "package_url": "https://pypi.org/project/battmo/"
+}
