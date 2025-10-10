@@ -1,0 +1,11 @@
+{
+  "name": "SteamedBun",
+  "version": "2.2.1",
+  "summary": "馒头的第三方库",
+  "author": "馒头",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/neihanshenshou/SteamedBun",
+  "download_filename": "SteamedBun-2.2.1.tar.gz",
+  "download_time": "2025-10-10T17:08:29.173756",
+  "package_url": "https://pypi.org/project/SteamedBun/"
+}

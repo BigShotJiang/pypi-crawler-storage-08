@@ -1,0 +1,11 @@
+{
+  "name": "FakeSMTPd",
+  "version": "2025.10.0",
+  "summary": "SMTP server for testing mail functionality",
+  "author": "Sebastian Rittau",
+  "license": null,
+  "home_page": "https://github.com/srittau/fakesmtpd",
+  "download_filename": "fakesmtpd-2025.10.0.tar.gz",
+  "download_time": "2025-10-10T17:08:19.671245",
+  "package_url": "https://pypi.org/project/FakeSMTPd/"
+}

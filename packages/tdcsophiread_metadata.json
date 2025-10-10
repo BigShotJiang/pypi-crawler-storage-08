@@ -1,0 +1,11 @@
+{
+  "name": "tdcsophiread",
+  "version": "3.1.0",
+  "summary": "High-performance TDC-only TPX3 neutron imaging data processor",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tdcsophiread-3.1.0.tar.gz",
+  "download_time": "2025-10-10T17:08:21.415320",
+  "package_url": "https://pypi.org/project/tdcsophiread/"
+}

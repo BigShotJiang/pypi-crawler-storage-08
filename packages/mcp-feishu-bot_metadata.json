@@ -1,11 +1,11 @@
 {
   "name": "mcp-feishu-bot",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A Feishu bot using MCP (Model Context Protocol)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_feishu_bot-0.2.5.tar.gz",
-  "download_time": "2025-10-10T10:22:49.201513",
+  "download_filename": "mcp_feishu_bot-0.2.6.tar.gz",
+  "download_time": "2025-10-10T17:08:36.916088",
   "package_url": "https://pypi.org/project/mcp-feishu-bot/"
 }
