@@ -1,11 +1,11 @@
 {
   "name": "elexon-bmrs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python client library for the Elexon BMRS (Balancing Mechanism Reporting Service) API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elexon_bmrs-0.1.1.tar.gz",
-  "download_time": "2025-10-10T21:52:57.878457",
+  "download_filename": "elexon_bmrs-0.2.0.tar.gz",
+  "download_time": "2025-10-10T22:40:34.567214",
   "package_url": "https://pypi.org/project/elexon-bmrs/"
 }

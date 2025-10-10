@@ -1,11 +1,11 @@
 {
   "name": "crate2bib",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crate2bib-0.6.0.tar.gz",
-  "download_time": "2025-10-10T21:53:13.401551",
+  "download_filename": "crate2bib-0.6.1.tar.gz",
+  "download_time": "2025-10-10T22:40:41.715668",
   "package_url": "https://pypi.org/project/crate2bib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "laddu",
-  "version": "0.9.4",
+  "version": "0.11.0",
   "summary": "Python bindings for laddu",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/denehoffman/laddu",
-  "download_filename": "laddu-0.9.4.tar.gz",
-  "download_time": "2025-10-10T22:18:32.939313",
+  "download_filename": "laddu-0.11.0.tar.gz",
+  "download_time": "2025-10-10T22:40:41.186752",
   "package_url": "https://pypi.org/project/laddu/"
 }

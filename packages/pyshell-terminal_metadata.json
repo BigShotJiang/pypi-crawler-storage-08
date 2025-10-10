@@ -1,0 +1,11 @@
+{
+  "name": "pyshell-terminal",
+  "version": "1.0.0",
+  "summary": "A feature-rich POSIX-compatible shell implemented in Python",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pyshell",
+  "download_filename": "pyshell_terminal-1.0.0.tar.gz",
+  "download_time": "2025-10-10T22:40:26.602629",
+  "package_url": "https://pypi.org/project/pyshell-terminal/"
+}
