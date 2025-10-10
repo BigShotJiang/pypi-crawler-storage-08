@@ -1,0 +1,11 @@
+{
+  "name": "stable-delusion",
+  "version": "0.1.5",
+  "summary": "Helps you hallucinate by providing an interface for AI generation models (Nano Banana, Seedream 4.0)",
+  "author": "Lene Preuss",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/lilacashes/stable-delusion",
+  "download_filename": "stable_delusion-0.1.5.tar.gz",
+  "download_time": "2025-10-10T21:38:56.996299",
+  "package_url": "https://pypi.org/project/stable-delusion/"
+}

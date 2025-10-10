@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "5.5.8",
-  "summary": "Enterprise Quantum Computing v5.5.8 - CHARGED MOLECULE FIX: Auto-neutralization for N+/O- atoms, robust 3D embedding, CRISPR IN-SILICO + DYNAMIC PDB/SMILES: GLP1R obesity drug design, pharmaceutical scoring (Lipinski, QED, SA Score, PAINS) - IBM Torino 133q validated",
+  "version": "5.6.1",
+  "summary": "Enterprise Quantum Computing v5.6.0 - ADVANCED DRUG DISCOVERY PIPELINE: ADME/Tox Prediction, Bioisosteric Replacement (12+ replacements), Similarity Search (ChEMBL/PubChem), Off-Target Screening (30+ proteins), Resistance Profiling, Complete 9-Step Pipeline Orchestrator - Production Ready!",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-5.5.8-py3-none-any.whl",
-  "download_time": "2025-10-10T19:52:48.717153",
+  "download_filename": "bioql-5.6.1-py3-none-any.whl",
+  "download_time": "2025-10-10T21:38:35.037389",
   "package_url": "https://pypi.org/project/bioql/"
 }

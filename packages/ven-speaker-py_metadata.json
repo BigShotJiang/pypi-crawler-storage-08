@@ -1,0 +1,11 @@
+{
+  "name": "ven-speaker-py",
+  "version": "0.1.0",
+  "summary": "Форк библиотеки speakerpy с потоковой TTS, генерацией чанков аудио и улучшениями",
+  "author": "Venalus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ven_speaker_py-0.1.0.tar.gz",
+  "download_time": "2025-10-10T21:38:42.762990",
+  "package_url": "https://pypi.org/project/ven-speaker-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudsplaining",
+  "version": "0.8.2",
+  "summary": "AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report.",
+  "author": "Kinnaird McQuade",
+  "license": null,
+  "home_page": "https://github.com/salesforce/cloudsplaining",
+  "download_filename": "cloudsplaining-0.8.2.tar.gz",
+  "download_time": "2025-10-10T21:38:36.124938",
+  "package_url": "https://pypi.org/project/cloudsplaining/"
+}

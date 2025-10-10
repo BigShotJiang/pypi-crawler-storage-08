@@ -1,11 +1,11 @@
 {
   "name": "virtualenv",
-  "version": "20.35.1",
+  "version": "20.35.3",
   "summary": "Virtual Python Environment builder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virtualenv-20.35.1.tar.gz",
-  "download_time": "2025-10-09T22:41:16.082438",
+  "download_filename": "virtualenv-20.35.3.tar.gz",
+  "download_time": "2025-10-10T21:38:51.380270",
   "package_url": "https://pypi.org/project/virtualenv/"
 }
