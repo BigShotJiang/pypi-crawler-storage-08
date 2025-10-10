@@ -1,0 +1,11 @@
+{
+  "name": "iocbio.gel",
+  "version": "1.1.0",
+  "summary": "IOCBio Gel",
+  "author": "IOCBio team",
+  "license": "GPLv3",
+  "home_page": "https://iocbio.gitlab.io/gel",
+  "download_filename": "iocbio_gel-1.1.0.tar.gz",
+  "download_time": "2025-10-10T13:17:49.556204",
+  "package_url": "https://pypi.org/project/iocbio.gel/"
+}

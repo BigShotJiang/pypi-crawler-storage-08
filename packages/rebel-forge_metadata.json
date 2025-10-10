@@ -1,11 +1,11 @@
 {
   "name": "rebel-forge",
-  "version": "0.6.6",
+  "version": "0.7.3",
   "summary": "Config-driven QLoRA/LoRA fine-tuning toolkit for Rebel Forge",
   "author": "Rebel AI",
   "license": null,
   "home_page": null,
-  "download_filename": "rebel_forge-0.6.6.tar.gz",
-  "download_time": "2025-10-10T03:34:00.585074",
+  "download_filename": "rebel_forge-0.7.3.tar.gz",
+  "download_time": "2025-10-10T13:18:23.501857",
   "package_url": "https://pypi.org/project/rebel-forge/"
 }

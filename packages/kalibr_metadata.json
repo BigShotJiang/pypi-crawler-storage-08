@@ -1,11 +1,11 @@
 {
   "name": "kalibr",
-  "version": "1.0.17",
-  "summary": "Kalibr SDK — Integrate your SaaS with every major AI model using a single SDK.",
-  "author": "Devon",
+  "version": "1.0.18",
+  "summary": "Multi-Model AI Integration Framework",
+  "author": "Kalibr Team",
   "license": "MIT",
-  "home_page": "https://github.com/devon/kalibr-sdk",
-  "download_filename": "kalibr-1.0.17.tar.gz",
-  "download_time": "2025-10-10T02:49:02.026307",
+  "home_page": "https://github.com/devonakelley/kalibr-sdk",
+  "download_filename": "kalibr-1.0.18.tar.gz",
+  "download_time": "2025-10-10T13:18:10.289188",
   "package_url": "https://pypi.org/project/kalibr/"
 }

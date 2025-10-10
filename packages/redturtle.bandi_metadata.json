@@ -1,0 +1,11 @@
+{
+  "name": "redturtle.bandi",
+  "version": "1.6.1",
+  "summary": "A product for announcements management based on rer.bandi",
+  "author": "RedTurtle Technology",
+  "license": "GPL",
+  "home_page": "https://github.com/PloneGov-IT/redturtle.bandi",
+  "download_filename": "redturtle_bandi-1.6.1.tar.gz",
+  "download_time": "2025-10-10T13:17:53.370647",
+  "package_url": "https://pypi.org/project/redturtle.bandi/"
+}

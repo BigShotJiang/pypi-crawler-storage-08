@@ -1,0 +1,11 @@
+{
+  "name": "imzy",
+  "version": "0.2.9",
+  "summary": "imzy: A new reader interface to imzML and other imaging mass spectrometry formats.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "imzy-0.2.9-py3-none-any.whl",
+  "download_time": "2025-10-10T13:18:17.718589",
+  "package_url": "https://pypi.org/project/imzy/"
+}

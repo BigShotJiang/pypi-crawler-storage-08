@@ -1,0 +1,11 @@
+{
+  "name": "bilby",
+  "version": "2.6.0",
+  "summary": "A user-friendly Bayesian inference library",
+  "author": "Greg Ashton, Moritz Huebner, Paul Lasky, Colm Talbot",
+  "license": "MIT",
+  "home_page": "https://github.com/bilby-dev/bilby",
+  "download_filename": "bilby-2.6.0-py3-none-any.whl",
+  "download_time": "2025-10-10T13:17:54.474872",
+  "package_url": "https://pypi.org/project/bilby/"
+}
