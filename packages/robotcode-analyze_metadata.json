@@ -1,0 +1,11 @@
+{
+  "name": "robotcode-analyze",
+  "version": "2.0.0",
+  "summary": "RobotCode analyze plugin for Robot Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode_analyze-2.0.0.tar.gz",
+  "download_time": "2025-10-10T12:41:23.971431",
+  "package_url": "https://pypi.org/project/robotcode-analyze/"
+}

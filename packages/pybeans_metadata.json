@@ -1,0 +1,11 @@
+{
+  "name": "pybeans",
+  "version": "1.13.6",
+  "summary": "Common toolkit for python.",
+  "author": "Henry TIAN",
+  "license": "MIT",
+  "home_page": "https://github.com/chariothy/pybeans.git",
+  "download_filename": "pybeans-1.13.6.tar.gz",
+  "download_time": "2025-10-10T12:41:30.490038",
+  "package_url": "https://pypi.org/project/pybeans/"
+}

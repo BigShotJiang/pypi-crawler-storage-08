@@ -1,0 +1,11 @@
+{
+  "name": "lavacli",
+  "version": "2.5",
+  "summary": "LAVA XML-RPC command line interface",
+  "author": "Rémi Duraffort",
+  "license": "AGPLv3+",
+  "home_page": "https://gitlab.com/lava/lavacli",
+  "download_filename": "lavacli-2.5.tar.gz",
+  "download_time": "2025-10-10T12:41:02.694864",
+  "package_url": "https://pypi.org/project/lavacli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "half-sample",
+  "version": "0.1.14",
+  "summary": "sample data and analysis",
+  "author": "kunde",
+  "license": null,
+  "home_page": "https://github.com/KD-Group/Half.Sample",
+  "download_filename": "half-sample-0.1.14.tar.gz",
+  "download_time": "2025-10-10T12:41:53.215961",
+  "package_url": "https://pypi.org/project/half-sample/"
+}

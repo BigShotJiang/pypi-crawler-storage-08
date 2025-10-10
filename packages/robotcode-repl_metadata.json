@@ -1,0 +1,11 @@
+{
+  "name": "robotcode-repl",
+  "version": "2.0.0",
+  "summary": "RobotCode REPL for Robot Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode_repl-2.0.0.tar.gz",
+  "download_time": "2025-10-10T12:41:20.180076",
+  "package_url": "https://pypi.org/project/robotcode-repl/"
+}
