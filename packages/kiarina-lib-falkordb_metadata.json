@@ -1,11 +1,11 @@
 {
   "name": "kiarina-lib-falkordb",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "FalkorDB client library for kiarina namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina_lib_falkordb-1.6.1.tar.gz",
-  "download_time": "2025-10-10T03:55:23.570795",
+  "download_filename": "kiarina_lib_falkordb-1.6.2.tar.gz",
+  "download_time": "2025-10-10T05:53:07.764575",
   "package_url": "https://pypi.org/project/kiarina-lib-falkordb/"
 }

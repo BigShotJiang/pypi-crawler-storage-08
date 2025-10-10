@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T05:42:45.024117
+- **Download Time**: 2025-10-10T05:53:41.506167
 - **Total Packages**: 88
-- **Total Size**: 31.59 MB
+- **Total Size**: 18.72 MB
 
 ## Packages List
+- ftw-django-features
+- mammotion-sdk-harry
+- sora-sdk-rpi
+- sora-sdk
+- finter
+- authentik-client
+- x-dm-python
+- pulumi-dbtcloud
+- mcp-framework
+- multimodal-sdk
+- ut-xls
+- klavis
+- pulumi-consul
+- crewplus
+- process-inspector
+- cogent3-h5seqs
+- lintro
+- doc-store
+- pulumi-confluentcloud
+- kiarina-utils-file
+- kiarina-utils-common
+- kiarina-llm
+- kiarina-lib-redisearch
+- kiarina-lib-redis
+- kiarina-lib-google-cloud-storage
+- kiarina-lib-google-auth
+- kiarina-lib-falkordb
+- kiarina-lib-cloudflare-d1
+- kiarina-lib-cloudflare-auth
+- kiarina
+- medvision-segmentation
+- dsf-aml-sdk
+- stlg-altera
+- dokku-api
+- kurra
+- pulumi-alicloud
 - aiobmsble
 - ckanext-selfinfo
 - oocana-python-executor
@@ -15,7 +51,6 @@
 - AutoImblearn
 - pulumi-azuread
 - pulumi-cloudinit
-- authentik-client
 - atlas-research
 - truss
 - isa-model
@@ -27,7 +62,6 @@
 - intentkit
 - dynamofl
 - vector-dataloader
-- dsf-aml-sdk
 - rcs
 - aiar
 - cdk-factory
@@ -60,37 +94,3 @@
 - xibe-chat-cli
 - pulumi-aiven
 - wayspiritmcp-weather
-- matrixone-python-sdk
-- yulk
-- cognite-toolkit
-- qclab
-- odoo-addon-sale-order-line-position
-- pytrafficflow
-- electroblocks
-- moldflow
-- chunkformer
-- snippy-nextgen
-- django-chatgpt
-- chatgpt-django
-- chat-django
-- chat-apps
-- chatgpt-apps
-- tacoreader
-- startrace
-- tacotoolbox
-- godjigame-event-schemas
-- chanx
-- bardolph
-- multimodal-sdk
-- chatgpt-app
-- daliuge-common
-- daliuge-engine
-- daliuge-translator
-- auto-notifier
-- pyprojectlib
-- truss-transfer
-- vermin
-- jij-cimod
-- zepben.examples
-- allwise-mcp-fetch
-- whale-tda
