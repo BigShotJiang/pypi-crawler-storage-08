@@ -1,0 +1,11 @@
+{
+  "name": "hestia-earth-schema",
+  "version": "33.7.11",
+  "summary": "HESTIA Schema library",
+  "author": "Guillaume Royer",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/hestia-earth/hestia-schema",
+  "download_filename": "hestia_earth_schema-33.7.11.tar.gz",
+  "download_time": "2025-10-10T08:48:27.811791",
+  "package_url": "https://pypi.org/project/hestia-earth-schema/"
+}

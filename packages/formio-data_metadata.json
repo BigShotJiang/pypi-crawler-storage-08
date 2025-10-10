@@ -1,11 +1,11 @@
 {
   "name": "formio-data",
-  "version": "2.1.3",
+  "version": "2.1.5",
   "summary": "formio.js JSON-data API",
   "author": "Bob Leers",
   "license": "MIT",
   "home_page": "https://github.com/novacode-nl/python-formio-data",
-  "download_filename": "formio-data-2.1.3.tar.gz",
-  "download_time": "2025-10-10T07:20:35.721497",
+  "download_filename": "formio_data-2.1.5.tar.gz",
+  "download_time": "2025-10-10T08:48:33.590892",
   "package_url": "https://pypi.org/project/formio-data/"
 }

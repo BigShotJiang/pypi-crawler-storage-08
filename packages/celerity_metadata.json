@@ -1,0 +1,11 @@
+{
+  "name": "celerity",
+  "version": "0.38.0",
+  "summary": "Celerity is a lightweight, zero-dependency and type-safe Python library for astronomical calculations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "celerity-0.38.0.tar.gz",
+  "download_time": "2025-10-10T08:48:56.409179",
+  "package_url": "https://pypi.org/project/celerity/"
+}

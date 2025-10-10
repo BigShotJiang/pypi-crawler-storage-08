@@ -1,11 +1,11 @@
 {
   "name": "parviraptor",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "Django-based job queue",
   "author": "puzzleYOU GmbH",
   "license": "MIT",
   "home_page": "https://github.com/puzzleYOU/parviraptor",
-  "download_filename": "parviraptor-3.3.0.tar.gz",
-  "download_time": "2025-10-10T06:31:26.835489",
+  "download_filename": "parviraptor-3.3.1.tar.gz",
+  "download_time": "2025-10-10T08:48:50.638157",
   "package_url": "https://pypi.org/project/parviraptor/"
 }

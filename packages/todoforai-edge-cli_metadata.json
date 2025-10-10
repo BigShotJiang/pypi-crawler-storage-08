@@ -1,11 +1,11 @@
 {
   "name": "todoforai-edge-cli",
-  "version": "0.11.124",
+  "version": "0.11.125",
   "summary": "TODO for AI service console client",
   "author": "TODO for AI Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "todoforai_edge_cli-0.11.124.tar.gz",
-  "download_time": "2025-10-09T09:53:10.300267",
+  "download_filename": "todoforai_edge_cli-0.11.125.tar.gz",
+  "download_time": "2025-10-10T08:48:51.216373",
   "package_url": "https://pypi.org/project/todoforai-edge-cli/"
 }

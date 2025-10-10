@@ -1,0 +1,11 @@
+{
+  "name": "vehicle-gui",
+  "version": "0.3.1",
+  "summary": "A GUI frontend for the vehicle command line tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vehicle_gui-0.3.1.tar.gz",
+  "download_time": "2025-10-10T08:49:01.434244",
+  "package_url": "https://pypi.org/project/vehicle-gui/"
+}

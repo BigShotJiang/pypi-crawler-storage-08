@@ -1,11 +1,11 @@
 {
   "name": "sema4ai-action-server",
-  "version": "2.16.0",
+  "version": "2.16.1",
   "summary": "Sema4AI Action Server",
   "author": "Fabio Z.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/sema4ai/actions/",
-  "download_filename": "sema4ai_action_server-2.16.0.tar.gz",
-  "download_time": "2025-10-08T14:45:42.307057",
+  "download_filename": "sema4ai_action_server-2.16.1.tar.gz",
+  "download_time": "2025-10-10T08:49:06.587218",
   "package_url": "https://pypi.org/project/sema4ai-action-server/"
 }

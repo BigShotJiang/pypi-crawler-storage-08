@@ -1,11 +1,11 @@
 {
   "name": "privy-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for Privy.io API - user statistics, wallet management, and authentication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "privy_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-10-10T08:27:43.260826",
+  "download_filename": "privy_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-10-10T08:48:59.892654",
   "package_url": "https://pypi.org/project/privy-mcp-server/"
 }

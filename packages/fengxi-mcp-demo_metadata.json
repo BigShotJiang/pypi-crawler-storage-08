@@ -1,11 +1,11 @@
 {
   "name": "fengxi-mcp-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fengxi_mcp_demo-0.1.0.tar.gz",
-  "download_time": "2025-10-10T07:39:47.427056",
+  "download_filename": "fengxi_mcp_demo-0.1.1.tar.gz",
+  "download_time": "2025-10-10T08:49:02.965088",
   "package_url": "https://pypi.org/project/fengxi-mcp-demo/"
 }

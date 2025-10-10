@@ -1,11 +1,11 @@
 {
   "name": "akshare-tools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Akshare MCP Server - A Model Context Protocol server for accessing Chinese stock market data via AKShare",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "akshare_tools-0.1.1.tar.gz",
-  "download_time": "2025-10-10T04:24:23.029338",
+  "download_filename": "akshare_tools-0.1.2.tar.gz",
+  "download_time": "2025-10-10T08:49:02.455032",
   "package_url": "https://pypi.org/project/akshare-tools/"
 }

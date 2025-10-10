@@ -1,0 +1,11 @@
+{
+  "name": "Flask-AppBuilder",
+  "version": "5.0.0",
+  "summary": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more.",
+  "author": "Daniel Vaz Gaspar",
+  "license": "BSD",
+  "home_page": "https://github.com/dpgaspar/flask-appbuilder/",
+  "download_filename": "Flask-AppBuilder-5.0.0.tar.gz",
+  "download_time": "2025-10-10T08:48:25.491397",
+  "package_url": "https://pypi.org/project/Flask-AppBuilder/"
+}

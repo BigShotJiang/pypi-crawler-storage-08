@@ -1,0 +1,11 @@
+{
+  "name": "apis-acdhch-default-settings",
+  "version": "2.15.0",
+  "summary": "Default settings for APIS instances at the ACDH-CH",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apis_acdhch_default_settings-2.15.0.tar.gz",
+  "download_time": "2025-10-10T08:48:26.069450",
+  "package_url": "https://pypi.org/project/apis-acdhch-default-settings/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mn-mpl-style",
+  "version": "0.3",
+  "summary": "A collection of custom Matplotlib styles.",
+  "author": "Matt Nagle",
+  "license": null,
+  "home_page": "https://github.com/matt-nagle/mn_mpl_style",
+  "download_filename": "mn_mpl_style-0.3.tar.gz",
+  "download_time": "2025-10-10T08:48:35.891125",
+  "package_url": "https://pypi.org/project/mn-mpl-style/"
+}

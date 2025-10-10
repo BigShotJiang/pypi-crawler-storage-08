@@ -1,0 +1,11 @@
+{
+  "name": "mfd-kvm",
+  "version": "3.12.1",
+  "summary": "Module for managing KVM hypervisors, enabling VM creation, control, and network device management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mfd_kvm-3.12.1-py3-none-any.whl",
+  "download_time": "2025-10-10T08:48:41.017084",
+  "package_url": "https://pypi.org/project/mfd-kvm/"
+}

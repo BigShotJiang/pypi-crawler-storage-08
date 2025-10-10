@@ -1,0 +1,11 @@
+{
+  "name": "passg",
+  "version": "1.2",
+  "summary": "strong password generator",
+  "author": "Yasin Amirany",
+  "license": "MIT",
+  "home_page": "https://github.com/yasin1ar/passg",
+  "download_filename": "passg-1.2.tar.gz",
+  "download_time": "2025-10-10T08:48:22.725115",
+  "package_url": "https://pypi.org/project/passg/"
+}

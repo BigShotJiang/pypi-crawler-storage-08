@@ -1,0 +1,11 @@
+{
+  "name": "beamngpy",
+  "version": "1.34.1",
+  "summary": "Python API to interact with BeamNG.tech.",
+  "author": "BeamNG GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/BeamNG/BeamNGpy",
+  "download_filename": "beamngpy-1.34.1.tar.gz",
+  "download_time": "2025-10-10T08:48:42.184564",
+  "package_url": "https://pypi.org/project/beamngpy/"
+}
