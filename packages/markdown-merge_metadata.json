@@ -1,11 +1,11 @@
 {
   "name": "markdown-merge",
-  "version": "0.1.0",
-  "summary": "Send templated emails in markdown",
+  "version": "0.1.4",
+  "summary": "Send email using markdown",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
-  "home_page": "https://github.com/answerdotai/markdown_merge/tree/master/",
-  "download_filename": "markdown_merge-0.1.0.tar.gz",
-  "download_time": "2025-10-10T06:31:06.541749",
+  "home_page": "https://github.com/AnswerDotAI/markdown_merge",
+  "download_filename": "markdown_merge-0.1.4.tar.gz",
+  "download_time": "2025-10-10T06:53:02.117719",
   "package_url": "https://pypi.org/project/markdown-merge/"
 }

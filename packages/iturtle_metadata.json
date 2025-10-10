@@ -1,0 +1,11 @@
+{
+  "name": "iturtle",
+  "version": "1.0.11",
+  "summary": "A Custom Jupyter Widget Library",
+  "author": "Samuel Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/datarho/iturtle",
+  "download_filename": "iturtle-1.0.11.tar.gz",
+  "download_time": "2025-10-10T06:52:55.309017",
+  "package_url": "https://pypi.org/project/iturtle/"
+}

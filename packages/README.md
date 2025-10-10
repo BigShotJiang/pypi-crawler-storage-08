@@ -1,20 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T06:31:36.073078
-- **Total Packages**: 92
-- **Total Size**: 33.2 MB
+- **Download Time**: 2025-10-10T06:53:48.799177
+- **Total Packages**: 88
+- **Total Size**: 13.04 MB
 
 ## Packages List
+- pydm
+- iturtle
+- pulumi-rabbitmq
+- daily-hot-mcp
+- pulumi-pagerduty
+- pulumi-postgresql
+- arvasit-auth-sdk
+- parseur-py
+- oelint-parser
+- qiboml
+- pulumi-okta
+- zy-test
+- markdown-merge
+- shuggie
+- jupyterlite
+- pulumi-opsgenie
+- semanticscout
+- pulumi-openstack
+- authentik-client
+- tripwire-py
+- xgo-blockly
+- z-zytome
+- docx-locker
+- canonicalwebteam.store-api
+- malac-utils
+- vega-framework
+- pulumi-null
+- pulumi-newrelic
+- flock-core
+- flask-frame
+- python-ort
+- pulumi-nomad
+- wi1-bot
+- pulumi-ns1
+- pulumi-mongodbatlas
+- ut-dic
+- pulumi-meraki
+- requirements-installer
+- mcp-server-vector-memory
+- open-door-mcp
+- pulumi-mysql
+- bk-plugin-framework
+- tableta
+- charz-rust
+- dify_plugin
+- kurra
+- deepfabric
+- tools-test
 - factorama
 - tbuddy
 - llmswap
 - trustfall
-- authentik-client
 - pulumi-minio
 - graphistry
 - textual-utils
-- wi1-bot
 - strength-utils
 - neco
 - jaycode
@@ -45,56 +91,6 @@
 - taiji-dataviewer
 - pulumi-kong
 - pytrinamic
-- markdown-merge
-- tableta
 - cdk8s-awscdk-resolver
 - kumoai
 - pulumi-keycloak
-- jupyter-server-api
-- mxcubeweb
-- twigs
-- pulumi-kafka
-- abvdev
-- django-spire
-- vmipy
-- pulumi-hcloud
-- upplib
-- pulumi-ise
-- requirements-installer
-- quack-on-escape
-- pulumi-docker-build
-- Geode-Conversion
-- sshler
-- sqliteai-vector
-- pulumi-harness
-- pulumi-http
-- fastapi-redis-utils
-- xiaozhi-sdk
-- densecall
-- pulumi-docker
-- pulumi-ec
-- pyg-nightly
-- semanticscout
-- pulumi-github
-- dexpi.specificator
-- anclient.py3
-- lrxy
-- ap-cfg
-- stackit-observability
-- stackit-cdn
-- parviraptor
-- structured-logger-railway
-- anson.py3
-- mecab
-- pulumi-fastly
-- semantics.py3
-- devstack-cli
-- pulumi-digitalocean
-- decoyable
-- mamba-ssm
-- vibedazi-mcp
-- pulumi-f5bigip
-- openroute-mcp
-- pulumi
-- lerobot-teleoperator-violin
-- energy-base

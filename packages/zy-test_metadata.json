@@ -1,0 +1,11 @@
+{
+  "name": "zy-test",
+  "version": "0.0.2",
+  "summary": "SeaTalk GPTSRE Tools",
+  "author": "Shopee",
+  "license": null,
+  "home_page": "https://git.garena.com/seatalk/cross-platform/ai",
+  "download_filename": "zy_test-0.0.2.tar.gz",
+  "download_time": "2025-10-10T06:53:01.476277",
+  "package_url": "https://pypi.org/project/zy-test/"
+}
