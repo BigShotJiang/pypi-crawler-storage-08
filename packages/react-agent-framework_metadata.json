@@ -1,0 +1,11 @@
+{
+  "name": "react-agent-framework",
+  "version": "0.9.1",
+  "summary": "Complete AI agent framework with MCP support, environments, reasoning strategies, objectives, memory, and built-in tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "react_agent_framework-0.9.1.tar.gz",
+  "download_time": "2025-10-10T19:28:57.605804",
+  "package_url": "https://pypi.org/project/react-agent-framework/"
+}

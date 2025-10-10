@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.AssemblyLine",
+  "version": "4.2.0",
+  "summary": null,
+  "author": "Suffolk Legal Innovation and Technology Lab",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://courtformsonline.org",
+  "download_filename": "docassemble_assemblyline-4.2.0.tar.gz",
+  "download_time": "2025-10-10T19:29:12.992052",
+  "package_url": "https://pypi.org/project/docassemble.AssemblyLine/"
+}

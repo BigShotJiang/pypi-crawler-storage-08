@@ -1,0 +1,11 @@
+{
+  "name": "chainguard-pig-latin",
+  "version": "0.1.1",
+  "summary": "A Python package to convert text to Pig Latin - built from source for Chainguard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chainguard_pig_latin-0.1.1.tar.gz",
+  "download_time": "2025-10-10T19:29:08.145447",
+  "package_url": "https://pypi.org/project/chainguard-pig-latin/"
+}

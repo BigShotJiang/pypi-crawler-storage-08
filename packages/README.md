@@ -1,21 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T19:17:26.053506
-- **Total Packages**: 86
-- **Total Size**: 37.72 MB
+- **Download Time**: 2025-10-10T19:29:43.199130
+- **Total Packages**: 82
+- **Total Size**: 8.26 MB
 
 ## Packages List
+- azure-functions-runtime
+- click-type-test
+- netbek-periodic-table
+- fmconsult-utils-python-sdk
+- RockyRoad
+- spymot
+- react-agent-framework
+- clear-skies
+- async-server-ops
+- datallog
+- aiwebexplorer
+- authentik-client
+- h2o-engine-manager
+- pump-portal-mcp-server
+- chrys
+- great-expectations-cloud
+- sqlmesh
+- crispr-millipede
+- iwpc
+- django-scotty
+- tunacode-cli
+- chainguard-pig-latin
+- veri-agents-api
+- odoo-addon-l10n-br-nfe
+- odoo-addon-l10n-br-fiscal
+- sae-lens
+- splunk-soar-sdk
+- metriq-gym
+- medsenger-api
+- bluer-ugv
+- docassemble.AssemblyLine
+- bloqade-geometry
+- letschatty
+- local-weather-mcp
+- lbt-dragonfly
+- shotgun-sh
 - specifyplus
 - cybrid-api-organization-python
 - cybrid-api-bank-python
 - dragonfly-energy
 - step-cli-tools
-- letschatty
 - cybrid-api-id-python
 - lbt-honeybee
-- pump-portal-mcp-server
-- medsenger-api
 - auto-subs
 - pyontoenv
 - clue-api
@@ -25,7 +58,6 @@
 - ssbc
 - mwxlib
 - livepyxel
-- authentik-client
 - maleo-database
 - tablefaker
 - tiferet
@@ -47,7 +79,6 @@
 - uv-build
 - honeybee-energy
 - maleo-infra
-- local-weather-mcp
 - dreamer4
 - furones
 - kolena-agents
@@ -57,38 +88,3 @@
 - aiven-client
 - shudaodao
 - malevich-coretools
-- fountain-life-service-clients
-- mcp-gotify-fastmcp
-- acex-cli
-- nsflow
-- zen-garden
-- crispr-millipede
-- smarttest-cli
-- spymot
-- celldega
-- redlite
-- maleo-schemas
-- nv-grouped-gemm
-- pytest-reporter-html1
-- splurge-safe-io
-- signalpilot-ai-internal
-- UW-RestClients-Canvas
-- pytelegrambotapi-fixed
-- byu-accounting
-- zpui-lib
-- odoo-addon-l10n-es-verifactu-oca
-- dash
-- workers-py
-- onvif-python
-- ai4ce-helpers
-- snpit-utils
-- fastapi-reloader
-- boursobank-scraper
-- xpense
-- tlpytools
-- liger-kernel-nightly
-- netbek-periodic-table
-- tensorboard-plugin-profile
-- nvidia-cudnn-frontend
-- xprof
-- c2cciutils
