@@ -1,0 +1,11 @@
+{
+  "name": "wyoming-kokoro-torch",
+  "version": "3.1.1",
+  "summary": "Wyoming Server for Kokoro Torch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wyoming_kokoro_torch-3.1.1.tar.gz",
+  "download_time": "2025-10-10T07:20:06.876192",
+  "package_url": "https://pypi.org/project/wyoming-kokoro-torch/"
+}

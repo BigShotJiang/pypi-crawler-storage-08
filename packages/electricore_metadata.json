@@ -1,11 +1,11 @@
 {
   "name": "electricore",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "summary": "Moteur de traitement données énergétiques françaises - Architecture Polars/DuckDB pour flux Enedis",
   "author": "Virgile",
   "license": "GPLv3",
   "home_page": "https://github.com/Energie-De-Nantes/electricore",
-  "download_filename": "electricore-1.3.0.tar.gz",
-  "download_time": "2025-10-09T16:27:28.577413",
+  "download_filename": "electricore-1.3.2.tar.gz",
+  "download_time": "2025-10-10T07:20:06.365285",
   "package_url": "https://pypi.org/project/electricore/"
 }

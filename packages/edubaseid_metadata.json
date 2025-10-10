@@ -1,0 +1,11 @@
+{
+  "name": "edubaseid",
+  "version": "1.0.0",
+  "summary": "EduBaseID OAuth2/OpenID Connect client SDK for Python",
+  "author": "Sadriddin Axmadullayev",
+  "license": null,
+  "home_page": "https://github.com/dev-723743344",
+  "download_filename": "edubaseid-1.0.0.tar.gz",
+  "download_time": "2025-10-10T07:20:34.186134",
+  "package_url": "https://pypi.org/project/edubaseid/"
+}

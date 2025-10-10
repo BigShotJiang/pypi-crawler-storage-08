@@ -1,0 +1,11 @@
+{
+  "name": "s3-sdk",
+  "version": "0.1.5",
+  "summary": "A simple SDK for interacting with AWS S3",
+  "author": "Giatti Chen",
+  "license": null,
+  "home_page": "https://github.com/GiattiChen",
+  "download_filename": "s3_sdk-0.1.5.tar.gz",
+  "download_time": "2025-10-10T07:20:16.642868",
+  "package_url": "https://pypi.org/project/s3-sdk/"
+}
