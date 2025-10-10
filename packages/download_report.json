@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-10-10T04:54:51.182067",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 11.82,
+  "download_time": "2025-10-10T05:20:44.990553",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 0.26,
   "packages": [
+    "truss-transfer",
+    "truss",
+    "vermin",
     "dsf-aml-sdk",
     "jij-cimod",
     "authentik-client",
@@ -18,8 +21,6 @@
     "pyprojectlib",
     "benchling-api-client",
     "orq-ai-sdk",
-    "truss",
-    "chunkformer",
     "zepben.eas",
     "cjk-text-formatter",
     "dexsensor",
@@ -78,8 +79,6 @@
     "dexcomm",
     "upload-sftp",
     "greenify",
-    "chromedriver-binary",
-    "provide-foundation",
-    "dragon-ml-toolbox"
+    "chromedriver-binary"
   ]
 }

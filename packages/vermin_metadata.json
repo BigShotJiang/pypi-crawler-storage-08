@@ -1,0 +1,11 @@
+{
+  "name": "vermin",
+  "version": "1.7.0",
+  "summary": "Concurrently detect the minimum Python versions needed to run code",
+  "author": "Morten Kristensen",
+  "license": "MIT",
+  "home_page": "https://github.com/netromdk/vermin",
+  "download_filename": "vermin-1.7.0.tar.gz",
+  "download_time": "2025-10-10T05:20:02.816783",
+  "package_url": "https://pypi.org/project/vermin/"
+}
