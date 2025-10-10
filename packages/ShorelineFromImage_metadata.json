@@ -1,11 +1,11 @@
 {
   "name": "ShorelineFromImage",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Image-based shoreline extraction utilities and Python extension modules.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "shorelinefromimage-1.3.1-cp312-cp312-win_amd64.whl",
-  "download_time": "2025-10-09T02:47:23.400140",
+  "download_filename": "ShorelineFromImage-1.3.2-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-10-10T19:16:52.370775",
   "package_url": "https://pypi.org/project/ShorelineFromImage/"
 }

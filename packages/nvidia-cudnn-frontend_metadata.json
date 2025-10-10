@@ -5,7 +5,7 @@
   "author": null,
   "license": "NVIDIA Proprietary Software",
   "home_page": null,
-  "download_filename": "nvidia_cudnn_frontend-1.15.0-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-10-10T18:50:07.470244",
+  "download_filename": "nvidia_cudnn_frontend-1.15.0-cp310-cp310-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-10-10T19:17:24.269671",
   "package_url": "https://pypi.org/project/nvidia-cudnn-frontend/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyXSteam",
+  "version": "0.4.10",
+  "summary": "pyXSteam is a port of the Matlab/Excel Package XSteam",
+  "author": "drunsinn",
+  "license": null,
+  "home_page": "https://github.com/drunsinn/pyXSteam",
+  "download_filename": "pyxsteam-0.4.10.tar.gz",
+  "download_time": "2025-10-10T19:16:47.946417",
+  "package_url": "https://pypi.org/project/pyXSteam/"
+}

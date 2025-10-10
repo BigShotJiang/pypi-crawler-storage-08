@@ -1,0 +1,11 @@
+{
+  "name": "pytelegrambotapi-fixed",
+  "version": "4.12.8",
+  "summary": "fixed version of pyTelegramBotApi",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/molokov-klim/pyTelegramBotAPI_fixed",
+  "download_filename": "pytelegrambotapi_fixed-4.12.8.tar.gz",
+  "download_time": "2025-10-10T19:17:15.379394",
+  "package_url": "https://pypi.org/project/pytelegrambotapi-fixed/"
+}
