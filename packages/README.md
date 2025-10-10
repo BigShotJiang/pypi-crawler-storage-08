@@ -1,11 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T13:18:29.792647
-- **Total Packages**: 74
-- **Total Size**: 23.51 MB
+- **Download Time**: 2025-10-10T13:46:27.334102
+- **Total Packages**: 75
+- **Total Size**: 1.36 MB
 
 ## Packages List
+- appwithpipeline
+- edx-enterprise
+- authentik-client
+- itar
 - iocbio.gel
 - PySideSix-Frameless-Window
 - mcp-context-server
@@ -77,6 +81,3 @@
 - robotnikai
 - junshan-kit
 - uipath-langchain
-- abstract-hugpy
-- zsynctech-studio-sdk
-- talisman-dm

@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-10-10T13:18:29.792647",
-  "total_packages_downloaded": 74,
-  "total_size_mb": 23.51,
+  "download_time": "2025-10-10T13:46:27.334102",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 1.36,
   "packages": [
+    "appwithpipeline",
+    "edx-enterprise",
+    "authentik-client",
+    "itar",
     "iocbio.gel",
     "PySideSix-Frameless-Window",
     "mcp-context-server",
@@ -73,9 +77,6 @@
     "openmetadata-managed-apis",
     "robotnikai",
     "junshan-kit",
-    "uipath-langchain",
-    "abstract-hugpy",
-    "zsynctech-studio-sdk",
-    "talisman-dm"
+    "uipath-langchain"
   ]
 }
