@@ -1,16 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T19:42:07.658441
-- **Total Packages**: 81
-- **Total Size**: 11.48 MB
+- **Download Time**: 2025-10-10T19:53:21.859261
+- **Total Packages**: 84
+- **Total Size**: 14.06 MB
 
 ## Packages List
+- bk-precision-1900
+- letschatty
+- specifyplus
+- operetta
+- shotgun-sh
+- quillmark-mcp
+- qrotor
+- authentik-client
+- psr-cloud
+- cisco-ai-mcp-scanner
+- mas-devops
+- RockyRoad
+- pytest-runtime-xfail
+- shudaodao
+- django-cfg
+- basic-open-agent-tools
+- local-weather-mcp
+- af3jobs
+- destral
+- qclab
+- ursa-ai
+- deadline
+- davidkhala.ai
+- bioql
+- lumivox
+- arcade-xero-api
+- signalwire-agents
+- pulumi-checkly
+- transformerlab
+- dishka-faststream
+- qlibx
+- spymot
+- dynamicdns
+- ibm-watsonx-orchestrate-mcp-server
+- ibm-watsonx-orchestrate
+- jnpr-pathfinder-mcp
 - natbus
 - pg-helpers
 - glitchlings
 - fountain-life-service-clients
-- local-weather-mcp
 - integrate-ai
 - usesend
 - moriarty-project
@@ -20,7 +55,6 @@
 - cursorflow
 - kaqing
 - tequila-basic
-- authentik-client
 - GNServer
 - parsagon
 - bd-sports-10-original
@@ -29,7 +63,6 @@
 - uipath
 - neo-reasoner
 - okxv5
-- pulumi-checkly
 - deephaven-mcp
 - cnda_dl
 - cerb-code
@@ -41,8 +74,6 @@
 - click-type-test
 - netbek-periodic-table
 - fmconsult-utils-python-sdk
-- RockyRoad
-- spymot
 - react-agent-framework
 - clear-skies
 - async-server-ops
@@ -59,31 +90,3 @@
 - tunacode-cli
 - veri-agents-api
 - odoo-addon-l10n-br-nfe
-- odoo-addon-l10n-br-fiscal
-- sae-lens
-- splunk-soar-sdk
-- metriq-gym
-- medsenger-api
-- bluer-ugv
-- docassemble.AssemblyLine
-- bloqade-geometry
-- letschatty
-- lbt-dragonfly
-- shotgun-sh
-- specifyplus
-- cybrid-api-organization-python
-- cybrid-api-bank-python
-- dragonfly-energy
-- step-cli-tools
-- cybrid-api-id-python
-- lbt-honeybee
-- auto-subs
-- pyontoenv
-- clue-api
-- balena-cloud
-- moldenViz
-- ssbc
-- mwxlib
-- livepyxel
-- maleo-database
-- tablefaker

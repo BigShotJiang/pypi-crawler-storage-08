@@ -1,11 +1,11 @@
 {
   "name": "spymot",
-  "version": "2.1.2.dev2",
+  "version": "2.1.4.dev0",
   "summary": "Advanced Protein Motif Detection with AlphaFold Structural Validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spymot-2.1.2.dev2.tar.gz",
-  "download_time": "2025-10-10T19:41:25.168462",
+  "download_filename": "spymot-2.1.4.dev0.tar.gz",
+  "download_time": "2025-10-10T19:52:52.822957",
   "package_url": "https://pypi.org/project/spymot/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qrotor",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "summary": "QRotor",
   "author": "Pablo Gila-Herranz",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "qrotor-4.2.0.tar.gz",
-  "download_time": "2025-10-10T14:23:45.495945",
+  "download_filename": "qrotor-4.2.1.tar.gz",
+  "download_time": "2025-10-10T19:52:39.383120",
   "package_url": "https://pypi.org/project/qrotor/"
 }

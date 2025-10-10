@@ -1,11 +1,11 @@
 {
   "name": "bk-precision-1900",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Control the BK Precision 1900 series power supplies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bk_precision_1900-1.1.0.tar.gz",
-  "download_time": "2025-10-10T17:40:31.775120",
+  "download_filename": "bk_precision_1900-1.1.1.tar.gz",
+  "download_time": "2025-10-10T19:52:36.198115",
   "package_url": "https://pypi.org/project/bk-precision-1900/"
 }

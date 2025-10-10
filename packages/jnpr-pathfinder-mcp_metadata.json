@@ -1,11 +1,11 @@
 {
   "name": "jnpr-pathfinder-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "An MCP Server for interacting with Juniper's public Pathfinder APIs (https://apps.juniper.net).",
   "author": "cbinckly",
   "license": null,
   "home_page": null,
-  "download_filename": "jnpr_pathfinder_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-09T19:53:25.684589",
+  "download_filename": "jnpr_pathfinder_mcp-0.2.0.tar.gz",
+  "download_time": "2025-10-10T19:52:54.895296",
   "package_url": "https://pypi.org/project/jnpr-pathfinder-mcp/"
 }
