@@ -1,0 +1,11 @@
+{
+  "name": "python-testui",
+  "version": "1.2.5",
+  "summary": "Browser and Mobile automation framework",
+  "author": "Alvaro Santos Laserna Lopez",
+  "license": "Apache LICENSE 2.0",
+  "home_page": "https://github.com/testdevlab/Py-TestUI",
+  "download_filename": "python_testui-1.2.5.tar.gz",
+  "download_time": "2025-10-10T07:52:16.560968",
+  "package_url": "https://pypi.org/project/python-testui/"
+}

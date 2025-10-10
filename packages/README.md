@@ -1,23 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T07:40:30.505445
-- **Total Packages**: 81
-- **Total Size**: 18.98 MB
+- **Download Time**: 2025-10-10T07:52:49.595810
+- **Total Packages**: 76
+- **Total Size**: 20.75 MB
 
 ## Packages List
-- pytuflow
+- nucliadb-admin-assets
+- mxcubeweb
+- iiif-download
+- uncomment
+- authentik-client
+- friendly-module-not-found-error
+- pyloid-watcher
+- MeUtils
+- agentic-evidence-sdk
+- smfun
+- rediskit
 - nosqlpy
+- conson-xp
+- codemie-sdk-python
+- x-dm-python
+- idzhiblavi-libdots
+- python-testui
+- janim
+- hexdoc-mediatransport
+- gg-mcp-demo
+- edentity
+- orbytx
+- pia-ctl-sdk
+- agentsyun-coupon-mcp-server
+- pyecharts
+- cozeloop
+- amq-mcp-server-rabbitmq
+- cornflow
+- phylorun
+- GameSentenceMiner
+- lerobot-teleoperator-violin
+- alibabacloud-cs20151215
+- geonodectl
+- cornflow-client
+- django-bulk-drf
+- xgo-blockly
+- shudaodao
+- mcp-novelaigen
+- pytuflow
 - dify-oapi2
 - odoo-addon-mrp-multi-level
-- pia-ctl-sdk
-- pyloid-watcher
-- authentik-client
-- idzhiblavi-libdots
 - brainpy
 - fractal-server
 - fengxi-mcp-demo
-- mcp-novelaigen
 - adaptive-oscillator
 - maleo-imaging
 - otdrparser
@@ -26,12 +58,10 @@
 - jaycode
 - bentoml
 - servicedesk-client
-- django-bulk-drf
 - tripwire-py
 - bencode.cy
 - crewplus
 - transformers-pytorch
-- cozeloop
 - candl-like
 - tunablex
 - yulk
@@ -52,38 +82,3 @@
 - matrixone-python-sdk
 - copernicusmarine
 - aura-avaw
-- daily-hot-mcp
-- mcp-framework
-- amq-mcp-server-rabbitmq
-- openjij
-- deeplotx
-- pulumi-oci
-- dataflow-conda-plugin
-- obelisk-py
-- brynq-sdk-visma-lon-hr
-- oelint-adv
-- onnxscript
-- brynq-sdk-hr2day
-- toucanpy
-- SARepo
-- reyserver
-- reydb
-- fortitudo-tech
-- adiumentum
-- dataflow-core
-- wyoming-kokoro-torch
-- chargebee
-- tritonparse
-- femtorun
-- structured-logger-railway
-- cribl-mgmt-plane
-- comping
-- shibudb-client
-- ssb-befolkning-fagfunksjoner
-- streamlit-nightly
-- xloft
-- unit-saas
-- arvasit-auth-sdk
-- dedalus-labs
-- timewise
-- pulumi-snowflake

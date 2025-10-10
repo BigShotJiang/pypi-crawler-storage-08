@@ -1,0 +1,11 @@
+{
+  "name": "smfun",
+  "version": "0.1.1",
+  "summary": "This is Python Code for Operations on Strings to find Vowels, Consonants, Spaces, Digits and Special Characters",
+  "author": "Mohammed Sayed",
+  "license": null,
+  "home_page": "https://github.com/sayed2174/smfun",
+  "download_filename": "smfun-0.1.1.tar.gz",
+  "download_time": "2025-10-10T07:52:12.332908",
+  "package_url": "https://pypi.org/project/smfun/"
+}

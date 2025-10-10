@@ -1,0 +1,11 @@
+{
+  "name": "uncomment",
+  "version": "2.8.0",
+  "summary": "A fast Rust-based CLI tool for removing comments from source code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uncomment-2.8.0.tar.gz",
+  "download_time": "2025-10-10T07:52:08.984294",
+  "package_url": "https://pypi.org/project/uncomment/"
+}
