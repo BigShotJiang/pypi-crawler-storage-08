@@ -1,11 +1,11 @@
 {
   "name": "amq-mcp-server-rabbitmq",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "A Model Context Protocol server providing access to RabbitMQ by LLMs",
   "author": "Ken Liao",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "amq_mcp_server_rabbitmq-2.2.0.tar.gz",
-  "download_time": "2025-10-09T22:18:43.657041",
+  "download_filename": "amq_mcp_server_rabbitmq-2.2.2.tar.gz",
+  "download_time": "2025-10-10T07:40:11.189655",
   "package_url": "https://pypi.org/project/amq-mcp-server-rabbitmq/"
 }

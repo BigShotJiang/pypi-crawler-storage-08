@@ -1,11 +1,11 @@
 {
   "name": "daily-hot-mcp",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "summary": "🔥 基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
   "author": "fancyboi",
   "license": null,
   "home_page": null,
-  "download_filename": "daily_hot_mcp-1.6.6.tar.gz",
-  "download_time": "2025-10-10T07:19:59.625745",
+  "download_filename": "daily_hot_mcp-1.6.7.tar.gz",
+  "download_time": "2025-10-10T07:40:10.028914",
   "package_url": "https://pypi.org/project/daily-hot-mcp/"
 }
