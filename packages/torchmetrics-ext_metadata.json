@@ -1,0 +1,11 @@
+{
+  "name": "torchmetrics-ext",
+  "version": "0.3.1",
+  "summary": "An extension of torchmetrics package.",
+  "author": "Yiming Zhang",
+  "license": null,
+  "home_page": "https://github.com/eamonn-zh/torchmetrics_ext",
+  "download_filename": "torchmetrics_ext-0.3.1.tar.gz",
+  "download_time": "2025-10-10T22:18:40.521108",
+  "package_url": "https://pypi.org/project/torchmetrics-ext/"
+}

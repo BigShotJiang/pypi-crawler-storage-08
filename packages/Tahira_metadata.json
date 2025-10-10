@@ -1,11 +1,11 @@
 {
   "name": "Tahira",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple library for YOU",
   "author": "Ahmed",
   "license": "Free-to-use (proprietary)",
   "home_page": null,
-  "download_filename": "tahira-0.1.1.tar.gz",
-  "download_time": "2025-10-10T21:52:51.974141",
+  "download_filename": "tahira-0.1.2.tar.gz",
+  "download_time": "2025-10-10T22:18:35.762675",
   "package_url": "https://pypi.org/project/Tahira/"
 }

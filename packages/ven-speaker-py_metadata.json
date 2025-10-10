@@ -1,11 +1,11 @@
 {
   "name": "ven-speaker-py",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python TTS package using Silero models for Russian language",
   "author": "VenalusDev",
   "license": null,
   "home_page": "https://github.com/VenalusDev/ven-speaker-py",
-  "download_filename": "ven_speaker_py-0.1.2.tar.gz",
-  "download_time": "2025-10-10T21:52:56.668805",
+  "download_filename": "ven_speaker_py-0.1.3.tar.gz",
+  "download_time": "2025-10-10T22:18:57.846370",
   "package_url": "https://pypi.org/project/ven-speaker-py/"
 }
