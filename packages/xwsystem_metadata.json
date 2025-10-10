@@ -1,11 +1,11 @@
 {
   "name": "xwsystem",
-  "version": "0.0.1.383",
+  "version": "0.0.1.384",
   "summary": "Convenience wrapper for exonware-xwsystem - provides 'import xwsystem' alias",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xwsystem-0.0.1.383-py3-none-any.whl",
-  "download_time": "2025-10-10T19:16:55.075016",
+  "download_filename": "xwsystem-0.0.1.384-py3-none-any.whl",
+  "download_time": "2025-10-10T20:53:39.678146",
   "package_url": "https://pypi.org/project/xwsystem/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sage-lib",
-  "version": "0.1.6.32",
+  "version": "0.1.6.33",
   "summary": "A library for advanced scientific calculations and visualization",
   "author": "Lombardi, Juan Manuel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sage_lib-0.1.6.32.tar.gz",
-  "download_time": "2025-10-10T15:20:38.118199",
+  "download_filename": "sage_lib-0.1.6.33.tar.gz",
+  "download_time": "2025-10-10T20:53:32.134299",
   "package_url": "https://pypi.org/project/sage-lib/"
 }
