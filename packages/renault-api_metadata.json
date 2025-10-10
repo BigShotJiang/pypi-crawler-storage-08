@@ -1,11 +1,11 @@
 {
   "name": "renault-api",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Renault API",
   "author": "epenet",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "renault_api-0.4.3.tar.gz",
-  "download_time": "2025-10-10T09:41:47.635588",
+  "download_filename": "renault_api-0.4.4.tar.gz",
+  "download_time": "2025-10-10T10:44:00.621510",
   "package_url": "https://pypi.org/project/renault-api/"
 }

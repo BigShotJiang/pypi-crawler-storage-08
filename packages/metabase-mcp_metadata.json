@@ -1,0 +1,11 @@
+{
+  "name": "metabase-mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for Metabase - Connect AI assistants like Claude and Cursor to your Metabase analytics platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metabase_mcp-1.0.0.tar.gz",
+  "download_time": "2025-10-10T10:44:07.353502",
+  "package_url": "https://pypi.org/project/metabase-mcp/"
+}

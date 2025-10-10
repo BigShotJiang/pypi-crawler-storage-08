@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-10T10:22:58.043315
-- **Total Packages**: 80
-- **Total Size**: 23.07 MB
+- **Download Time**: 2025-10-10T10:44:37.798985
+- **Total Packages**: 83
+- **Total Size**: 17.42 MB
 
 ## Packages List
+- nexusai
+- rai_core
+- aabd
+- incept-eval
+- letta-nightly
+- bowerbirds
+- arpakitlib
+- fastapi-slim
+- fastapi
+- alibabacloud-iqs20241111
+- authentik-client
+- qkan
+- aryaxai
+- tidy3d-mcp
+- cribl-mgmt-plane
+- peak-mas
+- beswarm
+- renault-api
+- aient
+- imgen-cli
+- map3C
+- graph-datasets
+- matchbox-db
+- myspace-cli
+- simplr
+- ukraine
+- masai-framework
+- eventio
+- metabase-mcp
+- metabase-fastmcp
+- robocorp-inspector
+- frscript
+- mcp-server-baidu-maps-enhanced
+- webtap-tool
+- ersilia-pack-utils
+- rbx
+- reflectsonar
+- GazeParser
+- fb-logging
+- context-reference-store
+- giscemultitools
+- perovskite-solar-cell-database
+- pymolfold
+- parladata-base-api
+- UltraFlow
+- ferrmion
+- aiohomematic
 - hyapp
 - LCPDelta
 - tezkormath
@@ -30,7 +77,6 @@
 - amitysolutions.dolphin-mcp
 - pynocaptcha
 - ai-edge-torch-nightly
-- ukraine
 - django-sodar-core
 - ontoripple
 - m3-cli
@@ -43,46 +89,3 @@
 - sun-agent-toolkit
 - nvidia-nat-opentelemetry
 - nvidia-nat-phoenix
-- authentik-client
-- context-reference-store
-- espy-contact
-- nvidia-nat-mem0ai
-- detquantlib
-- nvidia-nat-mysql
-- nvidia-nat-crewai
-- qena-shared-lib
-- nvidia-nat-agno
-- toneswiper
-- nvidia-nat-llama-index
-- cdk-certbot-dns-route53
-- nvidia-nat-all
-- SARepo
-- nvidia-nat-redis
-- nvidia-nat-mcp
-- nvidia-nat-profiling
-- uvicorn-hmr
-- bdsca-analysis-config-file
-- nvidia-nat-ingestion
-- aias-common
-- nvidia-nat-langchain
-- vampgui
-- airsmodel
-- iranetf
-- nvidia-nat-zep-cloud
-- bert4vector
-- mcp-feishu-bot
-- nvidia-nat-s3
-- optimum-neuron
-- codex-africanus
-- nvidia-nat
-- franky-control
-- nvidia-nat-ragaai
-- temp-optimize
-- nvidia-nat-weave
-- myspace-cli
-- nvidia-nat-semantic-kernel
-- PyTransportNSWv2
-- nvidia-nat-data-flywheel
-- nvidia-nat-adk
-- isa-model
-- nvidia-nat-test

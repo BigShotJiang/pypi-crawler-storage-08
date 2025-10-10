@@ -1,0 +1,11 @@
+{
+  "name": "map3C",
+  "version": "0.0.7",
+  "summary": "A package for mapping 3C/Hi-C data",
+  "author": "Joseph Galasso",
+  "license": "MIT",
+  "home_page": "https://github.com/solveforj/map3C",
+  "download_filename": "map3c-0.0.7.tar.gz",
+  "download_time": "2025-10-10T10:44:02.180269",
+  "package_url": "https://pypi.org/project/map3C/"
+}

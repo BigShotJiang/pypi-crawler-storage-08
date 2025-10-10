@@ -1,11 +1,11 @@
 {
   "name": "LCPDelta",
-  "version": "2.1.18",
+  "version": "2.1.19",
   "summary": "LCPDelta Python Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lcpdelta-2.1.18.tar.gz",
-  "download_time": "2025-10-10T09:41:53.802951",
+  "download_filename": "lcpdelta-2.1.19.tar.gz",
+  "download_time": "2025-10-10T10:44:19.814642",
   "package_url": "https://pypi.org/project/LCPDelta/"
 }
