@@ -1,11 +1,11 @@
 {
   "name": "scoutsdk",
-  "version": "0.1.61",
+  "version": "0.1.62",
   "summary": "Python package for scoutsdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scoutsdk-0.1.61.tar.gz",
-  "download_time": "2025-10-10T17:20:28.103335",
+  "download_filename": "scoutsdk-0.1.62.tar.gz",
+  "download_time": "2025-10-10T17:40:48.172071",
   "package_url": "https://pypi.org/project/scoutsdk/"
 }

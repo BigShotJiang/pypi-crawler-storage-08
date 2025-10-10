@@ -1,0 +1,11 @@
+{
+  "name": "coauthor-finder",
+  "version": "0.1",
+  "summary": "A simple tool to list all your coauthors and the year of lastest collaboration.",
+  "author": "Chen Liu",
+  "license": "CC BY-NC-SA",
+  "home_page": "https://github.com/ChenLiu-1996/CoauthorFinder",
+  "download_filename": "coauthor-finder-0.1.tar.gz",
+  "download_time": "2025-10-10T17:40:49.733254",
+  "package_url": "https://pypi.org/project/coauthor-finder/"
+}

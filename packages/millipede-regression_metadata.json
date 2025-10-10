@@ -1,0 +1,11 @@
+{
+  "name": "millipede-regression",
+  "version": "0.1.7",
+  "summary": "A library for bayesian variable selection",
+  "author": "Martin Jankowiak",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/BasisResearch/millipede",
+  "download_filename": "millipede_regression-0.1.7-py3-none-any.whl",
+  "download_time": "2025-10-10T17:40:37.127894",
+  "package_url": "https://pypi.org/project/millipede-regression/"
+}

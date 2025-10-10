@@ -1,11 +1,11 @@
 {
   "name": "micktrace",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Modern Python logging library for production applications - async-native, structured logging, zero-config, cloud-ready with AWS/Azure/GCP integration, context propagation, and performance optimization",
   "author": "Ajay Agrawal",
   "license": "MIT",
   "home_page": "https://github.com/ajayagrawalgit/MickTrace",
-  "download_filename": "micktrace-1.0.2.tar.gz",
-  "download_time": "2025-10-10T17:08:38.624427",
+  "download_filename": "micktrace-1.0.3.tar.gz",
+  "download_time": "2025-10-10T17:40:27.928743",
   "package_url": "https://pypi.org/project/micktrace/"
 }

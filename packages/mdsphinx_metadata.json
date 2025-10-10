@@ -1,0 +1,11 @@
+{
+  "name": "mdsphinx",
+  "version": "1.11.0",
+  "summary": "Convert markdown to any output that Sphinx supports",
+  "author": "Adam Gagorik",
+  "license": "WTFPL",
+  "home_page": "https://github.com/AdamGagorik/mdsphinx",
+  "download_filename": "mdsphinx-1.11.0.tar.gz",
+  "download_time": "2025-10-10T17:40:40.293580",
+  "package_url": "https://pypi.org/project/mdsphinx/"
+}
