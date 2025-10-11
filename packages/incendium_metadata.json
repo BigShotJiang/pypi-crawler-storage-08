@@ -1,0 +1,11 @@
+{
+  "name": "incendium",
+  "version": "2025.10.0",
+  "summary": "Package that extends and wraps Ignition Scripting API",
+  "author": "César Román",
+  "license": "MIT",
+  "home_page": "https://github.com/ignition-devs/incendium",
+  "download_filename": "incendium-2025.10.0.tar.gz",
+  "download_time": "2025-10-11T01:23:37.202512",
+  "package_url": "https://pypi.org/project/incendium/"
+}

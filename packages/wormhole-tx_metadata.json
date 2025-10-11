@@ -1,0 +1,11 @@
+{
+  "name": "wormhole-tx",
+  "version": "1.1.6",
+  "summary": "Front end for wormhole, easier and more secure!",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/zackees/tx",
+  "download_filename": "wormhole_tx-1.1.6-py3-none-any.whl",
+  "download_time": "2025-10-11T01:22:58.065500",
+  "package_url": "https://pypi.org/project/wormhole-tx/"
+}

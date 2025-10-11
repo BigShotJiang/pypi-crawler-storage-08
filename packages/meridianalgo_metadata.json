@@ -1,11 +1,11 @@
 {
   "name": "meridianalgo",
-  "version": "4.0.2",
+  "version": "4.1.0",
   "summary": "Meridian Quant - The Ultimate Quantitative Development Platform",
   "author": "Meridian Algorithmic Research Team",
   "license": null,
   "home_page": "https://github.com/MeridianAlgo/Python-Packages",
-  "download_filename": "meridianalgo-4.0.2.tar.gz",
-  "download_time": "2025-10-10T04:23:55.759107",
+  "download_filename": "meridianalgo-4.1.0.tar.gz",
+  "download_time": "2025-10-11T01:23:13.599941",
   "package_url": "https://pypi.org/project/meridianalgo/"
 }

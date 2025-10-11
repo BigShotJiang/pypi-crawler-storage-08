@@ -1,11 +1,11 @@
 {
   "name": "pyshell-terminal",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "summary": "A feature-rich, POSIX-compatible shell implemented in Python with advanced scripting capabilities.",
   "author": "Yogvid Wankhede",
   "license": "MIT",
   "home_page": "https://github.com/yogvidwankhede/PyShell",
-  "download_filename": "pyshell_terminal-1.0.4.tar.gz",
-  "download_time": "2025-10-10T23:53:20.484765",
+  "download_filename": "pyshell_terminal-1.0.9.tar.gz",
+  "download_time": "2025-10-11T01:23:11.457262",
   "package_url": "https://pypi.org/project/pyshell-terminal/"
 }

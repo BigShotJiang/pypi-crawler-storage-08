@@ -1,0 +1,11 @@
+{
+  "name": "scriptconfig",
+  "version": "0.8.4",
+  "summary": "Easy dict-based script configuration with CLI support",
+  "author": "Kitware Inc., Jon Crall",
+  "license": "Apache 2",
+  "home_page": "https://gitlab.kitware.com/utils/scriptconfig",
+  "download_filename": "scriptconfig-0.8.4.tar.gz",
+  "download_time": "2025-10-11T01:23:20.587318",
+  "package_url": "https://pypi.org/project/scriptconfig/"
+}

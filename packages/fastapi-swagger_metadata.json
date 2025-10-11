@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-swagger",
+  "version": "0.3.35",
+  "summary": "This plugin updates the FastAPI app to host latest Swagger UI distribution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_swagger-0.3.35.tar.gz",
+  "download_time": "2025-10-11T01:23:04.487809",
+  "package_url": "https://pypi.org/project/fastapi-swagger/"
+}

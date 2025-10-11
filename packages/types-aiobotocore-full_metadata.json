@@ -1,11 +1,11 @@
 {
   "name": "types-aiobotocore-full",
-  "version": "2.24.3",
-  "summary": "All-in-one type annotations for aiobotocore 2.24.3 generated with mypy-boto3-builder 8.11.0",
+  "version": "2.25.0",
+  "summary": "All-in-one type annotations for aiobotocore 2.25.0 generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_aiobotocore_full-2.24.3.tar.gz",
-  "download_time": "2025-10-08T01:25:00.105822",
+  "download_filename": "types_aiobotocore_full-2.25.0.tar.gz",
+  "download_time": "2025-10-11T01:23:12.554240",
   "package_url": "https://pypi.org/project/types-aiobotocore-full/"
 }

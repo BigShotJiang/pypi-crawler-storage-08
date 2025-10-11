@@ -1,0 +1,11 @@
+{
+  "name": "HMAP-tool",
+  "version": "1.0",
+  "summary": "Hierarchical Manifold Approximation and Projection for Single Cell Data",
+  "author": "Feng Zeng",
+  "license": null,
+  "home_page": "https://github.com/ZengFLab/HMAP",
+  "download_filename": "hmap_tool-1.0.tar.gz",
+  "download_time": "2025-10-11T01:22:52.589420",
+  "package_url": "https://pypi.org/project/HMAP-tool/"
+}

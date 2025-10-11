@@ -1,11 +1,11 @@
 {
   "name": "prime",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Prime Intellect CLI + SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prime-0.4.2-py3-none-any.whl",
-  "download_time": "2025-10-09T21:52:56.595003",
+  "download_filename": "prime-0.4.3-py3-none-any.whl",
+  "download_time": "2025-10-11T01:23:17.894525",
   "package_url": "https://pypi.org/project/prime/"
 }

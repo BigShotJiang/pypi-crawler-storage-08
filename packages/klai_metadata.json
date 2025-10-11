@@ -1,0 +1,11 @@
+{
+  "name": "klai",
+  "version": "1.0.0",
+  "summary": "A Local-First AI Terminal Companion",
+  "author": "sarthak sidhant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "klai-1.0.0.tar.gz",
+  "download_time": "2025-10-11T01:22:56.923456",
+  "package_url": "https://pypi.org/project/klai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wordle-aid",
+  "version": "2.9",
+  "summary": "CLI program to filter word choices to aid solving Wordle game problems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wordle_aid-2.9.tar.gz",
+  "download_time": "2025-10-11T01:22:59.100667",
+  "package_url": "https://pypi.org/project/wordle-aid/"
+}

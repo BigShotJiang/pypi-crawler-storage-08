@@ -1,0 +1,11 @@
+{
+  "name": "invoke",
+  "version": "2.2.1",
+  "summary": "Pythonic task execution",
+  "author": "Jeff Forcier",
+  "license": "BSD",
+  "home_page": "https://pyinvoke.org",
+  "download_filename": "invoke-2.2.1.tar.gz",
+  "download_time": "2025-10-11T01:23:26.946737",
+  "package_url": "https://pypi.org/project/invoke/"
+}
