@@ -1,0 +1,11 @@
+{
+  "name": "beets",
+  "version": "2.5.0",
+  "summary": "music tagger and library organizer",
+  "author": "Adrian Sampson",
+  "license": "MIT",
+  "home_page": "https://beets.io/",
+  "download_filename": "beets-2.5.0.tar.gz",
+  "download_time": "2025-10-11T10:19:45.539942",
+  "package_url": "https://pypi.org/project/beets/"
+}

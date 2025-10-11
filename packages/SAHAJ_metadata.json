@@ -1,11 +1,11 @@
 {
   "name": "SAHAJ",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "SAHAJ - Open Source Software Installation Helper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sahaj-0.2.0.tar.gz",
-  "download_time": "2025-10-11T09:38:57.555087",
+  "download_filename": "sahaj-0.2.1.tar.gz",
+  "download_time": "2025-10-11T10:19:38.703669",
   "package_url": "https://pypi.org/project/SAHAJ/"
 }

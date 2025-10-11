@@ -1,11 +1,11 @@
 {
   "name": "async-server-ops",
-  "version": "0.2.2",
-  "summary": "Async local/remote (SSH) file ops in Rust with throughput tuning and Python bindings",
+  "version": "0.3.0",
+  "summary": "Async local/remote file ops over SSH (scp/rsync) with robust defaults and Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "async_server_ops-0.2.2-cp38-abi3-win_amd64.whl",
-  "download_time": "2025-10-11T07:18:07.300172",
+  "download_filename": "async_server_ops-0.3.0-cp38-abi3-win_amd64.whl",
+  "download_time": "2025-10-11T10:19:30.828385",
   "package_url": "https://pypi.org/project/async-server-ops/"
 }

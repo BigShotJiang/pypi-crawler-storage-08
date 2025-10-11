@@ -1,11 +1,11 @@
 {
   "name": "onemo-llm-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "基于Linux的一个支持多平台LLM大模型API的SDK客户端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onemo_llm_sdk-0.1.0.tar.gz",
-  "download_time": "2025-10-09T07:52:31.236061",
+  "download_filename": "onemo_llm_sdk-0.1.1.tar.gz",
+  "download_time": "2025-10-11T10:19:46.581331",
   "package_url": "https://pypi.org/project/onemo-llm-sdk/"
 }

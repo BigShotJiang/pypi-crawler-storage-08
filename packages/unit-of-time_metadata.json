@@ -1,0 +1,11 @@
+{
+  "name": "unit-of-time",
+  "version": "0.3.0.0",
+  "summary": "Representing years, quarters, months, weeks and days as integers",
+  "author": "Willem Van Onsem",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/hapytex/unit_of_time/",
+  "download_filename": "unit_of_time-0.3.0.0.tar.gz",
+  "download_time": "2025-10-11T10:19:48.714357",
+  "package_url": "https://pypi.org/project/unit-of-time/"
+}
