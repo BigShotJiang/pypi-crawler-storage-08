@@ -1,24 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T17:53:31.296721
-- **Total Packages**: 83
-- **Total Size**: 7.36 MB
+- **Download Time**: 2025-10-11T18:25:24.826170
+- **Total Packages**: 80
+- **Total Size**: 7.5 MB
 
 ## Packages List
-- moneyball
-- favihunter
-- captivate-ai-api
 - nmea2000
-- notion-py-client
+- githubcontribs
+- maxapi-python
+- biofiles
+- emcp
+- ssc_codegen
+- ccxt
+- verify-diff-viewer
+- nwp500-python
+- red-tidegear
+- agenticaiframework
+- pytest-verify
+- xync-client
+- favihunter
+- allgreen
+- dreamer4
 - warp-beacon
+- ezga-lib
+- moneyball
+- captivate-ai-api
+- notion-py-client
 - authentik-client
 - alembic-postgresql-enum
 - django-trix-editor
-- emcp
 - uv-plugin-up
 - prseq
-- agenticaiframework
 - CliRemote
 - i2
 - dol
@@ -33,7 +46,6 @@
 - datallog
 - arrowspace
 - hyperquant
-- maxapi-python
 - ciscoconfparse2
 - pubmed-pdf-downloader
 - polymo
@@ -74,18 +86,3 @@
 - phoonnx
 - cocina
 - fastapi-slim
-- uvrs
-- fastapi
-- fairbench
-- ipl3checksum
-- biblemate
-- discminer
-- ipfs-tk
-- sage-lib
-- ezga-lib
-- pkgbuild-parser
-- gitenvy
-- xync-bot
-- mapfile-parser
-- aiecs
-- arthexis

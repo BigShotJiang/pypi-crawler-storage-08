@@ -1,11 +1,11 @@
 {
   "name": "agenticaiframework",
-  "version": "1.0.29",
+  "version": "1.0.31",
   "summary": "AgenticAI - A Python SDK for building agentic applications with advanced orchestration, monitoring, and multimodal capabilities.",
   "author": "Sathishkumar Nagarajan",
   "license": null,
-  "home_page": "https://github.com/isathish/AgenticAI",
-  "download_filename": "agenticaiframework-1.0.29.tar.gz",
-  "download_time": "2025-10-11T17:52:53.758792",
+  "home_page": "https://github.com/isathish/agenticaiframework",
+  "download_filename": "agenticaiframework-1.0.31.tar.gz",
+  "download_time": "2025-10-11T18:24:44.577885",
   "package_url": "https://pypi.org/project/agenticaiframework/"
 }
