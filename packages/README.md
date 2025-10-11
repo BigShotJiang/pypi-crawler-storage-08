@@ -1,25 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T05:41:35.734679
-- **Total Packages**: 77
-- **Total Size**: 17.19 MB
+- **Download Time**: 2025-10-11T05:53:23.892520
+- **Total Packages**: 78
+- **Total Size**: 1.09 MB
 
 ## Packages List
+- tele-general
+- chanty
+- authentik-client
+- alibabacloud-fc20230330
+- deep-river
+- SARepo
+- agentbase-sdk
+- mammotion-sdk-harry
+- aps-fastapi-toolkit
+- drf-auth-kit
+- arattai
+- egain-api-python
 - auto-editor
 - aptapy
-- tele-general
 - patch-fixer
-- aps-fastapi-toolkit
 - hockey-blast-common-lib
 - judgeval
 - llm-gemini
 - yulk
 - test-mdp
 - django-cfg
-- authentik-client
 - pulumi-azuredevops
-- agentbase-sdk
 - wpt-tools
 - pocong
 - stdlb
@@ -76,10 +84,3 @@
 - clifpy
 - eval-protocol
 - iamdata
-- simplr
-- restate
-- ab-dependency
-- tencentcloud-sdk-python-cvm
-- tencentcloud-sdk-python-common
-- quillion
-- etl-watcher-sdk

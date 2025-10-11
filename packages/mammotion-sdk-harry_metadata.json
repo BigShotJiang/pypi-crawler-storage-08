@@ -1,11 +1,11 @@
 {
   "name": "mammotion-sdk-harry",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Mammotion's SDK for the Home Assistant project",
   "author": "Harry",
   "license": null,
   "home_page": null,
-  "download_filename": "mammotion_sdk_harry-1.0.5-cp313-cp313-win_amd64.whl",
-  "download_time": "2025-10-11T03:55:32.474345",
+  "download_filename": "mammotion_sdk_harry-1.0.6-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-10-11T05:52:44.836190",
   "package_url": "https://pypi.org/project/mammotion-sdk-harry/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aps-fastapi-toolkit",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Common utils and services for FastAPI projects.",
   "author": "Abhay Pratap Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "aps_fastapi_toolkit-1.1.1.tar.gz",
-  "download_time": "2025-10-11T05:40:55.296367",
+  "download_filename": "aps_fastapi_toolkit-1.1.2.tar.gz",
+  "download_time": "2025-10-11T05:52:45.375654",
   "package_url": "https://pypi.org/project/aps-fastapi-toolkit/"
 }
