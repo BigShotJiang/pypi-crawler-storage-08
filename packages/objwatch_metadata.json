@@ -1,0 +1,11 @@
+{
+  "name": "objwatch",
+  "version": "0.4.2",
+  "summary": "A Python library to trace and monitor object attributes and method calls.",
+  "author": "aeeeeeep",
+  "license": null,
+  "home_page": "https://github.com/aeeeeeep/objwatch",
+  "download_filename": "objwatch-0.4.2.tar.gz",
+  "download_time": "2025-10-11T09:53:02.012849",
+  "package_url": "https://pypi.org/project/objwatch/"
+}

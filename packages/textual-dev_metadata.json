@@ -1,0 +1,11 @@
+{
+  "name": "textual-dev",
+  "version": "1.8.0",
+  "summary": "Development tools for working with Textual",
+  "author": "Will McGugan",
+  "license": "MIT",
+  "home_page": "https://github.com/Textualize/textual-dev",
+  "download_filename": "textual_dev-1.8.0.tar.gz",
+  "download_time": "2025-10-11T09:53:01.502972",
+  "package_url": "https://pypi.org/project/textual-dev/"
+}

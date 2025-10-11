@@ -1,0 +1,11 @@
+{
+  "name": "git-goose",
+  "version": "0.14.2",
+  "summary": "A picky and eager Git hook runner.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "git_goose-0.14.2.tar.gz",
+  "download_time": "2025-10-11T09:52:58.405696",
+  "package_url": "https://pypi.org/project/git-goose/"
+}

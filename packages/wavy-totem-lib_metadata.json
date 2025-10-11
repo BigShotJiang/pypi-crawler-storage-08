@@ -1,0 +1,11 @@
+{
+  "name": "wavy-totem-lib",
+  "version": "2.1.2",
+  "summary": "A library for generating the texture of Minecraft's Totem of Undying",
+  "author": "WavyCat",
+  "license": "BSL-1.0",
+  "home_page": null,
+  "download_filename": "wavy_totem_lib-2.1.2.tar.gz",
+  "download_time": "2025-10-11T09:52:59.957002",
+  "package_url": "https://pypi.org/project/wavy-totem-lib/"
+}
