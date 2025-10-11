@@ -1,12 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T11:16:32.912935
-- **Total Packages**: 79
-- **Total Size**: 18.44 MB
+- **Download Time**: 2025-10-11T11:28:05.506691
+- **Total Packages**: 87
+- **Total Size**: 16.01 MB
 
 ## Packages List
+- torchx-nightly
+- spaceship-engine
+- tts-webui-extension.songbloom
+- bptk-py
+- torchft-nightly
+- torch-operation-counter
+- tts-webui.songbloom
+- mcp-proxy-adapter
+- aiwebexplorer
+- frappeye
+- authentik-client
+- videosdk-plugins-turn-detector
+- videosdk-plugins-speechify
+- videosdk-plugins-smallestai
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- videosdk-plugins-simli
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- videosdk-plugins-silero
+- videosdk-plugins-sarvamai
+- DIYA-Gesture
+- videosdk-plugins-rnnoise
+- videosdk-plugins-rime
+- videosdk-plugins-resemble
+- videosdk-plugins-papla
 - qrpa
+- videosdk-plugins-openai
+- videosdk-plugins-neuphonic
+- videosdk-plugins-navana
+- videosdk-plugins-lmnt
+- videosdk-plugins-inworldai
+- videosdk-plugins-humeai
+- videosdk-plugins-groq
+- robot_basic
+- videosdk-plugins-google
+- videosdk-plugins-elevenlabs
+- async-server-ops
+- videosdk-plugins-deepgram
+- videosdk-plugins-cerebras
+- videosdk-plugins-cartesia
+- videosdk-plugins-azure
+- videosdk-plugins-aws
+- videosdk-plugins-assemblyai
+- videosdk-plugins-anthropic
+- videosdk-agents
+- kryptools
+- textual
+- ai-snake-lab
+- easy-bitrix
+- aigency
+- pyprestascan
 - json-remap-engine
 - wcap
 - Nuitka
@@ -17,7 +73,6 @@
 - xwsystem
 - exonware-xwsystem
 - tb-nightly
-- frappeye
 - locust-cloud
 - maleo-schemas
 - os-forge
@@ -29,59 +84,12 @@
 - machineconfig
 - bizydraft
 - ohmyapi
-- authentik-client
 - clselove
 - light-dataloader
 - pyurlquerycli
 - penguin-tamer
-- ai-snake-lab
 - Python-EasyGraph
 - mapillary-downloader
 - codehealthanalyzer
 - hfutils
 - hyperscale-ozone
-- DIYA-Gesture
-- aws-sherlock
-- alactic-agi
-- capacity-web
-- crosszip
-- num-dual
-- mloggerai
-- bella-companion
-- mqx
-- mcp-windbg
-- img-scale-to-webp
-- ppio-sandbox
-- pulumi-volcenginecc
-- ftpsmartsync
-- SAHAJ
-- sandock
-- PolyY
-- talks-reducer
-- dify-python-sdk
-- knowrithm-py
-- emerald-hws
-- thermobeacon-ble
-- licomp-toolkit
-- konduktor-nightly
-- fastapi-reloader
-- qoery
-- teilen
-- trainy-policy-nightly
-- speedbuild
-- letta-nightly
-- lumen_brain
-- mahoraga-mcp
-- fireflai
-- morphomath
-- streamlit-audio-stream-player
-- httpbinx
-- get-danmu
-- fast-depends
-- umu-commander
-- apistubs
-- bot-brawl
-- hunter-how-cli
-- KhachKhach
-- serverz
-- uvicorn-hmr

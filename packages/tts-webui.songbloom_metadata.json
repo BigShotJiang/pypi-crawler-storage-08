@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui.songbloom",
+  "version": "0.1.1",
+  "summary": "SongBloom package for tts-webui",
+  "author": "Your Name",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tts_webui_songbloom-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-11T11:27:23.434044",
+  "package_url": "https://pypi.org/project/tts-webui.songbloom/"
+}
