@@ -1,0 +1,11 @@
+{
+  "name": "diblob",
+  "version": "2.1.2",
+  "summary": "Diblob is a lightweight Python package for test case coverage of directed graphs (digraphs), with a focus on SESE graphs (Single Entry, Single Exit — graphs with one source and one sink). It is primarily developed for testing purposes and provides a simple, dependency-free solution built entirely on standard Python data structures.",
+  "author": "Jakub Zelek",
+  "license": "MIT",
+  "home_page": "https://github.com/JakubZelek/Diblob",
+  "download_filename": "diblob-2.1.2.tar.gz",
+  "download_time": "2025-10-11T19:15:19.956688",
+  "package_url": "https://pypi.org/project/diblob/"
+}

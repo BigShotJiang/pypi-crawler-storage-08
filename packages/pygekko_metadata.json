@@ -1,0 +1,11 @@
+{
+  "name": "pygekko",
+  "version": "0.0.1",
+  "summary": "PyGekko: Gekko Timeseries and Modeling Software for Python",
+  "author": "Thomas Thomsen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygekko-0.0.1.tar.gz",
+  "download_time": "2025-10-11T19:15:27.736552",
+  "package_url": "https://pypi.org/project/pygekko/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dj-redis-panel",
+  "version": "0.5.1",
+  "summary": "A Django Admin panel for browsing and inspecting Redis keys",
+  "author": "Yasser Toruno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_redis_panel-0.5.1.tar.gz",
+  "download_time": "2025-10-11T19:15:17.479529",
+  "package_url": "https://pypi.org/project/dj-redis-panel/"
+}
