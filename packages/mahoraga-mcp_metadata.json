@@ -1,0 +1,11 @@
+{
+  "name": "mahoraga-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol server for Mahoraga - AI-powered mobile automation agent",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mahoraga_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-11T10:41:46.677387",
+  "package_url": "https://pypi.org/project/mahoraga-mcp/"
+}

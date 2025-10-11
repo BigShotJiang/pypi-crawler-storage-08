@@ -1,0 +1,11 @@
+{
+  "name": "jndataset-down",
+  "version": "0.14.0",
+  "summary": "A SDK for file downloading with resumable and multi-threaded features.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yourname/****",
+  "download_filename": "jndataset_down-0.14.0-py3-none-any.whl",
+  "download_time": "2025-10-11T10:41:57.643105",
+  "package_url": "https://pypi.org/project/jndataset-down/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "boost-spider",
+  "version": "1.5",
+  "summary": "横冲直闯 自由奔放 无回调 无继承写法的高速爬虫框架",
+  "author": "bfzs",
+  "license": "BSD License",
+  "home_page": "https://github.com/ydf0509/boost_spider",
+  "download_filename": "boost_spider-1.5.tar.gz",
+  "download_time": "2025-10-11T10:42:18.275709",
+  "package_url": "https://pypi.org/project/boost-spider/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-adk",
-  "version": "1.4.0a20251010",
+  "version": "1.4.0a20251011",
   "summary": "Subpackage for Google ADK integration in NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_adk-1.4.0a20251010-py3-none-any.whl",
-  "download_time": "2025-10-10T10:22:56.388195",
+  "download_filename": "nvidia_nat_adk-1.4.0a20251011-py3-none-any.whl",
+  "download_time": "2025-10-11T10:42:17.764752",
   "package_url": "https://pypi.org/project/nvidia-nat-adk/"
 }

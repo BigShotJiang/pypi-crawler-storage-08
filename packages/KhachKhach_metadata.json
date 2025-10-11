@@ -1,0 +1,11 @@
+{
+  "name": "KhachKhach",
+  "version": "2.0.3",
+  "summary": "A package for processing video frames, annotating keypoints, and more.",
+  "author": "pratapdevs11",
+  "license": "MIT",
+  "home_page": "https://github.com/pratapsdev11/Khach_Khach",
+  "download_filename": "khachkhach-2.0.3.tar.gz",
+  "download_time": "2025-10-11T10:41:55.603689",
+  "package_url": "https://pypi.org/project/KhachKhach/"
+}

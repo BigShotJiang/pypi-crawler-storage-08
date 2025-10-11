@@ -1,0 +1,11 @@
+{
+  "name": "umu-commander",
+  "version": "1.7.0",
+  "summary": "umu-commander is an interactive CLI tool to help you manage umu.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umu_commander-1.7.0.tar.gz",
+  "download_time": "2025-10-11T10:41:53.541632",
+  "package_url": "https://pypi.org/project/umu-commander/"
+}

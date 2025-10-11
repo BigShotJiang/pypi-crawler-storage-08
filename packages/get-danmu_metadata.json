@@ -1,11 +1,11 @@
 {
   "name": "get-danmu",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "可以下载弹幕的包哦",
   "author": "Li Zhan Qi",
   "license": null,
   "home_page": null,
-  "download_filename": "get-danmu-0.3.0.tar.gz",
-  "download_time": "2025-10-11T10:19:33.468087",
+  "download_filename": "get_danmu-0.3.1.tar.gz",
+  "download_time": "2025-10-11T10:41:52.520484",
   "package_url": "https://pypi.org/project/get-danmu/"
 }

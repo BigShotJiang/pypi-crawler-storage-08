@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-data-flywheel",
-  "version": "1.4.0a20251010",
+  "version": "1.4.0a20251011",
   "summary": "Subpackage for NVIDIA Data Flywheel Blueprint integration in NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_data_flywheel-1.4.0a20251010-py3-none-any.whl",
-  "download_time": "2025-10-10T10:22:55.848512",
+  "download_filename": "nvidia_nat_data_flywheel-1.4.0a20251011-py3-none-any.whl",
+  "download_time": "2025-10-11T10:42:17.183441",
   "package_url": "https://pypi.org/project/nvidia-nat-data-flywheel/"
 }
