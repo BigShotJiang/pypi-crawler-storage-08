@@ -1,11 +1,11 @@
 {
   "name": "ai-shell-command-generator",
-  "version": "2.1.0",
+  "version": "2.4.0",
   "summary": "AI-powered shell command generator with dual provider support and safety features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_shell_command_generator-2.1.0.tar.gz",
-  "download_time": "2025-10-11T03:18:36.900464",
+  "download_filename": "ai_shell_command_generator-2.4.0.tar.gz",
+  "download_time": "2025-10-11T03:45:15.418949",
   "package_url": "https://pypi.org/project/ai-shell-command-generator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-equipment-image",
+  "version": "16.0.1.0.0.9",
+  "summary": "Adds images to equipment.",
+  "author": "Exo Software,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_equipment_image-16.0.1.0.0.9-py3-none-any.whl",
+  "download_time": "2025-10-11T03:45:13.825013",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-equipment-image/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stdem",
+  "version": "0.3.0",
+  "summary": "A powerful tool for converting Excel spreadsheets into JSON data with complex hierarchical structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stdem-0.3.0.tar.gz",
+  "download_time": "2025-10-11T03:45:02.983068",
+  "package_url": "https://pypi.org/project/stdem/"
+}

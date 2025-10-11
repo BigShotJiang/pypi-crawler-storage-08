@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-equipment-hierarchy",
+  "version": "18.0.1.0.0.2",
+  "summary": "Manage equipment hierarchy",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_equipment_hierarchy-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-11T03:45:07.340907",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-equipment-hierarchy/"
+}

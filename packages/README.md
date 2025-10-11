@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T03:19:27.571073
-- **Total Packages**: 86
-- **Total Size**: 35.36 MB
+- **Download Time**: 2025-10-11T03:45:41.401262
+- **Total Packages**: 84
+- **Total Size**: 3.59 MB
 
 ## Packages List
+- pytest-html5
+- rebel-forge
+- anp
+- etl-watcher-sdk
+- gumnut-sdk
+- pylay
+- keras-rs-nightly
+- rename-clean
+- crewplus
+- weather-nws-mcp
+- yta-video-opengl
+- stdem
+- silars
+- scraper-nuuuwan
+- autobyteus
+- semanticscout
+- lesscode-charts
+- GANDLF
+- grimoire-model
+- odoo-addon-maintenance-equipment-hierarchy
+- odoo-addon-maintenance-project
+- odoo-addon-maintenance-equipment-tags
+- intellif-aihub
+- odoo-addon-maintenance-equipment-sequence
+- odoo-addon-maintenance-purchase
+- odoo-addon-maintenance-team-hierarchy
+- fts-tool
+- odoo-addon-maintenance-plan-activity
+- odoo-addon-maintenance-request-purchase
+- odoo-addon-base-maintenance-group
+- odoo-addon-maintenance-product
+- odoo-addon-maintenance-equipment-image
+- xgo-blockly
 - basefwx
 - ai-shell-command-generator
 - rand-engine
@@ -16,8 +49,6 @@
 - fastapi-reloader
 - intentkit
 - qolsys-controller
-- fts-tool
-- rebel-forge
 - authentik-client
 - my-cli-utilities
 - era5_to_int
@@ -42,7 +73,6 @@
 - fsai-shared-funcs
 - mplang-nightly
 - tap-socketdev
-- xgo-blockly
 - easy-whitelist
 - tap-neon
 - oscillink
@@ -60,35 +90,3 @@
 - graxpert
 - mkdocs-vwidref
 - ideacook
-- weather-nws-mcp
-- docker-machine-add-ssh
-- pcdkit
-- phoebe-bird
-- xoscar
-- uproxier
-- image-tools-anderson1985
-- xdem
-- lims2-sdk
-- cqc-quam-state
-- xl-docx
-- zhy-mcp-demo
-- BabelDOC
-- uk_bin_collection
-- agentsyun-coupon-mcp-server
-- mkfile
-- canvas-download
-- lerobot-robot-cello
-- akshare-tools
-- china-stock-mcp
-- flamecraft
-- shancx
-- pyAgrum-nightly
-- aabd
-- epoch-protos
-- mcp-framework
-- genja
-- mpr
-- senzing-typedef
-- gesture-wheels
-- itam-assistant
-- dspin
