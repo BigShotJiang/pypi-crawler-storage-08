@@ -1,0 +1,11 @@
+{
+  "name": "renumics-spotlight",
+  "version": "1.6.15",
+  "summary": "Visualize and maintain datasets to develop and understand data-driven algorithms.",
+  "author": "Renumics GmbH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "renumics_spotlight-1.6.15-py3-none-any.whl",
+  "download_time": "2025-10-11T09:38:55.823097",
+  "package_url": "https://pypi.org/project/renumics-spotlight/"
+}

@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T09:20:00.312621
-- **Total Packages**: 84
-- **Total Size**: 9.06 MB
+- **Download Time**: 2025-10-11T09:39:35.416668
+- **Total Packages**: 87
+- **Total Size**: 14.11 MB
 
 ## Packages List
+- pipeline-eds
+- hyperscale-ozone
+- ai-snake-lab
+- aiiware-cli
+- SnakeScan
+- chonkie
+- authentik-client
+- df2tables
+- evolib
+- t6rcon
+- baspp4
+- datapizza-ai-embedders-openai
+- renumics-spotlight
+- xwnode
+- exonware-xwnode
+- SAHAJ
+- nonebot-plugin-memory
+- pltfont
+- streamlit-audio-stream-player
+- semanticscout
+- kumoai
+- gpjax
+- fast-backend-builder
+- notion-backup
+- concave-sandbox
+- knowrithm-py
+- django-opensearch-dsl-filtering
+- dissect.target
+- keba-keenergy-api
+- ab-identity-context
+- global-open-sdk-python
+- MemoryOS
+- aps-fastapi-toolkit
+- pynocaptcha
+- yottactl
+- frappeye
+- acquire
+- aevoo-tosca
+- bizydraft
+- py-agent-tools
 - pyfakefs
 - Blinter
 - zfx
@@ -27,8 +67,6 @@
 - co6co.permissions
 - create-prism-mockserver
 - python3-openEuler
-- authentik-client
-- django-opensearch-dsl-filtering
 - mplang-nightly
 - kegtron-ble
 - doc-store
@@ -55,38 +93,3 @@
 - dbanu
 - autogluon.common
 - first-dance
-- snakemake
-- serverz
-- rexilion-backtest
-- extensiondp
-- async-dnsbl-client
-- dbpoint
-- ncatbot
-- paravalid
-- hyperscale-ozone
-- teilen
-- yaspin
-- reachml
-- dockai
-- semanticscout
-- duna
-- uvicorn-hmr
-- claude-agent-toolkit
-- toneswiper
-- PythaGrid
-- raindropio-mcp
-- arbitrium-framework
-- tfp-nightly
-- lusid-sdk
-- directory-browser-mcp
-- attp-client
-- dbus2mqtt
-- webdrivermanager-cn
-- Qwael
-- sunnyday25
-- daytona_sdk
-- daytona
-- libgen-api-refhub
-- peakrdl-python
-- daytona_api_client_async
-- daytona_api_client

@@ -1,0 +1,11 @@
+{
+  "name": "yottactl",
+  "version": "0.1.4",
+  "summary": "This is a lightweight library that works as a connector to Yottalabs public API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/yottalabsai/yottactl",
+  "download_filename": "yottactl-0.1.4.tar.gz",
+  "download_time": "2025-10-11T09:39:08.145106",
+  "package_url": "https://pypi.org/project/yottactl/"
+}

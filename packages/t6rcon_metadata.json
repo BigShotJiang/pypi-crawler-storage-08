@@ -1,0 +1,11 @@
+{
+  "name": "t6rcon",
+  "version": "0.1.2",
+  "summary": "A RCON module for Plutonium T6",
+  "author": "budiworld",
+  "license": null,
+  "home_page": "https://github.com/Yallamaztar/iw4m",
+  "download_filename": "t6rcon-0.1.2.tar.gz",
+  "download_time": "2025-10-11T09:38:53.649810",
+  "package_url": "https://pypi.org/project/t6rcon/"
+}

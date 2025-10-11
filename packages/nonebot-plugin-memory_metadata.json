@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-memory",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "对跟bot对话的每个人形成记忆，生成有趣的用户档案，用于下次生成回复，也可以通过指令查看已有的用户档案。",
   "author": "lanxinmob",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_memory-0.1.11.tar.gz",
-  "download_time": "2025-10-08T13:19:38.450827",
+  "download_filename": "nonebot_plugin_memory-0.1.13.tar.gz",
+  "download_time": "2025-10-11T09:38:58.132436",
   "package_url": "https://pypi.org/project/nonebot-plugin-memory/"
 }

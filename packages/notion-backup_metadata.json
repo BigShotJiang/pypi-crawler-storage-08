@@ -1,0 +1,11 @@
+{
+  "name": "notion-backup",
+  "version": "0.3.9",
+  "summary": "Notion workspace export automation tool",
+  "author": "Ligohu",
+  "license": null,
+  "home_page": "https://codeberg.org/Ligohu/notion-backup",
+  "download_filename": "notion_backup-0.3.9.tar.gz",
+  "download_time": "2025-10-11T09:39:01.900856",
+  "package_url": "https://pypi.org/project/notion-backup/"
+}
