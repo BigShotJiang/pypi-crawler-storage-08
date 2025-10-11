@@ -1,0 +1,11 @@
+{
+  "name": "persian-dict",
+  "version": "1.0.0",
+  "summary": "A comprehensive English-Persian dictionary library",
+  "author": "Ehsan Fazli",
+  "license": null,
+  "home_page": "https://github.com/tsshack/persian-dict",
+  "download_filename": "persian_dict-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-11T23:19:26.837896",
+  "package_url": "https://pypi.org/project/persian-dict/"
+}

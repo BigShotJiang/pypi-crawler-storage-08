@@ -1,0 +1,11 @@
+{
+  "name": "kittyself",
+  "version": "0.1.0",
+  "summary": "a lightweight websocket bot helper for kitty.casino",
+  "author": "lumi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kittyself-0.1.0.tar.gz",
+  "download_time": "2025-10-11T23:19:19.781759",
+  "package_url": "https://pypi.org/project/kittyself/"
+}

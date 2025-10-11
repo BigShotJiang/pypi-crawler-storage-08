@@ -1,0 +1,11 @@
+{
+  "name": "vrouter-agent",
+  "version": "1.6.1",
+  "summary": "USDN vRouter-agent to execute order on each node",
+  "author": "Phan Dang",
+  "license": "US Data Networks. All rights reserved.",
+  "home_page": "https://github.com/Unified-Sentinel-Data-Networks/vrouter-agent",
+  "download_filename": "vrouter_agent-1.6.1.tar.gz",
+  "download_time": "2025-10-11T23:19:28.002870",
+  "package_url": "https://pypi.org/project/vrouter-agent/"
+}
