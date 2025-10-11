@@ -1,11 +1,11 @@
 {
   "name": "ssm-connect",
-  "version": "1.0.4",
-  "summary": "Interactive CLI to connect to AWS EC2 via SSM or SSH-over-SSM, with keyword search and multi-session terminal launch.",
+  "version": "1.1.0",
+  "summary": "Interactive CLI to connect to AWS EC2 and RDS via SSM or SSH-over-SSM, with credential persistence and multi-session support.",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ssm_connect-1.0.4.tar.gz",
-  "download_time": "2025-10-07T16:24:30.766933",
+  "download_filename": "ssm_connect-1.1.0.tar.gz",
+  "download_time": "2025-10-11T20:39:19.763570",
   "package_url": "https://pypi.org/project/ssm-connect/"
 }

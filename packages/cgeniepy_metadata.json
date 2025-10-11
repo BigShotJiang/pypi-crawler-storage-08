@@ -1,0 +1,11 @@
+{
+  "name": "cgeniepy",
+  "version": "0.15.1",
+  "summary": "A Python package to read, analyse and visualise cGENIE Earth System Model output",
+  "author": "Rui Ying",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "cgeniepy-0.15.1.tar.gz",
+  "download_time": "2025-10-11T20:39:19.247367",
+  "package_url": "https://pypi.org/project/cgeniepy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flake8-assertive",
+  "version": "2.2.0",
+  "summary": "Flake8 unittest assert method checker",
+  "author": "Jon Parise",
+  "license": "MIT",
+  "home_page": "https://github.com/jparise/flake8-assertive",
+  "download_filename": "flake8_assertive-2.2.0.tar.gz",
+  "download_time": "2025-10-11T20:39:01.325869",
+  "package_url": "https://pypi.org/project/flake8-assertive/"
+}

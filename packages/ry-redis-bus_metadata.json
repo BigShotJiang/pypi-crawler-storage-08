@@ -1,11 +1,11 @@
 {
   "name": "ry-redis-bus",
-  "version": "2.0.5",
+  "version": "2.1.2",
   "summary": "Redis IPC framework for Python and protobuf message types",
   "author": "Ross Yeager",
   "license": null,
   "home_page": null,
-  "download_filename": "ry_redis_bus-2.0.5.tar.gz",
-  "download_time": "2025-10-11T18:55:23.627461",
+  "download_filename": "ry_redis_bus-2.1.2.tar.gz",
+  "download_time": "2025-10-11T20:39:08.217879",
   "package_url": "https://pypi.org/project/ry-redis-bus/"
 }

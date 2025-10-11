@@ -1,0 +1,11 @@
+{
+  "name": "cijak",
+  "version": "1.0.0",
+  "summary": "A high-performance Unicode-based encoding library with C extensions",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "cijak-1.0.0.tar.gz",
+  "download_time": "2025-10-11T20:39:00.297968",
+  "package_url": "https://pypi.org/project/cijak/"
+}
