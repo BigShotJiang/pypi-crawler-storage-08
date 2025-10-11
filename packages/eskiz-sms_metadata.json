@@ -1,0 +1,11 @@
+{
+  "name": "eskiz-sms",
+  "version": "0.2.4",
+  "summary": "Package for eskiz.uz/sms",
+  "author": "Malikov",
+  "license": null,
+  "home_page": "https://github.com/malikovss/eskiz-sms",
+  "download_filename": "eskiz_sms-0.2.4.tar.gz",
+  "download_time": "2025-10-11T08:24:01.848276",
+  "package_url": "https://pypi.org/project/eskiz-sms/"
+}

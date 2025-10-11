@@ -1,11 +1,11 @@
 {
   "name": "ut-dic",
-  "version": "1.5.5.20251010",
+  "version": "1.5.5.20251011",
   "summary": "Utilities for Dictionaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ut_dic-1.5.5.20251010.tar.gz",
-  "download_time": "2025-10-10T06:53:18.019283",
+  "download_filename": "ut_dic-1.5.5.20251011.tar.gz",
+  "download_time": "2025-10-11T08:24:03.450035",
   "package_url": "https://pypi.org/project/ut-dic/"
 }

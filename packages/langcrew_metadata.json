@@ -1,11 +1,11 @@
 {
   "name": "langcrew",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A LangChain-based crew management system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langcrew-0.1.0.tar.gz",
-  "download_time": "2025-10-11T07:52:46.143684",
+  "download_filename": "langcrew-0.1.1.tar.gz",
+  "download_time": "2025-10-11T08:23:46.696044",
   "package_url": "https://pypi.org/project/langcrew/"
 }
