@@ -1,20 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T07:18:45.226027
-- **Total Packages**: 78
-- **Total Size**: 33.32 MB
+- **Download Time**: 2025-10-11T07:39:24.925063
+- **Total Packages**: 79
+- **Total Size**: 26.04 MB
 
 ## Packages List
+- kagura-ai
+- lnxlink
+- scopey
+- tangled-mcp
+- langcrew
+- gesture-wheels
+- ppio-sandbox
+- exprmat
+- authentik-client
+- nucom
+- neco
+- tombi
+- tencentcloud-sdk-python-common
+- fast-backend-builder
+- rewardsignal
+- ffmpy
+- dockai
+- zen-garden-timer
+- mammotion-sdk-harry
+- ramifice
+- raindropio-mcp
+- pytest-verify
+- churchsong
+- pipeline-eds
+- LibreView
+- junshan-kit
+- xgo-blockly
+- onnxscript
+- andebox
+- schemathesis
+- tele-general
+- ut-xls
+- sparse-emb-util
+- tencentcloud-sdk-python-intl-en
 - yulk
-- libreview-py
 - akash
 - akshare-tools
 - tritonparse
 - basefwx
 - seven-cloudapp-frame
 - async-server-ops
-- dockai
 - naf_chatgpt_cli
 - natsort-rs
 - torch-geometric-pool
@@ -28,7 +60,6 @@
 - coined-party
 - dspw
 - streamlit-nightly
-- authentik-client
 - easy-whitelist
 - amq-mcp-server-rabbitmq
 - adaptio
@@ -41,7 +72,6 @@
 - uncomment
 - tccli-intl-en
 - chanx
-- xgo-blockly
 - zzy-schedule-quality
 - topsisx
 - pywxwork
@@ -55,32 +85,3 @@
 - wayspiritmcp-weather
 - llmgraph
 - streamshatter
-- kailash-dataflow
-- notion-py-client
-- gesture-wheels
-- semanticscout
-- judgezoo
-- scirep
-- CliRemote
-- z-zytome
-- step-cli-tools
-- dragon-ml-toolbox
-- vibesort-mcp
-- bach-daily-hot
-- py-lap-solver
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- lupislabs
-- koava
-- tele-general
-- yta-general-utils
-- p-template-generator
-- david-sqleval
-- nekro-agent-toolkit
-- nemo-library
-- openhive
-- wpt-tools
-- pyrmute
-- tangled-mcp
-- knowrithm-py
-- geneticpy

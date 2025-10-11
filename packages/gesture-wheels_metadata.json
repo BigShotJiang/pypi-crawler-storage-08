@@ -1,11 +1,11 @@
 {
   "name": "gesture-wheels",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Control ESP32 wheeled robots with hand gestures (via Serial)",
   "author": "Your Name",
   "license": null,
   "home_page": "https://pypi.org/project/gesture-wheels/",
-  "download_filename": "gesture_wheels-0.3.0.tar.gz",
-  "download_time": "2025-10-11T07:18:31.019913",
+  "download_filename": "gesture_wheels-0.4.0.tar.gz",
+  "download_time": "2025-10-11T07:38:43.352460",
   "package_url": "https://pypi.org/project/gesture-wheels/"
 }
