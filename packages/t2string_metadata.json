@@ -1,11 +1,11 @@
 {
   "name": "t2string",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Converts new template string (t-string)(in python 3.14) to normal string",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "t2string-0.1.0.tar.gz",
-  "download_time": "2025-10-11T14:16:51.207890",
+  "download_filename": "t2string-0.1.5.tar.gz",
+  "download_time": "2025-10-11T14:31:28.537672",
   "package_url": "https://pypi.org/project/t2string/"
 }

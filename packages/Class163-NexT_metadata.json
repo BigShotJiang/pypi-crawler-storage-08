@@ -1,11 +1,11 @@
 {
   "name": "Class163-NexT",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "summary": "Download musics from the offical API of Netease Music.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "class163_next-0.3.14.tar.gz",
-  "download_time": "2025-10-07T18:28:55.741170",
+  "download_filename": "class163_next-0.3.15.tar.gz",
+  "download_time": "2025-10-11T14:31:27.972057",
   "package_url": "https://pypi.org/project/Class163-NexT/"
 }
