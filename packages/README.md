@@ -1,25 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T17:42:29.270445
-- **Total Packages**: 80
-- **Total Size**: 7.17 MB
+- **Download Time**: 2025-10-11T17:53:31.296721
+- **Total Packages**: 83
+- **Total Size**: 7.36 MB
 
 ## Packages List
+- moneyball
+- favihunter
+- captivate-ai-api
+- nmea2000
+- notion-py-client
+- warp-beacon
+- authentik-client
+- alembic-postgresql-enum
+- django-trix-editor
+- emcp
+- uv-plugin-up
+- prseq
+- agenticaiframework
+- CliRemote
+- i2
+- dol
+- streamlit-passwordless
+- sf-hamilton
+- config2py
+- hookx
+- sibi-dst
+- envdot
+- mcp-interviewer
+- sportsball
 - datallog
 - arrowspace
 - hyperquant
-- uv-plugin-up
 - maxapi-python
 - ciscoconfparse2
 - pubmed-pdf-downloader
 - polymo
 - ry-redis-bus
-- authentik-client
 - dogpile.cache
 - exosphere-cli
 - otelize
-- hookx
 - pyconll
 - aiotools
 - exact-clustering
@@ -56,7 +77,6 @@
 - uvrs
 - fastapi
 - fairbench
-- favihunter
 - ipl3checksum
 - biblemate
 - discminer
@@ -69,20 +89,3 @@
 - mapfile-parser
 - aiecs
 - arthexis
-- vega-framework
-- pytidycensus
-- webscraper-lite
-- xn-auth
-- wise-agent-toolkit
-- pyinterpolate
-- emcp
-- aiavatar
-- cloudflare-ip-filter
-- cuppa
-- print-project
-- Python-Dream-It-s-MyGO
-- pyhannom
-- catpic
-- rh
-- pytest-infrahouse
-- rebop

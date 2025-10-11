@@ -1,0 +1,11 @@
+{
+  "name": "alembic-postgresql-enum",
+  "version": "1.8.0",
+  "summary": "Alembic autogenerate support for creation, alteration and deletion of enums",
+  "author": "RustyGuard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alembic_postgresql_enum-1.8.0.tar.gz",
+  "download_time": "2025-10-11T17:52:51.153100",
+  "package_url": "https://pypi.org/project/alembic-postgresql-enum/"
+}

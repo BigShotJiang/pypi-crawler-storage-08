@@ -1,11 +1,11 @@
 {
   "name": "config2py",
-  "version": "0.1.41",
+  "version": "0.1.42",
   "summary": "Simplified reading and writing configurations from various sources and formats",
   "author": null,
   "license": "apache-2.0",
   "home_page": "https://github.com/i2mint/config2py",
-  "download_filename": "config2py-0.1.41.tar.gz",
-  "download_time": "2025-10-11T16:53:49.024776",
+  "download_filename": "config2py-0.1.42.tar.gz",
+  "download_time": "2025-10-11T17:52:56.896977",
   "package_url": "https://pypi.org/project/config2py/"
 }

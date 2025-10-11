@@ -1,11 +1,11 @@
 {
   "name": "arrowspace",
-  "version": "0.13.3",
+  "version": "0.15.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arrowspace-0.13.3.tar.gz",
-  "download_time": "2025-10-11T17:41:45.205998",
+  "download_filename": "arrowspace-0.15.0.tar.gz",
+  "download_time": "2025-10-11T17:53:00.566098",
   "package_url": "https://pypi.org/project/arrowspace/"
 }

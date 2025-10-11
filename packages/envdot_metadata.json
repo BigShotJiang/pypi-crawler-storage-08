@@ -1,11 +1,11 @@
 {
   "name": "envdot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Enhanced environment variable management with multi-format support",
   "author": "Hadi Cahyadi",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/cumulus13/envdot",
-  "download_filename": "envdot-1.0.4.tar.gz",
-  "download_time": "2025-10-11T15:38:57.570138",
+  "download_filename": "envdot-1.0.5.tar.gz",
+  "download_time": "2025-10-11T17:52:58.457427",
   "package_url": "https://pypi.org/project/envdot/"
 }
