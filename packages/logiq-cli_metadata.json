@@ -1,0 +1,11 @@
+{
+  "name": "logiq-cli",
+  "version": "1.1.1",
+  "summary": "ForensIQ CLI Tool for automated log analysis and AI-powered threat detection.",
+  "author": "Vaibhav M N",
+  "license": null,
+  "home_page": "https://github.com/Vaibhav2154/LogIQ",
+  "download_filename": "logiq_cli-1.1.1.tar.gz",
+  "download_time": "2025-10-11T23:52:58.644683",
+  "package_url": "https://pypi.org/project/logiq-cli/"
+}
