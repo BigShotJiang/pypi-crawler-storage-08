@@ -1,13 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T03:45:41.401262
-- **Total Packages**: 84
-- **Total Size**: 3.59 MB
+- **Download Time**: 2025-10-11T03:56:09.785494
+- **Total Packages**: 73
+- **Total Size**: 16.42 MB
 
 ## Packages List
-- pytest-html5
+- fastoauth
+- pulse-schemas
+- tangled-mcp
+- juq-py
+- blue-krill
+- xgo-blockly
+- mini-swe-agent
+- authentik-client
+- basefwx
+- deng
+- netbek-periodic-table
+- buildzr
+- odoo-addon-base-name-search-improved
+- mammotion-sdk-harry
 - rebel-forge
+- odoo-addon-pos-environment
+- hdmimatrix
+- zzy-schedule-quality
+- ai-shell-command-generator
+- deltafq
+- odoo-addon-account-invoice-pricelist-technical
+- odoo-addon-portal-sale-order-search
+- lims2-sdk
+- kabukit
+- pex
+- upplib
+- shancx
+- blepcord
+- pulumi-confluentcloud
+- AutoMorphoTrack
+- chatroutes
+- braintrust-langchain
+- django-cli-no-admin
+- xl-docx
+- egauge-python
+- statemachine-engine
+- physioprep
+- emerald-hws
+- restate
+- densecall
+- bigTpuProfile
+- syna
+- pytest-html5
 - anp
 - etl-watcher-sdk
 - gumnut-sdk
@@ -38,55 +79,3 @@
 - odoo-addon-base-maintenance-group
 - odoo-addon-maintenance-product
 - odoo-addon-maintenance-equipment-image
-- xgo-blockly
-- basefwx
-- ai-shell-command-generator
-- rand-engine
-- furones
-- odoo-addon-l10n-es-verifactu-oca
-- mammotion-sdk-harry
-- yulk
-- fastapi-reloader
-- intentkit
-- qolsys-controller
-- authentik-client
-- my-cli-utilities
-- era5_to_int
-- emoji-data
-- h2ogpte
-- agent-lifecycle-toolkit
-- upflame
-- diglife
-- fastcodedog
-- GameSentenceMiner
-- mini-swe-agent
-- mineralML
-- easemysql
-- esp-ppq
-- fsai-vision-utils
-- json-file-split
-- iwx-manifest-builder
-- tfads-o-builder
-- awpr
-- cvat-manifest-builder
-- geopix
-- fsai-shared-funcs
-- mplang-nightly
-- tap-socketdev
-- easy-whitelist
-- tap-neon
-- oscillink
-- pywxwork
-- gpustack-runner
-- sae-dashboard
-- pyaubo-agvc-sdk
-- gridstatus
-- odoo-addon-ddmrp
-- junshan-kit
-- nlpertools
-- types-aiofiles
-- types-flake8-typing-imports
-- wyoming-kokoro-torch
-- graxpert
-- mkdocs-vwidref
-- ideacook

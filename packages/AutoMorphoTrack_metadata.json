@@ -1,0 +1,11 @@
+{
+  "name": "AutoMorphoTrack",
+  "version": "1.0.5",
+  "summary": "AutoMorphoTrack is an open-source Python package for automated detection, morphology classification, motility tracking, and colocalization analysis of organelles in multichannel fluorescence microscopy data.",
+  "author": "Armin Bayati",
+  "license": "MIT",
+  "home_page": "https://github.com/abayatibrain/AMTpackage",
+  "download_filename": "automorphotrack-1.0.5.tar.gz",
+  "download_time": "2025-10-11T03:55:42.223302",
+  "package_url": "https://pypi.org/project/AutoMorphoTrack/"
+}

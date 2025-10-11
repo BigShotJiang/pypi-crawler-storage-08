@@ -1,0 +1,11 @@
+{
+  "name": "restate",
+  "version": "0.11.5",
+  "summary": "Storage-agnostic, reactive state management for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "restate-0.11.5.tar.gz",
+  "download_time": "2025-10-11T03:55:49.312010",
+  "package_url": "https://pypi.org/project/restate/"
+}
