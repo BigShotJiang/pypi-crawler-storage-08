@@ -1,22 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T04:43:06.667987
-- **Total Packages**: 79
-- **Total Size**: 15.52 MB
+- **Download Time**: 2025-10-11T04:52:53.565119
+- **Total Packages**: 78
+- **Total Size**: 4.75 MB
 
 ## Packages List
+- skypilot-nightly
+- authentik-client
+- quillion-cli
+- patx
+- tableta
+- tele-general
+- rds-proxy-password-rotation
+- clifpy
+- eval-protocol
+- iamdata
+- simplr
+- restate
+- ab-dependency
 - tencentcloud-sdk-python-cvm
 - tencentcloud-sdk-python-common
-- simplr
 - quillion
-- authentik-client
 - etl-watcher-sdk
 - tap-pushbullet
 - tensorlake
 - lybase
 - aiiware-cli
-- eval-protocol
 - yulk
 - tripwire-py
 - powertrace
@@ -55,7 +65,6 @@
 - tencentcloud-sdk-python-lkeap
 - tencentcloud-sdk-python-ess
 - tencentcloud-sdk-python-dbbrain
-- patx
 - kite-order
 - PyOCN
 - semanticscout
@@ -75,13 +84,3 @@
 - juq-py
 - blue-krill
 - xgo-blockly
-- mini-swe-agent
-- basefwx
-- deng
-- netbek-periodic-table
-- buildzr
-- odoo-addon-base-name-search-improved
-- mammotion-sdk-harry
-- rebel-forge
-- odoo-addon-pos-environment
-- hdmimatrix
