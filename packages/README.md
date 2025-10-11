@@ -1,20 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T07:39:24.925063
-- **Total Packages**: 79
-- **Total Size**: 26.04 MB
+- **Download Time**: 2025-10-11T07:53:08.708182
+- **Total Packages**: 81
+- **Total Size**: 11.3 MB
 
 ## Packages List
+- fastapi-voyager
+- hogwarts-playwright-agent
+- iwa
+- asciinema-scene
+- huawei-solar
+- china-stock-mcp
+- xdi-validator
+- griffonner
+- jibit
+- authentik-client
+- lerobot-teleoperator-violin
+- aps-fastapi-toolkit
+- dockai
+- dapu
+- openagents
+- py-excel-form-extractor
+- reyserver
+- reykit
+- reydb
+- batch-data-test-tool
+- gesture-wheels
+- zen-garden-timer
+- bach-concur-mcp-server
+- langchain-agentbay-integration
+- pyzrtools
+- open-door-mcp
+- daytona_sdk
+- daytona
+- extensiondp
+- ngram-punctuator
+- daytona_api_client_async
+- daytona_api_client
+- statemachine-engine
+- ut-path
+- remyxai
+- bopfast
+- mailgun-mcp
 - kagura-ai
 - lnxlink
 - scopey
 - tangled-mcp
 - langcrew
-- gesture-wheels
 - ppio-sandbox
 - exprmat
-- authentik-client
 - nucom
 - neco
 - tombi
@@ -22,8 +57,6 @@
 - fast-backend-builder
 - rewardsignal
 - ffmpy
-- dockai
-- zen-garden-timer
 - mammotion-sdk-harry
 - ramifice
 - raindropio-mcp
@@ -54,34 +87,3 @@
 - pixelarraythirdparty
 - pyshell-terminal
 - fast-mcp-telegram
-- fastapi-reloader
-- tf-models-nightly
-- anki_card_create
-- coined-party
-- dspw
-- streamlit-nightly
-- easy-whitelist
-- amq-mcp-server-rabbitmq
-- adaptio
-- friendly-module-not-found-error
-- markitdown-docx-image-plugin
-- jst-django
-- htmlgen-mcp
-- tinymcp
-- pyezvizapi
-- uncomment
-- tccli-intl-en
-- chanx
-- zzy-schedule-quality
-- topsisx
-- pywxwork
-- plua
-- pyversity
-- sqleval
-- xloft
-- alibabacloud-polardb20170801
-- mineralML
-- lybase
-- wayspiritmcp-weather
-- llmgraph
-- streamshatter

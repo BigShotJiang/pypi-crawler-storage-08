@@ -1,0 +1,11 @@
+{
+  "name": "bach-concur-mcp-server",
+  "version": "1.0.0",
+  "summary": "A Model Context Protocol (MCP) server that integrates with SAP Concur expense management system",
+  "author": "bachstudio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bach_concur_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-11T07:52:35.783564",
+  "package_url": "https://pypi.org/project/bach-concur-mcp-server/"
+}

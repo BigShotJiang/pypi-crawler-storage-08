@@ -1,11 +1,11 @@
 {
   "name": "extensiondp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Extension DP (Data Package Extension Template) is a GitHub repository template for rapid Data Package extension development",
   "author": "Evgeny Karev",
   "license": null,
   "home_page": null,
-  "download_filename": "extensiondp-0.1.1.tar.gz",
-  "download_time": "2025-10-09T16:27:09.711033",
+  "download_filename": "extensiondp-0.1.2.tar.gz",
+  "download_time": "2025-10-11T07:52:39.411540",
   "package_url": "https://pypi.org/project/extensiondp/"
 }

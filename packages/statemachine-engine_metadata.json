@@ -1,11 +1,11 @@
 {
   "name": "statemachine-engine",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A generic state machine engine for event-driven workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statemachine_engine-0.0.18.tar.gz",
-  "download_time": "2025-10-11T03:55:46.463188",
+  "download_filename": "statemachine_engine-0.0.19.tar.gz",
+  "download_time": "2025-10-11T07:52:41.511487",
   "package_url": "https://pypi.org/project/statemachine-engine/"
 }

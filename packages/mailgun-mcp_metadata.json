@@ -1,0 +1,11 @@
+{
+  "name": "mailgun-mcp",
+  "version": "0.1.1",
+  "summary": "Unofficial MCP server for the Mailgun API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mailgun_mcp-0.1.1.tar.gz",
+  "download_time": "2025-10-11T07:52:43.582802",
+  "package_url": "https://pypi.org/project/mailgun-mcp/"
+}

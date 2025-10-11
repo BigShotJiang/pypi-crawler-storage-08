@@ -1,0 +1,11 @@
+{
+  "name": "langchain-agentbay-integration",
+  "version": "0.1.0",
+  "summary": "An integration package connecting AgentbayIntegration and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_agentbay_integration-0.1.0.tar.gz",
+  "download_time": "2025-10-11T07:52:36.302624",
+  "package_url": "https://pypi.org/project/langchain-agentbay-integration/"
+}
