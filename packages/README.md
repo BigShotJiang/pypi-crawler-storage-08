@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T21:17:32.708579
-- **Total Packages**: 76
-- **Total Size**: 18.84 MB
+- **Download Time**: 2025-10-11T21:30:17.681162
+- **Total Packages**: 79
+- **Total Size**: 4.56 MB
 
 ## Packages List
+- omninumpy
+- kepconfig
+- authentik-client
+- fhempy
+- graph-games-proto
+- api-watch
+- pyprobeplus
+- grimoire-model
+- tilt-ble
+- pyspaceapis
+- httpdiff
 - GNServer
 - t2d2-sdk
 - reachml
@@ -25,7 +36,6 @@
 - dockai
 - breadcrumb
 - cashews
-- authentik-client
 - ultraspn
 - ut-eco
 - gdal-mcp
@@ -48,12 +58,10 @@
 - spyder-line-profiler
 - wattleflow-workflow
 - PyViCare
-- api-watch
 - crawler.dev
 - ordeq_yaml
 - live-api-monitor
 - sleipnirgroup-jormungandr
-- omninumpy
 - CliRemote
 - nwp500-python
 - mapillary-downloader
@@ -77,8 +85,3 @@
 - ssnolib
 - scrap-engine
 - pyfskelec
-- fiasco
-- mathparse
-- jupyterlab-amphi
-- eipspy
-- penguin-tamer

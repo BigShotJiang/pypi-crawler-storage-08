@@ -1,0 +1,11 @@
+{
+  "name": "kepconfig",
+  "version": "1.4.2",
+  "summary": "SDK package for Kepware Configuration API",
+  "author": "PTC Inc",
+  "license": "MIT License",
+  "home_page": "https://github.com/PTCInc/Kepware-ConfigAPI-SDK-Python",
+  "download_filename": "kepconfig-1.4.2.tar.gz",
+  "download_time": "2025-10-11T21:29:33.337312",
+  "package_url": "https://pypi.org/project/kepconfig/"
+}

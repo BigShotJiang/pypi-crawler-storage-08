@@ -1,11 +1,11 @@
 {
   "name": "omninumpy",
-  "version": "0.1.5",
+  "version": "0.1.65",
   "summary": "Compatibility layer for NumPy 2.x with GPU acceleration support",
   "author": "OmniNumPy Contributors",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/omninumpy/omninumpy",
-  "download_filename": "omninumpy-0.1.5.tar.gz",
-  "download_time": "2025-10-11T20:52:30.003879",
+  "download_filename": "omninumpy-0.1.65.tar.gz",
+  "download_time": "2025-10-11T21:29:32.747459",
   "package_url": "https://pypi.org/project/omninumpy/"
 }
