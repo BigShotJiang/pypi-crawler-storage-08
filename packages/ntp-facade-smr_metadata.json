@@ -1,0 +1,11 @@
+{
+  "name": "ntp-facade-smr",
+  "version": "1.0.0",
+  "summary": "A simple facade for NTP time synchronization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntp_facade_smr-1.0.0.tar.gz",
+  "download_time": "2025-10-11T22:18:38.633875",
+  "package_url": "https://pypi.org/project/ntp-facade-smr/"
+}
