@@ -1,0 +1,11 @@
+{
+  "name": "django-generic-links",
+  "version": "0.12.0",
+  "summary": "Simple and generic application for Django projects to attach and handle links for any object",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_generic_links-0.12.0.tar.gz",
+  "download_time": "2025-10-11T16:43:01.410925",
+  "package_url": "https://pypi.org/project/django-generic-links/"
+}
