@@ -1,0 +1,11 @@
+{
+  "name": "yaspin",
+  "version": "3.3.0",
+  "summary": "Yet Another Terminal Spinner",
+  "author": "Pavlo Dmytrenko",
+  "license": "MIT",
+  "home_page": "https://github.com/pavdmyt/yaspin",
+  "download_filename": "yaspin-3.3.0.tar.gz",
+  "download_time": "2025-10-11T08:53:58.902830",
+  "package_url": "https://pypi.org/project/yaspin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "reachml",
-  "version": "0.2.1.2",
+  "version": "0.2.1.3",
   "summary": "Recourse verification with reachable sets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reachml-0.2.1.2-py3-none-any.whl",
-  "download_time": "2025-10-09T21:18:39.992825",
+  "download_filename": "reachml-0.2.1.3-py3-none-any.whl",
+  "download_time": "2025-10-11T08:53:59.481831",
   "package_url": "https://pypi.org/project/reachml/"
 }
