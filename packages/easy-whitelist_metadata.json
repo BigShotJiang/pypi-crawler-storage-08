@@ -1,11 +1,11 @@
 {
   "name": "easy-whitelist",
-  "version": "1.0.95",
+  "version": "1.0.96",
   "summary": "A smart tool that detects the local Internet IP address and automatically updates the local Internet IP address to the cloud security group whitelist.",
   "author": "qiqilelebaobao",
-  "license": null,
+  "license": "Apache License 2.0",
   "home_page": "https://github.com/qiqilelebaobao/easy_whitelist",
-  "download_filename": "easy_whitelist-1.0.95.tar.gz",
-  "download_time": "2025-10-11T03:18:59.025787",
+  "download_filename": "easy_whitelist-1.0.96.tar.gz",
+  "download_time": "2025-10-11T05:41:07.225556",
   "package_url": "https://pypi.org/project/easy-whitelist/"
 }

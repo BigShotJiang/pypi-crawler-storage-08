@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T05:19:14.123728
-- **Total Packages**: 83
-- **Total Size**: 24.82 MB
+- **Download Time**: 2025-10-11T05:41:35.734679
+- **Total Packages**: 77
+- **Total Size**: 17.19 MB
 
 ## Packages List
+- auto-editor
+- aptapy
+- tele-general
+- patch-fixer
+- aps-fastapi-toolkit
+- hockey-blast-common-lib
+- judgeval
+- llm-gemini
+- yulk
+- test-mdp
+- django-cfg
+- authentik-client
+- pulumi-azuredevops
+- agentbase-sdk
+- wpt-tools
+- pocong
+- stdlb
+- bach-baidu-maps
+- yeref
+- pystand
+- pixelarraythirdparty
+- wayspiritmcp-weather
+- fh2-drc-mcp-server
+- pysolarcell
+- pkglog
+- hexdoc-mediatransport
+- easy-whitelist
+- opendp
+- numpydantic
+- golden-eagle
+- parsehub
+- agilicus
+- zddns
+- silars
+- pulumi-akamai
+- yta-editor
 - amdsmi
 - talkieCLI
 - FourCIPP
@@ -15,10 +51,7 @@
 - molingtools
 - onvif-python
 - tableta
-- arattai
-- agilicus
 - urllib3-future
-- authentik-client
 - plover-svg-layout-display
 - pytest-homeassistant-custom-component
 - klavis
@@ -30,7 +63,6 @@
 - yta-video-opengl
 - quillmark
 - tangled-mcp
-- yulk
 - ttgrasp
 - huibiao-framework
 - reykit
@@ -51,41 +83,3 @@
 - tencentcloud-sdk-python-common
 - quillion
 - etl-watcher-sdk
-- tap-pushbullet
-- tensorlake
-- lybase
-- aiiware-cli
-- tripwire-py
-- powertrace
-- nonebot-plugin-daily-bing
-- ydata-profiling-multilingual
-- fast-bunkai
-- dockai
-- yoruba-tts
-- peakrdl-rust
-- x123pan
-- runrl
-- httpayer
-- parallel-processing
-- powercli
-- gpustack-runner
-- s3vectors-embed-cli
-- click-cadquery
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- utz
-- oxgram
-- smoothintegration
-- keras-nlp-nightly
-- keras-hub-nightly
-- kabukit
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- tencentcloud-sdk-python-vrs
-- tencentcloud-sdk-python-tms
-- tencentcloud-sdk-python-tcss
-- tencentcloud-sdk-python-mps
-- tencentcloud-sdk-python-mongodb
-- robhan-cdk-lib.utils

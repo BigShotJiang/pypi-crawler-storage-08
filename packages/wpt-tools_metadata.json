@@ -1,11 +1,11 @@
 {
   "name": "wpt-tools",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python package for analyzing wireless power systems",
   "author": null,
-  "license": "AGPL-3.0",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "wpt_tools-0.1.6.tar.gz",
-  "download_time": "2025-10-10T04:24:16.272646",
+  "download_filename": "wpt_tools-0.1.7.tar.gz",
+  "download_time": "2025-10-11T05:41:00.548853",
   "package_url": "https://pypi.org/project/wpt-tools/"
 }
