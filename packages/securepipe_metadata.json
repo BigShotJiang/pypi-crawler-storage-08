@@ -1,0 +1,11 @@
+{
+  "name": "securepipe",
+  "version": "0.1.0",
+  "summary": "A lightweight encryption library using HS256 with additional custom security layers. eg UUID and 2 layers of encryption",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "securepipe-0.1.0.tar.gz",
+  "download_time": "2025-10-11T21:53:09.886513",
+  "package_url": "https://pypi.org/project/securepipe/"
+}
