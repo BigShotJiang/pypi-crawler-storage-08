@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T19:53:29.845931
-- **Total Packages**: 79
-- **Total Size**: 3.14 MB
+- **Download Time**: 2025-10-11T20:21:46.610465
+- **Total Packages**: 80
+- **Total Size**: 1.68 MB
 
 ## Packages List
+- pybiblionet
+- rabbit-ai-cli
+- anycorn
+- warp-beacon
+- pyqrackising
+- dockai
 - pywidgy
 - cb-events
 - npyplotter
@@ -20,7 +26,6 @@
 - directkeys
 - mathai
 - remnawave
-- rabbit-ai-cli
 - ragmax
 - ggx
 - iatoolkit
@@ -32,7 +37,6 @@
 - adam-atan2-pytorch
 - svc-infra
 - hyperquant
-- warp-beacon
 - pyrogrammod
 - claude-goblin
 - epic-utils
@@ -82,6 +86,3 @@
 - mainsequence
 - isek
 - vuln2vec
-- pygekko
-- allgreen
-- linux-buddy
