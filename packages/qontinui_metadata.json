@@ -1,0 +1,11 @@
+{
+  "name": "qontinui",
+  "version": "0.1.0",
+  "summary": "Model-based GUI automation with AI-enhanced perception",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/qontinui-core",
+  "download_filename": "qontinui-0.1.0.tar.gz",
+  "download_time": "2025-10-11T12:37:13.040398",
+  "package_url": "https://pypi.org/project/qontinui/"
+}

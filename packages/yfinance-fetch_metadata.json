@@ -1,0 +1,11 @@
+{
+  "name": "yfinance-fetch",
+  "version": "0.0.3",
+  "summary": "A module for analyzing stock technical, financial, and candlestick pattern data with yfinance and Google Sheets integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yfinance_fetch-0.0.3.tar.gz",
+  "download_time": "2025-10-11T12:36:55.284850",
+  "package_url": "https://pypi.org/project/yfinance-fetch/"
+}

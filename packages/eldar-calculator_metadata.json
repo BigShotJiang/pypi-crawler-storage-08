@@ -1,0 +1,11 @@
+{
+  "name": "eldar-calculator",
+  "version": "1.0.0",
+  "summary": "A powerful calculator library for Python — supports basic, advanced, geometry, algebra, and unit conversions.",
+  "author": "Eldar Eliyev",
+  "license": null,
+  "home_page": "https://github.com/username/calculator",
+  "download_filename": "eldar_calculator-1.0.0.tar.gz",
+  "download_time": "2025-10-11T12:36:56.845990",
+  "package_url": "https://pypi.org/project/eldar-calculator/"
+}

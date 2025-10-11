@@ -1,0 +1,11 @@
+{
+  "name": "cybersightsh",
+  "version": "1.0.0",
+  "summary": "A userguide custom terminal with colors, autocompletion, and basic shell commands.",
+  "author": "Cybersight",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cybersightsh-1.0.0.tar.gz",
+  "download_time": "2025-10-11T12:37:02.103466",
+  "package_url": "https://pypi.org/project/cybersightsh/"
+}
