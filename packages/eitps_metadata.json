@@ -1,11 +1,11 @@
 {
   "name": "eitps",
-  "version": "1.0.0b1",
+  "version": "1.0.0b2",
   "summary": "Typed PowerScript (TPS) - A fully structured development language that transpiles to Python",
   "author": "Saleem Ahmad (Elite India Org Team)",
   "license": "MIT",
-  "home_page": "https://github.com/SaleemLww/Python-PowerScript",
-  "download_filename": "eitps-1.0.0b1-py3-none-any.whl",
-  "download_time": "2025-10-11T18:55:08.265234",
+  "home_page": "https://github.com/SaleemLww/PowerScript-EITPS",
+  "download_filename": "eitps-1.0.0b2-py3-none-any.whl",
+  "download_time": "2025-10-11T19:25:32.565363",
   "package_url": "https://pypi.org/project/eitps/"
 }

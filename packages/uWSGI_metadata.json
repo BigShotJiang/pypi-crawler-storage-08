@@ -1,0 +1,11 @@
+{
+  "name": "uWSGI",
+  "version": "2.0.31",
+  "summary": "The uWSGI server",
+  "author": "Unbit",
+  "license": "GPL2",
+  "home_page": "https://uwsgi-docs.readthedocs.io/en/latest/",
+  "download_filename": "uwsgi-2.0.31.tar.gz",
+  "download_time": "2025-10-11T19:25:31.964708",
+  "package_url": "https://pypi.org/project/uWSGI/"
+}
