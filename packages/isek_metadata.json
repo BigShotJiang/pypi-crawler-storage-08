@@ -1,11 +1,11 @@
 {
   "name": "isek",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "ISEK Distributed Multi-Agent Framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isek-0.3.0.tar.gz",
-  "download_time": "2025-10-11T02:41:13.872772",
+  "download_filename": "isek-0.3.1.tar.gz",
+  "download_time": "2025-10-11T15:52:35.120650",
   "package_url": "https://pypi.org/project/isek/"
 }

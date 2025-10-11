@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-dlock",
+  "version": "0.7.0",
+  "summary": "A distributed lock implementation based on SQLAlchemy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_dlock-0.7.0.tar.gz",
+  "download_time": "2025-10-11T15:52:24.502287",
+  "package_url": "https://pypi.org/project/sqlalchemy-dlock/"
+}

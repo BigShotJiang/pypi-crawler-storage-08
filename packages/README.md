@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T15:39:31.018885
-- **Total Packages**: 77
-- **Total Size**: 23.87 MB
+- **Download Time**: 2025-10-11T15:52:59.011384
+- **Total Packages**: 82
+- **Total Size**: 30.86 MB
 
 ## Packages List
+- mplang-nightly
+- interpn
+- pmcx
+- authentik-client
+- sec-eagle
+- voxcity
+- MaaDebugger
+- pgcooldown
+- casers
+- caoyizhen_basetool
+- dashboard-lego
+- html-to-markdown
+- statemachine-engine
+- django-jwt-allauth
+- ocrmypdf-appleocr
+- minitap-mobile-use
+- orionis
+- pyqrackising
+- db-help
+- sqlalchemy-dlock
+- pybiblionet
+- liger-kernel-nightly
+- restiny
+- litellm-proxy-extras
+- easyaiogram
+- nonebot-plugin-tweet
+- pixelarraythirdparty
+- spring-config-client-python
+- honeybee-openstudio
+- ctitools
+- frappeye
+- kinpy
+- phoonnx
+- sieves
+- tacocompression
+- ssh-python
+- pyhannom
+- SoukReqs
+- isek
+- hkjc
+- moodle-xml-parser
+- decode-config
+- mkfst
+- django-seo-audit
+- wise-agent-toolkit
 - expression-parser
 - auv
 - premai
@@ -16,9 +61,7 @@
 - telepact
 - clud
 - draft-basic
-- ctitools
 - kalyfo-libs-spark-helper
-- frappeye
 - langbot-plugin
 - pbesa
 - mlflow-mcp
@@ -28,19 +71,14 @@
 - furry-parakeet
 - antback
 - ssh2-python
-- authentik-client
-- liger-kernel-nightly
 - envdot
 - cogworks
-- tacocompression
-- pyhannom
 - locisimiles
 - picoagents
 - uniovi-simur-wearablepermed-pipeline
 - vega-framework
 - brython
 - ghai-cli
-- orionis
 - cattle_grid
 - astroid
 - django-cfg
@@ -50,36 +88,3 @@
 - yt-chap
 - hyperquant
 - ytdlp-servustv
-- sfs
-- faststream
-- uproot-custom
-- django-contact-us-tools
-- inoopa_utils
-- rebel-forge
-- my_package_byteorium
-- aioamazondevices
-- pulumi-materialize
-- st-error-boundary
-- rushrunning
-- my-face-lib
-- xcpcio
-- syntax-parser-prototype
-- pyrogrammod
-- async-event-bus
-- mkflow-engine
-- rushclis
-- azpaddypy
-- xueqiu-mcp
-- saigon-py
-- mcp-proxy-adapter
-- quickbars-bridge
-- async-loki-handler
-- HMAP-tool
-- llamonitor-async
-- vappman
-- ontolutils
-- cnfc
-- rushlib
-- rss-downloader
-- pyviser
-- novita-sandbox

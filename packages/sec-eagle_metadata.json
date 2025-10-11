@@ -1,11 +1,11 @@
 {
   "name": "sec-eagle",
-  "version": "0.1.22",
+  "version": "0.1.24",
   "summary": "A Python package for parsing SEC data with XML and web scraping tools",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/secpy",
-  "download_filename": "sec_eagle-0.1.22.tar.gz",
-  "download_time": "2025-10-11T12:36:54.766492",
+  "download_filename": "sec_eagle-0.1.24.tar.gz",
+  "download_time": "2025-10-11T15:52:15.148529",
   "package_url": "https://pypi.org/project/sec-eagle/"
 }

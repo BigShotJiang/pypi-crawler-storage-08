@@ -1,0 +1,11 @@
+{
+  "name": "pgcooldown",
+  "version": "0.3.13",
+  "summary": "A cooldown/counter class to wait for stuff in games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgcooldown-0.3.13-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-11T15:52:16.768093",
+  "package_url": "https://pypi.org/project/pgcooldown/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "decode-config",
+  "version": "15.1.0.0",
+  "summary": "Backup/restore and decode configuration tool for Tasmota",
+  "author": "Norbert Richter",
+  "license": null,
+  "home_page": "https://github.com/tasmota/decode-config",
+  "download_filename": "decode_config-15.1.0.0.tar.gz",
+  "download_time": "2025-10-11T15:52:36.713239",
+  "package_url": "https://pypi.org/project/decode-config/"
+}

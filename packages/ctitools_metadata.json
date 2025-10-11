@@ -1,11 +1,11 @@
 {
   "name": "ctitools",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Work with cti index files for the Heise papers c't and iX",
   "author": "Berthold Höllmann",
   "license": "BSD 3",
   "home_page": null,
-  "download_filename": "ctitools-0.6.0.tar.gz",
-  "download_time": "2025-10-11T15:38:48.733939",
+  "download_filename": "ctitools-0.6.1.tar.gz",
+  "download_time": "2025-10-11T15:52:30.014541",
   "package_url": "https://pypi.org/project/ctitools/"
 }

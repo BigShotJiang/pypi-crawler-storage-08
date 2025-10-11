@@ -1,11 +1,11 @@
 {
   "name": "interpn",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "N-dimensional interpolation/extrapolation methods",
   "author": null,
   "license": null,
   "home_page": "https://github.com/jlogan03/interpn/",
-  "download_filename": "interpn-0.6.0.tar.gz",
-  "download_time": "2025-10-09T02:47:13.673778",
+  "download_filename": "interpn-0.6.1-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-10-11T15:52:13.407103",
   "package_url": "https://pypi.org/project/interpn/"
 }
