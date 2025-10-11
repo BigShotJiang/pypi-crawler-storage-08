@@ -1,11 +1,11 @@
 {
   "name": "audipart",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Extract and separate audio signals by pitch from `.mp3` or `.wav` files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "audipart-0.0.1.tar.gz",
-  "download_time": "2025-10-11T22:18:39.676720",
+  "download_filename": "audipart-0.0.3.tar.gz",
+  "download_time": "2025-10-11T22:39:45.622917",
   "package_url": "https://pypi.org/project/audipart/"
 }
