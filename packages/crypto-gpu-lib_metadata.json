@@ -1,11 +1,11 @@
 {
   "name": "crypto-gpu-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "High-performance GPU-accelerated cryptocurrency wallet generation library",
   "author": "CryptoGPU Team",
   "license": null,
   "home_page": "https://github.com/cryptogpu/crypto-gpu-lib",
-  "download_filename": "crypto_gpu_lib-1.0.1.tar.gz",
-  "download_time": "2025-10-11T20:52:48.302796",
+  "download_filename": "crypto_gpu_lib-1.0.2.tar.gz",
+  "download_time": "2025-10-11T21:17:03.561898",
   "package_url": "https://pypi.org/project/crypto-gpu-lib/"
 }

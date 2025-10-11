@@ -1,0 +1,11 @@
+{
+  "name": "spyder-line-profiler",
+  "version": "0.4.2",
+  "summary": "Plugin for the Spyder IDE that integrates the Python line profiler.",
+  "author": "Spyder Project Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/spyder-ide/spyder-line-profiler",
+  "download_filename": "spyder_line_profiler-0.4.2.tar.gz",
+  "download_time": "2025-10-11T21:17:12.652192",
+  "package_url": "https://pypi.org/project/spyder-line-profiler/"
+}
