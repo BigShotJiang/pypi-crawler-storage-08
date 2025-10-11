@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T08:24:23.837068
-- **Total Packages**: 73
-- **Total Size**: 19.47 MB
+- **Download Time**: 2025-10-11T08:44:07.489204
+- **Total Packages**: 78
+- **Total Size**: 7.6 MB
 
 ## Packages List
+- lusid-sdk
+- directory-browser-mcp
+- attp-client
+- dbus2mqtt
+- webdrivermanager-cn
+- dockai
+- uvicorn-hmr
+- Qwael
+- sunnyday25
+- extensiondp
+- fnschool
+- daytona_sdk
+- daytona
+- libgen-api-refhub
+- peakrdl-python
+- authentik-client
+- daytona_api_client_async
+- daytona_api_client
+- wallapop-auto-adjust
+- jst-django
+- asyncclick
+- create-prism-mockserver
+- ai-infra-bench
+- validate-pyproject-schema-store
+- unifi-mcp
+- relenv
+- oneliai
+- opentelemetry-instrumentation-arq
+- ppio-sandbox
+- django-comments-xtd
+- pylibrelinkup
+- naf_chatgpt_cli
+- hogwarts-playwright-agent
+- youtubesnoop
+- fastlib-py
+- bishnu-resume
+- multi-crypt
+- emerald-hws
+- junshan-kit
+- bopfast
+- uncpath
 - dapu
 - buildzr
-- youtubesnoop
-- dockai
 - outlook-meetings
-- Qwael
 - pysubtrans
 - elide
 - agentic-kit-common
@@ -38,7 +76,6 @@
 - SAHAJ
 - onda
 - StreamingCommunity
-- authentik-client
 - omni-article-markdown
 - pyglove
 - eskiz-sms
@@ -47,35 +84,3 @@
 - ut-dic
 - python3-openEuler
 - asciinema-scene
-- tripwire-py
-- zen-garden-timer
-- junshan-kit
-- isa-model
-- tmodbus
-- fnschool
-- jdcloud-sdk
-- lerobot-teleoperator-bimanual-leader
-- matrixone-python-sdk
-- team-pal
-- lerobot-robot-bimanual-follower
-- churchsong
-- supertape
-- hogwarts-playwright-agent
-- py-excel-form-extractor
-- naf_chatgpt_cli
-- cuke2confluence
-- step-cli-tools
-- batch-data-test-tool
-- FlaskAPIServer
-- fastapi-voyager
-- iwa
-- huawei-solar
-- china-stock-mcp
-- xdi-validator
-- griffonner
-- jibit
-- lerobot-teleoperator-violin
-- aps-fastapi-toolkit
-- openagents
-- reyserver
-- reykit

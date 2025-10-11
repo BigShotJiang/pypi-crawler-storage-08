@@ -1,0 +1,11 @@
+{
+  "name": "webdrivermanager-cn",
+  "version": "2.4.2",
+  "summary": "基于阿里源开发的WebDriver管理工具",
+  "author": "御风",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitee.com/Joker_JH/webdrivermanagercn",
+  "download_filename": "webdrivermanager_cn-2.4.2-py3-none-any.whl",
+  "download_time": "2025-10-11T08:43:28.130331",
+  "package_url": "https://pypi.org/project/webdrivermanager-cn/"
+}

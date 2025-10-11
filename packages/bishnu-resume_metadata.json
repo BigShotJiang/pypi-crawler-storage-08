@@ -1,0 +1,11 @@
+{
+  "name": "bishnu-resume",
+  "version": "1.0.0",
+  "summary": "Python package containing Bishnu Prasad Sahu's complete resume and projects.",
+  "author": "Bishnu Sahu",
+  "license": "MIT",
+  "home_page": "https://github.com/mebishnusahu0595",
+  "download_filename": "bishnu-resume-1.0.0.tar.gz",
+  "download_time": "2025-10-11T08:43:44.067497",
+  "package_url": "https://pypi.org/project/bishnu-resume/"
+}

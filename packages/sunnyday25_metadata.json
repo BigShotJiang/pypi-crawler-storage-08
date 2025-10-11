@@ -1,11 +1,11 @@
 {
   "name": "sunnyday25",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Weather forecast data",
   "author": "Ankit Singh",
   "license": "MIT",
   "home_page": "https://example.com",
-  "download_filename": "sunnyday25-1.0.0.tar.gz",
-  "download_time": "2025-10-07T12:41:13.323307",
+  "download_filename": "sunnyday25-2.0.0.tar.gz",
+  "download_time": "2025-10-11T08:43:30.179204",
   "package_url": "https://pypi.org/project/sunnyday25/"
 }

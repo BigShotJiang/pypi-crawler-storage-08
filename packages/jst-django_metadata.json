@@ -1,11 +1,11 @@
 {
   "name": "jst-django",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "summary": null,
   "author": "A'zamov Samandar",
   "license": null,
   "home_page": null,
-  "download_filename": "jst_django-4.4.2.tar.gz",
-  "download_time": "2025-10-11T07:18:18.691309",
+  "download_filename": "jst_django-4.4.3.tar.gz",
+  "download_time": "2025-10-11T08:43:35.878263",
   "package_url": "https://pypi.org/project/jst-django/"
 }
