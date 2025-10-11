@@ -1,28 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T13:43:17.526204
-- **Total Packages**: 85
-- **Total Size**: 8.78 MB
+- **Download Time**: 2025-10-11T13:54:25.943815
+- **Total Packages**: 74
+- **Total Size**: 3.93 MB
 
 ## Packages List
+- penguin-tamer
+- airobo
+- yta-video-opengl
+- mathai
+- xiaoya-teacher-mcp-server
+- authentik-client
+- tinui
+- pydmoo
+- unitysvc-services
+- PyPtt
+- icost-app-mcp-server
+- fs.dropboxfs
+- ruurd-photos-ml
+- ae-dev-ops
+- ramifice
+- injectionkit
+- fiuai-sdk-python
+- airbyte-connector-builder-mcp
+- DIYA-Gesture
+- Cirilla
+- py3comtrade
+- linear-ticket-cli
+- ollama-downloader
+- fppull
+- who-installed
+- p6plab-datasage
 - albi0
 - xwquery
 - exonware-xwquery
 - statefun-tasks
 - unknown-data
-- airobo
 - hyperscale-ozone
-- icost-app-mcp-server
 - dnadb
 - radboy
 - haphazard
 - scivianna
-- who-installed
-- penguin-tamer
 - first-breaks-picking
-- authentik-client
-- ruurd-photos-ml
 - merge-insertion
 - ScriptCollection
 - mcp-proxy-adapter
@@ -38,7 +58,6 @@
 - meomaya
 - dagnostics
 - bloodyAD
-- injectionkit
 - xloft
 - Weights-Calc
 - docxtpldjufix
@@ -47,9 +66,7 @@
 - fbgemm-gpu-nightly-cpu
 - react-agent-framework
 - inset
-- pydmoo
 - conforge
-- unitysvc-services
 - mcpcn-office-powerpoint-mcp-server
 - maleo-database
 - gitcli-automation
@@ -58,36 +75,8 @@
 - locust-cloud
 - insurance-predict-mcp
 - mkdocs-note
-- tinui
 - adam-community
 - opengris-scaler
 - CausalEstimate
 - easyrip
 - sdax
-- tilt-ble
-- machineconfig
-- pyscn
-- minitap-mobile-use
-- schema
-- quickbars-bridge
-- spotpython
-- ipfs-tk
-- sun-agent-toolkit
-- wccls
-- asyncmy2
-- dify_plugin
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- viralQC
-- lyricsipsum
-- wisort
-- itk-cudacommon-cuda124
-- itk-cudacommon-cuda121
-- itk-cudacommon-cuda116
-- memokit

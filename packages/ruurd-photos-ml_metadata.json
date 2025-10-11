@@ -1,11 +1,11 @@
 {
   "name": "ruurd-photos-ml",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Some image related machine learning methods, to be used by Ruurd Photos.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ruurd_photos_ml-0.2.0.tar.gz",
-  "download_time": "2025-10-11T13:42:41.429073",
+  "download_filename": "ruurd_photos_ml-0.2.1.tar.gz",
+  "download_time": "2025-10-11T13:53:54.190283",
   "package_url": "https://pypi.org/project/ruurd-photos-ml/"
 }
