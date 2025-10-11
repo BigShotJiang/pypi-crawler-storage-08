@@ -1,11 +1,11 @@
 {
   "name": "exact-clustering",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Find optimal clusterings and optimal hierarchical clusterings.",
   "author": "lumi-a",
   "license": null,
   "home_page": null,
-  "download_filename": "exact_clustering-0.5.0.tar.gz",
-  "download_time": "2025-10-11T17:16:26.572062",
+  "download_filename": "exact_clustering-0.5.1.tar.gz",
+  "download_time": "2025-10-11T17:41:54.516537",
   "package_url": "https://pypi.org/project/exact-clustering/"
 }

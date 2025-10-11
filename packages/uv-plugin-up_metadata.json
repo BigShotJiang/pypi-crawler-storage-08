@@ -1,0 +1,11 @@
+{
+  "name": "uv-plugin-up",
+  "version": "1.0.0",
+  "summary": "uv-plugin-up - is a plugin for automated dependency updates and version bumping in pyproject.toml files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_plugin_up-1.0.0.tar.gz",
+  "download_time": "2025-10-11T17:41:46.393729",
+  "package_url": "https://pypi.org/project/uv-plugin-up/"
+}

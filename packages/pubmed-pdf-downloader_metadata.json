@@ -1,0 +1,11 @@
+{
+  "name": "pubmed-pdf-downloader",
+  "version": "0.1.1",
+  "summary": "A package to download PDFs from PubMed Central using PMCIDs.",
+  "author": "Arun Das",
+  "license": null,
+  "home_page": "https://github.com/arundasan91/pubmed_pdf_downloader",
+  "download_filename": "pubmed_pdf_downloader-0.1.1.tar.gz",
+  "download_time": "2025-10-11T17:41:48.216107",
+  "package_url": "https://pypi.org/project/pubmed-pdf-downloader/"
+}

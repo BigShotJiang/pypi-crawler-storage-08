@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T17:31:39.774664
-- **Total Packages**: 83
-- **Total Size**: 4.07 MB
+- **Download Time**: 2025-10-11T17:42:29.270445
+- **Total Packages**: 80
+- **Total Size**: 7.17 MB
 
 ## Packages List
+- datallog
+- arrowspace
+- hyperquant
+- uv-plugin-up
+- maxapi-python
+- ciscoconfparse2
+- pubmed-pdf-downloader
+- polymo
+- ry-redis-bus
+- authentik-client
+- dogpile.cache
+- exosphere-cli
+- otelize
+- hookx
+- pyconll
+- aiotools
+- exact-clustering
 - morphic
 - muck-out
 - consts-everywhere
@@ -20,7 +37,6 @@
 - auto-subs
 - cobib-zotero
 - pm4mkb
-- authentik-client
 - spring-config-client-python
 - cartesia-line
 - kalyfo-spark-helper
@@ -34,7 +50,6 @@
 - typed-everywhere
 - logbetter
 - cobib
-- ry-redis-bus
 - phoonnx
 - cocina
 - fastapi-slim
@@ -61,7 +76,6 @@
 - wise-agent-toolkit
 - pyinterpolate
 - emcp
-- exact-clustering
 - aiavatar
 - cloudflare-ip-filter
 - cuppa
@@ -72,20 +86,3 @@
 - rh
 - pytest-infrahouse
 - rebop
-- ixcpy
-- allgreen
-- tonal
-- db-mcp
-- axiomos
-- xv
-- moduvent
-- nonebot-plugin-algo
-- phyunit
-- pygator
-- django-jwt-allauth
-- dropboxdol
-- glyph-forge
-- spectroview
-- cogworks
-- lbt-dragonfly
-- dol

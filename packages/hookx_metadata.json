@@ -1,0 +1,11 @@
+{
+  "name": "hookx",
+  "version": "1.0.0",
+  "summary": "Advanced Frappe hooks analyzer and conflict detector",
+  "author": "Sharath Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/thisissharath/hookx",
+  "download_filename": "hookx-1.0.0.tar.gz",
+  "download_time": "2025-10-11T17:41:52.272034",
+  "package_url": "https://pypi.org/project/hookx/"
+}
