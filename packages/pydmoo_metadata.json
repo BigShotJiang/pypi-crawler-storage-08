@@ -1,11 +1,11 @@
 {
   "name": "pydmoo",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "pydmoo",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pydmoo-0.0.7.tar.gz",
-  "download_time": "2025-10-11T13:53:51.567244",
+  "download_filename": "pydmoo-0.0.8.tar.gz",
+  "download_time": "2025-10-11T14:17:05.931682",
   "package_url": "https://pypi.org/project/pydmoo/"
 }

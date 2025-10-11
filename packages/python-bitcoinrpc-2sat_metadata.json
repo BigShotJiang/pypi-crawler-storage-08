@@ -1,0 +1,11 @@
+{
+  "name": "python-bitcoinrpc-2sat",
+  "version": "1.0.0",
+  "summary": "Enhanced version of python-jsonrpc for use with Bitcoin",
+  "author": null,
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "python_bitcoinrpc_2sat-1.0.0.tar.gz",
+  "download_time": "2025-10-11T14:16:49.429574",
+  "package_url": "https://pypi.org/project/python-bitcoinrpc-2sat/"
+}

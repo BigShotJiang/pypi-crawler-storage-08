@@ -1,0 +1,11 @@
+{
+  "name": "discoursemap",
+  "version": "2.0.4",
+  "summary": "Discourse forum security scanner. Written for security professionals and forum administrators.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discoursemap-2.0.4.tar.gz",
+  "download_time": "2025-10-11T14:16:48.845135",
+  "package_url": "https://pypi.org/project/discoursemap/"
+}

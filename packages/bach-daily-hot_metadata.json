@@ -1,11 +1,11 @@
 {
   "name": "bach-daily-hot",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "🔥 基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
   "author": "bachstudio",
   "license": null,
   "home_page": null,
-  "download_filename": "bach_daily_hot-1.7.0.tar.gz",
-  "download_time": "2025-10-11T06:47:20.085325",
+  "download_filename": "bach_daily_hot-1.7.1.tar.gz",
+  "download_time": "2025-10-11T14:16:58.116505",
   "package_url": "https://pypi.org/project/bach-daily-hot/"
 }

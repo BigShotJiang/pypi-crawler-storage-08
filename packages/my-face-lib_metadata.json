@@ -1,0 +1,11 @@
+{
+  "name": "my-face-lib",
+  "version": "0.1.0",
+  "summary": "A lightweight face recognition library without dlib",
+  "author": "Nimalpranav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_face_lib-0.1.0.tar.gz",
+  "download_time": "2025-10-11T14:16:41.732028",
+  "package_url": "https://pypi.org/project/my-face-lib/"
+}
