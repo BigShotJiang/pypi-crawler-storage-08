@@ -1,0 +1,11 @@
+{
+  "name": "mtg_parser",
+  "version": "0.0.1a50",
+  "summary": "Magic: the Gathering decklist parser",
+  "author": "Ludovic Heyberger",
+  "license": null,
+  "home_page": "https://github.com/lheyberger/mtg-parser",
+  "download_filename": "mtg_parser-0.0.1a50.tar.gz",
+  "download_time": "2025-10-11T17:30:56.343287",
+  "package_url": "https://pypi.org/project/mtg_parser/"
+}

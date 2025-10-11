@@ -1,11 +1,11 @@
 {
   "name": "spring-config-client-python",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Lightweight Spring Cloud Config client for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spring_config_client_python-0.1.0.tar.gz",
-  "download_time": "2025-10-11T15:52:28.949259",
+  "download_filename": "spring_config_client_python-0.1.3.tar.gz",
+  "download_time": "2025-10-11T17:31:01.621779",
   "package_url": "https://pypi.org/project/spring-config-client-python/"
 }

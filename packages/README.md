@@ -1,15 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T17:16:56.441941
-- **Total Packages**: 84
-- **Total Size**: 19.94 MB
+- **Download Time**: 2025-10-11T17:31:39.774664
+- **Total Packages**: 83
+- **Total Size**: 4.07 MB
 
 ## Packages List
+- morphic
+- muck-out
+- consts-everywhere
+- attp-client
 - orionis
+- vayuayan
+- mtg_parser
+- openhive
+- adk-mongodb-session
+- pratidoc
+- camel-ai
+- auto-subs
+- cobib-zotero
+- pm4mkb
+- authentik-client
+- spring-config-client-python
+- cartesia-line
+- kalyfo-spark-helper
+- django-cfg
+- alibabacloud-aimiaobi20230801
+- alibabacloud-resourcecenter20221201
+- ocap
+- alibabacloud-hbr20170908
+- ytffmpeg
+- alibabacloud-intelligentcreation20240313
+- typed-everywhere
+- logbetter
+- cobib
+- ry-redis-bus
+- phoonnx
 - cocina
 - fastapi-slim
-- logbetter
 - uvrs
 - fastapi
 - fairbench
@@ -18,7 +46,6 @@
 - biblemate
 - discminer
 - ipfs-tk
-- adk-mongodb-session
 - sage-lib
 - ezga-lib
 - pkgbuild-parser
@@ -26,10 +53,7 @@
 - xync-bot
 - mapfile-parser
 - aiecs
-- kalyfo-spark-helper
 - arthexis
-- authentik-client
-- openhive
 - vega-framework
 - pytidycensus
 - webscraper-lite
@@ -65,28 +89,3 @@
 - cogworks
 - lbt-dragonfly
 - dol
-- mygo-goto
-- spot-planner
-- dragonfly-radiance
-- config2py
-- pyrobale
-- dragonfly-energy
-- loxodo-curses
-- logly
-- sakuragasaki46-suou
-- suou
-- pyqsm
-- py-consistent-formatter
-- pydantic-serializable
-- pysiglib
-- azpaddypy
-- lorann
-- dragonfly-core
-- radio-curses
-- pulumi-xyz
-- vt-commons
-- b1ddi
-- dreamer4
-- mgraph-ai-service-cache
-- auv
-- codexpydec

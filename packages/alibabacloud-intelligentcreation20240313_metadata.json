@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-intelligentcreation20240313",
+  "version": "2.16.0",
+  "summary": "Alibaba Cloud IntelligentCreation (20240313) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_intelligentcreation20240313-2.16.0.tar.gz",
+  "download_time": "2025-10-11T17:31:07.661835",
+  "package_url": "https://pypi.org/project/alibabacloud-intelligentcreation20240313/"
+}
