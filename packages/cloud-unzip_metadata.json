@@ -1,0 +1,11 @@
+{
+  "name": "cloud-unzip",
+  "version": "0.1.4",
+  "summary": "python script to extract files from remote ZIP archives without downloading the entire archive",
+  "author": "rhythmcache",
+  "license": null,
+  "home_page": "https://github.com/rhythmcache/cloud_unzip",
+  "download_filename": "cloud_unzip-0.1.4.tar.gz",
+  "download_time": "2025-10-11T16:23:03.014904",
+  "package_url": "https://pypi.org/project/cloud-unzip/"
+}

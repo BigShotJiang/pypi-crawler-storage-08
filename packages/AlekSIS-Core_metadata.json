@@ -1,0 +1,11 @@
+{
+  "name": "AlekSIS-Core",
+  "version": "4.0.4",
+  "summary": "AlekSIS (School Information System) — Core",
+  "author": "Dominik George",
+  "license": "EUPL-1.2-or-later",
+  "home_page": "https://aleksis.org",
+  "download_filename": "aleksis_core-4.0.4.tar.gz",
+  "download_time": "2025-10-11T16:22:29.261635",
+  "package_url": "https://pypi.org/project/AlekSIS-Core/"
+}

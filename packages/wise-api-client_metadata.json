@@ -1,11 +1,11 @@
 {
   "name": "wise-api-client",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "(TransferWise) Wise Platform API",
   "author": "Max Ploter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wise_api_client-0.4.0.tar.gz",
-  "download_time": "2025-10-11T14:31:25.766507",
+  "download_filename": "wise_api_client-0.5.0.tar.gz",
+  "download_time": "2025-10-11T16:22:36.980530",
   "package_url": "https://pypi.org/project/wise-api-client/"
 }

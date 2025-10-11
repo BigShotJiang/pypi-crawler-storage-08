@@ -1,0 +1,11 @@
+{
+  "name": "senpwai",
+  "version": "2.1.17",
+  "summary": "A desktop app for tracking and batch downloading anime",
+  "author": "SenZmaKi",
+  "license": "GPL v3",
+  "home_page": "https://github.com/SenZmaKi/Senpwai",
+  "download_filename": "senpwai-2.1.17.tar.gz",
+  "download_time": "2025-10-11T16:22:57.318993",
+  "package_url": "https://pypi.org/project/senpwai/"
+}

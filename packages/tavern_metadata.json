@@ -1,0 +1,11 @@
+{
+  "name": "tavern",
+  "version": "3.0.0",
+  "summary": "Simple testing of RESTful APIs",
+  "author": "Michael Boulton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tavern-3.0.0.tar.gz",
+  "download_time": "2025-10-11T16:22:34.419304",
+  "package_url": "https://pypi.org/project/tavern/"
+}

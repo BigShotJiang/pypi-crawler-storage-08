@@ -1,0 +1,11 @@
+{
+  "name": "pmtiles_mosaic",
+  "version": "0.1.6",
+  "summary": "Tools to partition and rejoin PMTiles files as mosaics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmtiles_mosaic-0.1.6.tar.gz",
+  "download_time": "2025-10-11T16:22:55.748980",
+  "package_url": "https://pypi.org/project/pmtiles_mosaic/"
+}
