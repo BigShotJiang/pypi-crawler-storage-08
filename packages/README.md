@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T11:28:05.506691
+- **Download Time**: 2025-10-11T11:40:32.188031
 - **Total Packages**: 87
-- **Total Size**: 16.01 MB
+- **Total Size**: 2.75 MB
 
 ## Packages List
+- starlette-admin-beanie-backend
+- numero-a-letras
+- mwfilter
+- notion2pandas
+- scalebox-sdk
+- kreuzberg
+- mcp-proxy-adapter
+- textual-utils
+- authentik-client
+- wssf
+- vega-framework
+- ohmyapi
+- machineconfig
+- codeaudit
+- eldar-calculator-eliyev
+- yquoter
+- colander-data-converter
+- taskiq-faststream
+- tenzir-test
 - torchx-nightly
 - spaceship-engine
 - tts-webui-extension.songbloom
@@ -13,10 +32,8 @@
 - torchft-nightly
 - torch-operation-counter
 - tts-webui.songbloom
-- mcp-proxy-adapter
 - aiwebexplorer
 - frappeye
-- authentik-client
 - videosdk-plugins-turn-detector
 - videosdk-plugins-speechify
 - videosdk-plugins-smallestai
@@ -69,7 +86,6 @@
 - spot-planner
 - xwnode
 - exonware-xwnode
-- eldar-calculator-eliyev
 - xwsystem
 - exonware-xwsystem
 - tb-nightly
@@ -77,19 +93,3 @@
 - maleo-schemas
 - os-forge
 - masumi
-- html-to-markdown
-- jonas
-- hogpp
-- agentsystems-sdk
-- machineconfig
-- bizydraft
-- ohmyapi
-- clselove
-- light-dataloader
-- pyurlquerycli
-- penguin-tamer
-- Python-EasyGraph
-- mapillary-downloader
-- codehealthanalyzer
-- hfutils
-- hyperscale-ozone

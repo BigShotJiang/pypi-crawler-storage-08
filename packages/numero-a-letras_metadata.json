@@ -1,0 +1,11 @@
+{
+  "name": "numero-a-letras",
+  "version": "0.0.6",
+  "summary": "Convierte un número a letras en español",
+  "author": "Eugenio",
+  "license": "MIT",
+  "home_page": "https://github.com/lugezz/numero_a_letras_literal",
+  "download_filename": "numero_a_letras-0.0.6.tar.gz",
+  "download_time": "2025-10-11T11:39:46.796404",
+  "package_url": "https://pypi.org/project/numero-a-letras/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wssf",
+  "version": "6.0.0",
+  "summary": "Wenshushu Enhanced CLI Tool - A feature-rich command-line tool for file sharing",
+  "author": "JianMoP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wssf-6.0.0.tar.gz",
+  "download_time": "2025-10-11T11:39:51.763808",
+  "package_url": "https://pypi.org/project/wssf/"
+}

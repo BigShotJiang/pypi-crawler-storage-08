@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-faststream",
+  "version": "0.3.0",
+  "summary": "FastStream - taskiq integration to schedule FastStream tasks",
+  "author": "Taskiq team, Nikita Pastukhov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskiq_faststream-0.3.0.tar.gz",
+  "download_time": "2025-10-11T11:39:56.272928",
+  "package_url": "https://pypi.org/project/taskiq-faststream/"
+}
