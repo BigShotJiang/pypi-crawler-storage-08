@@ -1,0 +1,11 @@
+{
+  "name": "sfs",
+  "version": "0.6.3",
+  "summary": "Sound Field Synthesis Toolbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfs-0.6.3.tar.gz",
+  "download_time": "2025-10-11T15:39:09.936299",
+  "package_url": "https://pypi.org/project/sfs/"
+}

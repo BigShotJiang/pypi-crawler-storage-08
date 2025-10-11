@@ -1,11 +1,11 @@
 {
   "name": "draft-basic",
-  "version": "0.16.3",
+  "version": "0.16.4",
   "summary": "machine learning third-party library made by ycsyrc",
   "author": "ycsyrc",
   "license": "Apache-2.0 license",
   "home_page": "https://github.com/ycsyrc-official/draft-basic",
-  "download_filename": "draft-basic-0.16.3.tar.gz",
-  "download_time": "2025-10-11T15:17:43.122796",
+  "download_filename": "draft-basic-0.16.4.tar.gz",
+  "download_time": "2025-10-11T15:38:48.135352",
   "package_url": "https://pypi.org/project/draft-basic/"
 }

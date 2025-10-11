@@ -1,0 +1,11 @@
+{
+  "name": "yt-chap",
+  "version": "0.3.0",
+  "summary": "CLI tool to display YouTube chapters using yt-dlp",
+  "author": "Mallik Mohammad Musaddiq",
+  "license": null,
+  "home_page": "https://github.com/mallikmusaddiq1/yt-chap",
+  "download_filename": "yt_chap-0.3.0.tar.gz",
+  "download_time": "2025-10-11T15:39:08.161653",
+  "package_url": "https://pypi.org/project/yt-chap/"
+}

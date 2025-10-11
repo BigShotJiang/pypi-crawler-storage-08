@@ -1,0 +1,11 @@
+{
+  "name": "ssh2-python",
+  "version": "1.2.0",
+  "summary": "Bindings for libssh2 C library",
+  "author": "Panos Kittenis",
+  "license": "LGPL-2.1-only",
+  "home_page": "https://github.com/ParallelSSH/ssh2-python",
+  "download_filename": "ssh2_python-1.2.0.tar.gz",
+  "download_time": "2025-10-11T15:38:55.618359",
+  "package_url": "https://pypi.org/project/ssh2-python/"
+}

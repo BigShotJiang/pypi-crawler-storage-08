@@ -1,13 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T15:18:29.163214
-- **Total Packages**: 79
-- **Total Size**: 9.85 MB
+- **Download Time**: 2025-10-11T15:39:31.018885
+- **Total Packages**: 77
+- **Total Size**: 23.87 MB
 
 ## Packages List
+- expression-parser
+- auv
+- premai
+- simple-openai
+- pydsstools
+- telepact-cli
+- fbnconfig
+- telepact
+- clud
 - draft-basic
+- ctitools
+- kalyfo-libs-spark-helper
 - frappeye
+- langbot-plugin
+- pbesa
+- mlflow-mcp
+- mrsal
+- svg-path-editor
+- abovo
+- furry-parakeet
+- antback
+- ssh2-python
+- authentik-client
+- liger-kernel-nightly
+- envdot
+- cogworks
+- tacocompression
+- pyhannom
+- locisimiles
+- picoagents
+- uniovi-simur-wearablepermed-pipeline
+- vega-framework
+- brython
+- ghai-cli
+- orionis
+- cattle_grid
+- astroid
+- django-cfg
+- auto-subs
+- reminiscence
+- jarvis-ai-assistant
+- yt-chap
+- hyperquant
+- ytdlp-servustv
+- sfs
+- faststream
+- uproot-custom
+- django-contact-us-tools
+- inoopa_utils
+- rebel-forge
 - my_package_byteorium
 - aioamazondevices
 - pulumi-materialize
@@ -19,69 +67,19 @@
 - pyrogrammod
 - async-event-bus
 - mkflow-engine
-- picoagents
 - rushclis
 - azpaddypy
 - xueqiu-mcp
 - saigon-py
 - mcp-proxy-adapter
 - quickbars-bridge
-- pyhannom
 - async-loki-handler
 - HMAP-tool
 - llamonitor-async
 - vappman
-- authentik-client
 - ontolutils
 - cnfc
-- inoopa_utils
 - rushlib
 - rss-downloader
 - pyviser
 - novita-sandbox
-- Class163-NexT
-- odoo-addon-l10n-br-fiscal
-- snuffled
-- icost-app-mcp-server
-- hcom
-- githubcontribs
-- reqman
-- peakrdl-rust
-- whatsupbraeker
-- e4a
-- kusosort
-- pygdst
-- explain-cli
-- discoursemap
-- github-contrib-view
-- masai-framework
-- indexage
-- pylizlib
-- dishka-faststream
-- uharfbuzz
-- stringsight
-- mathai
-- wise-api-client
-- bitcoinwatcher
-- imgcmprs
-- t2string
-- plugwise
-- dron
-- docker-image-pin
-- filesystem-dict
-- python-bitcoinrpc-2sat
-- cdk-code-server
-- buildzr
-- cdk-private-s3-hosting
-- cdk-vpc-endpoint-with-private-ip
-- sollol
-- agenticaiframework
-- airobo
-- cdk-preinstalled-amazon-linux-ec2
-- locisimiles
-- anilibria-api-client
-- webscout
-- guacalib
-- tiferet-fast
-- web-sand
-- sierra-research

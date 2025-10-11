@@ -1,0 +1,11 @@
+{
+  "name": "ytdlp-servustv",
+  "version": "2025.10.11",
+  "summary": "yt-dlp extractor for servustv.com",
+  "author": "flashdagger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytdlp_servustv-2025.10.11-py3-none-any.whl",
+  "download_time": "2025-10-11T15:39:09.327170",
+  "package_url": "https://pypi.org/project/ytdlp-servustv/"
+}

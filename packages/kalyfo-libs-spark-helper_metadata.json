@@ -1,0 +1,11 @@
+{
+  "name": "kalyfo-libs-spark-helper",
+  "version": "0.1.1",
+  "summary": "A Spark helper class to create and configure optimized Spark sessions with Delta Lake support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kalyfo_libs_spark_helper-0.1.1.tar.gz",
+  "download_time": "2025-10-11T15:38:49.316996",
+  "package_url": "https://pypi.org/project/kalyfo-libs-spark-helper/"
+}
