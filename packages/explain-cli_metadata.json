@@ -1,0 +1,11 @@
+{
+  "name": "explain-cli",
+  "version": "1.0.4",
+  "summary": "Explain repo state with Claude Code or Gemini CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "explain_cli-1.0.4.tar.gz",
+  "download_time": "2025-10-11T14:42:43.170321",
+  "package_url": "https://pypi.org/project/explain-cli/"
+}
