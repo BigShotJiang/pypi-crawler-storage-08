@@ -1,0 +1,11 @@
+{
+  "name": "claude-remote",
+  "version": "0.1.1",
+  "summary": "Sync local Claude Code environments to remote machines",
+  "author": "Gokul Ganesan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_remote-0.1.1.tar.gz",
+  "download_time": "2025-10-11T09:19:32.232627",
+  "package_url": "https://pypi.org/project/claude-remote/"
+}

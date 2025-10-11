@@ -1,0 +1,11 @@
+{
+  "name": "tzfpy",
+  "version": "1.0.1",
+  "summary": "Probably the fastest Python package to convert longitude/latitude to timezone name",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tzfpy-1.0.1.tar.gz",
+  "download_time": "2025-10-11T09:19:39.570859",
+  "package_url": "https://pypi.org/project/tzfpy/"
+}

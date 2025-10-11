@@ -1,11 +1,11 @@
 {
   "name": "create-prism-mockserver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI utility for setting up manifests which can be consumer by prism-mockerserver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "create_prism_mockserver-0.1.0.tar.gz",
-  "download_time": "2025-10-11T08:43:36.901300",
+  "download_filename": "create_prism_mockserver-0.1.1.tar.gz",
+  "download_time": "2025-10-11T09:19:26.464222",
   "package_url": "https://pypi.org/project/create-prism-mockserver/"
 }

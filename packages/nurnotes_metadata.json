@@ -1,0 +1,11 @@
+{
+  "name": "nurnotes",
+  "version": "0.1.0",
+  "summary": "Risale-i Nur cümlələrinin izahını verən sadə Python kitabxanası",
+  "author": "Eldar Eliyev",
+  "license": null,
+  "home_page": "https://github.com/username/nurnotes",
+  "download_filename": "nurnotes-0.1.0.tar.gz",
+  "download_time": "2025-10-11T09:19:21.278405",
+  "package_url": "https://pypi.org/project/nurnotes/"
+}

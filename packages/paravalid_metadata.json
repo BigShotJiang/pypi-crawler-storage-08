@@ -1,0 +1,11 @@
+{
+  "name": "paravalid",
+  "version": "0.1.0",
+  "summary": "Parallel validation and serialization for Python 3.13+",
+  "author": "yoon-yoo-sang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paravalid-0.1.0.tar.gz",
+  "download_time": "2025-10-11T09:19:45.867126",
+  "package_url": "https://pypi.org/project/paravalid/"
+}
