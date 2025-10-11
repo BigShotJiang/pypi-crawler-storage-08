@@ -1,20 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T19:26:11.075476
+- **Download Time**: 2025-10-11T19:39:27.512151
 - **Total Packages**: 82
-- **Total Size**: 4.63 MB
+- **Total Size**: 28.81 MB
 
 ## Packages List
+- pyrogrammod
+- claude-goblin
+- epic-utils
+- glass-script
+- pyoxigraph
+- authentik-client
 - breadcrumb
+- oxigraph
+- wavepacket
+- ggx
+- jellyfish
+- arcgis2geojson
+- pydts
+- mtbase
+- perdoo
+- resume-markdown
+- persidict
+- defermi
+- bloodyAD
+- mcp-windbg
+- kubernator
+- vayuayan
+- jmstate
+- litellm
+- pytest-jira-xray
+- rockerc
+- junjo
+- docker-captain
+- govee-ble
 - purplekoala
 - code-puppy
 - ssc_codegen
-- authentik-client
 - ai-mcp-terminal
 - parameterizable
 - CliSelf
-- defermi
 - mathai
 - kwark
 - rusaint
@@ -23,11 +49,9 @@
 - eitps
 - cdklabs.cdk-appflow
 - gb-io
-- ggx
 - dj-redis-panel
 - aiovodafone
 - nanonis-xarray
-- pydts
 - diblob
 - uvrs
 - suap-pnp-ccv
@@ -52,7 +76,6 @@
 - auto-subs
 - penguin-tamer
 - step-cli-tools
-- docker-captain
 - restiny
 - FlaskAPIServer
 - patchllm
@@ -65,26 +88,3 @@
 - ganicas-package
 - ktoolkit
 - modulitiz-mini
-- reyserver
-- reykit
-- sleipnirgroup-jormungandr
-- graph-games-proto
-- oduit
-- plato-learn
-- verify-diff-viewer
-- biofiles
-- alembic
-- qolsys-controller
-- attp-client
-- pyopenapi-gen
-- limber-timber
-- nlplite
-- rust-pyfunc
-- glitchlings
-- payman-zarinpal
-- bizy-ai
-- kreuzberg
-- pyrmute
-- claude-goblin
-- GNServer
-- modulitiz-micro
