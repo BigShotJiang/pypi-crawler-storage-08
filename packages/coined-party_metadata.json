@@ -1,11 +1,11 @@
 {
   "name": "coined-party",
-  "version": "0.0.0a2",
+  "version": "0.0.0a5",
   "summary": "A text based party game that will soon destroy nintendo party games (cuz there's no way I even come close to BOTW).",
   "author": null,
   "license": "Copyright (c) 2025 Yoosif Alquwatly\n        \n        All rights reserved.\n        \n        You are allowed to:\n        - Download and use this project for personal or educational purposes.\n        - Record gameplay footage and share or post it online, with credit to the author.\n        \n        You are NOT allowed to:\n        - Modify, copy, distribute, or sell this project or its source code.\n        - Claim this project as your own.\n        - Use this project for commercial purposes.\n        \n        For any permissions beyond these, you must contact the author.",
   "home_page": null,
-  "download_filename": "coined_party-0.0.0a2.tar.gz",
-  "download_time": "2025-10-11T06:47:29.291591",
+  "download_filename": "coined_party-0.0.0a5.tar.gz",
+  "download_time": "2025-10-11T07:18:13.980103",
   "package_url": "https://pypi.org/project/coined-party/"
 }

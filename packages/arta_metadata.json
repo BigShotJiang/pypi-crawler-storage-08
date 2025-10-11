@@ -1,0 +1,11 @@
+{
+  "name": "arta",
+  "version": "0.11.0",
+  "summary": "A Python Rules Engine - Make rule handling simple",
+  "author": "develop-cs, HugoPerrier, MathisNcl",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "arta-0.11.0.tar.gz",
+  "download_time": "2025-10-11T07:18:10.364144",
+  "package_url": "https://pypi.org/project/arta/"
+}

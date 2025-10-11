@@ -1,0 +1,11 @@
+{
+  "name": "markitdown-docx-image-plugin",
+  "version": "0.1.0",
+  "summary": "将Word文档中的图片提取到目录中，并在Markdown中使用相对路径引用",
+  "author": "Fengyun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markitdown_docx_image_plugin-0.1.0.tar.gz",
+  "download_time": "2025-10-11T07:18:18.179095",
+  "package_url": "https://pypi.org/project/markitdown-docx-image-plugin/"
+}

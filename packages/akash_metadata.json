@@ -1,0 +1,11 @@
+{
+  "name": "akash",
+  "version": "0.6.0",
+  "summary": "Python SDK for Akash Network - interact with the blockchain and deploy and manage workloads on the decentralized cloud",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "akash-0.6.0.tar.gz",
+  "download_time": "2025-10-11T07:18:04.168286",
+  "package_url": "https://pypi.org/project/akash/"
+}

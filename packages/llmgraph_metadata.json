@@ -1,0 +1,11 @@
+{
+  "name": "llmgraph",
+  "version": "1.4.0",
+  "summary": "Create knowledge graphs with LLMs",
+  "author": "Dylan Hogg",
+  "license": "MIT",
+  "home_page": "https://github.com/dylanhogg/llmgraph",
+  "download_filename": "llmgraph-1.4.0.tar.gz",
+  "download_time": "2025-10-11T07:18:28.977013",
+  "package_url": "https://pypi.org/project/llmgraph/"
+}
