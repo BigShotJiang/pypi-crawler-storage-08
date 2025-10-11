@@ -1,11 +1,11 @@
 {
   "name": "sdax",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A lightweight, high-performance, in-process micro-orchestrator for structured, declarative, and parallel asynchronous tasks in Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sdax-0.1.1.tar.gz",
-  "download_time": "2025-10-11T13:31:59.964971",
+  "download_filename": "sdax-0.2.0.tar.gz",
+  "download_time": "2025-10-11T23:39:30.792948",
   "package_url": "https://pypi.org/project/sdax/"
 }
