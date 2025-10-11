@@ -1,11 +1,11 @@
 {
   "name": "frappeye",
-  "version": "1.1.1",
+  "version": "1.1.6",
   "summary": "Advanced Frappe hooks analyzer and conflict detector",
   "author": "Sharath Kumar",
   "license": "MIT",
   "home_page": "https://github.com/thisissharath/frappeye",
-  "download_filename": "frappeye-1.1.1.tar.gz",
-  "download_time": "2025-10-11T11:27:25.033823",
+  "download_filename": "frappeye-1.1.6.tar.gz",
+  "download_time": "2025-10-11T15:17:44.201746",
   "package_url": "https://pypi.org/project/frappeye/"
 }

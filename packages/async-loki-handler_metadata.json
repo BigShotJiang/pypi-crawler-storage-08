@@ -1,11 +1,11 @@
 {
   "name": "async-loki-handler",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Handler для библиотек logging и loguru для отправки логов в Loki, поддерживает ассинхронную отправку батчами в отличии от конкрутенов",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "async_loki_handler-0.0.4.tar.gz",
-  "download_time": "2025-10-10T20:41:21.968436",
+  "download_filename": "async_loki_handler-0.0.7.tar.gz",
+  "download_time": "2025-10-11T15:17:56.194446",
   "package_url": "https://pypi.org/project/async-loki-handler/"
 }

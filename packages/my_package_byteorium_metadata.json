@@ -1,0 +1,11 @@
+{
+  "name": "my_package_byteorium",
+  "version": "0.1.6",
+  "summary": "Python project template for building robust, modern, and clean Python projects.",
+  "author": "mab0189",
+  "license": "MIT",
+  "home_page": "https://github.com/mab0189/python_project_template_byteorium",
+  "download_filename": "my_package_byteorium-0.1.6.tar.gz",
+  "download_time": "2025-10-11T15:17:44.741606",
+  "package_url": "https://pypi.org/project/my_package_byteorium/"
+}

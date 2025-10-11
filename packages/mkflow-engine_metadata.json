@@ -1,0 +1,11 @@
+{
+  "name": "mkflow-engine",
+  "version": "1.0.0",
+  "summary": "基于六大原则的IDE Agent工作流引擎",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkflow_engine-1.0.0.tar.gz",
+  "download_time": "2025-10-11T15:17:50.364020",
+  "package_url": "https://pypi.org/project/mkflow-engine/"
+}

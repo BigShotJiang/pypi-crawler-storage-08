@@ -1,0 +1,11 @@
+{
+  "name": "async-event-bus",
+  "version": "0.4.0",
+  "summary": "A simple python event bus for python3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "async_event_bus-0.4.0.tar.gz",
+  "download_time": "2025-10-11T15:17:49.791920",
+  "package_url": "https://pypi.org/project/async-event-bus/"
+}
