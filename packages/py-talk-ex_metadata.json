@@ -1,0 +1,11 @@
+{
+  "name": "py-talk-ex",
+  "version": "1.6.1",
+  "summary": "a simple but powerful pythonic library for making bots for the TeamTalk5 Conferencing System",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_talk_ex-1.6.1.tar.gz",
+  "download_time": "2025-10-11T21:40:38.632641",
+  "package_url": "https://pypi.org/project/py-talk-ex/"
+}

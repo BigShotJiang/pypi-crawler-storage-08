@@ -1,11 +1,11 @@
 {
   "name": "keplerio",
-  "version": "0.9.14",
+  "version": "0.9.15",
   "summary": "A PySpark utility for managing partitioned Apache Iceberg tables.",
   "author": "bahaeddine feriani",
   "license": null,
   "home_page": "https://github.com/Tanitlab-SAS/keplerio.git",
-  "download_filename": "keplerio-0.9.14.tar.gz",
-  "download_time": "2025-10-11T21:29:54.982991",
+  "download_filename": "keplerio-0.9.15.tar.gz",
+  "download_time": "2025-10-11T21:40:36.968879",
   "package_url": "https://pypi.org/project/keplerio/"
 }

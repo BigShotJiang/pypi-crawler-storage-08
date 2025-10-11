@@ -1,0 +1,11 @@
+{
+  "name": "alphaquant-db",
+  "version": "1.0.9",
+  "summary": "Async MongoDB client using Motor for Alphaquant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphaquant_db-1.0.9.tar.gz",
+  "download_time": "2025-10-11T21:40:37.512618",
+  "package_url": "https://pypi.org/project/alphaquant-db/"
+}

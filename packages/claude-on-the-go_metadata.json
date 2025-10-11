@@ -1,0 +1,11 @@
+{
+  "name": "claude-on-the-go",
+  "version": "1.0.0",
+  "summary": "Access Claude Code CLI from your mobile device over WiFi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_on_the_go-1.0.0.tar.gz",
+  "download_time": "2025-10-11T21:40:45.785969",
+  "package_url": "https://pypi.org/project/claude-on-the-go/"
+}
