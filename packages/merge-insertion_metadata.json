@@ -1,11 +1,11 @@
 {
   "name": "merge-insertion",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "The merge-insertion sort (aka the Ford-Johnson algorithm) is optimized for using few comparisons.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "merge_insertion-1.0.0.tar.gz",
-  "download_time": "2025-10-11T13:05:18.304958",
+  "download_filename": "merge_insertion-1.1.0.tar.gz",
+  "download_time": "2025-10-11T13:42:41.947769",
   "package_url": "https://pypi.org/project/merge-insertion/"
 }

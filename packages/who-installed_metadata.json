@@ -1,0 +1,11 @@
+{
+  "name": "who-installed",
+  "version": "1.0.0",
+  "summary": "Find out who installed your cli tools",
+  "author": "Tamir Bahar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "who_installed-1.0.0.tar.gz",
+  "download_time": "2025-10-11T13:42:39.255061",
+  "package_url": "https://pypi.org/project/who-installed/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "albi0",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Plugin-based Unity Asset Extractor",
   "author": "Nattsu39",
   "license": null,
   "home_page": null,
-  "download_filename": "albi0-0.4.0.tar.gz",
-  "download_time": "2025-10-07T13:46:18.073287",
+  "download_filename": "albi0-0.4.1.tar.gz",
+  "download_time": "2025-10-11T13:42:32.910997",
   "package_url": "https://pypi.org/project/albi0/"
 }
