@@ -1,27 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T19:39:27.512151
-- **Total Packages**: 82
-- **Total Size**: 28.81 MB
+- **Download Time**: 2025-10-11T19:53:29.845931
+- **Total Packages**: 79
+- **Total Size**: 3.14 MB
 
 ## Packages List
+- pywidgy
+- cb-events
+- npyplotter
+- ruffsack
+- tslumd
+- authentik-client
+- keeks
+- ai-mcp-terminal
+- glass-script
+- coloredstrings
+- fountains
+- directkeys
+- mathai
+- remnawave
+- rabbit-ai-cli
+- ragmax
+- ggx
+- iatoolkit
+- breadcrumb
+- resume-markdown
+- grafana-dashboard-builder
+- tiny-recursive-model
+- junjo
+- adam-atan2-pytorch
+- svc-infra
+- hyperquant
+- warp-beacon
 - pyrogrammod
 - claude-goblin
 - epic-utils
-- glass-script
 - pyoxigraph
-- authentik-client
-- breadcrumb
 - oxigraph
 - wavepacket
-- ggx
 - jellyfish
 - arcgis2geojson
 - pydts
 - mtbase
 - perdoo
-- resume-markdown
 - persidict
 - defermi
 - bloodyAD
@@ -32,16 +54,13 @@
 - litellm
 - pytest-jira-xray
 - rockerc
-- junjo
 - docker-captain
 - govee-ble
 - purplekoala
 - code-puppy
 - ssc_codegen
-- ai-mcp-terminal
 - parameterizable
 - CliSelf
-- mathai
 - kwark
 - rusaint
 - wordwrap
@@ -66,25 +85,3 @@
 - pygekko
 - allgreen
 - linux-buddy
-- cdp-use
-- axiomos
-- devious
-- conforge
-- prseq
-- wizlib
-- promnesia
-- auto-subs
-- penguin-tamer
-- step-cli-tools
-- restiny
-- FlaskAPIServer
-- patchllm
-- hkjc
-- etl-watcher-sdk
-- modulitiz
-- warp-beacon
-- duckdb-upgrade
-- pyconll
-- ganicas-package
-- ktoolkit
-- modulitiz-mini

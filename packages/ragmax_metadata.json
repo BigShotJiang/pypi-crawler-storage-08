@@ -1,0 +1,11 @@
+{
+  "name": "ragmax",
+  "version": "1.0.0",
+  "summary": "RAGMax - Advanced RAG memory system for AI platforms via MCP",
+  "author": "Vish Siddharth",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ragmax",
+  "download_filename": "ragmax-1.0.0.tar.gz",
+  "download_time": "2025-10-11T19:52:55.424222",
+  "package_url": "https://pypi.org/project/ragmax/"
+}

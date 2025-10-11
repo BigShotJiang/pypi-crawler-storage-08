@@ -1,11 +1,11 @@
 {
   "name": "glass-script",
-  "version": "0.5.0",
+  "version": "0.9.0",
   "summary": "GlassScript is a structured markup language.",
   "author": "splot.dev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glass_script-0.5.0.tar.gz",
-  "download_time": "2025-10-11T19:38:45.444037",
+  "download_filename": "glass_script-0.9.0.tar.gz",
+  "download_time": "2025-10-11T19:52:51.613656",
   "package_url": "https://pypi.org/project/glass-script/"
 }

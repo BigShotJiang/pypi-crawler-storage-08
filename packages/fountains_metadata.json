@@ -1,0 +1,11 @@
+{
+  "name": "fountains",
+  "version": "3.0.1",
+  "summary": "Python library for generating and concisely specifying reproducible pseudorandom binary data for unit testing.",
+  "author": "Andrei Lapets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fountains-3.0.1.tar.gz",
+  "download_time": "2025-10-11T19:52:52.703918",
+  "package_url": "https://pypi.org/project/fountains/"
+}

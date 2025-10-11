@@ -1,0 +1,11 @@
+{
+  "name": "rabbit-ai-cli",
+  "version": "0.0.5",
+  "summary": "A tiny, extensible AI CLI for terminal workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rabbit_ai_cli-0.0.5.tar.gz",
+  "download_time": "2025-10-11T19:52:54.878608",
+  "package_url": "https://pypi.org/project/rabbit-ai-cli/"
+}
