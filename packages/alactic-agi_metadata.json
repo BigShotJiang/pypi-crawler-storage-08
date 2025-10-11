@@ -1,0 +1,11 @@
+{
+  "name": "alactic-agi",
+  "version": "1.0.0",
+  "summary": "Enterprise AI Dataset Processing Platform - Scalable data acquisition, validation, and structuring with production-ready monitoring",
+  "author": "Yash Parashar",
+  "license": "MIT",
+  "home_page": "https://github.com/AlacticAI/alactic-agi",
+  "download_filename": "alactic_agi-1.0.0.tar.gz",
+  "download_time": "2025-10-11T11:16:08.871729",
+  "package_url": "https://pypi.org/project/alactic-agi/"
+}

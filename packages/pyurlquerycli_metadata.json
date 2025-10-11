@@ -1,0 +1,11 @@
+{
+  "name": "pyurlquerycli",
+  "version": "1.5",
+  "summary": "A simple Python script to interact with urlquery.net APIs from CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyurlquerycli-1.5.tar.gz",
+  "download_time": "2025-10-11T11:16:03.560153",
+  "package_url": "https://pypi.org/project/pyurlquerycli/"
+}
