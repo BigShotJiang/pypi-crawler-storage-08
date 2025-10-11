@@ -1,0 +1,11 @@
+{
+  "name": "nlplite",
+  "version": "0.2.0",
+  "summary": "Fast lightweight NLP library for concept and segment extraction with negation/uncertainty detection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlplite-0.2.0.tar.gz",
+  "download_time": "2025-10-11T18:55:17.003500",
+  "package_url": "https://pypi.org/project/nlplite/"
+}

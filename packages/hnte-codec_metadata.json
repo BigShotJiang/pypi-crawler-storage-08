@@ -1,0 +1,11 @@
+{
+  "name": "hnte-codec",
+  "version": "2.0.0",
+  "summary": "HNTE compressed & encrypted file format codec, takes less space than usual text files.(花のテクストエクステンション　－ Hana no Text Extension)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hnte_codec-2.0.0.tar.gz",
+  "download_time": "2025-10-11T18:55:30.763921",
+  "package_url": "https://pypi.org/project/hnte-codec/"
+}

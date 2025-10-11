@@ -1,0 +1,11 @@
+{
+  "name": "bullcrypt",
+  "version": "0.0.1",
+  "summary": "Bulk decryption",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bullcrypt-0.0.1.tar.gz",
+  "download_time": "2025-10-11T18:55:31.278715",
+  "package_url": "https://pypi.org/project/bullcrypt/"
+}

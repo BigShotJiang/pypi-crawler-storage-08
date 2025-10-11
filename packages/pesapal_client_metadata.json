@@ -1,0 +1,11 @@
+{
+  "name": "pesapal_client",
+  "version": "0.1.5",
+  "summary": "A Typed Python client for the Pesapal API with sync/async support, order submission, IPN management, and optional CLI tools.",
+  "author": "Ibrahim Kirabo",
+  "license": null,
+  "home_page": "https://github.com/kiraboibrahim/pesapal-client",
+  "download_filename": "pesapal_client-0.1.5.tar.gz",
+  "download_time": "2025-10-11T18:55:24.208484",
+  "package_url": "https://pypi.org/project/pesapal_client/"
+}
