@@ -1,0 +1,11 @@
+{
+  "name": "mloggerai",
+  "version": "0.0.0.dev7",
+  "summary": "MLoggerAI: AI-powered Python traceback analyzer",
+  "author": "Mirko Perrone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mloggerai-0.0.0.dev7.tar.gz",
+  "download_time": "2025-10-11T10:52:28.303925",
+  "package_url": "https://pypi.org/project/mloggerai/"
+}

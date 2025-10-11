@@ -1,0 +1,11 @@
+{
+  "name": "PolyY",
+  "version": "0.1.1",
+  "summary": "A Multi Y axis Plotting Library based on Plotly",
+  "author": "Nashat Jumaah Omar",
+  "license": null,
+  "home_page": "https://github.com/Nashat90/",
+  "download_filename": "polyy-0.1.1.tar.gz",
+  "download_time": "2025-10-11T10:52:30.581059",
+  "package_url": "https://pypi.org/project/PolyY/"
+}

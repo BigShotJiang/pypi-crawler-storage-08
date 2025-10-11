@@ -1,11 +1,11 @@
 {
   "name": "licomp-toolkit",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "summary": "Simple command line tool to check compatibility between two licenses, given context ",
   "author": "Henrik Sanklef",
   "license": null,
   "home_page": "https://github.com/hesa/licomp-toolkit",
-  "download_filename": "licomp_toolkit-0.5.9.tar.gz",
-  "download_time": "2025-10-07T21:51:34.004859",
+  "download_filename": "licomp_toolkit-0.5.10.tar.gz",
+  "download_time": "2025-10-11T10:52:34.031635",
   "package_url": "https://pypi.org/project/licomp-toolkit/"
 }

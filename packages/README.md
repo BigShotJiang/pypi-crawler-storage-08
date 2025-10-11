@@ -1,23 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T10:42:33.544141
-- **Total Packages**: 91
-- **Total Size**: 4.71 MB
+- **Download Time**: 2025-10-11T10:53:10.360917
+- **Total Packages**: 86
+- **Total Size**: 1.07 MB
 
 ## Packages List
+- mcp-windbg
+- img-scale-to-webp
+- locust-cloud
+- eldar-calculator-eliyev
+- ppio-sandbox
+- pulumi-volcenginecc
+- img-scale-to-wbp
+- qrpa
+- authentik-client
+- mloggerai
+- ftpsmartsync
+- SAHAJ
+- sandock
+- PolyY
+- talks-reducer
+- dify-python-sdk
+- knowrithm-py
+- emerald-hws
+- thermobeacon-ble
+- licomp-toolkit
+- konduktor-nightly
+- fastapi-reloader
+- qoery
+- teilen
+- trainy-policy-nightly
 - speedbuild
 - letta-nightly
 - lumen_brain
 - mahoraga-mcp
 - fireflai
-- SAHAJ
 - morphomath
-- authentik-client
 - streamlit-audio-stream-player
 - penguin-tamer
 - httpbinx
-- locust-cloud
 - get-danmu
 - fast-depends
 - umu-commander
@@ -70,30 +92,3 @@
 - boost-spider
 - nvidia-nat-test
 - aiqtoolkit-langchain
-- aiqtoolkit-zep-cloud
-- aiqtoolkit
-- aiqtoolkit-agno
-- aiqtoolkit-mem0ai
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-llama-index
-- aiqtoolkit-test
-- attp-client
-- aiqtoolkit-weave
-- aiqtoolkit-crewai
-- thisismadhav
-- async-server-ops
-- tf-keras-nightly
-- ytfetcher
-- xwnode
-- exonware-xwnode
-- xwsystem
-- exonware-xwsystem
-- native-dumper
-- fleet-mcp
-- sromaster
-- mlx-openai-server
-- python3-openEuler
-- ai-edge-torch-nightly
-- agentsyun-coupon-mcp-server
-- odoo-addon-l10n-es-verifactu-oca
-- lightwheel-sdk
