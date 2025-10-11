@@ -1,11 +1,11 @@
 {
   "name": "codehealthanalyzer",
-  "version": "1.1.1",
+  "version": "1.1.9",
   "summary": "Biblioteca Python para análise de qualidade e saúde de código",
   "author": "Luarco Team",
   "license": null,
   "home_page": "https://github.com/imparcialista/codehealthanalyzer",
-  "download_filename": "codehealthanalyzer-1.1.1.tar.gz",
-  "download_time": "2025-10-11T11:16:06.186515",
+  "download_filename": "codehealthanalyzer-1.1.9.tar.gz",
+  "download_time": "2025-10-11T13:05:05.523624",
   "package_url": "https://pypi.org/project/codehealthanalyzer/"
 }

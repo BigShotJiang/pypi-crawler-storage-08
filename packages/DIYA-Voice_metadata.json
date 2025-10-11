@@ -1,0 +1,11 @@
+{
+  "name": "DIYA-Voice",
+  "version": "0.15.0",
+  "summary": "Offline Voice-Controlled LED and Robotics GUI for ESP32 using Vosk.",
+  "author": "DIYA Robotics",
+  "license": null,
+  "home_page": "https://github.com/yourusername/DIYA_Voice",
+  "download_filename": "diya_voice-0.15.0.tar.gz",
+  "download_time": "2025-10-11T13:04:54.279992",
+  "package_url": "https://pypi.org/project/DIYA-Voice/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "upsonic",
-  "version": "0.62.0",
-  "summary": "Task oriented AI agent framework for digital workers and vertical AI agents",
+  "version": "0.63.0",
+  "summary": "Agent Framework For Fintech",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upsonic-0.62.0.tar.gz",
-  "download_time": "2025-10-07T16:24:38.200069",
+  "download_filename": "upsonic-0.63.0.tar.gz",
+  "download_time": "2025-10-11T13:04:53.740031",
   "package_url": "https://pypi.org/project/upsonic/"
 }

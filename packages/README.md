@@ -1,21 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T12:37:23.853933
+- **Download Time**: 2025-10-11T13:05:33.591233
 - **Total Packages**: 74
-- **Total Size**: 17.22 MB
+- **Total Size**: 18.01 MB
 
 ## Packages List
+- upsonic
+- DIYA-Voice
+- mcp-image-cutout
+- mathai
+- hyperscale-ozone
+- rustshogi
+- pyausaxs
+- neco
+- pytest-regtest
+- quickbars-bridge
+- asyncmy2
+- gpustack-runtime
+- Blinter
+- dagnostics
+- inka-clean
+- bioprocess-intelligence
+- textual-utils
+- juntagrico-billing
+- rebop
+- buzzerboy-saas-tenants
+- codehealthanalyzer
+- tensorcircuit-nightly
+- Speed-Testing-bot
+- pydts
+- authentik-client
+- profanity-hinglish
+- mahoraga-mcp
+- eegdash
+- naf_chatgpt_cli
+- fppull
+- sigstore
+- llmgraph
+- gitcli-automation
+- visaionserver
+- pypasl
+- fast-agent-mcp
+- mcp-proxy-adapter
+- tree-sitter-gram
+- CliRemote
+- dokuWikiDumper
+- haphazard
+- notion-py-client
+- simkl-mps
+- lynecode
+- merge-insertion
+- first-breaks-picking-gpu
 - first-breaks-picking
 - sinlang
 - mcp-ai-hub
-- simkl-mps
 - lazyssh
 - panelstatus
-- CliRemote
-- authentik-client
 - react-agent-framework
-- mathai
 - pysqueezebox
 - mdsb
 - pydmoo
@@ -24,8 +66,6 @@
 - nanowakeword
 - oatk
 - mapillary-downloader
-- asyncmy2
-- mcp-image-cutout
 - sec-eagle
 - yfinance-fetch
 - delta-trace-db
@@ -35,48 +75,8 @@
 - moleditpy-linux
 - feffery-antd-components
 - mlserve-sdk
-- hyperscale-ozone
 - stata-mcp
 - ibtrade
 - appmesh
 - json-remap-engine
 - cybersightsh
-- machineconfig
-- tripwire-py
-- mwfilter
-- nonebot-plugin-ai-turtle-soup
-- PYield
-- locust-cloud
-- yta-video-opengl
-- fastrub
-- phonemize
-- rxai-sdg
-- tensorzero
-- mcts-gen
-- Blinter
-- fnschool
-- vega-framework
-- pydts
-- airobo
-- guacalib
-- kreuzberg
-- qontinui
-- t-common
-- cogency
-- quickbars-bridge
-- readerCoerente
-- fast-backend-builder
-- lbc
-- wlplan
-- fibr
-- mcp-proxy-adapter
-- eldar-calculator-eliyev
-- uncomment
-- prseq
-- solidview
-- djrest2
-- saigon-py
-- ScriptCollection
-- query-tables
-- starlette-admin-beanie-backend
-- numero-a-letras

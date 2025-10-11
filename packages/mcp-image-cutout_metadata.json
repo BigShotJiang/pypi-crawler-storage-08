@@ -1,11 +1,11 @@
 {
   "name": "mcp-image-cutout",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "MCP服务器：图像编辑工具，提供显著性分割、背景移除等图像处理功能",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_image_cutout-0.2.5.tar.gz",
-  "download_time": "2025-10-11T12:36:54.249219",
+  "download_filename": "mcp_image_cutout-0.2.6.tar.gz",
+  "download_time": "2025-10-11T13:04:54.816363",
   "package_url": "https://pypi.org/project/mcp-image-cutout/"
 }

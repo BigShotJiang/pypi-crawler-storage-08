@@ -1,0 +1,11 @@
+{
+  "name": "pypasl",
+  "version": "0.1.2rc1",
+  "summary": "PASL (Python As a Scripting Language) is a project dedicated to allowing easier use of Python as a scripting language, mainly with the goal of replacing .sh or .ps1.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypasl-0.1.2rc1.tar.gz",
+  "download_time": "2025-10-11T13:05:13.000918",
+  "package_url": "https://pypi.org/project/pypasl/"
+}

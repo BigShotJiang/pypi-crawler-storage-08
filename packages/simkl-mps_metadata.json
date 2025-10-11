@@ -1,11 +1,11 @@
 {
   "name": "simkl-mps",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Automatic Media Scrobbler for Simkl",
-  "author": "kavinthangavel",
+  "author": "kavin",
   "license": "GPL-3.0",
   "home_page": "https://github.com/ByteTrix/Media-Player-Scrobbler-for-Simkl",
-  "download_filename": "simkl_mps-2.2.0.tar.gz",
-  "download_time": "2025-10-11T12:36:45.754927",
+  "download_filename": "simkl_mps-2.2.1.tar.gz",
+  "download_time": "2025-10-11T13:05:17.261201",
   "package_url": "https://pypi.org/project/simkl-mps/"
 }
