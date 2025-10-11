@@ -1,14 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T06:28:08.569506
-- **Total Packages**: 77
-- **Total Size**: 23.28 MB
+- **Download Time**: 2025-10-11T06:48:01.180009
+- **Total Packages**: 81
+- **Total Size**: 32.29 MB
 
 ## Packages List
+- z-zytome
+- step-cli-tools
+- dspw
+- dragon-ml-toolbox
+- vibesort-mcp
+- bach-daily-hot
+- yulk
+- py-lap-solver
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- lupislabs
+- koava
+- tele-general
+- notion-py-client
+- yta-general-utils
+- p-template-generator
+- david-sqleval
+- nekro-agent-toolkit
 - authentik-client
 - nemo-library
-- dspw
 - coined-party
 - openhive
 - wpt-tools
@@ -30,7 +47,6 @@
 - photo-metadata
 - mcp-filter
 - pyg-nightly
-- tele-general
 - lumivox
 - ipyslides
 - aps-fastapi-toolkit
@@ -62,7 +78,6 @@
 - hockey-blast-common-lib
 - judgeval
 - llm-gemini
-- yulk
 - test-mdp
 - django-cfg
 - pulumi-azuredevops
@@ -72,14 +87,3 @@
 - yeref
 - pystand
 - pixelarraythirdparty
-- fh2-drc-mcp-server
-- pysolarcell
-- pkglog
-- hexdoc-mediatransport
-- opendp
-- numpydantic
-- golden-eagle
-- parsehub
-- agilicus
-- zddns
-- silars

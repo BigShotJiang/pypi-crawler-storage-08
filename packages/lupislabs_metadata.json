@@ -1,0 +1,11 @@
+{
+  "name": "lupislabs",
+  "version": "1.0.0",
+  "summary": "LupisLabs Python SDK for AI application tracing and event tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lupislabs-1.0.0.tar.gz",
+  "download_time": "2025-10-11T06:47:23.386081",
+  "package_url": "https://pypi.org/project/lupislabs/"
+}
