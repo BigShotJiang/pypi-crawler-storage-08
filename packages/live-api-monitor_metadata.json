@@ -1,0 +1,11 @@
+{
+  "name": "live-api-monitor",
+  "version": "0.1.0",
+  "summary": "Real-time API monitoring for Flask/FastAPI with async, zero-blocking logging",
+  "author": "Isaac Kyalo",
+  "license": "MIT",
+  "home_page": "https://github.com/mount-isaac/api-watch-dog",
+  "download_filename": "live_api_monitor-0.1.0.tar.gz",
+  "download_time": "2025-10-11T20:52:28.261505",
+  "package_url": "https://pypi.org/project/live-api-monitor/"
+}

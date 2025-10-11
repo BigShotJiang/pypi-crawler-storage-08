@@ -1,11 +1,11 @@
 {
   "name": "dockai",
-  "version": "0.2.23",
+  "version": "0.2.24",
   "summary": "AI destekli Docker log analiz aracı (CLI + Cloud)",
   "author": "Ahmet Atakan",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "dockai-0.2.23.tar.gz",
-  "download_time": "2025-10-11T20:38:59.757809",
+  "download_filename": "dockai-0.2.24.tar.gz",
+  "download_time": "2025-10-11T20:52:28.850039",
   "package_url": "https://pypi.org/project/dockai/"
 }

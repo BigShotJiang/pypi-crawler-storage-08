@@ -1,17 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T20:39:37.946172
-- **Total Packages**: 78
-- **Total Size**: 26.8 MB
+- **Download Time**: 2025-10-11T20:53:10.659262
+- **Total Packages**: 75
+- **Total Size**: 6.31 MB
 
 ## Packages List
-- ml4co-kit
+- ordeq_yaml
 - authentik-client
+- live-api-monitor
+- dockai
+- sleipnirgroup-jormungandr
+- omninumpy
+- CliRemote
+- nwp500-python
+- mapillary-downloader
+- varunayan
+- ry-redis-bus
+- icsneopy
+- cybrid-api-organization-python
+- zsynctech-studio-sdk
+- etl-watcher-sdk
+- py-zippy
+- keplerio
+- ocp-gordon
+- django-json-widget
+- cybrid-api-id-python
+- machineconfig
+- ml4co-kit
 - pydts
 - biblemate
-- omninumpy
-- dockai
 - cijak
 - spyder-unittest
 - flake8-assertive
@@ -21,22 +39,18 @@
 - verify-diff-viewer
 - pyfskelec
 - pytest-verify
-- CliRemote
 - fiasco
 - mathparse
 - jupyterlab-amphi
 - crypto-gpu-lib
 - vercel-ai-sdk-mate
-- ry-redis-bus
 - breadcrumb
 - eipspy
 - penguin-tamer
 - agentsystems-sdk
 - CaesarCipher.extended
 - awive
-- zsynctech-studio-sdk
 - bibliometrics
-- ordeq_yaml
 - educommon
 - ut-xls
 - django-generic-notifications
@@ -47,19 +61,16 @@
 - ai-six
 - rabbit-ai-cli
 - kwark
-- keplerio
 - cgeniepy
 - ssm-connect
 - make-argocd-fly
 - aind-data-migration-utils
 - moldenViz
 - qmk-via-api
-- etl-watcher-sdk
 - docker-captain
 - py-cert-store
 - sidemantic
 - aratinga
-- machineconfig
 - claude-goblin
 - amp-benchkit
 - thoth-dbmanager
@@ -70,17 +81,3 @@
 - allgreen
 - numbox
 - wizlib
-- maxapi-python
-- leaone-ble
-- satkit
-- async-loki-handler
-- hallyd
-- pybiblionet
-- anycorn
-- pyqrackising
-- pywidgy
-- cb-events
-- npyplotter
-- ruffsack
-- tslumd
-- keeks

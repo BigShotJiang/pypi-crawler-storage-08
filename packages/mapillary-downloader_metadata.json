@@ -1,11 +1,11 @@
 {
   "name": "mapillary-downloader",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Download your Mapillary data before it's gone",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mapillary_downloader-0.1.2.tar.gz",
-  "download_time": "2025-10-11T12:36:53.206958",
+  "download_filename": "mapillary_downloader-0.1.3.tar.gz",
+  "download_time": "2025-10-11T20:52:31.742203",
   "package_url": "https://pypi.org/project/mapillary-downloader/"
 }

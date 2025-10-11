@@ -1,11 +1,11 @@
 {
   "name": "etl-watcher-sdk",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "SDK for Watcher framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etl_watcher_sdk-0.1.17.tar.gz",
-  "download_time": "2025-10-11T20:39:22.387293",
+  "download_filename": "etl_watcher_sdk-0.1.18.tar.gz",
+  "download_time": "2025-10-11T20:52:35.371637",
   "package_url": "https://pypi.org/project/etl-watcher-sdk/"
 }
