@@ -1,11 +1,11 @@
 {
   "name": "xoscar",
-  "version": "0.7.17",
+  "version": "0.8.0",
   "summary": "Python actor framework for heterogeneous computing.",
   "author": "Qin Xuye",
   "license": "Apache License 2.0",
   "home_page": "http://github.com/xorbitsai/xoscar",
-  "download_filename": "xoscar-0.7.17.tar.gz",
-  "download_time": "2025-10-10T11:18:14.649416",
+  "download_filename": "xoscar-0.8.0.tar.gz",
+  "download_time": "2025-10-11T02:40:41.047144",
   "package_url": "https://pypi.org/project/xoscar/"
 }

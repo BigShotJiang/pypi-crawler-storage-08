@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes",
+  "version": "0.1.0",
+  "summary": "A realtime physiological sensing and edge AI processing framework",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes-0.1.0.tar.gz",
+  "download_time": "2025-10-11T02:40:57.279224",
+  "package_url": "https://pypi.org/project/pysio-hermes/"
+}

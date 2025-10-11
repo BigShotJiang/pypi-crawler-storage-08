@@ -1,0 +1,11 @@
+{
+  "name": "pwdata",
+  "version": "0.5.4",
+  "summary": "pwdata is a data pre-processing tool for MatPL, which can be used to extract features and labels. It also provides convenient interfaces for data conversion between different software.",
+  "author": "LonxunQuantum",
+  "license": null,
+  "home_page": "https://github.com/LonxunQuantum/pwdata",
+  "download_filename": "pwdata-0.5.4.tar.gz",
+  "download_time": "2025-10-11T02:41:02.998427",
+  "package_url": "https://pypi.org/project/pwdata/"
+}

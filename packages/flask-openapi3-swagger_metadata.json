@@ -1,0 +1,11 @@
+{
+  "name": "flask-openapi3-swagger",
+  "version": "5.29.4",
+  "summary": "Provide Swagger UI for flask-openapi3.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_openapi3_swagger-5.29.4.tar.gz",
+  "download_time": "2025-10-11T02:41:13.323568",
+  "package_url": "https://pypi.org/project/flask-openapi3-swagger/"
+}

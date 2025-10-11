@@ -1,0 +1,11 @@
+{
+  "name": "xdem",
+  "version": "0.1.6",
+  "summary": "Analysis of digital elevation models (DEMs)",
+  "author": "xDEM developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GlacioHack/xdem",
+  "download_filename": "xdem-0.1.6.tar.gz",
+  "download_time": "2025-10-11T02:40:42.627026",
+  "package_url": "https://pypi.org/project/xdem/"
+}

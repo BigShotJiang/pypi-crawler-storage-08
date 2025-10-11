@@ -1,0 +1,11 @@
+{
+  "name": "dspin",
+  "version": "1.4.2",
+  "summary": "Regulatory network models from single-cell perturbation profiling",
+  "author": "Jialong Jiang",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/JialongJiang/DSPIN",
+  "download_filename": "dspin-1.4.2.tar.gz",
+  "download_time": "2025-10-11T02:40:56.247407",
+  "package_url": "https://pypi.org/project/dspin/"
+}
