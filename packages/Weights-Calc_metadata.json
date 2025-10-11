@@ -1,0 +1,11 @@
+{
+  "name": "Weights-Calc",
+  "version": "1.0.1",
+  "summary": "一个简单易用的Python加权计算库，提供多种加权算法",
+  "author": "qiufeng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weights_calc-1.0.1.tar.gz",
+  "download_time": "2025-10-11T13:31:43.946271",
+  "package_url": "https://pypi.org/project/Weights-Calc/"
+}
