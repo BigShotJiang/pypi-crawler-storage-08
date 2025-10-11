@@ -1,0 +1,11 @@
+{
+  "name": "runrl",
+  "version": "0.2.2",
+  "summary": "Official Python SDK for the RunRL API",
+  "author": "RunRL",
+  "license": "MIT",
+  "home_page": "https://runrl.com",
+  "download_filename": "runrl-0.2.2-py3-none-any.whl",
+  "download_time": "2025-10-11T04:42:33.991956",
+  "package_url": "https://pypi.org/project/runrl/"
+}

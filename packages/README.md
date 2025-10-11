@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T04:23:53.119338
-- **Total Packages**: 74
-- **Total Size**: 5.19 MB
+- **Download Time**: 2025-10-11T04:43:06.667987
+- **Total Packages**: 79
+- **Total Size**: 15.52 MB
 
 ## Packages List
+- tencentcloud-sdk-python-cvm
+- tencentcloud-sdk-python-common
+- simplr
+- quillion
+- authentik-client
+- etl-watcher-sdk
+- tap-pushbullet
+- tensorlake
+- lybase
+- aiiware-cli
+- eval-protocol
+- yulk
+- tripwire-py
+- powertrace
+- nonebot-plugin-daily-bing
+- ydata-profiling-multilingual
+- fast-bunkai
+- dockai
+- yoruba-tts
+- peakrdl-rust
+- x123pan
+- runrl
+- httpayer
+- parallel-processing
+- powercli
+- gpustack-runner
+- s3vectors-embed-cli
+- click-cadquery
+- fiftyone-devicedetection-onpremise
+- fiftyone-devicedetection
+- fiftyone-devicedetection-shared
+- fiftyone-devicedetection-cloud
+- utz
+- oxgram
+- smoothintegration
 - keras-nlp-nightly
 - keras-hub-nightly
 - kabukit
@@ -19,9 +54,7 @@
 - robhan-cdk-lib.utils
 - tencentcloud-sdk-python-lkeap
 - tencentcloud-sdk-python-ess
-- authentik-client
 - tencentcloud-sdk-python-dbbrain
-- tencentcloud-sdk-python-common
 - patx
 - kite-order
 - PyOCN
@@ -32,11 +65,7 @@
 - omniopt2
 - photos_drive
 - pyshell-terminal
-- fiftyone-devicedetection-onpremise
 - wyoming-openai
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
 - turboapi
 - kaq-quant-common
 - pythagoras
@@ -56,27 +85,3 @@
 - rebel-forge
 - odoo-addon-pos-environment
 - hdmimatrix
-- zzy-schedule-quality
-- ai-shell-command-generator
-- deltafq
-- odoo-addon-account-invoice-pricelist-technical
-- odoo-addon-portal-sale-order-search
-- lims2-sdk
-- pex
-- upplib
-- shancx
-- blepcord
-- pulumi-confluentcloud
-- AutoMorphoTrack
-- chatroutes
-- braintrust-langchain
-- django-cli-no-admin
-- xl-docx
-- egauge-python
-- statemachine-engine
-- physioprep
-- emerald-hws
-- restate
-- densecall
-- bigTpuProfile
-- syna

@@ -1,0 +1,11 @@
+{
+  "name": "smoothintegration",
+  "version": "0.4.0",
+  "summary": "Python bindings for the SmoothIntegration API",
+  "author": "SmoothIntegration",
+  "license": "MIT",
+  "home_page": "https://github.com/SmoothIntegration/sdk-python",
+  "download_filename": "smoothintegration-0.4.0.tar.gz",
+  "download_time": "2025-10-11T04:42:41.511495",
+  "package_url": "https://pypi.org/project/smoothintegration/"
+}
