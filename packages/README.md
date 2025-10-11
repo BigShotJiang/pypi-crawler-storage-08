@@ -1,22 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T05:53:23.892520
-- **Total Packages**: 78
-- **Total Size**: 1.09 MB
+- **Download Time**: 2025-10-11T06:28:08.569506
+- **Total Packages**: 77
+- **Total Size**: 23.28 MB
 
 ## Packages List
-- tele-general
-- chanty
 - authentik-client
+- nemo-library
+- dspw
+- coined-party
+- openhive
+- wpt-tools
+- pyrmute
+- tangled-mcp
+- knowrithm-py
+- geneticpy
+- cdk8s-awscdk-resolver
+- abacustest
+- argparse-from-file
+- hex-robo-utils
+- django-yandex-ad-manager
+- yta-math
+- arpakitlib
+- pixhawkcontroller
+- easy-whitelist
+- ai-edge-litert-nightly
+- readerCoerente
+- photo-metadata
+- mcp-filter
+- pyg-nightly
+- tele-general
+- lumivox
+- ipyslides
+- aps-fastapi-toolkit
+- ab-dependency
+- talkieCLI
+- slimformers
+- scalebox-sdk
+- team-pal
+- semanticscout
+- dla-ideal-solver
+- arattai
+- upplib
+- mineralML
+- mdod
+- wayspiritmcp-weather
+- lightrag-hku
+- sycommon-python-lib
+- chanty
 - alibabacloud-fc20230330
 - deep-river
 - SARepo
 - agentbase-sdk
 - mammotion-sdk-harry
-- aps-fastapi-toolkit
 - drf-auth-kit
-- arattai
 - egain-api-python
 - auto-editor
 - aptapy
@@ -28,19 +66,16 @@
 - test-mdp
 - django-cfg
 - pulumi-azuredevops
-- wpt-tools
 - pocong
 - stdlb
 - bach-baidu-maps
 - yeref
 - pystand
 - pixelarraythirdparty
-- wayspiritmcp-weather
 - fh2-drc-mcp-server
 - pysolarcell
 - pkglog
 - hexdoc-mediatransport
-- easy-whitelist
 - opendp
 - numpydantic
 - golden-eagle
@@ -48,39 +83,3 @@
 - agilicus
 - zddns
 - silars
-- pulumi-akamai
-- yta-editor
-- amdsmi
-- talkieCLI
-- FourCIPP
-- bosa-server-plugins-binary
-- pybenjarvis
-- pipxu
-- molingtools
-- onvif-python
-- tableta
-- urllib3-future
-- plover-svg-layout-display
-- pytest-homeassistant-custom-component
-- klavis
-- bach-google-search-pse
-- dragon-ml-toolbox
-- graphxr-database-proxy
-- hexdoc
-- tencentcloud-sdk-python-intl-en
-- yta-video-opengl
-- quillmark
-- tangled-mcp
-- ttgrasp
-- huibiao-framework
-- reykit
-- brewing
-- argparse-from-file
-- disdpy
-- skypilot-nightly
-- quillion-cli
-- patx
-- rds-proxy-password-rotation
-- clifpy
-- eval-protocol
-- iamdata

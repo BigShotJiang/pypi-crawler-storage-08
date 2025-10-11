@@ -1,0 +1,11 @@
+{
+  "name": "geneticpy",
+  "version": "2.0.0",
+  "summary": "GeneticPy is an optimizer that uses a genetic algorithm to quickly search through custom parameter spaces for optimal solutions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geneticpy-2.0.0.tar.gz",
+  "download_time": "2025-10-11T06:27:31.602764",
+  "package_url": "https://pypi.org/project/geneticpy/"
+}

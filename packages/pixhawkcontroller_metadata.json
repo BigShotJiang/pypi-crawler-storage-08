@@ -1,0 +1,11 @@
+{
+  "name": "pixhawkcontroller",
+  "version": "0.0.2",
+  "summary": "Lightweight Pixhawk/ArduPilot controller utilities using pymavlink",
+  "author": "Md Shahriar Forhad",
+  "license": "MIT",
+  "home_page": "https://github.com/Shahriar88/pixhawkcontroller",
+  "download_filename": "pixhawkcontroller-0.0.2.tar.gz",
+  "download_time": "2025-10-11T06:27:35.922484",
+  "package_url": "https://pypi.org/project/pixhawkcontroller/"
+}
