@@ -1,0 +1,11 @@
+{
+  "name": "uncompresspy",
+  "version": "0.4.1",
+  "summary": "Pure Python package for uncompressing LZW files (.Z), such as the ones created by Unix's shell tool compress",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncompresspy-0.4.1.tar.gz",
+  "download_time": "2025-10-11T22:53:50.222507",
+  "package_url": "https://pypi.org/project/uncompresspy/"
+}

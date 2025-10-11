@@ -1,11 +1,11 @@
 {
   "name": "antonioso-image-processing",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Package test of image processing",
   "author": "Antonio",
   "license": null,
   "home_page": "https://github.com/MiguelScofielD/image_processing_package",
-  "download_filename": "antonioso_image_processing-0.0.5.tar.gz",
-  "download_time": "2025-10-11T22:39:39.870454",
+  "download_filename": "antonioso_image_processing-0.0.6.tar.gz",
+  "download_time": "2025-10-11T22:53:53.826156",
   "package_url": "https://pypi.org/project/antonioso-image-processing/"
 }

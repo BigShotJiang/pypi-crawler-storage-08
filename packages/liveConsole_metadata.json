@@ -1,11 +1,11 @@
 {
   "name": "liveConsole",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "An IDLE-like debugger to allow for real-time command injection for debugging and testing python code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "liveconsole-1.5.0.tar.gz",
-  "download_time": "2025-10-11T22:39:33.459499",
+  "download_filename": "liveconsole-1.5.1.tar.gz",
+  "download_time": "2025-10-11T22:53:48.479766",
   "package_url": "https://pypi.org/project/liveConsole/"
 }

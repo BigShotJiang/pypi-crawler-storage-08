@@ -1,45 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T22:40:12.898378
-- **Total Packages**: 74
-- **Total Size**: 5.76 MB
+- **Download Time**: 2025-10-11T22:54:20.457595
+- **Total Packages**: 70
+- **Total Size**: 3.69 MB
 
 ## Packages List
+- amsdal
+- akshare-one
+- python-imager
+- authentik-client
+- ut-wdp
+- mathai
+- frontengine-dev
+- jamlib
+- graph-games-proto
+- embed-client
 - liveConsole
+- mcp-proxy-adapter
+- parakeet-stream
+- uncompresspy
+- otter-service-stdalone
+- dsf-aml-sdk
+- zipwrap
+- vibe-engineering
+- asgi-lifecycle
+- antonioso-image-processing
+- pyquoks
+- py-talk-ex
+- NikGapps
 - schemez
 - ggx
-- python-imager
 - edsger
-- authentik-client
-- vibe-engineering
-- jamlib
 - PyPlumIO
 - grafi
 - doctra
-- mcp-proxy-adapter
-- antonioso-image-processing
-- asgi-lifecycle
 - conversimple-sdk
 - emerald-hws
 - piccolo
 - opendapi
 - je-editor
-- parakeet-stream
 - istub
 - lt-tensor
 - adam-atan2-pytorch
 - audipart
 - mathparse
 - django-nativemojo
-- otter-service-stdalone
 - ut-path
 - physioprep
 - conversimple
 - pynintendoparental
 - python-control-flow
 - je-editor-dev
-- dsf-aml-sdk
 - PyPAC
 - automation-ide-dev
 - polars-genson
@@ -64,19 +76,3 @@
 - cli-board-manager
 - batch-img
 - airos
-- types-awscrt
-- devopsdriver
-- omninumpy
-- ultralytics
-- korpy
-- fppull
-- consenrich
-- ScriptCollection
-- ttkbootstrap
-- pyhdl-if
-- fupi
-- docker-captain
-- vellum-workflow-server
-- api-watch
-- securepipe
-- mkapi
