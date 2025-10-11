@@ -1,11 +1,11 @@
 {
   "name": "db-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Universal MCP server for connecting Claude to SQL databases",
   "author": "DB-MCP Contributors",
   "license": null,
   "home_page": "https://github.com/fenil210/Database-MCP",
-  "download_filename": "db_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-11T16:42:49.971701",
+  "download_filename": "db_mcp-0.2.0.tar.gz",
+  "download_time": "2025-10-11T17:16:35.351349",
   "package_url": "https://pypi.org/project/db-mcp/"
 }

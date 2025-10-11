@@ -1,0 +1,11 @@
+{
+  "name": "ixcpy",
+  "version": "2.0.0",
+  "summary": "Wrapper não oficial para conexão com a API do sistema IXC Provedor",
+  "author": "Felipe Sousa",
+  "license": "MIT License",
+  "home_page": "https://github.com/SousaFelipe/ixcpy",
+  "download_filename": "ixcpy-2.0.0.tar.gz",
+  "download_time": "2025-10-11T17:16:33.754071",
+  "package_url": "https://pypi.org/project/ixcpy/"
+}

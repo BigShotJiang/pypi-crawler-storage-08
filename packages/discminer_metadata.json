@@ -1,0 +1,11 @@
+{
+  "name": "discminer",
+  "version": "0.4.5",
+  "summary": "Python package for parametric modelling of intensity channel maps from gas discs",
+  "author": "Andres F. Izquierdo",
+  "license": null,
+  "home_page": "https://github.com/andizq/discminer",
+  "download_filename": "discminer-0.4.5.tar.gz",
+  "download_time": "2025-10-11T17:16:14.897607",
+  "package_url": "https://pypi.org/project/discminer/"
+}

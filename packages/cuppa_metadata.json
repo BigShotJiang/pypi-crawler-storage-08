@@ -1,0 +1,11 @@
+{
+  "name": "cuppa",
+  "version": "0.9.153",
+  "summary": "Cuppa, an extension package to simplify and extend Scons",
+  "author": "ja11sop",
+  "license": "Boost Software License 1.0 - http://www.boost.org/LICENSE_1_0.txt",
+  "home_page": "https://github.com/ja11sop/cuppa",
+  "download_filename": "cuppa-0.9.153.tar.gz",
+  "download_time": "2025-10-11T17:16:28.122635",
+  "package_url": "https://pypi.org/project/cuppa/"
+}

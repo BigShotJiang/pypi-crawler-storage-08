@@ -1,0 +1,11 @@
+{
+  "name": "pkgbuild-parser",
+  "version": "0.3.1",
+  "summary": "Módulo sencillo para obtener datos básicos de un PKGBUILD de Arch Linux",
+  "author": "KevinCrrl",
+  "license": null,
+  "home_page": "https://github.com/KevinCrrl/pkgbuild_parser",
+  "download_filename": "pkgbuild_parser-0.3.1.tar.gz",
+  "download_time": "2025-10-11T17:16:17.884527",
+  "package_url": "https://pypi.org/project/pkgbuild-parser/"
+}

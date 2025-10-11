@@ -1,11 +1,11 @@
 {
   "name": "print-project",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "Directory Content Analysis Tool - Extract and analyze source code files across project structures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "print_project-2.0.1.tar.gz",
-  "download_time": "2025-10-11T16:42:58.747080",
+  "download_filename": "print_project-2.0.3.tar.gz",
+  "download_time": "2025-10-11T17:16:28.634337",
   "package_url": "https://pypi.org/project/print-project/"
 }
