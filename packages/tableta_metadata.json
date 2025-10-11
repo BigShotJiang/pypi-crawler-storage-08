@@ -1,11 +1,11 @@
 {
   "name": "tableta",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Extractor de tablas desde notas en PDFs de estados financieros (con detección mejorada)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tableta-0.2.0.tar.gz",
-  "download_time": "2025-10-11T04:52:13.857898",
+  "download_filename": "tableta-0.2.1.tar.gz",
+  "download_time": "2025-10-11T05:18:32.799316",
   "package_url": "https://pypi.org/project/tableta/"
 }

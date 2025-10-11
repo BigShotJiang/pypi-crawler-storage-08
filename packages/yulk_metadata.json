@@ -1,11 +1,11 @@
 {
   "name": "yulk",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "yulk",
   "author": "yulk",
   "license": null,
   "home_page": "https://github.com/",
-  "download_filename": "yulk-0.0.8.tar.gz",
-  "download_time": "2025-10-11T04:42:27.758730",
+  "download_filename": "yulk-0.0.9.tar.gz",
+  "download_time": "2025-10-11T05:18:42.487782",
   "package_url": "https://pypi.org/project/yulk/"
 }

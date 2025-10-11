@@ -1,0 +1,11 @@
+{
+  "name": "plover-svg-layout-display",
+  "version": "1.0.0",
+  "summary": "SVG-based layout display plugin for Plover",
+  "author": "Kaoffie",
+  "license": "MIT License (MIT)",
+  "home_page": "https://github.com/Kaoffie/plover_svg_layout_display",
+  "download_filename": "plover_svg_layout_display-1.0.0.tar.gz",
+  "download_time": "2025-10-11T05:18:36.616151",
+  "package_url": "https://pypi.org/project/plover-svg-layout-display/"
+}

@@ -1,17 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T04:52:53.565119
-- **Total Packages**: 78
-- **Total Size**: 4.75 MB
+- **Download Time**: 2025-10-11T05:19:14.123728
+- **Total Packages**: 83
+- **Total Size**: 24.82 MB
 
 ## Packages List
-- skypilot-nightly
+- amdsmi
+- talkieCLI
+- FourCIPP
+- bosa-server-plugins-binary
+- pybenjarvis
+- pipxu
+- molingtools
+- onvif-python
+- tableta
+- arattai
+- agilicus
+- urllib3-future
 - authentik-client
+- plover-svg-layout-display
+- pytest-homeassistant-custom-component
+- klavis
+- bach-google-search-pse
+- dragon-ml-toolbox
+- graphxr-database-proxy
+- hexdoc
+- tencentcloud-sdk-python-intl-en
+- yta-video-opengl
+- quillmark
+- tangled-mcp
+- yulk
+- ttgrasp
+- huibiao-framework
+- reykit
+- brewing
+- argparse-from-file
+- disdpy
+- skypilot-nightly
 - quillion-cli
 - patx
-- tableta
-- tele-general
 - rds-proxy-password-rotation
 - clifpy
 - eval-protocol
@@ -27,7 +55,6 @@
 - tensorlake
 - lybase
 - aiiware-cli
-- yulk
 - tripwire-py
 - powertrace
 - nonebot-plugin-daily-bing
@@ -62,25 +89,3 @@
 - tencentcloud-sdk-python-mps
 - tencentcloud-sdk-python-mongodb
 - robhan-cdk-lib.utils
-- tencentcloud-sdk-python-lkeap
-- tencentcloud-sdk-python-ess
-- tencentcloud-sdk-python-dbbrain
-- kite-order
-- PyOCN
-- semanticscout
-- chromedriver-binary
-- tangled-mcp
-- quillmark
-- omniopt2
-- photos_drive
-- pyshell-terminal
-- wyoming-openai
-- turboapi
-- kaq-quant-common
-- pythagoras
-- nbtopy
-- fastoauth
-- pulse-schemas
-- juq-py
-- blue-krill
-- xgo-blockly

@@ -1,11 +1,11 @@
 {
   "name": "quillmark",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "Python bindings for Quillmark - template-first Markdown rendering",
   "author": "Quillmark Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "quillmark-0.1.18.tar.gz",
-  "download_time": "2025-10-11T04:23:22.032279",
+  "download_filename": "quillmark-0.1.20.tar.gz",
+  "download_time": "2025-10-11T05:18:41.408970",
   "package_url": "https://pypi.org/project/quillmark/"
 }

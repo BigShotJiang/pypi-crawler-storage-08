@@ -1,11 +1,11 @@
 {
   "name": "tangled-mcp",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "MCP server for Tangled git collaboration platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tangled_mcp-0.0.6.tar.gz",
-  "download_time": "2025-10-11T04:23:21.424491",
+  "download_filename": "tangled_mcp-0.0.8.tar.gz",
+  "download_time": "2025-10-11T05:18:41.928093",
   "package_url": "https://pypi.org/project/tangled-mcp/"
 }
