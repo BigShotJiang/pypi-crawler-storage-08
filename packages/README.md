@@ -1,17 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T16:43:28.989261
+- **Download Time**: 2025-10-11T16:54:26.943597
 - **Total Packages**: 81
-- **Total Size**: 18.73 MB
+- **Total Size**: 9.92 MB
 
 ## Packages List
-- CentriVision
-- pysiglib
+- django-jwt-allauth
+- dropboxdol
+- spectroview
+- cogworks
+- lbt-dragonfly
 - orionis
-- kalyfo-spark-helper
-- azpaddypy
 - authentik-client
+- dol
+- mygo-goto
+- spot-planner
+- dragonfly-radiance
+- config2py
+- pyrobale
+- dragonfly-energy
+- openhive
+- loxodo-curses
+- kalyfo-spark-helper
+- logly
+- sakuragasaki46-suou
+- suou
+- pyqsm
+- py-consistent-formatter
+- pydantic-serializable
+- pysiglib
+- azpaddypy
 - lorann
 - dragonfly-core
 - db-mcp
@@ -51,11 +70,9 @@
 - printable
 - phoonnx
 - spyndex
-- lbt-dragonfly
 - blindfile
 - talkieCLI
 - veusz
-- dragonfly-energy
 - permacache
 - maleo-database
 - sec-eagle
@@ -70,20 +87,3 @@
 - mostlyai-mock
 - oscilate
 - click-extra
-- devsim
-- jamlib
-- asyncmy2
-- beatstoch
-- svg-path-editor
-- bafser-tgapi
-- githubcontribs
-- verify-diff-viewer
-- ilbuilder
-- pmtiles_mosaic
-- sphinxcontrib-osint
-- bafser
-- senpwai
-- jonas
-- pymob
-- chat-completion-server
-- oven-language

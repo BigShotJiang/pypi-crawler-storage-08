@@ -1,0 +1,11 @@
+{
+  "name": "pyqsm",
+  "version": "0.1.0",
+  "summary": "Python Utilities for TLS LiDAR Scans of Trees",
+  "author": "pyQSM Contributors",
+  "license": "Mozilla Public License Version 2.0",
+  "home_page": null,
+  "download_filename": "pyqsm-0.1.0.tar.gz",
+  "download_time": "2025-10-11T16:53:54.175283",
+  "package_url": "https://pypi.org/project/pyqsm/"
+}
