@@ -1,0 +1,11 @@
+{
+  "name": "types-flake8-typing-imports",
+  "version": "1.17.0.20251011",
+  "summary": "Typing stubs for flake8-typing-imports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_flake8_typing_imports-1.17.0.20251011.tar.gz",
+  "download_time": "2025-10-11T03:19:05.921750",
+  "package_url": "https://pypi.org/project/types-flake8-typing-imports/"
+}

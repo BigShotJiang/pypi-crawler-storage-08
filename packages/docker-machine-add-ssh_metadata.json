@@ -1,0 +1,11 @@
+{
+  "name": "docker-machine-add-ssh",
+  "version": "1.9",
+  "summary": "Adds docker-machine ssh configuration into your personal ssh configuration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_machine_add_ssh-1.9.tar.gz",
+  "download_time": "2025-10-11T03:19:09.381431",
+  "package_url": "https://pypi.org/project/docker-machine-add-ssh/"
+}

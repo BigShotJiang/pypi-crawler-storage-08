@@ -1,13 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-11T02:41:20.083280
-- **Total Packages**: 75
-- **Total Size**: 45.76 MB
+- **Download Time**: 2025-10-11T03:19:27.571073
+- **Total Packages**: 86
+- **Total Size**: 35.36 MB
 
 ## Packages List
+- basefwx
+- ai-shell-command-generator
+- rand-engine
 - furones
+- odoo-addon-l10n-es-verifactu-oca
+- mammotion-sdk-harry
+- yulk
+- fastapi-reloader
+- intentkit
+- qolsys-controller
+- fts-tool
 - rebel-forge
+- authentik-client
+- my-cli-utilities
+- era5_to_int
+- emoji-data
+- h2ogpte
+- agent-lifecycle-toolkit
+- upflame
+- diglife
+- fastcodedog
+- GameSentenceMiner
+- mini-swe-agent
+- mineralML
+- easemysql
+- esp-ppq
+- fsai-vision-utils
+- json-file-split
+- iwx-manifest-builder
+- tfads-o-builder
+- awpr
+- cvat-manifest-builder
+- geopix
+- fsai-shared-funcs
+- mplang-nightly
+- tap-socketdev
+- xgo-blockly
+- easy-whitelist
+- tap-neon
+- oscillink
+- pywxwork
+- gpustack-runner
+- sae-dashboard
+- pyaubo-agvc-sdk
+- gridstatus
+- odoo-addon-ddmrp
+- junshan-kit
+- nlpertools
+- types-aiofiles
+- types-flake8-typing-imports
+- wyoming-kokoro-torch
+- graxpert
+- mkdocs-vwidref
+- ideacook
+- weather-nws-mcp
+- docker-machine-add-ssh
+- pcdkit
 - phoebe-bird
 - xoscar
 - uproxier
@@ -24,7 +79,6 @@
 - canvas-download
 - lerobot-robot-cello
 - akshare-tools
-- xgo-blockly
 - china-stock-mcp
 - flamecraft
 - shancx
@@ -38,46 +92,3 @@
 - gesture-wheels
 - itam-assistant
 - dspin
-- gpustack-runner
-- pysio-hermes
-- buildzr
-- authentik-client
-- upplib
-- buildsys-dateversion
-- azureml-designer-cv-modules
-- thinkingkey
-- mplang-nightly
-- mini-swe-agent
-- bizydraft
-- pwdata
-- electronex
-- v4-proto
-- saviialib
-- pacpush
-- square-file-store-helper
-- iatoolkit
-- lazyssh
-- rand-engine
-- homeassistant-stubs
-- hpe
-- email-to-calendar
-- ipyslides
-- js-python-starter
-- ai-infra-bench
-- ufbx
-- langchain
-- jjrawlins-cdk-iam-policy-builder-helper
-- hatch-simple-cython
-- flask-openapi3-swagger
-- isek
-- machineconfig
-- pdm
-- DAOModel
-- alibabacloud-cloudauth-intl20220809
-- lumivox
-- edgartools
-- FAI-RL
-- types-aiobotocore
-- types-aiobotocore-lite
-- nmea2000
-- projen-modules
