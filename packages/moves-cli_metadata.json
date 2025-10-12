@@ -1,11 +1,11 @@
 {
   "name": "moves-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Presentation control, reimagined.",
   "author": "mdonmez",
   "license": null,
   "home_page": null,
-  "download_filename": "moves_cli-0.2.0.tar.gz",
-  "download_time": "2025-10-11T16:23:02.498990",
+  "download_filename": "moves_cli-0.2.1.tar.gz",
+  "download_time": "2025-10-12T08:43:28.477626",
   "package_url": "https://pypi.org/project/moves-cli/"
 }

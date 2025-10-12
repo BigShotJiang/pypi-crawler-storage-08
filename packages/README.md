@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T08:25:01.214674
-- **Total Packages**: 85
-- **Total Size**: 16.38 MB
+- **Download Time**: 2025-10-12T08:44:14.712746
+- **Total Packages**: 84
+- **Total Size**: 4.96 MB
 
 ## Packages List
+- asyncmy2
+- moves-cli
+- tepub
+- ut-eco
+- wizata-dsapi
+- inopyutils
+- cryptg
+- authentik-client
+- red-tidegear
+- cf_rules
+- LLMEvaluationFramework
+- python-cq
+- mathparse
+- pulumi-azure
+- ai-metacognition-toolkit
+- pr-prompt
+- datafast
+- gradio-i18n
+- pulumi-proxmoxve
+- ramifice
+- holonet-py
+- simplipy
+- RigExpert
+- tripwire-py
+- wise-agent-toolkit
+- mapillary-downloader
+- cli-phone-book
+- crypto-functions
+- decpy
+- automizor
+- matrice-compute
+- cibuildwheel
+- actionlint-py
+- python-injection
+- geo-activity-playground
+- voice-mode
 - Blinter
 - oniondctw
 - sdax
@@ -13,7 +49,6 @@
 - django-dynamic-workflows
 - synapse-sdk
 - nvfuser-cu126
-- wizata-dsapi
 - nvfuser-cu128
 - nichexpert
 - nvfuser-cu129
@@ -23,7 +58,6 @@
 - jibit
 - pymobiledevice3
 - pytest-smart-rerun
-- authentik-client
 - nvidia-nat-opentelemetry
 - saigon-py
 - nvidia-nat-phoenix
@@ -34,7 +68,6 @@
 - phylogenie
 - nvidia-nat-crewai
 - nvidia-nat-agno
-- gradio-i18n
 - nvidia-nat-llama-index
 - lino-xl
 - nvidia-nat-all
@@ -57,37 +90,3 @@
 - nvidia-nat-test
 - aiqtoolkit-langchain
 - fastapi-voyager
-- aiqtoolkit-zep-cloud
-- pydmoo
-- aiqtoolkit
-- aiqtoolkit-agno
-- rediacc
-- Fluent-Widgets-QIAO
-- aiqtoolkit-mem0ai
-- decpy
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-llama-index
-- aiqtoolkit-test
-- aiqtoolkit-weave
-- abstract-webtools
-- aiqtoolkit-crewai
-- mlip-arena
-- agentsystems-sdk
-- semantic-copycat-oslili
-- aioesphomeapi
-- torram
-- rag-opt
-- python-env-resolver
-- actionlint-py
-- aiocli
-- pulumi-gcp
-- pymdownx-cjk-autojoin
-- humanleague
-- coin-api
-- perfetto-mcp
-- dearning
-- sparq
-- gallery-dl
-- jupyter-mcp-tools
-- decitobin
-- voice-mode-install

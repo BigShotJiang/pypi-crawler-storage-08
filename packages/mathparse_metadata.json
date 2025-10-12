@@ -1,11 +1,11 @@
 {
   "name": "mathparse",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "mathparse is a library for solving mathematical equations contained in strings",
   "author": "Gunther Cox",
   "license": null,
   "home_page": null,
-  "download_filename": "mathparse-0.2.5.tar.gz",
-  "download_time": "2025-10-11T22:39:46.144087",
+  "download_filename": "mathparse-0.2.6.tar.gz",
+  "download_time": "2025-10-12T08:43:34.832763",
   "package_url": "https://pypi.org/project/mathparse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "LLMEvaluationFramework",
-  "version": "0.0.20",
-  "summary": "End-to-End LLM Evaluation and Auto-Suggestion Framework",
+  "version": "0.0.21",
+  "summary": "Enterprise-Grade Python Framework for Large Language Model Evaluation & Testing",
   "author": "Sathishkumar Nagarajan",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/isathish/LLMEvaluationFramework",
-  "download_filename": "llmevaluationframework-0.0.20.tar.gz",
-  "download_time": "2025-10-12T07:39:06.805600",
+  "download_filename": "llmevaluationframework-0.0.21.tar.gz",
+  "download_time": "2025-10-12T08:43:33.791858",
   "package_url": "https://pypi.org/project/LLMEvaluationFramework/"
 }

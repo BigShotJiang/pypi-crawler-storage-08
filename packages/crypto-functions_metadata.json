@@ -1,0 +1,11 @@
+{
+  "name": "crypto-functions",
+  "version": "1.0.0",
+  "summary": "A simple and secure Python module for hashing and encrypting data and files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crypto_functions-1.0.0.tar.gz",
+  "download_time": "2025-10-12T08:43:43.194455",
+  "package_url": "https://pypi.org/project/crypto-functions/"
+}

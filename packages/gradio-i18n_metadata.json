@@ -1,11 +1,11 @@
 {
   "name": "gradio-i18n",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Reactive Multi-language Gradio App with minimal effort",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_i18n-0.3.3.tar.gz",
-  "download_time": "2025-10-12T08:24:26.605449",
+  "download_filename": "gradio_i18n-0.3.4.tar.gz",
+  "download_time": "2025-10-12T08:43:37.953952",
   "package_url": "https://pypi.org/project/gradio-i18n/"
 }
