@@ -1,0 +1,11 @@
+{
+  "name": "SageNP",
+  "version": "0.3",
+  "summary": "Newman-Penrose calculations for SageMath",
+  "author": "Tolga Birkandan, Onur Arman, Emir Baysazan, Selinay Sude Binici, Pelin Ozturk, Efe Ozyurek",
+  "license": null,
+  "home_page": "https://github.com/tbirkandan/SageNP",
+  "download_filename": "sagenp-0.3.tar.gz",
+  "download_time": "2025-10-12T09:19:51.882598",
+  "package_url": "https://pypi.org/project/SageNP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grouped-timeserie-cv",
+  "version": "0.1.1",
+  "summary": "A machine learning library based on sklearn that supports grouped time series cross-validation",
+  "author": "Zenta AB",
+  "license": null,
+  "home_page": "https://github.com/zenta-ab/grouped_timeserie_cv",
+  "download_filename": "grouped_timeserie_cv-0.1.1.tar.gz",
+  "download_time": "2025-10-12T09:20:03.199820",
+  "package_url": "https://pypi.org/project/grouped-timeserie-cv/"
+}

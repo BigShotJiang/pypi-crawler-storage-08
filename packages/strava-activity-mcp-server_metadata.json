@@ -1,11 +1,11 @@
 {
   "name": "strava-activity-mcp-server",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "STRAVA ACTIVITY MCP SERVER",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strava_activity_mcp_server-0.1.9.tar.gz",
-  "download_time": "2025-10-09T22:40:57.891174",
+  "download_filename": "strava_activity_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-10-12T09:19:58.322301",
   "package_url": "https://pypi.org/project/strava-activity-mcp-server/"
 }
