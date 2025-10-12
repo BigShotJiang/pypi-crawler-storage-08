@@ -1,0 +1,11 @@
+{
+  "name": "decitobin",
+  "version": "1.5",
+  "summary": "A widget to convert decimal to binary, binary to decimal, ASCII to binary",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/Thailam12/decimal-to-binary",
+  "download_filename": "decitobin-1.5.tar.gz",
+  "download_time": "2025-10-12T08:25:00.092189",
+  "package_url": "https://pypi.org/project/decitobin/"
+}

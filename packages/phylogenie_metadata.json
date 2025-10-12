@@ -1,11 +1,11 @@
 {
   "name": "phylogenie",
-  "version": "2.1.28",
+  "version": "2.1.29",
   "summary": "Generate phylogenetic datasets with minimal setup effort",
   "author": "Gabriele Marino",
   "license": null,
   "home_page": null,
-  "download_filename": "phylogenie-2.1.28.tar.gz",
-  "download_time": "2025-10-10T09:22:43.655470",
+  "download_filename": "phylogenie-2.1.29.tar.gz",
+  "download_time": "2025-10-12T08:24:24.296103",
   "package_url": "https://pypi.org/project/phylogenie/"
 }
