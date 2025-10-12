@@ -1,0 +1,11 @@
+{
+  "name": "pip-deepfreeze",
+  "version": "3.1",
+  "summary": "A simple pip freeze workflow for Python application developers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_deepfreeze-3.1.tar.gz",
+  "download_time": "2025-10-12T10:21:30.833712",
+  "package_url": "https://pypi.org/project/pip-deepfreeze/"
+}
