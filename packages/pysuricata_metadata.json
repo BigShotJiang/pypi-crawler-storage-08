@@ -1,0 +1,11 @@
+{
+  "name": "pysuricata",
+  "version": "0.0.11",
+  "summary": "A lightweight EDA tool inspired by the curious nature of suricates. Built just for fun 🔬.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysuricata-0.0.11.tar.gz",
+  "download_time": "2025-10-12T16:22:59.657206",
+  "package_url": "https://pypi.org/project/pysuricata/"
+}
