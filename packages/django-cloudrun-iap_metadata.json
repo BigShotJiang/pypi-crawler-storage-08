@@ -1,0 +1,11 @@
+{
+  "name": "django-cloudrun-iap",
+  "version": "0.0.1",
+  "summary": "A Django middleware for Google Cloud RUN IAP authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cloudrun_iap-0.0.1.tar.gz",
+  "download_time": "2025-10-12T17:31:40.577518",
+  "package_url": "https://pypi.org/project/django-cloudrun-iap/"
+}

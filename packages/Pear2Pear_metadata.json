@@ -1,0 +1,11 @@
+{
+  "name": "Pear2Pear",
+  "version": "0.1.1",
+  "summary": "A example Python package",
+  "author": "Stephen Hudson",
+  "license": "BSD 2-clause",
+  "home_page": "https://github.com/vanouri/P2P_EIP_PUB_Package",
+  "download_filename": "pear2pear-0.1.1.tar.gz",
+  "download_time": "2025-10-12T17:31:35.278282",
+  "package_url": "https://pypi.org/project/Pear2Pear/"
+}
