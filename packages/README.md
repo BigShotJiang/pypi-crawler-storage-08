@@ -1,22 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T15:39:39.579901
-- **Total Packages**: 84
-- **Total Size**: 20.04 MB
+- **Download Time**: 2025-10-12T15:53:50.673306
+- **Total Packages**: 82
+- **Total Size**: 7.55 MB
 
 ## Packages List
+- current
+- vega-framework
+- pds-epitome
+- pyconvexity
+- project-vectorizer
+- KickApi
+- Mac-letterhead
+- authentik-client
+- tiny-recursive-model
+- omniopt2
+- mkdocs-wikipedia
+- ai-infra-bench
+- limber-timber
+- toolkit-brazil
+- feamerge
+- biblemate
+- ttth-mds5-analyzer
+- midpoint-cli
+- legit-api-client
+- vscode-offline
+- logan-iq
+- liminal-orm
+- raw-docx
+- reywechat
+- reyserver
+- reykit
+- reyfetch
+- reydb
+- sieves
+- ifctrano
 - brainstate
 - django-camomilla-cms
 - momonga
 - parallel-ssh
-- authentik-client
 - adiumentum
 - dataclass-baseclass
 - maqet
 - fastutcp
 - lf-pollywog
-- ai-infra-bench
 - intuned-runtime
 - mcp-server-motherduck
 - terminaide
@@ -27,7 +55,6 @@
 - uplt-py
 - cadwyn
 - alphaaidig-datacenter-common
-- vscode-offline
 - stringzilla
 - pelican-redirect
 - pwntools
@@ -35,14 +62,12 @@
 - jacksung
 - pelican-sitemap
 - grooveshop-django-api
-- legit-api-client
 - je-load-density
 - simple-fastapi-auth
 - asyncmy2
 - web-explorer-mcp
 - pylint
 - TikLocal
-- reyserver
 - mh-operator
 - django-bulk-drf
 - abstract-ide
@@ -50,43 +75,16 @@
 - cybuddy
 - mcp-proxy-adapter
 - spiderweb-framework
-- pds-epitome
 - lazyssh
 - x-transformers
 - pylogsentinel
 - trano
-- reykit
-- reydb
 - neosqlite
 - ravro
 - robokassa
 - lightcone-io
-- batframework
 - simos
 - alea-markdown
 - pyoverkiz
 - elasticsearch-mcp-server-es9
 - elasticsearch-mcp-server-es7
-- elasticsearch-mcp-server
-- opensearch-mcp-server
-- simacode
-- kubevim-vivnfm-client
-- moleditpy-linux
-- CliRemote
-- tacotoolbox
-- stringzillas-cpus
-- autocrud
-- step-cli-tools
-- penguin-tamer
-- tm-tc-code-generator
-- camel-ai
-- neco
-- moleditpy
-- fair
-- minced
-- shifter-toolkit
-- gretl4py
-- x-mlps-pytorch
-- je-load-density-dev
-- django-structured-json-field
-- huoniao-common

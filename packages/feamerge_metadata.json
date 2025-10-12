@@ -1,0 +1,11 @@
+{
+  "name": "feamerge",
+  "version": "0.1.0",
+  "summary": "Python script to merge Adobe feature files into a single variable feature file",
+  "author": "mitradranirban",
+  "license": null,
+  "home_page": "https://github.com/mitradranirban/feamerge",
+  "download_filename": "feamerge-0.1.0.tar.gz",
+  "download_time": "2025-10-12T15:53:14.548360",
+  "package_url": "https://pypi.org/project/feamerge/"
+}
