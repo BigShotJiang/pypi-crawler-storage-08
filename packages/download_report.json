@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-10-12T08:44:14.712746",
+  "download_time": "2025-10-12T08:54:57.663980",
   "total_packages_downloaded": 84,
-  "total_size_mb": 4.96,
+  "total_size_mb": 0.01,
   "packages": [
-    "asyncmy2",
     "moves-cli",
     "tepub",
     "ut-eco",
@@ -86,6 +85,7 @@
     "nvidia-nat-adk",
     "nvidia-nat-test",
     "aiqtoolkit-langchain",
-    "fastapi-voyager"
+    "fastapi-voyager",
+    "aiqtoolkit-zep-cloud"
   ]
 }
