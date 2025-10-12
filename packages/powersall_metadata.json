@@ -1,11 +1,11 @@
 {
   "name": "powersall",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "summary": "Advanced Powerball lottery analysis and number generator tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "powersall-2.0.0.tar.gz",
-  "download_time": "2025-10-12T03:55:15.156063",
+  "download_filename": "powersall-2.0.3.tar.gz",
+  "download_time": "2025-10-12T05:19:07.333986",
   "package_url": "https://pypi.org/project/powersall/"
 }

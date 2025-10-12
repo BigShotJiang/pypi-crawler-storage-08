@@ -1,11 +1,11 @@
 {
   "name": "neco",
-  "version": "0.0.0.post20",
+  "version": "0.0.0.post21",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neco-0.0.0.post20.tar.gz",
-  "download_time": "2025-10-12T04:53:27.172620",
+  "download_filename": "neco-0.0.0.post21.tar.gz",
+  "download_time": "2025-10-12T05:19:04.580277",
   "package_url": "https://pypi.org/project/neco/"
 }

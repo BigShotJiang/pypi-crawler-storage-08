@@ -1,11 +1,11 @@
 {
   "name": "first-dance",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "My tiny package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "first_dance-0.1.7-cp312-cp312-macosx_15_0_x86_64.whl",
-  "download_time": "2025-10-12T04:53:28.737093",
+  "download_filename": "first_dance-0.1.10-py3-none-any.whl",
+  "download_time": "2025-10-12T05:19:02.817977",
   "package_url": "https://pypi.org/project/first-dance/"
 }
