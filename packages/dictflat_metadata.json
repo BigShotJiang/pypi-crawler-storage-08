@@ -1,0 +1,11 @@
+{
+  "name": "dictflat",
+  "version": "0.2.0",
+  "summary": "A Python library to flatten a dictionary with nested dictionnaries and lists",
+  "author": "Arnaud Valmary",
+  "license": "MIT",
+  "home_page": "https://github.com/ArnaudValmary/py_dictflat",
+  "download_filename": "dictflat-0.2.0.tar.gz",
+  "download_time": "2025-10-12T21:17:51.465024",
+  "package_url": "https://pypi.org/project/dictflat/"
+}

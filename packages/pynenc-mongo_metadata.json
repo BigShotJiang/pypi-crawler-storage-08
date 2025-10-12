@@ -1,0 +1,11 @@
+{
+  "name": "pynenc-mongo",
+  "version": "0.1.4",
+  "summary": "MongoDB plugging for pynenc, a distributed task queue for Python.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pynenc_mongo-0.1.4.tar.gz",
+  "download_time": "2025-10-12T21:17:39.166750",
+  "package_url": "https://pypi.org/project/pynenc-mongo/"
+}

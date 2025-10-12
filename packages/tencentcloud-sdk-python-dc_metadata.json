@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-dc",
+  "version": "3.0.1475",
+  "summary": "Tencent Cloud Dc SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-dc-3.0.1475.tar.gz",
+  "download_time": "2025-10-12T21:18:06.721212",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-dc/"
+}

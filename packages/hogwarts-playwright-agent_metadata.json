@@ -1,11 +1,11 @@
 {
   "name": "hogwarts-playwright-agent",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "hogwarts-playwright-agent 霍格沃兹测试开发学社学员版",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hogwarts_playwright_agent-0.1.3-py3-none-any.whl",
-  "download_time": "2025-10-12T19:52:43.943815",
+  "download_filename": "hogwarts_playwright_agent-0.1.4-py3-none-any.whl",
+  "download_time": "2025-10-12T21:17:44.502709",
   "package_url": "https://pypi.org/project/hogwarts-playwright-agent/"
 }
