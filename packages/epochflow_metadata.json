@@ -1,0 +1,11 @@
+{
+  "name": "epochflow",
+  "version": "0.1.0",
+  "summary": "Algorithm Graph Compiler for DataFlow Execution - Compiles Python-like algorithm specifications into nodes/edges graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epochflow-0.1.0.tar.gz",
+  "download_time": "2025-10-12T23:19:16.041457",
+  "package_url": "https://pypi.org/project/epochflow/"
+}

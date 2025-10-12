@@ -1,37 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T22:54:02.910128
-- **Total Packages**: 82
-- **Total Size**: 13.18 MB
+- **Download Time**: 2025-10-12T23:19:40.082748
+- **Total Packages**: 73
+- **Total Size**: 10.11 MB
 
 ## Packages List
+- maleo-google
+- dbbasic-web
+- repti-telemetry
+- chess-minimax
+- maleo-infra
+- psann
+- maleo-database
+- jsonxplode
+- django-remix-icon
+- syncweb
+- maleo-metadata
+- mdsa-tools
+- lifesaver-lite-llm
+- tune-jax
+- lerobot-robot-bi-so101-follower
+- indy-hub
+- evo-sdk-common
+- mysql-ch-replicator
+- ut-xls
+- core-cdc
+- sputility
+- maleo-schemas
+- i-xero2
+- tombi
+- flock-core
+- argenta
+- ravyn
+- jupytext
+- epochflow
+- authentik-client
+- polars-permute
 - specado
 - rag-memory
-- chess-minimax
 - maleo-managers
 - easy-utils-dev
 - svc-infra
 - utils-anviks
 - ncm
 - maleo-middlewares
-- indy-hub
 - kymnasium
 - radboy
-- maleo-google
 - mkdocs-extrafiles
-- maleo-infra
-- authentik-client
 - critiplot
-- lerobot-robot-bi-so101-follower
 - tsdisagg
-- maleo-database
 - mainsequence
 - kubemind-common
 - dao-treasury
 - classifycolors
 - dycw-utilities
-- maleo-metadata
 - jamlib
 - codex32
 - pyimport
@@ -40,7 +63,6 @@
 - aiostem
 - core-db
 - endevre-id-client
-- maleo-schemas
 - pragmastat
 - claude-code-tools
 - scrall
@@ -57,34 +79,3 @@
 - mapillary-downloader
 - bdm-tool
 - fips-agents-cli
-- loudly-py-sdk
-- zero-agent
-- sparq
-- odsbox
-- droidrun
-- cmake-start
-- neonunicorn
-- sfq
-- pythagoras
-- jsonxplode
-- strava-activity-mcp-server
-- dcss-api
-- singlestore_mcp_server-fastmcp
-- contextagent
-- esphome
-- slippers-proxy
-- onebusaway
-- kabukit
-- reinforcenow
-- deolingo
-- clerk-auth-django
-- blindscrambler
-- skip-trace
-- openmed
-- aa-structures
-- dvc-utils
-- youtubesnoop
-- smpmgr
-- hdmimatrix
-- streamlit-healthcheck
-- poethepoet
