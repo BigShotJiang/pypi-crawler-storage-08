@@ -1,0 +1,11 @@
+{
+  "name": "PROtect-UniBo",
+  "version": "1.1.1",
+  "summary": "PROtect is a GUI-CLI desktop application providing basic features to manage passwords (add/edit/delete entry, import/export...), safely isolating accounts of more users accessing it",
+  "author": "Francesca Gaeta, Filippo Bonaldo, Alberto Antonello",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/unibo-dtm-se-2425-PROtect/artifact",
+  "download_filename": "protect_unibo-1.1.1.tar.gz",
+  "download_time": "2025-10-12T18:55:57.501010",
+  "package_url": "https://pypi.org/project/PROtect-UniBo/"
+}

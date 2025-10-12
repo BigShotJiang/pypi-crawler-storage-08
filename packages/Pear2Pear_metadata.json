@@ -1,11 +1,11 @@
 {
   "name": "Pear2Pear",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Pear2Pear package",
   "author": "Nouri valentin",
   "license": "BSD 2-clause",
   "home_page": "https://github.com/vanouri/P2P_EIP_PUB_Package",
-  "download_filename": "pear2pear-0.1.4.tar.gz",
-  "download_time": "2025-10-12T18:45:17.597264",
+  "download_filename": "pear2pear-0.1.5.tar.gz",
+  "download_time": "2025-10-12T18:55:51.411258",
   "package_url": "https://pypi.org/project/Pear2Pear/"
 }

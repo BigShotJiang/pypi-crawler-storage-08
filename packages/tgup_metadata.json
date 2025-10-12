@@ -1,0 +1,11 @@
+{
+  "name": "tgup",
+  "version": "0.1.7",
+  "summary": "Upload files to Telegram using your account",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tgup-0.1.7.tar.gz",
+  "download_time": "2025-10-12T18:55:54.644700",
+  "package_url": "https://pypi.org/project/tgup/"
+}

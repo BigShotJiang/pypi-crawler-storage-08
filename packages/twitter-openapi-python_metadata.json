@@ -1,0 +1,11 @@
+{
+  "name": "twitter-openapi-python",
+  "version": "0.0.42",
+  "summary": "Twitter OpenAPI",
+  "author": "fa0311",
+  "license": "proprietary or AGPL-3.0-or-later",
+  "home_page": "https://github.com/fa0311/twitter_openapi_python",
+  "download_filename": "twitter_openapi_python-0.0.42.tar.gz",
+  "download_time": "2025-10-12T18:55:50.314147",
+  "package_url": "https://pypi.org/project/twitter-openapi-python/"
+}

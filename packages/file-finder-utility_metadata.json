@@ -1,0 +1,11 @@
+{
+  "name": "file-finder-utility",
+  "version": "0.0.1",
+  "summary": "Um pacote utilitário para localizar e gerenciar arquivos com base em padrões de nome e data de modificação",
+  "author": "Pablo Dias",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "file_finder_utility-0.0.1.tar.gz",
+  "download_time": "2025-10-12T18:55:54.103629",
+  "package_url": "https://pypi.org/project/file-finder-utility/"
+}
