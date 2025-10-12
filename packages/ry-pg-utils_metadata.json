@@ -1,11 +1,11 @@
 {
   "name": "ry-pg-utils",
-  "version": "1.0.14",
+  "version": "1.0.17",
   "summary": "Utility functions for PostgreSQL",
   "author": "Ross Yeager",
   "license": null,
   "home_page": null,
-  "download_filename": "ry_pg_utils-1.0.14.tar.gz",
-  "download_time": "2025-10-12T17:52:50.627814",
+  "download_filename": "ry_pg_utils-1.0.17.tar.gz",
+  "download_time": "2025-10-12T18:26:44.711622",
   "package_url": "https://pypi.org/project/ry-pg-utils/"
 }

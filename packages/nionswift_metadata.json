@@ -1,0 +1,11 @@
+{
+  "name": "nionswift",
+  "version": "16.16.2",
+  "summary": "Nion Swift: Scientific Image Processing.",
+  "author": "Nion Software",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/nion-software/nionswift",
+  "download_filename": "nionswift-16.16.2.tar.gz",
+  "download_time": "2025-10-12T18:26:53.009120",
+  "package_url": "https://pypi.org/project/nionswift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hack-quest-cli",
+  "version": "1.0.2",
+  "summary": "A CLI adventure game where you play as a hacker trying to break into a bank vault.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hack_quest_cli-1.0.2.tar.gz",
+  "download_time": "2025-10-12T18:26:34.228422",
+  "package_url": "https://pypi.org/project/hack-quest-cli/"
+}

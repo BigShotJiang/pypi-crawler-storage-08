@@ -1,0 +1,11 @@
+{
+  "name": "pycphy",
+  "version": "0.2.0",
+  "summary": "Python: Computational Physics - Tools for physics dynamics simulation with CAD-based OpenFOAM case generation",
+  "author": "Sanjeev Bashyal",
+  "license": "MIT",
+  "home_page": "https://github.com/SanjeevBashyal/pycphy",
+  "download_filename": "pycphy-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-12T18:26:51.349008",
+  "package_url": "https://pypi.org/project/pycphy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "modshim",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Override and customize Python packages without touching their code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modshim-0.3.5.tar.gz",
-  "download_time": "2025-10-12T11:27:30.118220",
+  "download_filename": "modshim-0.3.6.tar.gz",
+  "download_time": "2025-10-12T18:26:27.112933",
   "package_url": "https://pypi.org/project/modshim/"
 }

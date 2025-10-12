@@ -1,0 +1,11 @@
+{
+  "name": "AnsiLib",
+  "version": "1.0.3",
+  "summary": "A library for handling ANSI codes",
+  "author": "Bora Boyacıoğlu",
+  "license": "MIT License",
+  "home_page": "https://github.com/boraboyacioglu-itu/ansilib",
+  "download_filename": "ansilib-1.0.3.tar.gz",
+  "download_time": "2025-10-12T18:26:33.135004",
+  "package_url": "https://pypi.org/project/AnsiLib/"
+}

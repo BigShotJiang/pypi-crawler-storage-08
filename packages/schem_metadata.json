@@ -1,0 +1,11 @@
+{
+  "name": "schem",
+  "version": "0.35.0",
+  "summary": "Clean Room implementation of the backend of SpaceChem (https://www.zachtronics.com/spacechem).",
+  "author": "Zig",
+  "license": null,
+  "home_page": "https://github.com/spacechem-community-developers/SChem",
+  "download_filename": "schem-0.35.0.tar.gz",
+  "download_time": "2025-10-12T18:26:39.228357",
+  "package_url": "https://pypi.org/project/schem/"
+}

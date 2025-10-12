@@ -1,0 +1,11 @@
+{
+  "name": "iitkgp-erp-login",
+  "version": "2.4.5",
+  "summary": "A package to automate login process in ERP for IIT-KGP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iitkgp_erp_login-2.4.5.tar.gz",
+  "download_time": "2025-10-12T18:26:23.748696",
+  "package_url": "https://pypi.org/project/iitkgp-erp-login/"
+}
