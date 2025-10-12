@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-robot-bi-so101-follower",
+  "version": "0.0.1",
+  "summary": "LeRobot so101 bimanual integration package",
+  "author": "Leo and Keshav",
+  "license": "MIT",
+  "home_page": "https://github.com/SIGRobotics-UIUC/lerobot_robot_bi_so101_follower",
+  "download_filename": "lerobot_robot_bi_so101_follower-0.0.1.tar.gz",
+  "download_time": "2025-10-12T22:40:15.280468",
+  "package_url": "https://pypi.org/project/lerobot-robot-bi-so101-follower/"
+}

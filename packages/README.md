@@ -1,28 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T22:20:02.282708
-- **Total Packages**: 83
-- **Total Size**: 3.19 MB
+- **Download Time**: 2025-10-12T22:41:01.248683
+- **Total Packages**: 81
+- **Total Size**: 2.26 MB
 
 ## Packages List
-- pydantic-graph-interrupt
+- lerobot-robot-bi-so101-follower
+- specado
+- tsdisagg
+- maleo-database
+- mainsequence
+- kubemind-common
+- dao-treasury
+- classifycolors
+- dycw-utilities
+- maleo-metadata
+- jamlib
+- codex32
+- pyimport
+- aa-structuretimers
 - svc-infra
+- authentik-client
+- querymark
+- aiostem
+- core-db
+- endevre-id-client
+- maleo-schemas
+- pragmastat
+- claude-code-tools
+- scrall
+- couchdb-client
+- pydantic-graph-interrupt
 - shellous
 - airbeld-api-sdk
 - pydantic-graph-persistence
-- specado
 - cua-computer
 - mkdocs-extrafiles
-- critiplot
 - fraiseql
 - cloudwatch-metrics-mcp-server
 - mcp-on-demand-tools
 - auto-workflow
 - mapillary-downloader
-- classifycolors
 - bdm-tool
-- authentik-client
 - fips-agents-cli
 - loudly-py-sdk
 - zero-agent
@@ -53,14 +73,12 @@
 - youtubesnoop
 - smpmgr
 - hdmimatrix
-- dao-treasury
 - streamlit-healthcheck
 - poethepoet
 - pylabinstruments
 - plex-generate-previews
 - xai-review
 - rand-engine
-- claude-code-tools
 - nott
 - pyclsp
 - miepy
@@ -69,23 +87,3 @@
 - commit-check
 - mrx-runway
 - ai-shell-command-generator
-- ign-lidar-hd
-- satnogs-decoders
-- aws.aws-dataprocessing-mcp-server
-- rag-memory
-- init-provider-sqlalchemy
-- deps-rocker
-- wybthon
-- graph-games-proto
-- pret-markdown
-- skypilot-nightly
-- bigwig-io
-- dawgie
-- icecap
-- coin-counter
-- tn-slack-py-module
-- charmlibs-interfaces-tls-certificates
-- lazyssh
-- findpydeps
-- heavyball
-- PyPFD

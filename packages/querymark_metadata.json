@@ -1,11 +1,11 @@
 {
   "name": "querymark",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Lightweight Python query builder for asyncpg. Use ? placeholders and querymark handles the $1, $2, $3 conversion.",
   "author": "hlynurj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "querymark-1.0.0.tar.gz",
-  "download_time": "2025-10-12T21:18:13.231278",
+  "download_filename": "querymark-1.1.0.tar.gz",
+  "download_time": "2025-10-12T22:40:24.514712",
   "package_url": "https://pypi.org/project/querymark/"
 }
