@@ -1,0 +1,11 @@
+{
+  "name": "cloudevents-pydantic",
+  "version": "0.2.0",
+  "summary": "An implementation of the CloudEvents spec using Pydantic V2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudevents_pydantic-0.2.0.tar.gz",
+  "download_time": "2025-10-12T11:27:27.033236",
+  "package_url": "https://pypi.org/project/cloudevents-pydantic/"
+}

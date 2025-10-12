@@ -1,0 +1,11 @@
+{
+  "name": "vuegraf",
+  "version": "1.10.0",
+  "summary": "Populate metrics from your Emporia Vue energy monitoring devices into an InfluxDB",
+  "author": "Jason Ertel",
+  "license": "MIT",
+  "home_page": "https://github.com/jertel/vuegraf",
+  "download_filename": "vuegraf-1.10.0.tar.gz",
+  "download_time": "2025-10-12T11:27:23.291440",
+  "package_url": "https://pypi.org/project/vuegraf/"
+}

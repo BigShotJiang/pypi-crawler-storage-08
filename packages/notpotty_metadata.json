@@ -1,11 +1,11 @@
 {
   "name": "notpotty",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Фильтр нецензурной лексики для русского языка",
   "author": "StreetShiffter",
   "license": "MIT",
   "home_page": "https://github.com/StreetShiffter/notpotty",
-  "download_filename": "notpotty-0.1.0.tar.gz",
-  "download_time": "2025-10-12T10:53:28.221902",
+  "download_filename": "notpotty-0.1.1.tar.gz",
+  "download_time": "2025-10-12T11:27:26.514378",
   "package_url": "https://pypi.org/project/notpotty/"
 }
