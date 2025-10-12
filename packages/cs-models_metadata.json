@@ -1,11 +1,11 @@
 {
   "name": "cs-models",
-  "version": "0.0.821",
+  "version": "0.0.822",
   "summary": "MySQL db models",
   "author": "Shrey Verma",
   "license": null,
   "home_page": "https://github.com/mindgram/cs-models",
-  "download_filename": "cs-models-0.0.821.tar.gz",
-  "download_time": "2025-10-09T06:31:32.518306",
+  "download_filename": "cs-models-0.0.822.tar.gz",
+  "download_time": "2025-10-12T16:43:36.134234",
   "package_url": "https://pypi.org/project/cs-models/"
 }

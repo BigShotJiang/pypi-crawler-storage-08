@@ -1,0 +1,11 @@
+{
+  "name": "pyocient",
+  "version": "3.5.1",
+  "summary": "Ocient Hyperscale Data Warehouse DBAPI Driver",
+  "author": "Ocient Inc",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://www.ocient.com/",
+  "download_filename": "pyocient-3.5.1-py3-none-any.whl",
+  "download_time": "2025-10-12T16:43:30.402074",
+  "package_url": "https://pypi.org/project/pyocient/"
+}

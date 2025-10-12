@@ -1,0 +1,11 @@
+{
+  "name": "kaia-brainbox",
+  "version": "4.0.6",
+  "summary": "Web-server and API to access the curated set of AI-deciders, packaged as containers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaia_brainbox-4.0.6.tar.gz",
+  "download_time": "2025-10-12T16:43:54.302437",
+  "package_url": "https://pypi.org/project/kaia-brainbox/"
+}

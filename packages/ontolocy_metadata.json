@@ -1,0 +1,11 @@
+{
+  "name": "ontolocy",
+  "version": "0.9.1",
+  "summary": "A Python package for modeling cybersecurity data in a Neo4j graph database.",
+  "author": "Ontolocy",
+  "license": null,
+  "home_page": "https://github.com/ontolocy/ontolocy-lib",
+  "download_filename": "ontolocy-0.9.1.tar.gz",
+  "download_time": "2025-10-12T16:43:27.296123",
+  "package_url": "https://pypi.org/project/ontolocy/"
+}
