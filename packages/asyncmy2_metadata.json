@@ -1,11 +1,11 @@
 {
   "name": "asyncmy2",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": "A fast asyncio MySQL driver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asyncmy2-0.2.14.tar.gz",
-  "download_time": "2025-10-11T16:22:51.109322",
+  "download_filename": "asyncmy2-0.2.15.tar.gz",
+  "download_time": "2025-10-12T06:28:16.944518",
   "package_url": "https://pypi.org/project/asyncmy2/"
 }

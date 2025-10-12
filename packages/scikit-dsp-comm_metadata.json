@@ -1,0 +1,11 @@
+{
+  "name": "scikit-dsp-comm",
+  "version": "2.1.1",
+  "summary": "DSP and Comm package.",
+  "author": "Mark Wickert",
+  "license": "BSD",
+  "home_page": "https://github.com/mwickert/scikit-dsp-comm",
+  "download_filename": "scikit_dsp_comm-2.1.1.tar.gz",
+  "download_time": "2025-10-12T06:28:12.473204",
+  "package_url": "https://pypi.org/project/scikit-dsp-comm/"
+}

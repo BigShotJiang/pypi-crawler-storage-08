@@ -1,0 +1,11 @@
+{
+  "name": "wolfram-alpha-mcp-server-xiaomayisjh",
+  "version": "1.0.1",
+  "summary": "Wolfram Alpha MCP Server - 使用移动端API的科学计算和事实查询工具",
+  "author": "Wolfram Alpha MCP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/wolfram-alpha-mcp-server",
+  "download_filename": "wolfram_alpha_mcp_server_xiaomayisjh-1.0.1.tar.gz",
+  "download_time": "2025-10-12T06:28:22.384354",
+  "package_url": "https://pypi.org/project/wolfram-alpha-mcp-server-xiaomayisjh/"
+}

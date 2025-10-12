@@ -1,0 +1,11 @@
+{
+  "name": "pack-py-exe",
+  "version": "0.2.0",
+  "summary": "One-click Python to EXE GUI tool (supports PyInstaller/Nuitka)",
+  "author": "JGZ_YES",
+  "license": null,
+  "home_page": "https://github.com/JGZYES/pack-py",
+  "download_filename": "pack_py_exe-0.2.0.tar.gz",
+  "download_time": "2025-10-12T06:28:42.718436",
+  "package_url": "https://pypi.org/project/pack-py-exe/"
+}

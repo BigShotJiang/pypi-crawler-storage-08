@@ -1,11 +1,11 @@
 {
   "name": "phonemize",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight and pure Python library for converting text into phonemes, based on a pre-trained model.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phonemize-0.2.0.tar.gz",
-  "download_time": "2025-10-11T12:37:06.779820",
+  "download_filename": "phonemize-0.2.1.tar.gz",
+  "download_time": "2025-10-12T06:28:28.432561",
   "package_url": "https://pypi.org/project/phonemize/"
 }

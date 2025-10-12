@@ -1,0 +1,11 @@
+{
+  "name": "mautic-pyhton",
+  "version": "0.0.1",
+  "summary": "A mautic api library for pyhton",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mautic_pyhton-0.0.1.tar.gz",
+  "download_time": "2025-10-12T06:28:10.182337",
+  "package_url": "https://pypi.org/project/mautic-pyhton/"
+}
