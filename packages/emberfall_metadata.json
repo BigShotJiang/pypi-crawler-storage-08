@@ -1,0 +1,11 @@
+{
+  "name": "emberfall",
+  "version": "0.1.0",
+  "summary": "A magical roguelike game - Chronicles of Emberfall",
+  "author": "Nullsec0x",
+  "license": "MIT",
+  "home_page": "https://github.com/nullsec0x/terminus-veil-chronicles-of-emberfall",
+  "download_filename": "emberfall-0.1.0.tar.gz",
+  "download_time": "2025-10-12T12:37:54.573907",
+  "package_url": "https://pypi.org/project/emberfall/"
+}

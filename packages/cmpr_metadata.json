@@ -1,11 +1,11 @@
 {
   "name": "cmpr",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Check data types for deciml_mathematics library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmpr-0.0.9.tar.gz",
-  "download_time": "2025-10-12T07:19:01.159585",
+  "download_filename": "cmpr-0.0.10.tar.gz",
+  "download_time": "2025-10-12T12:37:35.158778",
   "package_url": "https://pypi.org/project/cmpr/"
 }

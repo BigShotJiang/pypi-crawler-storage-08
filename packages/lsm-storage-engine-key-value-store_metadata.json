@@ -1,0 +1,11 @@
+{
+  "name": "lsm-storage-engine-key-value-store",
+  "version": "1.1.1",
+  "summary": "A persistent key-value storage engine based on LSM-tree architecture.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lsm_storage_engine_key_value_store-1.1.1.tar.gz",
+  "download_time": "2025-10-12T12:37:37.754178",
+  "package_url": "https://pypi.org/project/lsm-storage-engine-key-value-store/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-calc-pkg",
+  "version": "0.1.0",
+  "summary": "A sample calculator package with add/subtract/multiply/divide.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_calc_pkg-0.1.0.tar.gz",
+  "download_time": "2025-10-12T12:37:29.921406",
+  "package_url": "https://pypi.org/project/simple-calc-pkg/"
+}

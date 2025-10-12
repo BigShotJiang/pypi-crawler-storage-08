@@ -1,11 +1,11 @@
 {
   "name": "oniondctw",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "洋蔥工具包 🧅 收錄洋蔥的名言與趣味功能！",
-  "author": "YiChen, HCL_2025",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/dc2023tw/onion",
-  "download_filename": "oniondctw-1.5.0.tar.gz",
-  "download_time": "2025-10-12T09:19:47.041229",
+  "home_page": null,
+  "download_filename": "oniondctw-1.6.0.tar.gz",
+  "download_time": "2025-10-12T12:37:31.489116",
   "package_url": "https://pypi.org/project/oniondctw/"
 }

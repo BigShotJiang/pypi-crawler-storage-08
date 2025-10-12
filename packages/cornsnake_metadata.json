@@ -1,11 +1,11 @@
 {
   "name": "cornsnake",
-  "version": "0.0.102",
+  "version": "0.0.103",
   "summary": "Wrap common Python utilities for working with files, git, ZIP, lists, processes, dates and times.",
   "author": "Sean Ryan",
   "license": null,
   "home_page": "https://github.com/mrseanryan/cornsnake",
-  "download_filename": "cornsnake-0.0.102.tar.gz",
-  "download_time": "2025-10-12T11:27:20.152505",
+  "download_filename": "cornsnake-0.0.103.tar.gz",
+  "download_time": "2025-10-12T12:37:49.377129",
   "package_url": "https://pypi.org/project/cornsnake/"
 }
