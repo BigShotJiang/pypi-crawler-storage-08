@@ -1,11 +1,11 @@
 {
   "name": "ai-snake-lab",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Interactive reinforcement learning sandbox for experimenting with AI agents in a classic Snake Game environment.",
   "author": "Nadim-Daniel Ghaznavi",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "ai_snake_lab-0.5.0.tar.gz",
-  "download_time": "2025-10-12T02:52:28.140946",
+  "download_filename": "ai_snake_lab-0.6.0.tar.gz",
+  "download_time": "2025-10-12T15:19:16.970220",
   "package_url": "https://pypi.org/project/ai-snake-lab/"
 }

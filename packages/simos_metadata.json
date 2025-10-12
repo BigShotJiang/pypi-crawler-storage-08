@@ -1,0 +1,11 @@
+{
+  "name": "simos",
+  "version": "0.2.3",
+  "summary": "Spin simulations in Python (NMR, EPR/ESR as well as ODMR).",
+  "author": "Konstantin Herb",
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+  "home_page": "https://simos.kherb.io",
+  "download_filename": "simos-0.2.3.tar.gz",
+  "download_time": "2025-10-12T15:18:59.456943",
+  "package_url": "https://pypi.org/project/simos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "soapboxslide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Computational Soap Box Slide",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "soapboxslide-1.0.1.tar.gz",
-  "download_time": "2025-10-12T13:32:11.630793",
+  "download_filename": "soapboxslide-1.0.2.tar.gz",
+  "download_time": "2025-10-12T15:19:18.503792",
   "package_url": "https://pypi.org/project/soapboxslide/"
 }
