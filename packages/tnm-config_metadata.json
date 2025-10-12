@@ -1,0 +1,11 @@
+{
+  "name": "tnm-config",
+  "version": "1.2.1",
+  "summary": "Small config loader supporting YAML, JSON and XML with env support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tnm_config-1.2.1.tar.gz",
+  "download_time": "2025-10-12T04:43:40.012128",
+  "package_url": "https://pypi.org/project/tnm-config/"
+}
