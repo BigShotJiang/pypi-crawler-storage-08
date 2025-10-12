@@ -1,0 +1,11 @@
+{
+  "name": "lite-kits",
+  "version": "0.3.3",
+  "summary": "Lightweight enhancement kits for vanilla dev tools (spec-kit, etc.)",
+  "author": "lite-kits contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lite_kits-0.3.3.tar.gz",
+  "download_time": "2025-10-12T17:52:57.913495",
+  "package_url": "https://pypi.org/project/lite-kits/"
+}
