@@ -1,11 +1,11 @@
 {
   "name": "boring-math",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Purpose boring-math PyPI Project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boring_math-2.0.0.tar.gz",
-  "download_time": "2025-10-12T05:19:17.111935",
+  "download_filename": "boring_math-2.0.1.tar.gz",
+  "download_time": "2025-10-12T13:43:58.467484",
   "package_url": "https://pypi.org/project/boring-math/"
 }

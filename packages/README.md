@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T13:32:42.755963
-- **Total Packages**: 82
-- **Total Size**: 31.46 MB
+- **Download Time**: 2025-10-12T13:44:38.519089
+- **Total Packages**: 84
+- **Total Size**: 10.2 MB
 
 ## Packages List
+- kodexa-cli
+- ordeq_networkx
+- ifunctions
+- j2subst
+- fraiseql-confiture
+- penguin-tamer
+- ai-mcp-terminal
+- setuptools-scm
+- azpaddypy
+- authentik-client
+- glitchlings
+- GameSentenceMiner
+- pythonic-fp
+- init-provider
+- microtrax
+- boring-math
+- immutabledict
+- jupyter-mcp-server
 - pylizlib
 - textprompts
 - aioamazondevices
@@ -19,7 +37,6 @@
 - ordeq-manifest
 - fbgemm-gpu-nightly-cpu
 - fastapi-voyager
-- authentik-client
 - CliRemote
 - indoxrouter
 - edu-rdm-integration
@@ -73,18 +90,3 @@
 - frogml-cli
 - libentry
 - jasmine-astro
-- business-duration
-- db2text
-- robotframework-robocop
-- wisort
-- trnsfr
-- crossmark-jotform-api
-- PyPcre
-- parakeet-stream
-- snadboy-ssh-docker
-- xyra
-- funcguard
-- ae-shell
-- sphinx-vhs
-- pw-simple-scraper
-- tensorcircuit-nightly

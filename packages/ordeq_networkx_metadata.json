@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_networkx",
+  "version": "1.0.0",
+  "summary": "NetworkX integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_networkx-1.0.0.tar.gz",
+  "download_time": "2025-10-12T13:43:48.533754",
+  "package_url": "https://pypi.org/project/ordeq_networkx/"
+}
