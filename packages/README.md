@@ -1,27 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T10:53:54.299530
-- **Total Packages**: 84
-- **Total Size**: 19.98 MB
+- **Download Time**: 2025-10-12T11:17:15.447067
+- **Total Packages**: 80
+- **Total Size**: 4.75 MB
 
 ## Packages List
+- cronico
+- authentik-client
+- bw-timex
+- vidmux
+- zxbasic
+- fh2-drc-mcp-server
+- sqlalchemy-bind-manager
+- omniopt2
+- concave-sandbox
+- inventory-cli-tool
+- TikLocal
+- nextpy-cli
+- neco
+- dv2s
+- hotsos
+- monitored-ioloop
+- reloci
+- rovr
+- RamTorch
+- atomicshop
+- relocal-adr
+- cite-agent
+- shomei
+- gradboard
+- prseq
+- pyTermTk
+- ttkode
+- strawberry-graphql-django
+- deps-rocker
+- cldfgeojson
+- cornsnake
+- whatdidyoudo
+- vega-framework
 - visionstudio
 - tacoreader
 - kcli
 - wanabi
-- omniopt2
 - cube-alchemy
 - rjsmin
-- authentik-client
 - agentui
 - envdot
 - magpiem
-- prseq
 - rcssmin
 - gravixlayer
 - mostlyai
-- nextpy-cli
 - fd-adk
 - pyliblinear
 - aiiware-cli
@@ -29,7 +58,6 @@
 - odsgenerator
 - gensaschema
 - trainy-policy-nightly
-- neco
 - TG-AutoPoster
 - better-jupyter-mcp-server
 - sibr-agent
@@ -38,7 +66,6 @@
 - instaui-tdesign
 - PyLTSpice
 - gerermesaffaires-events
-- cornsnake
 - notpotty
 - flarelette
 - idzhiblavi-libdots
@@ -59,34 +86,3 @@
 - nvidia-nat-zep-cloud
 - z4d-certified-devices
 - nvidia-nat-mcp
-- vibesurf
-- nvidia-nat-phoenix
-- nvidia-nat-redis
-- nvidia-nat-crewai
-- yellowdog-python-examples
-- nvidia-nat-ingestion
-- nvidia-nat-test
-- nvidia-nat-mysql
-- nvidia-nat-semantic-kernel
-- moves-cli
-- nvidia-nat-agno
-- nvidia-nat-opentelemetry
-- nvidia-nat-ragaai
-- configai
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- pulpo-dev
-- ign-lidar-hd
-- nvidia-nat-langchain
-- aiqtoolkit-semantic-kernel
-- deductable
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- ab-token-issuer-service
-- aiqtoolkit-test
-- aiqtoolkit-llama-index
-- wiliot-api
-- aiqtoolkit
-- aiqtoolkit-langchain
-- aeonsdk
-- ut-path

@@ -1,0 +1,11 @@
+{
+  "name": "cronico",
+  "version": "0.9.16",
+  "summary": "Another YAML-based scheduler",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cronico-0.9.16.tar.gz",
+  "download_time": "2025-10-12T11:16:29.582718",
+  "package_url": "https://pypi.org/project/cronico/"
+}

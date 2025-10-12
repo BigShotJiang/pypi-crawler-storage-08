@@ -1,11 +1,11 @@
 {
   "name": "shomei",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Show off your coding contributions without leaking corporate IP",
   "author": "shomei contributors",
   "license": "MIT",
   "home_page": "https://github.com/petarran/shomei",
-  "download_filename": "shomei-1.0.2.tar.gz",
-  "download_time": "2025-10-10T13:57:39.423047",
+  "download_filename": "shomei-1.0.3.tar.gz",
+  "download_time": "2025-10-12T11:16:42.525482",
   "package_url": "https://pypi.org/project/shomei/"
 }
