@@ -1,0 +1,11 @@
+{
+  "name": "findpi",
+  "version": "1.2.2",
+  "summary": "Find Raspberry Pi devices on the network faster than nmap!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "findpi-1.2.2.tar.gz",
+  "download_time": "2025-10-12T05:41:01.693827",
+  "package_url": "https://pypi.org/project/findpi/"
+}
