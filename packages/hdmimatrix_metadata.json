@@ -1,11 +1,11 @@
 {
   "name": "hdmimatrix",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python HDMI Matrix control library for AVGear and possibly other HDMI matrix controllers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hdmimatrix-0.0.4.tar.gz",
-  "download_time": "2025-10-11T03:55:34.418376",
+  "download_filename": "hdmimatrix-0.0.5.tar.gz",
+  "download_time": "2025-10-12T21:53:21.023377",
   "package_url": "https://pypi.org/project/hdmimatrix/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-on-demand-tools",
+  "version": "0.1.0",
+  "summary": "An MCP server for dynamic tool registration and AI-powered simulation via Goose recipes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_on_demand_tools-0.1.0.tar.gz",
+  "download_time": "2025-10-12T21:53:23.787920",
+  "package_url": "https://pypi.org/project/mcp-on-demand-tools/"
+}

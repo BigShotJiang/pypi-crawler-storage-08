@@ -1,0 +1,11 @@
+{
+  "name": "clerk-auth-django",
+  "version": "0.1.1",
+  "summary": "Django REST Framework authentication library with Clerk integration",
+  "author": "Ernesto Martinez",
+  "license": "MIT",
+  "home_page": "https://github.com/ernes7/clerk-auth",
+  "download_filename": "clerk_auth_django-0.1.1.tar.gz",
+  "download_time": "2025-10-12T21:53:15.965631",
+  "package_url": "https://pypi.org/project/clerk-auth-django/"
+}
