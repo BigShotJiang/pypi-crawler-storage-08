@@ -1,0 +1,11 @@
+{
+  "name": "playwright-scenographer",
+  "version": "1.0.1",
+  "summary": "Playwright enables reliable end-to-end testing for modern web apps.",
+  "author": "Scenographer Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/scenographer/scenographer-python",
+  "download_filename": "playwright_scenographer-1.0.1.tar.gz",
+  "download_time": "2025-10-12T19:39:41.280197",
+  "package_url": "https://pypi.org/project/playwright-scenographer/"
+}

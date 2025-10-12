@@ -1,0 +1,11 @@
+{
+  "name": "nunchaku",
+  "version": "0.16.1",
+  "summary": "Optimally partitioning data into piece-wise linear segments.",
+  "author": "Yu Huo",
+  "license": "MIT",
+  "home_page": "https://nunchaku.readthedocs.io",
+  "download_filename": "nunchaku-0.16.1.tar.gz",
+  "download_time": "2025-10-12T19:39:51.318113",
+  "package_url": "https://pypi.org/project/nunchaku/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "backgroundlog",
+  "version": "0.2.6",
+  "summary": "A logging handler wrapper to improve logging performace by sending writes to a background thread",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backgroundlog-0.2.6.tar.gz",
+  "download_time": "2025-10-12T19:39:34.823094",
+  "package_url": "https://pypi.org/project/backgroundlog/"
+}

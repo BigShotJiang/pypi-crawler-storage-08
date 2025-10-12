@@ -1,0 +1,11 @@
+{
+  "name": "lawwenda",
+  "version": "0.4.184",
+  "summary": "web file manager",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/lawwenda",
+  "download_filename": "lawwenda-0.4.184-py3-none-any.whl",
+  "download_time": "2025-10-12T19:39:28.958001",
+  "package_url": "https://pypi.org/project/lawwenda/"
+}

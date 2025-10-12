@@ -1,0 +1,11 @@
+{
+  "name": "noix",
+  "version": "1.0.0",
+  "summary": "A NUT client for Python 3.13+",
+  "author": "Deuchnord",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "noix-1.0.0.tar.gz",
+  "download_time": "2025-10-12T19:39:33.260242",
+  "package_url": "https://pypi.org/project/noix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyheos",
+  "version": "1.0.6",
+  "summary": "An async python library for controlling HEOS devices through the HEOS CLI Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyheos-1.0.6.tar.gz",
+  "download_time": "2025-10-12T19:39:44.487023",
+  "package_url": "https://pypi.org/project/pyheos/"
+}
