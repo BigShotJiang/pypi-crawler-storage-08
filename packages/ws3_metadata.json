@@ -1,0 +1,11 @@
+{
+  "name": "ws3",
+  "version": "1.0.5",
+  "summary": "A Python framework for forest estate modeling and wood supply simulation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ws3-1.0.5.tar.gz",
+  "download_time": "2025-10-12T07:18:51.918255",
+  "package_url": "https://pypi.org/project/ws3/"
+}

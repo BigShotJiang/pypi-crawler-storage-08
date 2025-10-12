@@ -1,11 +1,11 @@
 {
   "name": "pyfskelec",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Unofficial client library for the ArmME / MiFalcon (pyfskelec) API.",
   "author": "Renier Moorcroft",
   "license": "GPL-3.0 license",
   "home_page": "https://github.com/RenierM26/pyfskelec/",
-  "download_filename": "pyfskelec-0.1.3.tar.gz",
-  "download_time": "2025-10-12T05:41:03.831605",
+  "download_filename": "pyfskelec-0.1.4.tar.gz",
+  "download_time": "2025-10-12T07:18:59.108367",
   "package_url": "https://pypi.org/project/pyfskelec/"
 }

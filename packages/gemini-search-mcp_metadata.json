@@ -1,0 +1,11 @@
+{
+  "name": "gemini-search-mcp",
+  "version": "0.3.1",
+  "summary": "MCP server that exposes Gemini web search and document question answering tools.",
+  "author": "Gemini Search Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemini_search_mcp-0.3.1.tar.gz",
+  "download_time": "2025-10-12T07:19:07.362000",
+  "package_url": "https://pypi.org/project/gemini-search-mcp/"
+}
