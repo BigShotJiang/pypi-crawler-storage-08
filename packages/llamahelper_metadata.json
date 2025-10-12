@@ -1,11 +1,11 @@
 {
   "name": "llamahelper",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llamahelper-0.1.2.tar.gz",
-  "download_time": "2025-10-09T02:47:25.099515",
+  "download_filename": "llamahelper-0.1.4.tar.gz",
+  "download_time": "2025-10-12T14:39:49.084510",
   "package_url": "https://pypi.org/project/llamahelper/"
 }

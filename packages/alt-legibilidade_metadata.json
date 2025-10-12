@@ -1,0 +1,11 @@
+{
+  "name": "alt-legibilidade",
+  "version": "0.1.2",
+  "summary": "Ferramenta para análise de legibilidade de textos em português",
+  "author": "Equipe ALT",
+  "license": "MIT",
+  "home_page": "https://github.com/marcopolomoreno/alt-python",
+  "download_filename": "alt_legibilidade-0.1.2.tar.gz",
+  "download_time": "2025-10-12T14:39:52.174101",
+  "package_url": "https://pypi.org/project/alt-legibilidade/"
+}

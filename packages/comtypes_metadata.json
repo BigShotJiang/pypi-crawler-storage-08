@@ -1,0 +1,11 @@
+{
+  "name": "comtypes",
+  "version": "1.4.13",
+  "summary": "Pure Python COM package",
+  "author": "Thomas Heller",
+  "license": null,
+  "home_page": "https://github.com/enthought/comtypes",
+  "download_filename": "comtypes-1.4.13-py3-none-any.whl",
+  "download_time": "2025-10-12T14:39:51.141085",
+  "package_url": "https://pypi.org/project/comtypes/"
+}

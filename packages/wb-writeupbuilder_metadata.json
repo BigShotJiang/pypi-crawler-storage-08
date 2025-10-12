@@ -1,0 +1,11 @@
+{
+  "name": "wb-writeupbuilder",
+  "version": "2.1",
+  "summary": "Builds Writup with your input.",
+  "author": "[Ph4nt01]",
+  "license": null,
+  "home_page": "https://github.com/Ph4nt01/WB-WriteupBuilder",
+  "download_filename": "wb_writeupbuilder-2.1.tar.gz",
+  "download_time": "2025-10-12T14:39:32.493000",
+  "package_url": "https://pypi.org/project/wb-writeupbuilder/"
+}

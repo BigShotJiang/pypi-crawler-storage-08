@@ -1,11 +1,11 @@
 {
   "name": "rustshogi",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustshogi-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-10-11T13:04:56.441379",
+  "download_filename": "rustshogi-0.4.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-10-12T14:39:34.584321",
   "package_url": "https://pypi.org/project/rustshogi/"
 }
