@@ -1,11 +1,11 @@
 {
   "name": "easyface-n",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A lightweight face recognition library without dlib(working)",
   "author": "Nimalpranav",
   "license": null,
   "home_page": null,
-  "download_filename": "easyface_n-0.3.0.tar.gz",
-  "download_time": "2025-10-12T03:35:40.743496",
+  "download_filename": "easyface_n-0.4.0.tar.gz",
+  "download_time": "2025-10-12T03:55:13.583209",
   "package_url": "https://pypi.org/project/easyface-n/"
 }

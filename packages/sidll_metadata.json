@@ -1,0 +1,11 @@
+{
+  "name": "sidll",
+  "version": "0.17",
+  "summary": "Sparse Indexed Doubly Linked List",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sidll-0.17.tar.gz",
+  "download_time": "2025-10-12T03:55:08.117485",
+  "package_url": "https://pypi.org/project/sidll/"
+}

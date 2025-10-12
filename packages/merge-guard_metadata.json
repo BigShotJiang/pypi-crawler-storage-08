@@ -1,0 +1,11 @@
+{
+  "name": "merge-guard",
+  "version": "0.1.0",
+  "summary": "A Git pre-commit hook that detects AI-generated code patterns and prevents low-quality code from being committed",
+  "author": "Ashalesh Tilawat",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "merge_guard-0.1.0.tar.gz",
+  "download_time": "2025-10-12T03:55:13.062805",
+  "package_url": "https://pypi.org/project/merge-guard/"
+}

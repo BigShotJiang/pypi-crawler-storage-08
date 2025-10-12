@@ -1,0 +1,11 @@
+{
+  "name": "satori-python-adapter-satori",
+  "version": "0.2.3",
+  "summary": "Satori Protocol SDK for python, adapter for Satori",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/RF-Tar-Railt/satori-python",
+  "download_filename": "satori_python_adapter_satori-0.2.3.tar.gz",
+  "download_time": "2025-10-12T03:55:01.176772",
+  "package_url": "https://pypi.org/project/satori-python-adapter-satori/"
+}
