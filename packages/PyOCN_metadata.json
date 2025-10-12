@@ -1,11 +1,11 @@
 {
   "name": "PyOCN",
-  "version": "1.3.20251010",
+  "version": "1.3.20251011",
   "summary": "Optimal Channel Networks (OCN) in Python with a C core",
   "author": "Alexander S. Fox",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "pyocn-1.3.20251010.tar.gz",
-  "download_time": "2025-10-11T04:23:19.106145",
+  "download_filename": "pyocn-1.3.20251011.tar.gz",
+  "download_time": "2025-10-12T01:30:33.997560",
   "package_url": "https://pypi.org/project/PyOCN/"
 }

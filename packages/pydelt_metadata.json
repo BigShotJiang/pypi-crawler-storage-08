@@ -1,0 +1,11 @@
+{
+  "name": "pydelt",
+  "version": "0.7.2",
+  "summary": "Advanced numerical function interpolation and differentiation with universal API, multivariate calculus, window functions, and stochastic extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydelt-0.7.2-py3-none-any.whl",
+  "download_time": "2025-10-12T01:30:43.911086",
+  "package_url": "https://pypi.org/project/pydelt/"
+}

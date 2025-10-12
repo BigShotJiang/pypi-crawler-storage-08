@@ -1,0 +1,11 @@
+{
+  "name": "seshat-classifier",
+  "version": "0.1.5",
+  "summary": "A package for classifying tabular photometry data from JWST, Spitzer, and 2MASS according to one of YSOs, field stars, brown dwarfs, white dwarfs, or galaxies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seshat_classifier-0.1.5.tar.gz",
+  "download_time": "2025-10-12T01:30:27.639056",
+  "package_url": "https://pypi.org/project/seshat-classifier/"
+}

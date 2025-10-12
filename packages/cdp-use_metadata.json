@@ -1,11 +1,11 @@
 {
   "name": "cdp-use",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Type safe generator/client library for CDP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdp_use-1.4.2.tar.gz",
-  "download_time": "2025-10-11T19:15:29.841767",
+  "download_filename": "cdp_use-1.4.3.tar.gz",
+  "download_time": "2025-10-12T01:30:35.049040",
   "package_url": "https://pypi.org/project/cdp-use/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mltracker",
+  "version": "0.4.0",
+  "summary": "Track machine learning experiments.",
+  "author": "entropy-flux",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mltracker-0.4.0.tar.gz",
+  "download_time": "2025-10-12T01:30:19.337147",
+  "package_url": "https://pypi.org/project/mltracker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skautis-py",
+  "version": "1.1.40",
+  "summary": "Python library for interaction with the Skautis API",
+  "author": "Jakub Kulik",
+  "license": "BSD",
+  "home_page": "https://github.com/skaut/skautis-py",
+  "download_filename": "skautis_py-1.1.40.tar.gz",
+  "download_time": "2025-10-12T01:30:44.422935",
+  "package_url": "https://pypi.org/project/skautis-py/"
+}
