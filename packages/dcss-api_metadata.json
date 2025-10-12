@@ -1,0 +1,11 @@
+{
+  "name": "dcss-api",
+  "version": "0.4.0",
+  "summary": "A DCSS Webtile API for Python.",
+  "author": "Eric Fecteau <eric.m.fecteau@gmail.com>",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "dcss_api-0.4.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-12T22:19:30.328958",
+  "package_url": "https://pypi.org/project/dcss-api/"
+}

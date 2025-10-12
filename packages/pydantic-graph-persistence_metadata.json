@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-graph-persistence",
+  "version": "0.1.1",
+  "summary": "Nice persistence abstractions for pydantic-graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_graph_persistence-0.1.1.tar.gz",
+  "download_time": "2025-10-12T22:19:15.583793",
+  "package_url": "https://pypi.org/project/pydantic-graph-persistence/"
+}

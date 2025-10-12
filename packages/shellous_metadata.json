@@ -1,0 +1,11 @@
+{
+  "name": "shellous",
+  "version": "0.39.0",
+  "summary": "Async Processes and Pipelines",
+  "author": "Bill Fisher",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shellous-0.39.0.tar.gz",
+  "download_time": "2025-10-12T22:19:14.306217",
+  "package_url": "https://pypi.org/project/shellous/"
+}
