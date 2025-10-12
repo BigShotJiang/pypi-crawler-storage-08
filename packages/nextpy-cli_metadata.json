@@ -1,11 +1,11 @@
 {
   "name": "nextpy-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "CLI tool to scaffold FastAPI + Next.js full-stack applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nextpy_cli-1.0.2.tar.gz",
-  "download_time": "2025-10-11T21:40:38.065967",
+  "download_filename": "nextpy_cli-1.0.3.tar.gz",
+  "download_time": "2025-10-12T09:53:34.321805",
   "package_url": "https://pypi.org/project/nextpy-cli/"
 }
