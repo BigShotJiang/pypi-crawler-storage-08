@@ -1,0 +1,11 @@
+{
+  "name": "kivy-deps.angle-dev",
+  "version": "0.5.0",
+  "summary": "Repackaged binary dependency of Kivy.",
+  "author": "Kivy Team and other contributors",
+  "license": "MIT",
+  "home_page": "http://kivy.org/",
+  "download_filename": "kivy_deps_angle_dev-0.5.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-12T11:52:38.231174",
+  "package_url": "https://pypi.org/project/kivy-deps.angle-dev/"
+}

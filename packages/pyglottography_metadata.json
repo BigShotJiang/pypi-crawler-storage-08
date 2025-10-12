@@ -1,0 +1,11 @@
+{
+  "name": "pyglottography",
+  "version": "1.1.0",
+  "summary": "Programmatic curation of Glottography datasets",
+  "author": "Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/glottography/pyglottography",
+  "download_filename": "pyglottography-1.1.0.tar.gz",
+  "download_time": "2025-10-12T11:52:40.226302",
+  "package_url": "https://pypi.org/project/pyglottography/"
+}

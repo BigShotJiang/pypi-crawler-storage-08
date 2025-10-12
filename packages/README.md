@@ -1,14 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T11:40:08.945945
-- **Total Packages**: 74
-- **Total Size**: 0.57 MB
+- **Download Time**: 2025-10-12T11:53:09.624393
+- **Total Packages**: 82
+- **Total Size**: 28.09 MB
 
 ## Packages List
+- docuvert
+- nextpy-cli
+- CliRemote
+- portacode
+- ut-eco
+- radio-curses
+- otpme
+- perconet
+- authentik-client
+- i18n-check
+- induslabs
+- voice-mode
+- unifypy
+- scalebench
+- indexly
+- lensguild
+- dockai
+- bsy-clippy
+- django-pistoke
+- superduperdeluxeimagemp3
+- orcheo
+- entari-cli
+- strictdoc
+- veee
+- kivy-deps.angle-dev
+- kivy-deps.angle
+- python-typing-update
+- pyglottography
+- autogit
+- pytest-smart-rerun
+- prseq
+- fastlib-py
+- wsaplus
+- yasimavr
+- omniopt2
+- rthor
+- grimoire-model
+- rovr
+- notmongo
+- arcgis-mcp-server
+- itrx
+- torchx-nightly
+- visaionserver
+- aiobmsble
+- millistream-mdf
+- vibesurf
+- torchft-nightly
+- ranimate
+- cornsnake
+- wanabi
+- mkdocs-macros-adr-summary
+- json-tools-rs
+- pyro-mysql
+- pyTermTk
+- vuegraf
 - matrice-common
 - django-cfg
-- omniopt2
 - tb-nightly
 - algoritmia
 - notpotty
@@ -21,7 +75,6 @@
 - lamda
 - tensorcontainer
 - cronico
-- authentik-client
 - bw-timex
 - vidmux
 - zxbasic
@@ -30,53 +83,8 @@
 - concave-sandbox
 - inventory-cli-tool
 - TikLocal
-- nextpy-cli
 - dv2s
 - hotsos
 - monitored-ioloop
 - reloci
-- rovr
 - RamTorch
-- atomicshop
-- relocal-adr
-- cite-agent
-- shomei
-- prseq
-- pyTermTk
-- ttkode
-- strawberry-graphql-django
-- deps-rocker
-- cldfgeojson
-- cornsnake
-- whatdidyoudo
-- vega-framework
-- visionstudio
-- tacoreader
-- kcli
-- wanabi
-- cube-alchemy
-- rjsmin
-- agentui
-- envdot
-- magpiem
-- rcssmin
-- gravixlayer
-- mostlyai
-- fd-adk
-- pyliblinear
-- aiiware-cli
-- konduktor-nightly
-- odsgenerator
-- gensaschema
-- trainy-policy-nightly
-- TG-AutoPoster
-- better-jupyter-mcp-server
-- sibr-agent
-- letta-nightly
-- cdbx
-- instaui-tdesign
-- PyLTSpice
-- gerermesaffaires-events
-- flarelette
-- idzhiblavi-libdots
-- positronic-franka

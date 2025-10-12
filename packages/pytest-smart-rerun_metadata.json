@@ -1,11 +1,11 @@
 {
   "name": "pytest-smart-rerun",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Pytest plugin for intelligent retrying of flaky tests.",
   "author": "Akilesh KR",
   "license": "MIT",
   "home_page": "https://github.com/Aki-07/pytest-smart-rerun",
-  "download_filename": "pytest_smart_rerun-0.1.2.tar.gz",
-  "download_time": "2025-10-12T09:20:08.577181",
+  "download_filename": "pytest_smart_rerun-0.1.3.tar.gz",
+  "download_time": "2025-10-12T11:52:41.278726",
   "package_url": "https://pypi.org/project/pytest-smart-rerun/"
 }

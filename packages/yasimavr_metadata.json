@@ -1,0 +1,11 @@
+{
+  "name": "yasimavr",
+  "version": "0.1.5",
+  "summary": "Yet Another SIMulator for AVR",
+  "author": "C. Savergne",
+  "license": "GPLv3",
+  "home_page": "https://github.com/clesav/yasimavr",
+  "download_filename": "yasimavr-0.1.5.tar.gz",
+  "download_time": "2025-10-12T11:52:43.446722",
+  "package_url": "https://pypi.org/project/yasimavr/"
+}
