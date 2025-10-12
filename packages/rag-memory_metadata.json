@@ -1,11 +1,11 @@
 {
   "name": "rag-memory",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "PostgreSQL pgvector-based RAG memory system with MCP server",
   "author": "Tim Kitchens",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rag_memory-0.5.0.tar.gz",
-  "download_time": "2025-10-12T22:53:19.322976",
+  "download_filename": "rag_memory-0.5.2.tar.gz",
+  "download_time": "2025-10-12T23:39:40.921652",
   "package_url": "https://pypi.org/project/rag-memory/"
 }

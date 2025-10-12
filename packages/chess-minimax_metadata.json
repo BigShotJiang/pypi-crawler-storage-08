@@ -1,11 +1,11 @@
 {
   "name": "chess-minimax",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A pure Python chess AI (minimax algorithm) integrated with a PyGame to interact with a chess board.",
   "author": "hobs",
   "license": null,
   "home_page": null,
-  "download_filename": "chess_minimax-0.1.5.tar.gz",
-  "download_time": "2025-10-12T23:19:01.162793",
+  "download_filename": "chess_minimax-0.1.7.tar.gz",
+  "download_time": "2025-10-12T23:39:39.859666",
   "package_url": "https://pypi.org/project/chess-minimax/"
 }

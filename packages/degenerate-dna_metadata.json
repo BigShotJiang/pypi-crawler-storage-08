@@ -1,0 +1,11 @@
+{
+  "name": "degenerate-dna",
+  "version": "0.1.1",
+  "summary": "Python implementation of the Degen Perl package by Zwick et al.",
+  "author": "Carlos Pena",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/carlosp420/degenerate-dna",
+  "download_filename": "degenerate_dna-0.1.1.tar.gz",
+  "download_time": "2025-10-12T23:39:38.816785",
+  "package_url": "https://pypi.org/project/degenerate-dna/"
+}

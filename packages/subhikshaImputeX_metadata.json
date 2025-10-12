@@ -1,0 +1,11 @@
+{
+  "name": "subhikshaImputeX",
+  "version": "0.1.0",
+  "summary": "Automatic missing value imputation with intelligent strategy selection",
+  "author": "Subhiksha_Anandhan",
+  "license": null,
+  "home_page": "https://github.com/subi2404/SubhikshaSmartImpute",
+  "download_filename": "subhikshaimputex-0.1.0.tar.gz",
+  "download_time": "2025-10-12T23:39:49.314607",
+  "package_url": "https://pypi.org/project/subhikshaImputeX/"
+}

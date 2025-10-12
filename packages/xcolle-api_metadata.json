@@ -1,0 +1,11 @@
+{
+  "name": "xcolle-api",
+  "version": "0.1.4",
+  "summary": "A Python library providing an asynchronous API interface for pcolle.com / gcolle.net",
+  "author": "NTFSvolume",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xcolle_api-0.1.4.tar.gz",
+  "download_time": "2025-10-12T23:39:50.866036",
+  "package_url": "https://pypi.org/project/xcolle-api/"
+}
