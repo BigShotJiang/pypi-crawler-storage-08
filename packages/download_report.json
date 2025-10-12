@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-10-12T07:39:47.469125",
+  "download_time": "2025-10-12T07:53:47.998256",
   "total_packages_downloaded": 80,
-  "total_size_mb": 1.26,
+  "total_size_mb": 0.0,
   "packages": [
     "universal-mcp-agents",
     "ab-token-issuer-service",
