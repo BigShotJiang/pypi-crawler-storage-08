@@ -1,0 +1,11 @@
+{
+  "name": "visiumhd-utils",
+  "version": "0.2.1",
+  "summary": "Tools for pre-processing and visualizing Visium HD spatial transcriptomics data.",
+  "author": "Daniel Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/danielchen05/visiumhd_utils",
+  "download_filename": "visiumhd_utils-0.2.1.tar.gz",
+  "download_time": "2025-10-12T19:15:55.655327",
+  "package_url": "https://pypi.org/project/visiumhd-utils/"
+}

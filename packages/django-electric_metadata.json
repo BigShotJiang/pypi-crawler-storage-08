@@ -1,0 +1,11 @@
+{
+  "name": "django-electric",
+  "version": "0.1.1",
+  "summary": "Django integration for Electric SQL real-time sync engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_electric-0.1.1.tar.gz",
+  "download_time": "2025-10-12T19:16:05.110756",
+  "package_url": "https://pypi.org/project/django-electric/"
+}
