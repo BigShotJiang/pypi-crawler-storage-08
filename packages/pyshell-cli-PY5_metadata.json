@@ -1,0 +1,11 @@
+{
+  "name": "pyshell-cli-PY5",
+  "version": "1.0.0",
+  "summary": "A modular UNIX-like shell implementation in Python with plugin architecture",
+  "author": "PyShell Contributors-PrachiY,KetakiD,Deekshita",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pyshell",
+  "download_filename": "pyshell_cli_py5-1.0.0.tar.gz",
+  "download_time": "2025-10-12T13:32:08.362008",
+  "package_url": "https://pypi.org/project/pyshell-cli-PY5/"
+}

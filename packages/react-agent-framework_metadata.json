@@ -1,11 +1,11 @@
 {
   "name": "react-agent-framework",
-  "version": "0.11.0",
-  "summary": "Complete AI agent framework with MCP support, infrastructure layer (monitoring, resilience, security, cost control, human-in-the-loop), environments, reasoning strategies, objectives, memory, and built-in tools",
+  "version": "0.12.0",
+  "summary": "Production-ready AI agent framework with multi-agent systems (Layer 3), complete infrastructure (Layer 4), MCP support, environments, reasoning strategies, objectives, memory, and built-in tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "react_agent_framework-0.11.0.tar.gz",
-  "download_time": "2025-10-11T13:31:47.219956",
+  "download_filename": "react_agent_framework-0.12.0.tar.gz",
+  "download_time": "2025-10-12T13:32:16.173244",
   "package_url": "https://pypi.org/project/react-agent-framework/"
 }

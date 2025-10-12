@@ -1,0 +1,11 @@
+{
+  "name": "parallel-ssh",
+  "version": "2.15.0",
+  "summary": "Asynchronous parallel SSH library",
+  "author": "Panos Kittenis",
+  "license": "LGPL-2.1-only",
+  "home_page": "https://github.com/ParallelSSH/parallel-ssh",
+  "download_filename": "parallel_ssh-2.15.0.tar.gz",
+  "download_time": "2025-10-12T13:32:02.189538",
+  "package_url": "https://pypi.org/project/parallel-ssh/"
+}
