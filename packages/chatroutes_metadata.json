@@ -1,11 +1,11 @@
 {
   "name": "chatroutes",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Official Python SDK for ChatRoutes API - Conversation branching and multi-model AI chat",
   "author": "ChatRoutes",
   "license": null,
   "home_page": "https://github.com/chatroutes/chatroutes-python-sdk",
-  "download_filename": "chatroutes-0.2.1.tar.gz",
-  "download_time": "2025-10-12T03:35:48.987963",
+  "download_filename": "chatroutes-0.2.2.tar.gz",
+  "download_time": "2025-10-12T04:53:30.292880",
   "package_url": "https://pypi.org/project/chatroutes/"
 }
