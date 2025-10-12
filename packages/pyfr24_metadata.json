@@ -1,0 +1,11 @@
+{
+  "name": "pyfr24",
+  "version": "0.1.10",
+  "summary": "A Python client for the Flightradar24 API with CLI support",
+  "author": "Matt Stiles",
+  "license": null,
+  "home_page": "https://github.com/stiles/pyfr24",
+  "download_filename": "pyfr24-0.1.10.tar.gz",
+  "download_time": "2025-10-12T19:52:46.031212",
+  "package_url": "https://pypi.org/project/pyfr24/"
+}

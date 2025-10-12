@@ -1,11 +1,11 @@
 {
   "name": "verify-diff-viewer",
-  "version": "0.3.3",
+  "version": "1.0.0",
   "summary": "A fast terminal diff viewer for pytest-verify",
   "author": "Mohamed Tahri <simotahri1@gmail.com>",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "verify_diff_viewer-0.3.3.tar.gz",
-  "download_time": "2025-10-11T21:17:09.076696",
+  "download_filename": "verify_diff_viewer-1.0.0.tar.gz",
+  "download_time": "2025-10-12T19:52:49.167076",
   "package_url": "https://pypi.org/project/verify-diff-viewer/"
 }
