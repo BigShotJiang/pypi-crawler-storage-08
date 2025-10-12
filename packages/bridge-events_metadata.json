@@ -1,0 +1,11 @@
+{
+  "name": "bridge-events",
+  "version": "1.0.2",
+  "summary": "Pythonic adapter for Bridge events",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bridge_events-1.0.2.tar.gz",
+  "download_time": "2025-10-12T09:38:53.920648",
+  "package_url": "https://pypi.org/project/bridge-events/"
+}

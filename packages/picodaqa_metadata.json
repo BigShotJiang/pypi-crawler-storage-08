@@ -1,0 +1,11 @@
+{
+  "name": "picodaqa",
+  "version": "1.1.5",
+  "summary": "Data AcQuisition and analysis with PicoScope usb-oscilloscopes",
+  "author": "Guenter Quast",
+  "license": "GNU Public Licence",
+  "home_page": "https://www.etp.kit.edu/~quast/",
+  "download_filename": "picodaqa-1.1.5.tar.gz",
+  "download_time": "2025-10-12T09:38:55.552267",
+  "package_url": "https://pypi.org/project/picodaqa/"
+}

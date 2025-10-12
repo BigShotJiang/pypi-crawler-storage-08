@@ -1,11 +1,11 @@
 {
   "name": "langroid",
-  "version": "0.59.13",
+  "version": "0.59.14",
   "summary": "Harness LLMs with Multi-Agent Programming",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langroid-0.59.13.tar.gz",
-  "download_time": "2025-10-10T21:17:52.661879",
+  "download_filename": "langroid-0.59.14.tar.gz",
+  "download_time": "2025-10-12T09:39:00.685843",
   "package_url": "https://pypi.org/project/langroid/"
 }

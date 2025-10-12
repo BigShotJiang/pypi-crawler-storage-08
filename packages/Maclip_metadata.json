@@ -1,11 +1,11 @@
 {
   "name": "Maclip",
-  "version": "2.2",
+  "version": "2.3",
   "summary": null,
   "author": "Beyond Cosine Similarity: Magnitude-Aware CLIP for No-Reference Image Quality Assessment",
   "license": null,
   "home_page": null,
-  "download_filename": "Maclip-2.2.tar.gz",
-  "download_time": "2025-10-12T09:19:52.414034",
+  "download_filename": "Maclip-2.3.tar.gz",
+  "download_time": "2025-10-12T09:38:58.622497",
   "package_url": "https://pypi.org/project/Maclip/"
 }

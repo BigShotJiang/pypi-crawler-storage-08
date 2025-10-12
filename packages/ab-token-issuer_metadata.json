@@ -1,11 +1,11 @@
 {
   "name": "ab-token-issuer",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_token_issuer-0.1.5.tar.gz",
-  "download_time": "2025-10-12T05:19:13.286410",
+  "download_filename": "ab_token_issuer-0.2.0.tar.gz",
+  "download_time": "2025-10-12T09:39:04.798712",
   "package_url": "https://pypi.org/project/ab-token-issuer/"
 }
