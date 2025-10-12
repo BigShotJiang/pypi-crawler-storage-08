@@ -1,0 +1,11 @@
+{
+  "name": "malifiscan",
+  "version": "1.0.0",
+  "summary": "A security tool that detects malicious packages from external vulnerability feeds and searches for them in your package registries or artifact repositories.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "malifiscan-1.0.0.tar.gz",
+  "download_time": "2025-10-12T13:54:12.384030",
+  "package_url": "https://pypi.org/project/malifiscan/"
+}

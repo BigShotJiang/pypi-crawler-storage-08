@@ -1,11 +1,11 @@
 {
   "name": "idroman",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A module for converting between integers and roman literals.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "idroman-0.2.0.tar.gz",
-  "download_time": "2025-10-12T09:19:56.740661",
+  "download_filename": "idroman-0.2.1.tar.gz",
+  "download_time": "2025-10-12T13:54:03.851342",
   "package_url": "https://pypi.org/project/idroman/"
 }

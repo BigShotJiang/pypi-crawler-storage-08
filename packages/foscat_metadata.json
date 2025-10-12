@@ -1,0 +1,11 @@
+{
+  "name": "foscat",
+  "version": "2025.10.2",
+  "summary": "Generate synthetic Healpix or 2D data using Cross Scattering Transform",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "foscat-2025.10.2.tar.gz",
+  "download_time": "2025-10-12T13:54:09.173732",
+  "package_url": "https://pypi.org/project/foscat/"
+}
