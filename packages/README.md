@@ -1,24 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T11:27:58.322818
-- **Total Packages**: 77
-- **Total Size**: 12.87 MB
+- **Download Time**: 2025-10-12T11:40:08.945945
+- **Total Packages**: 74
+- **Total Size**: 0.57 MB
 
 ## Packages List
-- aiobmsble
-- millistream-mdf
-- vibesurf
-- torchft-nightly
-- ranimate
-- authentik-client
-- cornsnake
-- wanabi
-- mkdocs-macros-adr-summary
-- json-tools-rs
-- pyro-mysql
-- pyTermTk
-- vuegraf
 - matrice-common
 - django-cfg
 - omniopt2
@@ -34,6 +21,7 @@
 - lamda
 - tensorcontainer
 - cronico
+- authentik-client
 - bw-timex
 - vidmux
 - zxbasic
@@ -54,15 +42,18 @@
 - cite-agent
 - shomei
 - prseq
+- pyTermTk
 - ttkode
 - strawberry-graphql-django
 - deps-rocker
 - cldfgeojson
+- cornsnake
 - whatdidyoudo
 - vega-framework
 - visionstudio
 - tacoreader
 - kcli
+- wanabi
 - cube-alchemy
 - rjsmin
 - agentui
@@ -83,3 +74,9 @@
 - sibr-agent
 - letta-nightly
 - cdbx
+- instaui-tdesign
+- PyLTSpice
+- gerermesaffaires-events
+- flarelette
+- idzhiblavi-libdots
+- positronic-franka
