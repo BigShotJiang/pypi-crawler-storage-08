@@ -1,0 +1,11 @@
+{
+  "name": "nionswift-instrumentation",
+  "version": "23.6.2",
+  "summary": "A Nion Swift library for STEM instrumentation (Camera, Scan, Video, Microscope).",
+  "author": "Nion Software",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/nion-software/nionswift-instrumentation-kit",
+  "download_filename": "nionswift_instrumentation-23.6.2.tar.gz",
+  "download_time": "2025-10-12T17:42:17.338416",
+  "package_url": "https://pypi.org/project/nionswift-instrumentation/"
+}

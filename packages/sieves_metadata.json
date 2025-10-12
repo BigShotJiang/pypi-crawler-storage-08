@@ -1,11 +1,11 @@
 {
   "name": "sieves",
-  "version": "0.17.3",
+  "version": "0.17.4",
   "summary": "Plug-and-play, zero-shot document processing pipelines.",
   "author": "Matthew Upson, Nick Sorros, Raphael Mitsch, Matthew Maufe, Angelo Di Gianvito",
   "license": "MIT",
   "home_page": "https://github.com/MantisAI/sieves",
-  "download_filename": "sieves-0.17.3.tar.gz",
-  "download_time": "2025-10-12T17:17:09.819769",
+  "download_filename": "sieves-0.17.4.tar.gz",
+  "download_time": "2025-10-12T17:42:19.008681",
   "package_url": "https://pypi.org/project/sieves/"
 }

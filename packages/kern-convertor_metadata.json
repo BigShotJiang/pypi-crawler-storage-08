@@ -1,0 +1,11 @@
+{
+  "name": "kern-convertor",
+  "version": "0.1.0",
+  "summary": "Python script to convert font kerning data from Adobe fea format to UFO plist format and vice-versa",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kern_convertor-0.1.0.tar.gz",
+  "download_time": "2025-10-12T17:42:28.073144",
+  "package_url": "https://pypi.org/project/kern-convertor/"
+}
