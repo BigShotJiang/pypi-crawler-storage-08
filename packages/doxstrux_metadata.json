@@ -1,0 +1,11 @@
+{
+  "name": "doxstrux",
+  "version": "0.2.0",
+  "summary": "Document structure extraction tool for markdown, with extensibility to PDF and HTML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doxstrux-0.2.0.tar.gz",
+  "download_time": "2025-10-12T21:39:30.885131",
+  "package_url": "https://pypi.org/project/doxstrux/"
+}

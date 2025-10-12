@@ -1,11 +1,11 @@
 {
   "name": "trace-mind",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "summary": "TraceMind smart agent runtime and tooling",
   "author": "TraceMind Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "trace_mind-1.0.4.tar.gz",
-  "download_time": "2025-10-08T19:59:58.800973",
+  "download_filename": "trace_mind-1.1.0.tar.gz",
+  "download_time": "2025-10-12T21:39:28.190175",
   "package_url": "https://pypi.org/project/trace-mind/"
 }

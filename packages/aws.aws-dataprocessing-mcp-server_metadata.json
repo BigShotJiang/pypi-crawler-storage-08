@@ -1,0 +1,11 @@
+{
+  "name": "aws.aws-dataprocessing-mcp-server",
+  "version": "0.1.1",
+  "summary": "A package that creates a file in the home directory upon installation",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/aws-dataprocessing-mcp-server",
+  "download_filename": "aws_aws_dataprocessing_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-10-12T21:39:17.922730",
+  "package_url": "https://pypi.org/project/aws.aws-dataprocessing-mcp-server/"
+}

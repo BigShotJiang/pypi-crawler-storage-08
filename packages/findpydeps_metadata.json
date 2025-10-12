@@ -1,0 +1,11 @@
+{
+  "name": "findpydeps",
+  "version": "0.2.8",
+  "summary": "Find the python dependencies used by your python files and projects",
+  "author": "Nicolas Reyland",
+  "license": "MIT License",
+  "home_page": "https://github.com/Nicolas-Reyland/findpydeps",
+  "download_filename": "findpydeps-0.2.8-py3-none-any.whl",
+  "download_time": "2025-10-12T21:39:26.043214",
+  "package_url": "https://pypi.org/project/findpydeps/"
+}
