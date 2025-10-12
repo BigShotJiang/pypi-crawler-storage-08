@@ -1,11 +1,11 @@
 {
   "name": "tokonomics",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Calcuate costs for LLM Usage based on token count",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "tokonomics-1.1.0.tar.gz",
-  "download_time": "2025-10-12T03:35:54.442417",
+  "download_filename": "tokonomics-1.1.1.tar.gz",
+  "download_time": "2025-10-12T04:23:36.794572",
   "package_url": "https://pypi.org/project/tokonomics/"
 }

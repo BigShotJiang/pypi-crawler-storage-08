@@ -1,0 +1,11 @@
+{
+  "name": "codex-bin",
+  "version": "0.45.0a1",
+  "summary": "A thin wrapper to distribute https://github.com/openai/codex via pip.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_bin-0.45.0a1-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-12T04:23:54.870211",
+  "package_url": "https://pypi.org/project/codex-bin/"
+}
