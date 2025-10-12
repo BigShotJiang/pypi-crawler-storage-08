@@ -1,0 +1,11 @@
+{
+  "name": "pulpo-dev",
+  "version": "1.4.3",
+  "summary": "Pulpo package for optimization in LCI databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulpo_dev-1.4.3.tar.gz",
+  "download_time": "2025-10-12T10:53:46.662657",
+  "package_url": "https://pypi.org/project/pulpo-dev/"
+}

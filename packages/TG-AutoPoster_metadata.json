@@ -1,0 +1,11 @@
+{
+  "name": "TG-AutoPoster",
+  "version": "3.6.0",
+  "summary": "Telegram Bot for reposting from VK",
+  "author": "qwertyadrian",
+  "license": "MIT License",
+  "home_page": "https://github.com/qwertyadrian/TG_AutoPoster",
+  "download_filename": "tg_autoposter-3.6.0.tar.gz",
+  "download_time": "2025-10-12T10:53:23.573057",
+  "package_url": "https://pypi.org/project/TG-AutoPoster/"
+}

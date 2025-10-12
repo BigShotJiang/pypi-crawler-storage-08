@@ -1,11 +1,11 @@
 {
   "name": "better-jupyter-mcp-server",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "summary": "A powerful MCP server for AI-driven Jupyter Notebook management and execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "better_jupyter_mcp_server-1.4.10.tar.gz",
-  "download_time": "2025-10-09T09:42:13.673965",
+  "download_filename": "better_jupyter_mcp_server-1.4.11.tar.gz",
+  "download_time": "2025-10-12T10:53:24.085118",
   "package_url": "https://pypi.org/project/better-jupyter-mcp-server/"
 }

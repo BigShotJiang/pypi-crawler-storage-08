@@ -1,0 +1,11 @@
+{
+  "name": "AzuriteSDK",
+  "version": "1.0.2",
+  "summary": "SDK for Azurite Modular Discord Framework",
+  "author": "kenftr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azuritesdk-1.0.2.tar.gz",
+  "download_time": "2025-10-12T10:53:31.358630",
+  "package_url": "https://pypi.org/project/AzuriteSDK/"
+}

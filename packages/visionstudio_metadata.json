@@ -1,0 +1,11 @@
+{
+  "name": "visionstudio",
+  "version": "0.1.0",
+  "summary": "A starter package to build Agents",
+  "author": "Emrah NAZIF",
+  "license": "MIT",
+  "home_page": "https://github.com/datamarkin/agents",
+  "download_filename": "visionstudio-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-12T10:53:10.056279",
+  "package_url": "https://pypi.org/project/visionstudio/"
+}

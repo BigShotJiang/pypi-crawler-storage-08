@@ -1,0 +1,11 @@
+{
+  "name": "magpiem",
+  "version": "1.0.0",
+  "summary": "Automated cleaning of sub-tomogram particle picking data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magpiem-1.0.0.tar.gz",
+  "download_time": "2025-10-12T10:53:16.346814",
+  "package_url": "https://pypi.org/project/magpiem/"
+}

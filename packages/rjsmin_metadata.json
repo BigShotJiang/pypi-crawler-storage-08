@@ -1,0 +1,11 @@
+{
+  "name": "rjsmin",
+  "version": "1.2.5",
+  "summary": "Javascript Minifier",
+  "author": "André Malo",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://opensource.perlig.de/rjsmin/",
+  "download_filename": "rjsmin-1.2.5.tar.gz",
+  "download_time": "2025-10-12T10:53:13.738859",
+  "package_url": "https://pypi.org/project/rjsmin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdbx",
+  "version": "0.2.6",
+  "summary": "CDB reimplementation for Python",
+  "author": "André Malo",
+  "license": "Apache-2.0",
+  "home_page": "https://opensource.perlig.de/cdbx/",
+  "download_filename": "cdbx-0.2.6.tar.gz",
+  "download_time": "2025-10-12T10:53:25.660195",
+  "package_url": "https://pypi.org/project/cdbx/"
+}

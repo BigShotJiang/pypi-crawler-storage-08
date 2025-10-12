@@ -1,0 +1,11 @@
+{
+  "name": "gensaschema",
+  "version": "0.6.10",
+  "summary": "Static SQLAlchemy Schema Generator",
+  "author": "André Malo",
+  "license": "Apache-2.0",
+  "home_page": "https://opensource.perlig.de/gensaschema/",
+  "download_filename": "gensaschema-0.6.10.tar.gz",
+  "download_time": "2025-10-12T10:53:22.020008",
+  "package_url": "https://pypi.org/project/gensaschema/"
+}

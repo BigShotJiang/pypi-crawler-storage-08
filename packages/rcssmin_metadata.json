@@ -1,0 +1,11 @@
+{
+  "name": "rcssmin",
+  "version": "1.2.2",
+  "summary": "CSS Minifier",
+  "author": "André Malo",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://opensource.perlig.de/rcssmin/",
+  "download_filename": "rcssmin-1.2.2.tar.gz",
+  "download_time": "2025-10-12T10:53:17.378610",
+  "package_url": "https://pypi.org/project/rcssmin/"
+}

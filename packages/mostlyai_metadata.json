@@ -1,11 +1,11 @@
 {
   "name": "mostlyai",
-  "version": "5.3.1",
+  "version": "5.3.2",
   "summary": "Synthetic Data SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mostlyai-5.3.1.tar.gz",
-  "download_time": "2025-10-09T12:41:25.807141",
+  "download_filename": "mostlyai-5.3.2.tar.gz",
+  "download_time": "2025-10-12T10:53:18.409436",
   "package_url": "https://pypi.org/project/mostlyai/"
 }
