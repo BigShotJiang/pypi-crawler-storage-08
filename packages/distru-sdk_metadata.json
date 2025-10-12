@@ -1,0 +1,11 @@
+{
+  "name": "distru-sdk",
+  "version": "1.0.2",
+  "summary": "Official Python SDK for the Distru API - Cannabis supply chain management",
+  "author": "Distru Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/DistruApp/distru-api-sdk",
+  "download_filename": "distru_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-12T18:45:19.148724",
+  "package_url": "https://pypi.org/project/distru-sdk/"
+}

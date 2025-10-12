@@ -1,11 +1,11 @@
 {
   "name": "scrava",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The Definitive Web Scraping Framework for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrava-0.1.0.tar.gz",
-  "download_time": "2025-10-12T18:26:36.511677",
+  "download_filename": "scrava-0.1.1.tar.gz",
+  "download_time": "2025-10-12T18:45:27.586887",
   "package_url": "https://pypi.org/project/scrava/"
 }

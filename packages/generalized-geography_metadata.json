@@ -1,0 +1,11 @@
+{
+  "name": "generalized-geography",
+  "version": "0.0.10",
+  "summary": "Generalized Geography Game Solver",
+  "author": "Hyomin",
+  "license": null,
+  "home_page": "https://github.com/singrum/generalized-geography",
+  "download_filename": "generalized_geography-0.0.10.tar.gz",
+  "download_time": "2025-10-12T18:45:18.630224",
+  "package_url": "https://pypi.org/project/generalized-geography/"
+}

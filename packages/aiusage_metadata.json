@@ -1,0 +1,11 @@
+{
+  "name": "aiusage",
+  "version": "0.1.0",
+  "summary": "A smart command-line tool for tracking AI credit consumption across billing cycles",
+  "author": "Michael Kennedy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiusage-0.1.0.tar.gz",
+  "download_time": "2025-10-12T18:45:24.469127",
+  "package_url": "https://pypi.org/project/aiusage/"
+}
