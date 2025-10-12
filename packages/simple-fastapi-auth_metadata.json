@@ -1,0 +1,11 @@
+{
+  "name": "simple-fastapi-auth",
+  "version": "1.1",
+  "summary": "A *heavily* opinionated library for simplifying the boilerplate of FastAPI authentication.",
+  "author": "Carlo Moro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_fastapi_auth-1.1.tar.gz",
+  "download_time": "2025-10-12T15:39:11.361483",
+  "package_url": "https://pypi.org/project/simple-fastapi-auth/"
+}

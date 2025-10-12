@@ -1,0 +1,11 @@
+{
+  "name": "django-camomilla-cms",
+  "version": "6.2.1",
+  "summary": "Django powered cms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_camomilla_cms-6.2.1.tar.gz",
+  "download_time": "2025-10-12T15:38:55.337888",
+  "package_url": "https://pypi.org/project/django-camomilla-cms/"
+}

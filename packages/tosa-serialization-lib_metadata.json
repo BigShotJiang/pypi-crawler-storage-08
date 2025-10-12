@@ -1,0 +1,11 @@
+{
+  "name": "tosa-serialization-lib",
+  "version": "2.0.0",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tosa_serialization_lib-2.0.0.tar.gz",
+  "download_time": "2025-10-12T15:39:08.215794",
+  "package_url": "https://pypi.org/project/tosa-serialization-lib/"
+}

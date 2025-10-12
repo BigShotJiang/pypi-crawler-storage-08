@@ -1,0 +1,11 @@
+{
+  "name": "convo-orchestrator",
+  "version": "0.1.0",
+  "summary": "Orchestrated RAG components: Postgres lexical, Qdrant vectors, Ollama LLM/embeddings, chat services & examples.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "convo_orchestrator-0.1.0.tar.gz",
+  "download_time": "2025-10-12T15:39:03.293521",
+  "package_url": "https://pypi.org/project/convo-orchestrator/"
+}
