@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T12:38:04.911903
-- **Total Packages**: 84
-- **Total Size**: 29.43 MB
+- **Download Time**: 2025-10-12T13:06:35.214861
+- **Total Packages**: 81
+- **Total Size**: 14.3 MB
 
 ## Packages List
+- simple-blogger
+- academia-mcp
+- tulit
+- traffic-taffy
+- praasper
+- voice-mode
+- frogml-cli
+- libentry
+- CliRemote
+- jasmine-astro
+- myst-libre
+- business-duration
+- nextpy-cli
+- db2text
+- robotframework-robocop
+- wisort
+- trnsfr
+- crossmark-jotform-api
+- edu-rdm-integration
+- PyPcre
+- parakeet-stream
+- snadboy-ssh-docker
+- xyra
+- funcguard
+- ae-shell
+- sphinx-vhs
+- pw-simple-scraper
+- authentik-client
+- tensorcircuit-nightly
+- auto-subs
+- microtrax
+- automatic-goggles
+- ndmanager
+- tinyshift
+- python-glinet
+- ultralytics
+- ncbulk
+- co-datascientist
+- grygry
+- turboapi
+- fastcodedog
+- bersona
+- django-manifeststaticfiles-enhanced
+- pyclsp
 - GoSound
 - pysme-astro
 - buildzr
@@ -17,10 +61,7 @@
 - avl-axi
 - atomicshop
 - batframework
-- CliRemote
-- co-datascientist
 - dbop-runner
-- authentik-client
 - llmakits
 - eaasy
 - checkov
@@ -30,7 +71,6 @@
 - tofuref
 - oniondctw
 - dockai
-- snadboy-ssh-docker
 - sqlean.py
 - karavaisv
 - prseq
@@ -45,48 +85,5 @@
 - chess-cv
 - stringle
 - wela-agents
-- ncbulk
 - sdax
 - rthor
-- unifypy
-- irispie-ce
-- claude-goblin
-- tombi
-- allytools
-- pyconvexity
-- whatdidyoudo
-- orcheo-backend
-- lensguild
-- moleditpy
-- moleditpy-linux
-- h5rdmtoolbox
-- grooveshop-django-api
-- oxl-opnsense-client
-- cornsnake
-- catpic
-- syntax-parser-prototype
-- sqllineage
-- mapillary-downloader
-- TCviewer
-- prophetverse
-- fastapi-voyager
-- induslabs
-- emberfall
-- xik-tools
-- moodle-xml-parser
-- claude-code-tools
-- aioamazondevices
-- biosero-data-models
-- catchup-schedules
-- cywhispercpp
-- rediacc
-- matrice-compute
-- orq-ai-sdk
-- docuvert
-- nextpy-cli
-- portacode
-- ut-eco
-- radio-curses
-- otpme
-- perconet
-- i18n-check

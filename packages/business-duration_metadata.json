@@ -1,0 +1,11 @@
+{
+  "name": "business-duration",
+  "version": "0.68",
+  "summary": "Calculates business duration in days, hours, minutes and seconds by excluding weekends, public holidays and non-business hours",
+  "author": "Gnaneshwar G",
+  "license": "MIT",
+  "home_page": "https://github.com/gnaneshwar441/Business_Duration",
+  "download_filename": "business_duration-0.68.tar.gz",
+  "download_time": "2025-10-12T13:05:58.374767",
+  "package_url": "https://pypi.org/project/business-duration/"
+}

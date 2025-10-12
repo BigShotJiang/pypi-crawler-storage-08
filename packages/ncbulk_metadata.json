@@ -1,11 +1,11 @@
 {
   "name": "ncbulk",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Nextcloud bulk user creation and update tool with CLI/TUI",
   "author": "Jaguar Kovalev",
   "license": null,
   "home_page": null,
-  "download_filename": "ncbulk-0.1.4.tar.gz",
-  "download_time": "2025-10-12T12:37:40.356388",
+  "download_filename": "ncbulk-0.1.5.tar.gz",
+  "download_time": "2025-10-12T13:06:11.888873",
   "package_url": "https://pypi.org/project/ncbulk/"
 }

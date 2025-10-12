@@ -1,0 +1,11 @@
+{
+  "name": "tinyshift",
+  "version": "0.7.5",
+  "summary": "A small toolbox for mlops",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyshift-0.7.5.tar.gz",
+  "download_time": "2025-10-12T13:06:10.289206",
+  "package_url": "https://pypi.org/project/tinyshift/"
+}

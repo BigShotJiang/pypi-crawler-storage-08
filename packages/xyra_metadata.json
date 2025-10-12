@@ -1,11 +1,11 @@
 {
   "name": "xyra",
-  "version": "0.1.7",
-  "summary": "A fast and simple web framework for Python",
+  "version": "0.1.8",
+  "summary": "High Performance Frameworks, Easy to learn and Ready for Production",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xyra-0.1.7.tar.gz",
-  "download_time": "2025-10-09T05:19:44.483916",
+  "download_filename": "xyra-0.1.8.tar.gz",
+  "download_time": "2025-10-12T13:06:04.347067",
   "package_url": "https://pypi.org/project/xyra/"
 }

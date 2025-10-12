@@ -1,0 +1,11 @@
+{
+  "name": "db2text",
+  "version": "0.2.3",
+  "summary": "database to text",
+  "author": "Chen chuan",
+  "license": null,
+  "home_page": "https://gitee.com/chenc224/dbt",
+  "download_filename": "db2text-0.2.3.tar.gz",
+  "download_time": "2025-10-12T13:05:59.441255",
+  "package_url": "https://pypi.org/project/db2text/"
+}
