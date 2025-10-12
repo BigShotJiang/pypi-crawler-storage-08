@@ -1,11 +1,11 @@
 {
   "name": "shudaodao",
-  "version": "0.1.54",
+  "version": "0.1.55",
   "summary": "SmartShudao",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shudaodao-0.1.54.tar.gz",
-  "download_time": "2025-10-12T16:43:40.279919",
+  "download_filename": "shudaodao-0.1.55.tar.gz",
+  "download_time": "2025-10-12T17:17:15.945916",
   "package_url": "https://pypi.org/project/shudaodao/"
 }

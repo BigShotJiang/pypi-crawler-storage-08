@@ -1,0 +1,11 @@
+{
+  "name": "nionui",
+  "version": "10.2.2",
+  "summary": "Nion UI framework.",
+  "author": "Nion Software",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nion-software/nionui",
+  "download_filename": "nionui-10.2.2.tar.gz",
+  "download_time": "2025-10-12T17:17:06.133088",
+  "package_url": "https://pypi.org/project/nionui/"
+}

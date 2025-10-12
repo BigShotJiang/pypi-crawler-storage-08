@@ -1,11 +1,11 @@
 {
   "name": "tacotoolbox",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "A toolbox to create TACO compliant datasets",
   "author": "Cesar Aybar",
   "license": null,
   "home_page": "https://github.com/csaybar/tacotoolbox",
-  "download_filename": "tacotoolbox-0.10.0.tar.gz",
-  "download_time": "2025-10-12T15:19:05.665847",
+  "download_filename": "tacotoolbox-0.10.1.tar.gz",
+  "download_time": "2025-10-12T17:17:18.563903",
   "package_url": "https://pypi.org/project/tacotoolbox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spotify-profile-monitor",
+  "version": "2.8",
+  "summary": "Tool implementing real-time tracking of Spotify users activities and profile changes including playlists",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_profile_monitor-2.8.tar.gz",
+  "download_time": "2025-10-12T17:17:00.798728",
+  "package_url": "https://pypi.org/project/spotify-profile-monitor/"
+}

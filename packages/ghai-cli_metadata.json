@@ -1,11 +1,11 @@
 {
   "name": "ghai-cli",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Python CLI application built with Click",
   "author": "Tom Gill",
   "license": null,
   "home_page": null,
-  "download_filename": "ghai_cli-0.2.1.tar.gz",
-  "download_time": "2025-10-12T16:43:29.375894",
+  "download_filename": "ghai_cli-0.2.2.tar.gz",
+  "download_time": "2025-10-12T17:17:19.075746",
   "package_url": "https://pypi.org/project/ghai-cli/"
 }
