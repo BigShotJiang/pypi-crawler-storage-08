@@ -1,0 +1,11 @@
+{
+  "name": "fasthx",
+  "version": "3.0.1",
+  "summary": "FastAPI server-side rendering with built-in HTMX support.",
+  "author": "Peter Volf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fasthx-3.0.1.tar.gz",
+  "download_time": "2025-10-12T20:40:30.854775",
+  "package_url": "https://pypi.org/project/fasthx/"
+}

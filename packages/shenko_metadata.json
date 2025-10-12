@@ -1,11 +1,11 @@
 {
   "name": "shenko",
-  "version": "0.1.87",
+  "version": "0.1.89",
   "summary": "visit us at www.shenko.org",
   "author": "Shenko Development Team",
   "license": "GNU General Public License v3",
   "home_page": "https://github.com/shenko/shenko",
-  "download_filename": "shenko-0.1.87.tar.gz",
-  "download_time": "2025-10-12T18:55:50.871652",
+  "download_filename": "shenko-0.1.89.tar.gz",
+  "download_time": "2025-10-12T20:40:21.748370",
   "package_url": "https://pypi.org/project/shenko/"
 }
