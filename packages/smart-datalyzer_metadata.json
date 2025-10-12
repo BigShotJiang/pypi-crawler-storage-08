@@ -1,0 +1,11 @@
+{
+  "name": "smart-datalyzer",
+  "version": "0.1.0",
+  "summary": "Data analysis and reporting toolkit",
+  "author": "Mehmood Ul Haq",
+  "license": "MIT",
+  "home_page": "https://github.com/mehmoodulhaq570/datalyzer",
+  "download_filename": "smart_datalyzer-0.1.0.tar.gz",
+  "download_time": "2025-10-12T20:22:04.303964",
+  "package_url": "https://pypi.org/project/smart-datalyzer/"
+}

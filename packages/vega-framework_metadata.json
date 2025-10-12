@@ -1,11 +1,11 @@
 {
   "name": "vega-framework",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Enterprise-ready Python framework that enforces Clean Architecture for building maintainable and scalable applications.",
   "author": "Roberto Ferro",
   "license": "MIT",
   "home_page": "https://github.com/RobyFerro/vega-framework",
-  "download_filename": "vega_framework-0.2.4.tar.gz",
-  "download_time": "2025-10-12T16:22:55.661028",
+  "download_filename": "vega_framework-0.2.5.tar.gz",
+  "download_time": "2025-10-12T20:21:42.475944",
   "package_url": "https://pypi.org/project/vega-framework/"
 }

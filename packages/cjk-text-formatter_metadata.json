@@ -1,11 +1,11 @@
 {
   "name": "cjk-text-formatter",
-  "version": "1.0.6",
-  "summary": "A CLI tool for polishing text with Chinese typography rules",
+  "version": "1.1.0",
+  "summary": "A CLI tool for polishing text with CJK (Chinese, Japanese, Korean) typography rules",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cjk_text_formatter-1.0.6.tar.gz",
-  "download_time": "2025-10-12T10:21:35.963086",
+  "download_filename": "cjk_text_formatter-1.1.0.tar.gz",
+  "download_time": "2025-10-12T20:21:55.860861",
   "package_url": "https://pypi.org/project/cjk-text-formatter/"
 }

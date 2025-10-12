@@ -1,0 +1,11 @@
+{
+  "name": "virtual-mouse-yax-hackberry",
+  "version": "0.1.0",
+  "summary": "Control your PC mouse using hand gestures via webcam",
+  "author": "Yax Patel",
+  "license": null,
+  "home_page": "https://github.com/KrishP08/virtual_mouse",
+  "download_filename": "virtual_mouse_yax_hackberry-0.1.0.tar.gz",
+  "download_time": "2025-10-12T20:21:49.997633",
+  "package_url": "https://pypi.org/project/virtual-mouse-yax-hackberry/"
+}
