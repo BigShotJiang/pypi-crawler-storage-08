@@ -1,20 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T13:54:47.281455
-- **Total Packages**: 83
-- **Total Size**: 2.11 MB
+- **Download Time**: 2025-10-12T14:18:13.240612
+- **Total Packages**: 81
+- **Total Size**: 11.95 MB
 
 ## Packages List
+- quingo
+- heapcy
+- ormparams
+- pytest-fixture-classes
+- voice-mode
+- pymllm
+- omnidep
+- greener-servermock
+- rediacc
+- greener-reporter
+- chuk-mcp-server
+- xik-tools
+- strava-activity-mcp-server
+- pyejs
+- authentik-client
+- perconet
+- tello-zune
+- praasper
+- maptasker
+- unifi2mqtt
+- jamlib
+- unifypy
+- guildbotics
+- autotrend
+- julax
+- rds-proxy-password-rotation
+- shifter-toolkit
+- pylizlib
+- dumbemu
+- hx-mcp-demo
+- atlas-research
+- isa-model
+- ndmanager
+- tensordict-nightly
+- neco
 - unifiedai-sdk
 - mkdocstrings-github
 - idroman
 - crypto-gpu-lib
 - ranimate
-- chuk-mcp-server
-- authentik-client
 - modisco
-- pylizlib
 - dbhose-utils
 - uncouple
 - cartographer3d-plugin
@@ -22,7 +54,6 @@
 - bdd-lint
 - berhoelodf
 - th-helpers
-- jamlib
 - labreportpy
 - malifiscan
 - kodexa-cli
@@ -56,36 +87,3 @@
 - fastapi-voyager
 - CliRemote
 - indoxrouter
-- edu-rdm-integration
-- cnfc
-- myst-libre
-- pyshell-cli-PY5
-- oct-to-tiff
-- omniopt2
-- jjinx
-- odoo-addon-stock-move-location
-- soapboxslide
-- pyimport
-- openportal
-- legit-api-client
-- tomldiary
-- ssh-python
-- gemini-sre
-- simple-blogger
-- react-agent-framework
-- aiofiles-x
-- pdf-file-renamer
-- allianceauth-app-utils
-- sunnbear
-- ssh2-python
-- nextpy-cli
-- loothelp
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- talks-reducer
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib

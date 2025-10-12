@@ -1,11 +1,11 @@
 {
   "name": "xik-tools",
-  "version": "0.87",
+  "version": "0.89",
   "summary": "tools for web",
   "author": "xikest",
   "license": null,
   "home_page": "https://github.com/xikest/tools",
-  "download_filename": "xik_tools-0.87.tar.gz",
-  "download_time": "2025-10-12T12:37:55.093062",
+  "download_filename": "xik_tools-0.89.tar.gz",
+  "download_time": "2025-10-12T14:17:35.545900",
   "package_url": "https://pypi.org/project/xik-tools/"
 }

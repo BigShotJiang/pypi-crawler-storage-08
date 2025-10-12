@@ -1,0 +1,11 @@
+{
+  "name": "omnidep",
+  "version": "0.3.10",
+  "summary": "Linter to compare project dependencies against imports in source code",
+  "author": "Steve Jessop",
+  "license": "MIT",
+  "home_page": "https://github.com/sjjessop/omnidep",
+  "download_filename": "omnidep-0.3.10.tar.gz",
+  "download_time": "2025-10-12T14:17:32.883588",
+  "package_url": "https://pypi.org/project/omnidep/"
+}

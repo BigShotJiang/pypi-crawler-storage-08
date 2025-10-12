@@ -1,11 +1,11 @@
 {
   "name": "praasper",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "VAD-Enhanced ASR Framework for Researchers",
   "author": "Tony Liu",
   "license": "MIT",
   "home_page": "https://github.com/ParadeLuxe/Praasper",
-  "download_filename": "praasper-0.4.2.tar.gz",
-  "download_time": "2025-10-12T13:05:54.224261",
+  "download_filename": "praasper-0.4.3.tar.gz",
+  "download_time": "2025-10-12T14:17:38.721467",
   "package_url": "https://pypi.org/project/praasper/"
 }

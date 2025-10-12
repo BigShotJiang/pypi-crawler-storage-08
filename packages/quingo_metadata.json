@@ -1,0 +1,11 @@
+{
+  "name": "quingo",
+  "version": "0.4.2",
+  "summary": "Quingo Runtime System",
+  "author": "Xiang Fu",
+  "license": null,
+  "home_page": "https://gitee.com/quingo/quingo-runtime",
+  "download_filename": "quingo-0.4.2-py3-none-any.whl",
+  "download_time": "2025-10-12T14:17:29.065807",
+  "package_url": "https://pypi.org/project/quingo/"
+}
