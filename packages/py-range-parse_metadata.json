@@ -1,0 +1,11 @@
+{
+  "name": "py-range-parse",
+  "version": "1.0.6",
+  "summary": "Parses commonly used range notations to python objects",
+  "author": "Markus Ressel",
+  "license": "MIT",
+  "home_page": "https://github.com/markusressel/py-range-parse",
+  "download_filename": "py_range_parse-1.0.6.tar.gz",
+  "download_time": "2025-10-12T23:53:00.798417",
+  "package_url": "https://pypi.org/project/py-range-parse/"
+}
