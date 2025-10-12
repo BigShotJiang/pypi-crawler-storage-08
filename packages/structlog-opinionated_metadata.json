@@ -1,0 +1,11 @@
+{
+  "name": "structlog-opinionated",
+  "version": "0.1.0",
+  "summary": "Opinionated structlog configuration for long-running asyncio servers",
+  "author": "Saurabh Das",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structlog_opinionated-0.1.0.tar.gz",
+  "download_time": "2025-10-12T03:35:59.333381",
+  "package_url": "https://pypi.org/project/structlog-opinionated/"
+}

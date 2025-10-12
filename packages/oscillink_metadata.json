@@ -1,11 +1,11 @@
 {
   "name": "oscillink",
-  "version": "0.1.7",
+  "version": "0.1.13",
   "summary": "Oscillink Lattice — Short-Term Coherence SDK (physics-inspired memory for generative models)",
   "author": null,
-  "license": "Apache-2.0",
+  "license": "Apache License\r\n                                   Version 2.0, January 2004\r\n                                http://www.apache.org/licenses/\r\n        \r\n        TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\r\n        \r\n        Copyright 2025 Odin Protocol Inc.\r\n        \r\n        Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this\r\n        file except in compliance with the License. You may obtain a copy of the License at\r\n        \r\n            http://www.apache.org/licenses/LICENSE-2.0\r\n        \r\n        Unless required by applicable law or agreed to in writing, software distributed under\r\n        the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF\r\n        ANY KIND, either express or implied. See the License for the specific language\r\n        governing permissions and limitations under the License.\r\n        ",
   "home_page": null,
-  "download_filename": "oscillink-0.1.7.tar.gz",
-  "download_time": "2025-10-11T03:19:00.182988",
+  "download_filename": "oscillink-0.1.13.tar.gz",
+  "download_time": "2025-10-12T03:36:02.581215",
   "package_url": "https://pypi.org/project/oscillink/"
 }

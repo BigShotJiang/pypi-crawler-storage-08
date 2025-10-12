@@ -1,11 +1,11 @@
 {
   "name": "easyui-lib",
-  "version": "0.1.1",
+  "version": "0.3.1",
   "summary": "Una librería para crear interfaces de usuario de manera sencilla",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyui_lib-0.1.1.tar.gz",
-  "download_time": "2025-10-10T23:52:57.211445",
+  "download_filename": "easyui_lib-0.3.1.tar.gz",
+  "download_time": "2025-10-12T03:36:13.731554",
   "package_url": "https://pypi.org/project/easyui-lib/"
 }

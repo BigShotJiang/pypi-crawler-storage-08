@@ -1,0 +1,11 @@
+{
+  "name": "bwfilter-python",
+  "version": "0.1.0",
+  "summary": "Pacote simples para edição de imagens",
+  "author": "Giulia Granado",
+  "license": null,
+  "home_page": "https://github.com/giuliagranado/bwfilter-python",
+  "download_filename": "bwfilter-python-0.1.0.tar.gz",
+  "download_time": "2025-10-12T03:36:03.121839",
+  "package_url": "https://pypi.org/project/bwfilter-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "millistream-mdf",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A high-level Python wrapper for the libmdf C SDK, providing access to the Millistream Data Feed (MDF) for real-time financial data streaming.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "millistream_mdf-0.1.6.tar.gz",
-  "download_time": "2025-10-12T02:52:10.883962",
+  "download_filename": "millistream_mdf-0.1.7.tar.gz",
+  "download_time": "2025-10-12T03:35:57.695709",
   "package_url": "https://pypi.org/project/millistream-mdf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "httpmorph",
+  "version": "0.1.0",
+  "summary": "Morph into any browser - High-performance HTTP client with dynamic fingerprinting using C, io_uring, and BoringSSL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "httpmorph-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-12T03:36:09.695426",
+  "package_url": "https://pypi.org/project/httpmorph/"
+}
