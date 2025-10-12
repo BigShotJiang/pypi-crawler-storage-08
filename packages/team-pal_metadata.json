@@ -1,11 +1,11 @@
 {
   "name": "team-pal",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": "Team Pal CLI entrypoint",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "team_pal-0.2.4.tar.gz",
-  "download_time": "2025-10-11T10:42:00.719875",
+  "download_filename": "team_pal-0.3.0.tar.gz",
+  "download_time": "2025-10-12T02:52:15.830812",
   "package_url": "https://pypi.org/project/team-pal/"
 }

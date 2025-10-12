@@ -1,0 +1,11 @@
+{
+  "name": "feelpp-aptly-publisher",
+  "version": "1.2.0",
+  "summary": "Tool to publish Debian packages to Feel++ APT repository via aptly and GitHub Pages",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "feelpp_aptly_publisher-1.2.0.tar.gz",
+  "download_time": "2025-10-12T02:52:08.694259",
+  "package_url": "https://pypi.org/project/feelpp-aptly-publisher/"
+}

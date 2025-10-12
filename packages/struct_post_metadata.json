@@ -1,0 +1,11 @@
+{
+  "name": "struct_post",
+  "version": "0.1.8.3",
+  "summary": "A module designed to analyse common structural test results.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "struct_post-0.1.8.3.tar.gz",
+  "download_time": "2025-10-12T02:52:34.529589",
+  "package_url": "https://pypi.org/project/struct_post/"
+}

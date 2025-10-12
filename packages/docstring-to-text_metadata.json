@@ -1,0 +1,11 @@
+{
+  "name": "docstring-to-text",
+  "version": "1.0.3",
+  "summary": "A simple pip package converting docstrings into clean text (proper paragraphs and indents)",
+  "author": "Lex Darlog (Lex-DRL)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docstring_to_text-1.0.3.tar.gz",
+  "download_time": "2025-10-12T02:52:32.410908",
+  "package_url": "https://pypi.org/project/docstring-to-text/"
+}

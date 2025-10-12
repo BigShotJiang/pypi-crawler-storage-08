@@ -1,0 +1,11 @@
+{
+  "name": "mcp-python-interpreter",
+  "version": "1.2.3",
+  "summary": "MCP server for Python code execution and environment management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_python_interpreter-1.2.3.tar.gz",
+  "download_time": "2025-10-12T02:52:19.622600",
+  "package_url": "https://pypi.org/project/mcp-python-interpreter/"
+}

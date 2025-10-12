@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-mcp",
+  "version": "0.2.4",
+  "summary": "A Model Context Protocol (MCP) server for MQTT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqtt_mcp-0.2.4.tar.gz",
+  "download_time": "2025-10-12T02:52:06.525692",
+  "package_url": "https://pypi.org/project/mqtt-mcp/"
+}

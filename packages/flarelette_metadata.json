@@ -1,0 +1,11 @@
+{
+  "name": "flarelette",
+  "version": "0.1.1",
+  "summary": "Lightweight API framework for Cloudflare Python Workers - like Starlette but for Workers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flarelette-0.1.1.tar.gz",
+  "download_time": "2025-10-12T02:52:21.754214",
+  "package_url": "https://pypi.org/project/flarelette/"
+}

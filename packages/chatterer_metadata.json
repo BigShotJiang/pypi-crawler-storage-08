@@ -1,0 +1,11 @@
+{
+  "name": "chatterer",
+  "version": "0.1.28",
+  "summary": "The highest-level interface for various LLM APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatterer-0.1.28.tar.gz",
+  "download_time": "2025-10-12T02:52:31.344377",
+  "package_url": "https://pypi.org/project/chatterer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "byted-sdma",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_sdma",
+  "download_filename": "byted_sdma-0.0.1.tar.gz",
+  "download_time": "2025-10-12T02:52:39.355920",
+  "package_url": "https://pypi.org/project/byted-sdma/"
+}

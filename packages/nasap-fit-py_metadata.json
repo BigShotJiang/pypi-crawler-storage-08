@@ -1,0 +1,11 @@
+{
+  "name": "nasap-fit-py",
+  "version": "0.3.2",
+  "summary": "Python implementation of the fitting procedure used in NASAP",
+  "author": "Keisuke Takeuchi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nasap_fit_py-0.3.2.tar.gz",
+  "download_time": "2025-10-12T02:52:16.901088",
+  "package_url": "https://pypi.org/project/nasap-fit-py/"
+}

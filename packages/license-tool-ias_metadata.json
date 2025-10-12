@@ -1,0 +1,11 @@
+{
+  "name": "license-tool-ias",
+  "version": "0.1.2",
+  "summary": "Example algo package with Cython-compiled submodules",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "license_tool_ias-0.1.2-cp311-cp311-manylinux_2_28_aarch64.whl",
+  "download_time": "2025-10-12T02:52:29.729075",
+  "package_url": "https://pypi.org/project/license-tool-ias/"
+}
