@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-12T07:19:23.283570
-- **Total Packages**: 83
-- **Total Size**: 20.44 MB
+- **Download Time**: 2025-10-12T07:39:47.469125
+- **Total Packages**: 80
+- **Total Size**: 1.26 MB
 
 ## Packages List
+- universal-mcp-agents
+- ab-token-issuer-service
+- batframework
+- authentik-client
+- claude-secret-scan
+- LLMEvaluationFramework
+- onion-dctw
+- Functions-d
+- pulumi-oci
+- datavlt
+- stream4py
+- playbooks
+- gguf-connector
+- pulumi-vault
+- pydmoo
+- unknown-data
+- cli-phone-book
+- halal-image-downloader
+- fnschool
+- kenobix
+- bloret-api-tool
+- rediacc
+- pulumi-wavefront
 - pulumi-vsphere
 - cjk-text-formatter
 - sparq
@@ -16,7 +39,6 @@
 - tritonparse
 - pulumi-snowflake
 - ai-mcp-terminal
-- LLMEvaluationFramework
 - pyprestascan
 - pulumi-cloudflare
 - caoyizhen_basetool
@@ -28,7 +50,6 @@
 - mochi-coco
 - carlosferreyra
 - bot-brawl
-- authentik-client
 - pulumi-splunk
 - ws3
 - semanticscout
@@ -41,8 +62,6 @@
 - pulumi-signalfx
 - tf-models-nightly
 - pulumi-random
-- kenobix
-- claude-secret-scan
 - liveConsole
 - pyfskelec
 - cache-dit
@@ -64,28 +83,6 @@
 - plex-api-client
 - pulumi-opsgenie
 - pulumi-openstack
-- Functions-d
 - scriptdb
 - dandy
 - friendly-module-not-found-error
-- pyagenity
-- pulumi-null
-- pulumi-newrelic
-- pulumi-mongodbatlas
-- miniappi
-- pulumi-ns1
-- pulumi-nomad
-- square-commons
-- nonebot-plugin-binsearch
-- pulumi-meraki
-- pulumi-mysql
-- fluxbind
-- smoosense
-- django-xladmin-enhanced
-- pulumi-minio
-- Maclip
-- asyncmy2
-- openhive
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- pulumi-juniper-mist
