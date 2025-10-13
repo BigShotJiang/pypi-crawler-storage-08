@@ -1,0 +1,11 @@
+{
+  "name": "collective-trace",
+  "version": "0.1.444",
+  "summary": "A monkey-patching tool for tracing collective operations",
+  "author": "Cookie Yang",
+  "license": null,
+  "home_page": "https://github.com/yangrudan/collective_trace",
+  "download_filename": "collective_trace-0.1.444.tar.gz",
+  "download_time": "2025-10-13T05:54:28.658182",
+  "package_url": "https://pypi.org/project/collective-trace/"
+}

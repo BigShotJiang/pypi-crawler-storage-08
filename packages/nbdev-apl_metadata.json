@@ -1,11 +1,11 @@
 {
   "name": "nbdev-apl",
-  "version": "0.0.2148",
+  "version": "0.0.2149",
   "summary": "nbdev docs lookup for Dyalog APL",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_apl-0.0.2148.tar.gz",
-  "download_time": "2025-10-12T13:32:20.944897",
+  "download_filename": "nbdev_apl-0.0.2149.tar.gz",
+  "download_time": "2025-10-13T05:54:29.790098",
   "package_url": "https://pypi.org/project/nbdev-apl/"
 }

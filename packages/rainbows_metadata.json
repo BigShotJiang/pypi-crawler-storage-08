@@ -1,0 +1,11 @@
+{
+  "name": "rainbows",
+  "version": "6.1.0",
+  "summary": "The official Python library for the rainbows API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rainbows-6.1.0.tar.gz",
+  "download_time": "2025-10-13T05:54:12.942449",
+  "package_url": "https://pypi.org/project/rainbows/"
+}
