@@ -1,0 +1,11 @@
+{
+  "name": "display-image",
+  "version": "0.1.8",
+  "summary": "PyQt6 Gui App to display the wide range image formats (jpg, png, tif, dng, bmp, and RAWs), with image metadata and histogram.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "display_image-0.1.8.tar.gz",
+  "download_time": "2025-10-13T07:53:40.553879",
+  "package_url": "https://pypi.org/project/display-image/"
+}

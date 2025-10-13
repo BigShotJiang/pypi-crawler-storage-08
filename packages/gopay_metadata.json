@@ -1,0 +1,11 @@
+{
+  "name": "gopay",
+  "version": "2.2.6",
+  "summary": "GoPay's Python SDK for Payments REST API",
+  "author": "GoPay",
+  "license": "MIT",
+  "home_page": "https://github.com/gopaycommunity/gopay-python-api",
+  "download_filename": "gopay-2.2.6.tar.gz",
+  "download_time": "2025-10-13T07:53:30.315788",
+  "package_url": "https://pypi.org/project/gopay/"
+}

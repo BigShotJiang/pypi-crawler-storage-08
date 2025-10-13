@@ -1,0 +1,11 @@
+{
+  "name": "sepp-tools",
+  "version": "0.1.5",
+  "summary": "Pdf transport orders reading and automatic soloplan order creation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sepp_tools-0.1.5.tar.gz",
+  "download_time": "2025-10-13T07:53:34.750034",
+  "package_url": "https://pypi.org/project/sepp-tools/"
+}

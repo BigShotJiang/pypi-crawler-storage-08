@@ -1,0 +1,11 @@
+{
+  "name": "cosmotech-run-orchestrator",
+  "version": "2.0.2",
+  "summary": "Orchestration suite for Cosmotech Run Templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosmotech_run_orchestrator-2.0.2.tar.gz",
+  "download_time": "2025-10-13T07:53:25.824588",
+  "package_url": "https://pypi.org/project/cosmotech-run-orchestrator/"
+}

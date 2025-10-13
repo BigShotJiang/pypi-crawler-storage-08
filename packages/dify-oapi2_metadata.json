@@ -1,11 +1,11 @@
 {
   "name": "dify-oapi2",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "A package for interacting with the Dify Service-API",
   "author": "Oscaner Miao",
   "license": "MIT",
   "home_page": "https://github.com/nodite/dify-oapi2",
-  "download_filename": "dify_oapi2-1.0.5.tar.gz",
-  "download_time": "2025-10-13T07:42:03.942784",
+  "download_filename": "dify_oapi2-1.0.7.tar.gz",
+  "download_time": "2025-10-13T07:53:29.239936",
   "package_url": "https://pypi.org/project/dify-oapi2/"
 }
