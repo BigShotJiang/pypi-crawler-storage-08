@@ -1,11 +1,11 @@
 {
   "name": "cell_key_perturbation",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "This package creates frequency tables from microdata, and applies cell key perturbation to alter the final values",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cell_key_perturbation-2.1.0.tar.gz",
-  "download_time": "2025-10-13T14:46:35.338716",
+  "download_filename": "cell_key_perturbation-2.1.1.tar.gz",
+  "download_time": "2025-10-13T16:27:26.605795",
   "package_url": "https://pypi.org/project/cell_key_perturbation/"
 }

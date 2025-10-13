@@ -1,11 +1,11 @@
 {
   "name": "pydantic-metamodel",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A lightweight metamodel implemented with Pydantic",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_metamodel-0.0.5.tar.gz",
-  "download_time": "2025-10-13T14:46:31.439158",
+  "download_filename": "pydantic_metamodel-0.0.6.tar.gz",
+  "download_time": "2025-10-13T16:27:28.193617",
   "package_url": "https://pypi.org/project/pydantic-metamodel/"
 }

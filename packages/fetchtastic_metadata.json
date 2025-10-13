@@ -1,0 +1,11 @@
+{
+  "name": "fetchtastic",
+  "version": "0.7.3",
+  "summary": "Meshtastic Firmware and APK Downloader",
+  "author": "Jeremiah K",
+  "license": "MIT",
+  "home_page": "https://github.com/jeremiah-k/fetchtastic",
+  "download_filename": "fetchtastic-0.7.3.tar.gz",
+  "download_time": "2025-10-13T16:27:13.734649",
+  "package_url": "https://pypi.org/project/fetchtastic/"
+}

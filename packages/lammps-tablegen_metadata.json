@@ -1,0 +1,11 @@
+{
+  "name": "lammps-tablegen",
+  "version": "0.3.1",
+  "summary": "Generator for LAMMPS two-body and three-body tabulated potentials.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "lammps_tablegen-0.3.1.tar.gz",
+  "download_time": "2025-10-13T16:27:47.157216",
+  "package_url": "https://pypi.org/project/lammps-tablegen/"
+}
