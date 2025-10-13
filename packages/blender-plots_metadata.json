@@ -1,0 +1,11 @@
+{
+  "name": "blender-plots",
+  "version": "1.0.13",
+  "summary": "Plotting API for Blender",
+  "author": "Linus Härenstam-Nielsen",
+  "license": null,
+  "home_page": "https://github.com/Linusnie/blender-plots",
+  "download_filename": "blender_plots-1.0.13.tar.gz",
+  "download_time": "2025-10-13T15:22:11.258563",
+  "package_url": "https://pypi.org/project/blender-plots/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kailab",
+  "version": "0.1.0",
+  "summary": "A simple math library for basic arithmetic operations",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kailab-0.1.0.tar.gz",
+  "download_time": "2025-10-13T15:22:10.711348",
+  "package_url": "https://pypi.org/project/kailab/"
+}

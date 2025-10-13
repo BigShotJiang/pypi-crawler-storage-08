@@ -1,11 +1,11 @@
 {
   "name": "brainscale",
-  "version": "0.0.11",
+  "version": "0.1.0",
   "summary": "Enabling Scalable Online Learning for Brain Dynamics.",
   "author": null,
   "license": "Apache-2.0 license",
   "home_page": null,
-  "download_filename": "brainscale-0.0.11.tar.gz",
-  "download_time": "2025-10-09T03:33:28.588756",
+  "download_filename": "brainscale-0.1.0.tar.gz",
+  "download_time": "2025-10-13T15:22:41.167527",
   "package_url": "https://pypi.org/project/brainscale/"
 }

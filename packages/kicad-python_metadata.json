@@ -1,0 +1,11 @@
+{
+  "name": "kicad-python",
+  "version": "0.5.0",
+  "summary": "KiCad API Python Bindings",
+  "author": "The KiCad Development Team",
+  "license": null,
+  "home_page": "https://kicad.org/",
+  "download_filename": "kicad_python-0.5.0.tar.gz",
+  "download_time": "2025-10-13T15:22:29.784282",
+  "package_url": "https://pypi.org/project/kicad-python/"
+}

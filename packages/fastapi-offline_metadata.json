@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-offline",
+  "version": "1.7.5",
+  "summary": "FastAPI without reliance on CDNs for docs",
+  "author": "Neal Turett",
+  "license": "MIT",
+  "home_page": "https://github.com/turettn/fastapi_offline",
+  "download_filename": "fastapi_offline-1.7.5.tar.gz",
+  "download_time": "2025-10-13T15:22:52.604766",
+  "package_url": "https://pypi.org/project/fastapi-offline/"
+}

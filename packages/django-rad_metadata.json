@@ -1,0 +1,11 @@
+{
+  "name": "django-rad",
+  "version": "0.1.1",
+  "summary": "Controller Based Hybrid of DRF and Django Ninja",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_rad-0.1.1.tar.gz",
+  "download_time": "2025-10-13T15:22:09.542926",
+  "package_url": "https://pypi.org/project/django-rad/"
+}

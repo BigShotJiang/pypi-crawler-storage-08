@@ -1,0 +1,11 @@
+{
+  "name": "flask-tailwind-manager",
+  "version": "0.0.20",
+  "summary": "Easily use tailwind css with Flask projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_tailwind_manager-0.0.20.tar.gz",
+  "download_time": "2025-10-13T15:22:30.347874",
+  "package_url": "https://pypi.org/project/flask-tailwind-manager/"
+}

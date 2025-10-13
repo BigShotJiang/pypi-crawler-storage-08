@@ -1,11 +1,11 @@
 {
   "name": "ksbanim",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "A module for animation based on PyQt5, OpenGL, and imageio[ffmpeg]",
   "author": "Biasini Dario",
   "license": "MIT",
   "home_page": "https://github.com/tunnelrind/ksbanim",
-  "download_filename": "ksbanim-1.2.6.tar.gz",
-  "download_time": "2025-10-13T14:46:07.041531",
+  "download_filename": "ksbanim-1.2.7.tar.gz",
+  "download_time": "2025-10-13T15:22:36.884370",
   "package_url": "https://pypi.org/project/ksbanim/"
 }

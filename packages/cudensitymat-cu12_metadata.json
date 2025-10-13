@@ -1,0 +1,11 @@
+{
+  "name": "cudensitymat-cu12",
+  "version": "0.3.1",
+  "summary": "cuDensityMat - a component of NVIDIA cuQuantum SDK",
+  "author": "NVIDIA Corporation",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": "https://developer.nvidia.com/cuquantum-sdk",
+  "download_filename": "cudensitymat_cu12-0.3.1-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-10-13T15:22:27.119926",
+  "package_url": "https://pypi.org/project/cudensitymat-cu12/"
+}
