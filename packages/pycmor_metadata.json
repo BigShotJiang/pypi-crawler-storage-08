@@ -1,0 +1,11 @@
+{
+  "name": "pycmor",
+  "version": "1.0.2",
+  "summary": "Makes CMOR Simple",
+  "author": "Paul Gierz",
+  "license": "MIT",
+  "home_page": "https://github.com/esm-tools/pycmor",
+  "download_filename": "pycmor-1.0.2.tar.gz",
+  "download_time": "2025-10-13T13:22:11.208571",
+  "package_url": "https://pypi.org/project/pycmor/"
+}

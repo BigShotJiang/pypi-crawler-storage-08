@@ -1,0 +1,11 @@
+{
+  "name": "pyclearpass",
+  "version": "1.0.8",
+  "summary": "HPE Aruba Networking ClearPass SDK has been developed in Python v3.9 to utilise the full functionality of the HPE Aruba Networking ClearPass REST API environment. Each available REST API command is available for use in this module.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyclearpass-1.0.8.tar.gz",
+  "download_time": "2025-10-13T13:22:16.887688",
+  "package_url": "https://pypi.org/project/pyclearpass/"
+}

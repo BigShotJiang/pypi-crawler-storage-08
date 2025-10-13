@@ -1,11 +1,11 @@
 {
   "name": "ocpi-client",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "OCPI client",
   "author": "Leon",
   "license": null,
   "home_page": null,
-  "download_filename": "ocpi_client-0.1.2.tar.gz",
-  "download_time": "2025-10-13T09:46:02.269641",
+  "download_filename": "ocpi_client-0.1.4.tar.gz",
+  "download_time": "2025-10-13T13:22:24.659197",
   "package_url": "https://pypi.org/project/ocpi-client/"
 }

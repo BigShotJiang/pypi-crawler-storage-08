@@ -1,0 +1,11 @@
+{
+  "name": "design-django-theme",
+  "version": "2.15.1",
+  "summary": "Bootstrap Italia template for Django",
+  "author": "Giuseppe De Marco, Francesco Filicetti",
+  "license": "3-clause BSD",
+  "home_page": "https://github.com/italia/design-django-theme",
+  "download_filename": "design_django_theme-2.15.1.tar.gz",
+  "download_time": "2025-10-13T13:22:14.325704",
+  "package_url": "https://pypi.org/project/design-django-theme/"
+}

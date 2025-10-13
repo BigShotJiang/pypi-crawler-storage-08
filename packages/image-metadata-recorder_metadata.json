@@ -1,0 +1,11 @@
+{
+  "name": "image-metadata-recorder",
+  "version": "1.4.0",
+  "summary": "A tool to extract, analyze, and report on metadata from TIFF, QPTIFF, and CZI files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_metadata_recorder-1.4.0.tar.gz",
+  "download_time": "2025-10-13T13:22:08.031484",
+  "package_url": "https://pypi.org/project/image-metadata-recorder/"
+}

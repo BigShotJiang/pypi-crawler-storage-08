@@ -1,11 +1,11 @@
 {
   "name": "unifiedai-sdk",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Unified SDK for multi-provider LLM comparison (Cerebras, AWS Bedrock) with OpenAI-compatible interface.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unifiedai_sdk-1.0.5.tar.gz",
-  "download_time": "2025-10-13T10:25:04.680836",
+  "download_filename": "unifiedai_sdk-1.0.7.tar.gz",
+  "download_time": "2025-10-13T13:22:10.664426",
   "package_url": "https://pypi.org/project/unifiedai-sdk/"
 }

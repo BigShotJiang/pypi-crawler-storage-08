@@ -1,11 +1,11 @@
 {
   "name": "pyndakaas",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "summary": "An extensible static site generator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyndakaas-0.0.1.tar.gz",
-  "download_time": "2025-10-07T19:15:35.093928",
+  "download_filename": "pyndakaas-0.1.1.tar.gz",
+  "download_time": "2025-10-13T13:22:03.916111",
   "package_url": "https://pypi.org/project/pyndakaas/"
 }

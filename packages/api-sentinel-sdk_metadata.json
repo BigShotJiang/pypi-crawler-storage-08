@@ -1,0 +1,11 @@
+{
+  "name": "api-sentinel-sdk",
+  "version": "1.0.0",
+  "summary": "A lightweight SDK for real-time API cost monitoring and control.",
+  "author": "aimrrs",
+  "license": "MIT",
+  "home_page": "https://github.com/aimrrs/api-sentinel-sdk",
+  "download_filename": "api_sentinel_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-13T13:22:32.976721",
+  "package_url": "https://pypi.org/project/api-sentinel-sdk/"
+}

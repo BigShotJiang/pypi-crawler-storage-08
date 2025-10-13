@@ -1,11 +1,11 @@
 {
   "name": "docutranslate",
-  "version": "1.4.9",
+  "version": "1.4.10",
   "summary": "文件翻译工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docutranslate-1.4.9.tar.gz",
-  "download_time": "2025-10-10T09:22:57.318669",
+  "download_filename": "docutranslate-1.4.10.tar.gz",
+  "download_time": "2025-10-13T13:22:11.735799",
   "package_url": "https://pypi.org/project/docutranslate/"
 }

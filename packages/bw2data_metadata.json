@@ -1,0 +1,11 @@
+{
+  "name": "bw2data",
+  "version": "4.5.1",
+  "summary": "Tools for the management of inventory databases and impact assessment methods. Part of the Brightway LCA framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bw2data-4.5.1.tar.gz",
+  "download_time": "2025-10-13T13:22:35.026489",
+  "package_url": "https://pypi.org/project/bw2data/"
+}
