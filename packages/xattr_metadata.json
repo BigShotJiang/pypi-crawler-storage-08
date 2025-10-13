@@ -1,0 +1,11 @@
+{
+  "name": "xattr",
+  "version": "1.3.0",
+  "summary": "Python wrapper for extended filesystem attributes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xattr-1.3.0.tar.gz",
+  "download_time": "2025-10-13T22:20:01.373958",
+  "package_url": "https://pypi.org/project/xattr/"
+}

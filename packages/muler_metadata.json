@@ -1,0 +1,11 @@
+{
+  "name": "muler",
+  "version": "0.5.4",
+  "summary": "A Python package for working with data from various echelle spectrographs",
+  "author": "gully",
+  "license": null,
+  "home_page": "https://github.com/OttoStruve/muler",
+  "download_filename": "muler-0.5.4.tar.gz",
+  "download_time": "2025-10-13T22:19:59.823750",
+  "package_url": "https://pypi.org/project/muler/"
+}

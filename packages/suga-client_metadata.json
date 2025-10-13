@@ -1,11 +1,11 @@
 {
   "name": "suga-client",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "Suga Python Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "suga_client-0.1.23.tar.gz",
-  "download_time": "2025-10-13T03:52:20.785949",
+  "download_filename": "suga_client-0.1.24.tar.gz",
+  "download_time": "2025-10-13T22:20:21.165805",
   "package_url": "https://pypi.org/project/suga-client/"
 }

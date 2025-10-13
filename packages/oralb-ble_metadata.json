@@ -1,0 +1,11 @@
+{
+  "name": "oralb-ble",
+  "version": "1.0.2",
+  "summary": "Bluetooth library for Oral B devices",
+  "author": "J. Nick Koston",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oralb_ble-1.0.2.tar.gz",
+  "download_time": "2025-10-13T22:20:11.242363",
+  "package_url": "https://pypi.org/project/oralb-ble/"
+}

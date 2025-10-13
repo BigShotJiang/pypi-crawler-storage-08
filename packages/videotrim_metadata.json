@@ -1,11 +1,11 @@
 {
   "name": "videotrim",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A fast, efficient video trimming and manipulation toolkit",
   "author": "Talmo Pereira",
   "license": null,
   "home_page": null,
-  "download_filename": "videotrim-0.1.0.tar.gz",
-  "download_time": "2025-10-13T20:54:24.479820",
+  "download_filename": "videotrim-0.2.0.tar.gz",
+  "download_time": "2025-10-13T22:20:21.681807",
   "package_url": "https://pypi.org/project/videotrim/"
 }

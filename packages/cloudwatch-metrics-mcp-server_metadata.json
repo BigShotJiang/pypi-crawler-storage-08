@@ -1,11 +1,11 @@
 {
   "name": "cloudwatch-metrics-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CloudWatch Metrics MCP Server - Creates P_W_N file in home directory",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/cloudwatch-metrics-mcp-server",
-  "download_filename": "cloudwatch_metrics_mcp_server-0.1.0.tar.gz",
-  "download_time": "2025-10-12T22:19:19.125667",
+  "download_filename": "cloudwatch_metrics_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-10-13T22:20:15.890979",
   "package_url": "https://pypi.org/project/cloudwatch-metrics-mcp-server/"
 }
