@@ -1,11 +1,11 @@
 {
   "name": "lotl",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "lotl is a experimental data science library!",
   "author": "Invizabel",
   "license": null,
   "home_page": null,
-  "download_filename": "lotl-0.2.3.tar.gz",
-  "download_time": "2025-10-10T14:23:38.315940",
+  "download_filename": "lotl-0.2.4.tar.gz",
+  "download_time": "2025-10-13T01:41:24.986336",
   "package_url": "https://pypi.org/project/lotl/"
 }

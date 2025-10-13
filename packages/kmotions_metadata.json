@@ -1,0 +1,11 @@
+{
+  "name": "kmotions",
+  "version": "0.3.5",
+  "summary": "Keyframe motions for Kbot",
+  "author": "Bart van Marum",
+  "license": null,
+  "home_page": "https://github.com/kscalelabs/kmotions",
+  "download_filename": "kmotions-0.3.5.tar.gz",
+  "download_time": "2025-10-13T01:41:23.882602",
+  "package_url": "https://pypi.org/project/kmotions/"
+}

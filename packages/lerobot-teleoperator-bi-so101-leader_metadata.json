@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-teleoperator-bi-so101-leader",
+  "version": "0.0.6",
+  "summary": "LeRobot so101 bimanual integration package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lerobot_teleoperator_bi_so101_leader-0.0.6.tar.gz",
+  "download_time": "2025-10-13T01:40:43.978833",
+  "package_url": "https://pypi.org/project/lerobot-teleoperator-bi-so101-leader/"
+}

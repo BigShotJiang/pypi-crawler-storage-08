@@ -1,0 +1,11 @@
+{
+  "name": "gofannon",
+  "version": "0.25.42",
+  "summary": "A collection of tools for LLMs",
+  "author": "Trevor Grant",
+  "license": "ASFv2",
+  "home_page": null,
+  "download_filename": "gofannon-0.25.42.tar.gz",
+  "download_time": "2025-10-13T01:40:50.646039",
+  "package_url": "https://pypi.org/project/gofannon/"
+}

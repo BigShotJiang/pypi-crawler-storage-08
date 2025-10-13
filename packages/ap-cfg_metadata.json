@@ -1,11 +1,11 @@
 {
   "name": "ap-cfg",
-  "version": "1.5.0.20251010",
+  "version": "1.5.1.20251013",
   "summary": "Application Configurtion & Setup Utilities",
   "author": "Bernd Stroehle",
   "license": null,
   "home_page": null,
-  "download_filename": "ap_cfg-1.5.0.20251010.tar.gz",
-  "download_time": "2025-10-10T06:31:25.191743",
+  "download_filename": "ap_cfg-1.5.1.20251013.tar.gz",
+  "download_time": "2025-10-13T01:41:22.765479",
   "package_url": "https://pypi.org/project/ap-cfg/"
 }

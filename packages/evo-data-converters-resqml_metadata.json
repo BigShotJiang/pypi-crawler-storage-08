@@ -1,0 +1,11 @@
+{
+  "name": "evo-data-converters-resqml",
+  "version": "0.1.3",
+  "summary": "Python data converters for RESQML to Evo geoscience objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_data_converters_resqml-0.1.3.tar.gz",
+  "download_time": "2025-10-13T01:41:11.574600",
+  "package_url": "https://pypi.org/project/evo-data-converters-resqml/"
+}
