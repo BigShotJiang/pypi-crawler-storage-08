@@ -1,0 +1,11 @@
+{
+  "name": "multivoro",
+  "version": "0.1.2",
+  "summary": "Parallel cell-based 3D voronoi tessellations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multivoro-0.1.2.tar.gz",
+  "download_time": "2025-10-13T22:53:49.131847",
+  "package_url": "https://pypi.org/project/multivoro/"
+}

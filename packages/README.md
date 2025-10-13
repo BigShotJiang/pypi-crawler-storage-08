@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T22:43:08.177590
-- **Total Packages**: 85
-- **Total Size**: 14.08 MB
+- **Download Time**: 2025-10-13T22:54:23.072900
+- **Total Packages**: 84
+- **Total Size**: 5.49 MB
 
 ## Packages List
+- pump-portal-mcp-server
+- savic
+- chutils
+- recursive-diff
+- moose-lib
+- fificore
+- authentik-client
+- safe-store
+- exllamav3
+- git-quilt
+- slypi
+- amati
+- test-uv-demo-package-install
+- kasmage
+- ben-demo-package
+- sweetpareto
+- botapi-py
+- django-directory-api
+- wipac-rest-tools
+- amitysolutions.dolphin-mcp
+- multivoro
+- labelgenius
+- parsl
 - cognite-neat
 - mflux
 - niklibrary
@@ -15,7 +38,6 @@
 - easy-px4-utils
 - pico2d
 - svc-infra
-- authentik-client
 - grooveshop-django-api
 - oldaplib
 - axiomos
@@ -25,7 +47,6 @@
 - tiferet
 - jira-select
 - yopmail-client
-- botapi-py
 - troubleshoot-mcp-server
 - is-uv-demo
 - tibber.py
@@ -34,9 +55,7 @@
 - quantjourney-ti
 - vlrdevapi
 - py-canonicalizer
-- pump-portal-mcp-server
 - layrz-sdk
-- ben-demo-package
 - authflow
 - mcp-server-wechat
 - otai-otobo-znuny
@@ -71,23 +90,3 @@
 - cuquantum
 - oralb-ble
 - s2t
-- savic
-- memium
-- mcp-trino-python-fastmcp
-- nexusdelta-sdk
-- cutensornet-cu13
-- betty
-- pytrain-ogr
-- cloudwatch-metrics-mcp-server
-- imdbinfo
-- erc8004-sdk
-- pytera
-- sweetpea
-- dlim
-- actionstreamer
-- ft3
-- suga-client
-- videotrim
-- gitflow-analytics
-- required-dict
-- libdyson-rest
