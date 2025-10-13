@@ -1,0 +1,11 @@
+{
+  "name": "pytest-freezeblaster",
+  "version": "2.1.0",
+  "summary": "Wrap tests with fixtures in freeze_time",
+  "author": "Jakub Jantosik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_freezeblaster-2.1.0.tar.gz",
+  "download_time": "2025-10-13T17:19:36.667887",
+  "package_url": "https://pypi.org/project/pytest-freezeblaster/"
+}

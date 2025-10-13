@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-qualia",
+  "version": "2.1.2",
+  "summary": "Portal Style Library for the Adafruit Qualia ESP32-S3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_qualia-2.1.2.tar.gz",
+  "download_time": "2025-10-13T17:19:37.706802",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-qualia/"
+}

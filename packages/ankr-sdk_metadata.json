@@ -1,0 +1,11 @@
+{
+  "name": "ankr-sdk",
+  "version": "1.0.3",
+  "summary": "Compact Python library for interacting with Ankr's Advanced APIs.",
+  "author": "Roman Fasakhov",
+  "license": "MIT",
+  "home_page": "https://ankr.com/",
+  "download_filename": "ankr_sdk-1.0.3.tar.gz",
+  "download_time": "2025-10-13T17:19:04.731760",
+  "package_url": "https://pypi.org/project/ankr-sdk/"
+}

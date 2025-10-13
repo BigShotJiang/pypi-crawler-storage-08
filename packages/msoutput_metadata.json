@@ -1,11 +1,11 @@
 {
   "name": "msoutput",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "summary": null,
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/dmwm/WMCore",
-  "download_filename": "msoutput-2.4.3.tar.gz",
-  "download_time": "2025-10-09T16:52:03.789851",
+  "download_filename": "msoutput-2.4.4.tar.gz",
+  "download_time": "2025-10-13T17:19:27.762669",
   "package_url": "https://pypi.org/project/msoutput/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sprelf-json",
+  "version": "2025.10.13.0",
+  "summary": "Simplifies defining schema for and managing JSON objects with non-JSON types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sprelf_json-2025.10.13.0.tar.gz",
+  "download_time": "2025-10-13T17:19:38.219731",
+  "package_url": "https://pypi.org/project/sprelf-json/"
+}
