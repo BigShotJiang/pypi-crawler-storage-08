@@ -1,11 +1,11 @@
 {
   "name": "arro3-io",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://kylebarron.dev/arro3",
-  "download_filename": "arro3_io-0.6.4.tar.gz",
-  "download_time": "2025-10-13T15:22:17.583179",
+  "download_filename": "arro3_io-0.6.5.tar.gz",
+  "download_time": "2025-10-13T23:19:22.151253",
   "package_url": "https://pypi.org/project/arro3-io/"
 }

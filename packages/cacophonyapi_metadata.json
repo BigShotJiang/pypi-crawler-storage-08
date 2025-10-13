@@ -1,0 +1,11 @@
+{
+  "name": "cacophonyapi",
+  "version": "0.0.5",
+  "summary": "Cacophony Project REST API client for Python",
+  "author": "Anthony Uphof, Giampaolo Ferraro, Cameron Ryan-Pears, Menno Finlay-Smits",
+  "license": "GNU AFFERO GENERAL PUBLIC License 3 19 November 2007",
+  "home_page": "https://github.com/TheCacophonyProject/python-api",
+  "download_filename": "cacophonyapi-0.0.5.tar.gz",
+  "download_time": "2025-10-13T23:19:46.908329",
+  "package_url": "https://pypi.org/project/cacophonyapi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "safe-store",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Simple, concurrent SQLite-based vector store optimized for local RAG pipelines, with optional encryption.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safe_store-3.1.0.tar.gz",
-  "download_time": "2025-10-13T22:53:42.303272",
+  "download_filename": "safe_store-3.1.1.tar.gz",
+  "download_time": "2025-10-13T23:19:25.433633",
   "package_url": "https://pypi.org/project/safe-store/"
 }

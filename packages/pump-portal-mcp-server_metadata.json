@@ -1,11 +1,11 @@
 {
   "name": "pump-portal-mcp-server",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "A production-ready MCP server for Solana blockchain trading operations using PumpPortal Lightning API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pump_portal_mcp_server-3.0.1.tar.gz",
-  "download_time": "2025-10-13T22:53:38.543652",
+  "download_filename": "pump_portal_mcp_server-3.0.2.tar.gz",
+  "download_time": "2025-10-13T23:19:30.776911",
   "package_url": "https://pypi.org/project/pump-portal-mcp-server/"
 }

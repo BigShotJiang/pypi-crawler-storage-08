@@ -1,0 +1,11 @@
+{
+  "name": "siem",
+  "version": "0.0.1",
+  "summary": "A package to build WRF-Chem and CMAQ emission files",
+  "author": "Mario Gavidia-Calderón",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "siem-0.0.1.tar.gz",
+  "download_time": "2025-10-13T23:19:37.350393",
+  "package_url": "https://pypi.org/project/siem/"
+}

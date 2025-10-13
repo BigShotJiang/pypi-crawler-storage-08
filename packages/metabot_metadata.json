@@ -1,11 +1,11 @@
 {
   "name": "metabot",
-  "version": "0.3.30",
+  "version": "0.3.30.1",
   "summary": "Modularized, multi-account bot.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metabot-0.3.30.tar.gz",
-  "download_time": "2025-10-09T17:50:51.616657",
+  "download_filename": "metabot-0.3.30.1.tar.gz",
+  "download_time": "2025-10-13T23:19:20.557363",
   "package_url": "https://pypi.org/project/metabot/"
 }
