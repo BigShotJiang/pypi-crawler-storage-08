@@ -1,0 +1,11 @@
+{
+  "name": "jira-select",
+  "version": "3.4.1",
+  "summary": "Easily run complex SQL-like queries far beyond what Jira's standard JQL query language can provide.",
+  "author": "Adam Coddington",
+  "license": "MIT",
+  "home_page": "https://github.com/coddingtonbear/jira-select",
+  "download_filename": "jira_select-3.4.1.tar.gz",
+  "download_time": "2025-10-13T22:42:31.554566",
+  "package_url": "https://pypi.org/project/jira-select/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "niklibrary",
+  "version": "0.51",
+  "summary": "A short description of your project",
+  "author": "Nikhil Menghani",
+  "license": null,
+  "home_page": "https://github.com/nikhilmenghani/niklibrary",
+  "download_filename": "niklibrary-0.51.tar.gz",
+  "download_time": "2025-10-13T22:42:23.379791",
+  "package_url": "https://pypi.org/project/niklibrary/"
+}
