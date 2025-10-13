@@ -1,11 +1,11 @@
 {
   "name": "modelrunner-ai",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "summary": "Python client for modelrunner.ai",
   "author": "Features & Labels <support@modelrunner.ai>",
   "license": null,
   "home_page": null,
-  "download_filename": "modelrunner_ai-0.0.13.tar.gz",
-  "download_time": "2025-10-13T21:39:58.985089",
+  "download_filename": "modelrunner_ai-0.1.0.tar.gz",
+  "download_time": "2025-10-13T21:54:20.054494",
   "package_url": "https://pypi.org/project/modelrunner-ai/"
 }

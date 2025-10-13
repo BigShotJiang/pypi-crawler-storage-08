@@ -5,7 +5,7 @@
   "author": "Mathias von Ottenbreit",
   "license": "MIT",
   "home_page": "https://github.com/ottenbreit-data-science/aplr",
-  "download_filename": "aplr-10.16.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-13T21:39:33.542283",
+  "download_filename": "aplr-10.16.0.tar.gz",
+  "download_time": "2025-10-13T21:54:29.326733",
   "package_url": "https://pypi.org/project/aplr/"
 }

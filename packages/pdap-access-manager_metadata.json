@@ -1,0 +1,11 @@
+{
+  "name": "pdap-access-manager",
+  "version": "0.4.2",
+  "summary": "Access Manager for accessing PDAP API",
+  "author": "Max Chis",
+  "license": "MIT",
+  "home_page": "https://github.com/Police-Data-Accessibility-Project/Access-Manager",
+  "download_filename": "pdap_access_manager-0.4.2.tar.gz",
+  "download_time": "2025-10-13T21:54:14.741890",
+  "package_url": "https://pypi.org/project/pdap-access-manager/"
+}

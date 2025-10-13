@@ -1,0 +1,11 @@
+{
+  "name": "capfit",
+  "version": "2.7.1",
+  "summary": "CapFit: linearly-constrained non-linear least-squares optimization",
+  "author": "Michele Cappellari",
+  "license": "Other/Proprietary License",
+  "home_page": "https://purl.org/cappellari/software",
+  "download_filename": "capfit-2.7.1.tar.gz",
+  "download_time": "2025-10-13T21:54:16.487676",
+  "package_url": "https://pypi.org/project/capfit/"
+}

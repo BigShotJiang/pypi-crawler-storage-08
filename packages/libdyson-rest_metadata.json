@@ -1,0 +1,11 @@
+{
+  "name": "libdyson-rest",
+  "version": "0.7.1",
+  "summary": "Python library for interacting with Dyson devices through their official REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libdyson_rest-0.7.1.tar.gz",
+  "download_time": "2025-10-13T21:54:10.554272",
+  "package_url": "https://pypi.org/project/libdyson-rest/"
+}
