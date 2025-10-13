@@ -1,0 +1,11 @@
+{
+  "name": "git-mcp-server",
+  "version": "0.2.3",
+  "summary": "Git MCP Server - Unified command-line tool for managing Git repositories across GitHub and GitLab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_mcp_server-0.2.3.tar.gz",
+  "download_time": "2025-10-13T08:30:49.384415",
+  "package_url": "https://pypi.org/project/git-mcp-server/"
+}

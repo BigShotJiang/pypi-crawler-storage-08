@@ -1,11 +1,11 @@
 {
   "name": "bella-companion",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": null,
   "author": "gabriele-marino",
   "license": null,
   "home_page": null,
-  "download_filename": "bella_companion-0.0.9.tar.gz",
-  "download_time": "2025-10-12T09:53:37.372538",
+  "download_filename": "bella_companion-0.0.10.tar.gz",
+  "download_time": "2025-10-13T08:31:06.924947",
   "package_url": "https://pypi.org/project/bella-companion/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "secops",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "summary": "Python SDK for wrapping the Google SecOps API for common use cases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "secops-0.21.0.tar.gz",
-  "download_time": "2025-10-10T09:53:11.447156",
+  "download_filename": "secops-0.21.1.tar.gz",
+  "download_time": "2025-10-13T08:31:23.852546",
   "package_url": "https://pypi.org/project/secops/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-arc-fs",
+  "version": "0.0.20.dev1",
+  "summary": "An experimental and GitLab filesystem extension for PyFilesystem2.!",
+  "author": "Julian Weidhase",
+  "license": "GPLv3",
+  "home_page": "https://github.com/nfdi4plants/ARCfs",
+  "download_filename": "gitlab_arc_fs-0.0.20.dev1.tar.gz",
+  "download_time": "2025-10-13T08:31:18.182639",
+  "package_url": "https://pypi.org/project/gitlab-arc-fs/"
+}
