@@ -1,0 +1,11 @@
+{
+  "name": "stats-can-ext",
+  "version": "0.0.1",
+  "summary": "Interface ontop of StatsCan",
+  "author": "Eric Schles",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stats_can_ext-0.0.1.tar.gz",
+  "download_time": "2025-10-13T03:51:56.988987",
+  "package_url": "https://pypi.org/project/stats-can-ext/"
+}

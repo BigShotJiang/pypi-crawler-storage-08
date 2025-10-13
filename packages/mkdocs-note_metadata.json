@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-note",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "summary": "A MkDocs plugin to add note boxes to your documentation.",
   "author": "virtualguard101",
   "license": null,
   "home_page": "https://github.com/virtualguard101/mkdocs-note",
-  "download_filename": "mkdocs_note-1.2.1.tar.gz",
-  "download_time": "2025-10-12T16:43:47.099155",
+  "download_filename": "mkdocs_note-1.2.3.tar.gz",
+  "download_time": "2025-10-13T03:51:47.473113",
   "package_url": "https://pypi.org/project/mkdocs-note/"
 }

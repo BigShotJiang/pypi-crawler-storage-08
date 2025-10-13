@@ -1,0 +1,11 @@
+{
+  "name": "weiboo",
+  "version": "0.0.18",
+  "summary": "Weibo util",
+  "author": "Yunzhi Gao",
+  "license": null,
+  "home_page": "https://github.com/gaoyunzhi/weiboo",
+  "download_filename": "weiboo-0.0.18.tar.gz",
+  "download_time": "2025-10-13T03:51:59.120454",
+  "package_url": "https://pypi.org/project/weiboo/"
+}

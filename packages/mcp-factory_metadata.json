@@ -1,0 +1,11 @@
+{
+  "name": "mcp-factory",
+  "version": "1.5.0",
+  "summary": "A lightweight factory framework for creating and managing MCP (Model Context Protocol) servers with simplified configuration and project building capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_factory-1.5.0.tar.gz",
+  "download_time": "2025-10-13T03:52:01.707759",
+  "package_url": "https://pypi.org/project/mcp-factory/"
+}

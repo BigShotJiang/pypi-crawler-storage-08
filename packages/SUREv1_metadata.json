@@ -1,0 +1,11 @@
+{
+  "name": "SUREv1",
+  "version": "1.0.1",
+  "summary": "Succinct Representation of Single Cells",
+  "author": "Feng Zeng",
+  "license": null,
+  "home_page": "https://github.com/ZengFLab/SURE",
+  "download_filename": "surev1-1.0.1.tar.gz",
+  "download_time": "2025-10-13T03:51:35.434833",
+  "package_url": "https://pypi.org/project/SUREv1/"
+}

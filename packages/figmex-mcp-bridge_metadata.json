@@ -1,0 +1,11 @@
+{
+  "name": "figmex-mcp-bridge",
+  "version": "0.2.0",
+  "summary": "MCP bridge that connects Codex CLI to the Figmex Figma plugin over WebSocket.",
+  "author": "Austin Wells",
+  "license": null,
+  "home_page": null,
+  "download_filename": "figmex_mcp_bridge-0.2.0.tar.gz",
+  "download_time": "2025-10-13T03:51:49.158760",
+  "package_url": "https://pypi.org/project/figmex-mcp-bridge/"
+}
