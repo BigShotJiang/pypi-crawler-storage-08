@@ -1,0 +1,11 @@
+{
+  "name": "learning-paths-plugin",
+  "version": "0.3.5",
+  "summary": "Learning Paths plugin",
+  "author": "OpenCraft",
+  "license": null,
+  "home_page": "https://github.com/open-craft/learning-paths-plugin",
+  "download_filename": "learning_paths_plugin-0.3.5.tar.gz",
+  "download_time": "2025-10-13T15:42:51.539432",
+  "package_url": "https://pypi.org/project/learning-paths-plugin/"
+}

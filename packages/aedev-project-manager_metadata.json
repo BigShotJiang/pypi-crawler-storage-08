@@ -1,11 +1,11 @@
 {
   "name": "aedev-project-manager",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "aedev namespace package portion project_manager: create and maintain Python projects locally and remotely",
   "author": "AndiEcker",
   "license": "GPL-3.0-or-later",
   "home_page": "https://gitlab.com/aedev-group/aedev_project_manager",
-  "download_filename": "aedev_project_manager-0.3.2.tar.gz",
-  "download_time": "2025-10-08T17:18:56.670262",
+  "download_filename": "aedev_project_manager-0.3.3.tar.gz",
+  "download_time": "2025-10-13T15:42:29.700122",
   "package_url": "https://pypi.org/project/aedev-project-manager/"
 }

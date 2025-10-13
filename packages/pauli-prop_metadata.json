@@ -1,0 +1,11 @@
+{
+  "name": "pauli-prop",
+  "version": "0.0.0",
+  "summary": "Library for performing Pauli propagation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pauli_prop-0.0.0.tar.gz",
+  "download_time": "2025-10-13T15:42:32.429574",
+  "package_url": "https://pypi.org/project/pauli-prop/"
+}

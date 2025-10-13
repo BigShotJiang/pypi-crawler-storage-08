@@ -1,0 +1,11 @@
+{
+  "name": "barcode-validator",
+  "version": "2.0.9",
+  "summary": "A python package for structural and taxonomic validation of DNA barcode data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "barcode_validator-2.0.9-py3-none-any.whl",
+  "download_time": "2025-10-13T15:42:34.135119",
+  "package_url": "https://pypi.org/project/barcode-validator/"
+}

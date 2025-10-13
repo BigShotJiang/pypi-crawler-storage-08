@@ -1,0 +1,11 @@
+{
+  "name": "hwpwings",
+  "version": "0.4.7",
+  "summary": "파이썬으로 한글 문서를 제어할 수 있는 두번째 라이브러리입니다.",
+  "author": "한파엑셀",
+  "license": null,
+  "home_page": "https://www.youtube.com/@한파엑셀",
+  "download_filename": "hwpwings-0.4.7.tar.gz",
+  "download_time": "2025-10-13T15:42:31.276128",
+  "package_url": "https://pypi.org/project/hwpwings/"
+}

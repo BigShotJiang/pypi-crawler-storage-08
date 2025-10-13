@@ -1,0 +1,11 @@
+{
+  "name": "prodict",
+  "version": "0.8.21",
+  "summary": "Prodict = Pro Dictionary with IDE friendly(auto code completion), dot-accessible attributes and more.",
+  "author": "Ramazan Polat",
+  "license": null,
+  "home_page": "https://github.com/ramazanpolat/prodict",
+  "download_filename": "prodict-0.8.21.tar.gz",
+  "download_time": "2025-10-13T15:43:03.077330",
+  "package_url": "https://pypi.org/project/prodict/"
+}

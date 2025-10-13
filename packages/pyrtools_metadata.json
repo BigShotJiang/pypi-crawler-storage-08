@@ -1,0 +1,11 @@
+{
+  "name": "pyrtools",
+  "version": "1.0.10",
+  "summary": "Python tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids.",
+  "author": "Pyrtools authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrtools-1.0.10.tar.gz",
+  "download_time": "2025-10-13T15:43:00.993335",
+  "package_url": "https://pypi.org/project/pyrtools/"
+}

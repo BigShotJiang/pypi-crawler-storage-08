@@ -1,0 +1,11 @@
+{
+  "name": "pfcm-ekm",
+  "version": "0.1.0",
+  "summary": "PFCM (Possibilistic Fuzzy C-Means) and EKM (Equilibrium K-Means) in one clustering package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pfcm_ekm-0.1.0.tar.gz",
+  "download_time": "2025-10-13T15:42:38.371511",
+  "package_url": "https://pypi.org/project/pfcm-ekm/"
+}
