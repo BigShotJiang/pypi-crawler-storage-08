@@ -1,25 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T11:40:29.080120
-- **Total Packages**: 88
-- **Total Size**: 19.08 MB
+- **Download Time**: 2025-10-13T11:54:33.011728
+- **Total Packages**: 86
+- **Total Size**: 18.97 MB
 
 ## Packages List
-- deltachat-rpc-client
+- animageo
+- bfabric-scripts
+- queryish
+- AOT-biomaps
+- tree-sitter-analyzer
+- oscar-python
+- kanapy
+- pipeline-csv
+- pytest-embedded-nuttx
+- pytest-embedded-wokwi
+- pytest-embedded-arduino
+- hotsos
+- pytest-embedded-qemu
+- pytest-embedded-jtag
+- pytest-embedded-idf
+- pytest-embedded-serial-esp
+- pytest-embedded-serial
+- pytest-embedded
+- video-quick-editor-mcp
+- authentik-client
+- debsbom
+- kent
+- puree-ui
+- odoo-addon-sale-stock-release-channel
+- odoo-addon-stock-release-channel-cutoff
+- odoo-addon-stock-release-channel
+- odoo-addon-stock-release-channel-partner-delivery-window
+- f3-data-models
+- omero-annotate-ai
+- x-dm-python
+- nowcasting-datamodel
+- ncbulk
+- onedl-mmcv
+- cesnet-datazoo
+- victron-mqtt
+- ML4HD_Labs
 - delta-rest-api-india
+- django-issue-capture
+- airobo
+- tencent-wedata-feature-engineering-dev
+- pyimport
+- ai-mcp-terminal
+- tapm-distro
+- specado
+- nton
+- tapm-instrumentation
+- hugr
+- mysql-ch-replicator
+- kabukit
+- Blinter
+- django-bulk-drf
+- fastpusher
+- paasta-tools
+- deltachat-rpc-client
 - bybit-mcp
 - usf-p1-chatbot-sdk
 - cribl-control-plane
 - mathwizard
-- authentik-client
 - vector-cache-memory
 - sun-agent-toolkit
 - hla-compass
 - onedl-mmengine
 - abstract-utilities
 - tdecomp
-- AOT-biomaps
 - nifti_dynamic
 - tapm-instrumentation-langchain
 - tool-scorer
@@ -34,7 +84,6 @@
 - rwthomework
 - dj-stripe
 - dogesec-commons
-- tencent-wedata-feature-engineering-dev
 - kaimathlib
 - torchx-nightly
 - chatbot-connectors
@@ -43,54 +92,3 @@
 - rag-kmk
 - wyoming-microsoft-tts
 - mininterface
-- quash-mcp
-- CheeseChase
-- uharfbuzz
-- container-ci-suite
-- pyimport
-- torchft-nightly
-- filtered-toctree
-- pychilaslasers
-- strique-proto-schema
-- pytech-sqlalchemy-tools
-- video-quick-editor-mcp
-- ai-mcp-terminal
-- orq-ai-sdk
-- ipykernel
-- imio.annex
-- ut-eco
-- kamae
-- gilda-slim
-- datatransfer-client
-- truthbrush
-- metal-stack-api
-- GoSound
-- fnschool
-- imglp
-- pglift-cli
-- automatix
-- importspy
-- arrlp
-- odd-kernel
-- torram
-- corelp
-- markten
-- sigmatcher
-- unsent
-- masai-framework
-- Blinter
-- tb-nightly
-- rustshogi
-- firstrade
-- crowd-kit
-- api-foundry-query-engine
-- chuk-llm
-- owimetadatabase-preprocessor
-- mcp-kql-server
-- ntsim
-- arthur-client
-- gob
-- dbbasic-web
-- ML4HD_Labs
-- odoo-addon-website-form-require-legal
-- axiomos

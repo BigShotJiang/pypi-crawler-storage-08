@@ -1,0 +1,11 @@
+{
+  "name": "puree-ui",
+  "version": "0.0.7",
+  "summary": "XWZ Puree UI framework for Blender",
+  "author": "Nicolai Prodromov",
+  "license": "MIT",
+  "home_page": "https://github.com/nicolaiprodromov/puree",
+  "download_filename": "puree_ui-0.0.7.tar.gz",
+  "download_time": "2025-10-13T11:54:00.188770",
+  "package_url": "https://pypi.org/project/puree-ui/"
+}

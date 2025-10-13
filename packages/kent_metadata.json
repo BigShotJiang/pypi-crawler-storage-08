@@ -1,0 +1,11 @@
+{
+  "name": "kent",
+  "version": "2.2.0",
+  "summary": "Fake Sentry service for debugging and integration tests",
+  "author": "Will Kahn-Greene",
+  "license": "MPLv2",
+  "home_page": null,
+  "download_filename": "kent-2.2.0.tar.gz",
+  "download_time": "2025-10-13T11:53:59.653220",
+  "package_url": "https://pypi.org/project/kent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kanapy",
+  "version": "6.5.3",
+  "summary": "Kanapy: Python package for microstructure analyse and generation of microstructure models",
+  "author": "Mahesh R.G. Prasad, Abhishek Biswas, Golsa Tolooei Eshlaghi, Ronak Shoghi, Napat Vajragupta, Yousef Rezek, Hrushikesh Uday Bhimavarapu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kanapy-6.5.3.tar.gz",
+  "download_time": "2025-10-13T11:53:51.906122",
+  "package_url": "https://pypi.org/project/kanapy/"
+}
