@@ -1,0 +1,11 @@
+{
+  "name": "pyprojectx",
+  "version": "3.3.1",
+  "summary": "Execute scripts from pyproject.toml, installing tools on-the-fly",
+  "author": "Houbie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyprojectx-3.3.1.tar.gz",
+  "download_time": "2025-10-13T09:57:07.151380",
+  "package_url": "https://pypi.org/project/pyprojectx/"
+}

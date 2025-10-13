@@ -1,40 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T09:46:27.756872
-- **Total Packages**: 83
-- **Total Size**: 45.03 MB
+- **Download Time**: 2025-10-13T09:57:17.031410
+- **Total Packages**: 82
+- **Total Size**: 6.96 MB
 
 ## Packages List
-- dbop-runner
-- liblaf-cherries
-- cognite-pygen
-- n8nControl
-- aiofiles-x
-- returnn
-- pyamasicp
-- densecall
-- AOT-biomaps
-- mxcubeweb
-- scribus-image-embedder
-- jshunter
-- refunc-cli
-- asteroid_spinprops
-- scivianna
-- YMLGenerator-MCP
-- biblemate
-- specklia
-- delta-rest-api-india
-- git-mcp-server
-- authentik-client
-- aas-standard-parser
-- bap-elk-backends
-- pypaystack2
-- seisbench
-- wandelbots-api-client
-- supervisorex
-- apify
-- pyspatialstats
 - agentmake
 - panoptic
 - repti-telemetry
@@ -44,6 +15,7 @@
 - ocpi-client
 - os-fastapi-firmware
 - ve-lascatalog-sdk
+- delta-rest-api-india
 - langchain-ydb
 - sortinghat-eclipse-foundation
 - bizydraft
@@ -53,7 +25,9 @@
 - perceval-topicbox
 - perceval-pontoon
 - perceval-public-inbox
+- AOT-biomaps
 - automation-toolkit
+- scribus-image-embedder
 - owocr
 - fers-calculations
 - mrshw
@@ -61,6 +35,7 @@
 - pypi-mcp
 - proxyutils
 - orbitkit
+- supervisorex
 - requests_os
 - cg
 - doordeck-headless-sdk
@@ -73,6 +48,7 @@
 - ubajaka-distributions
 - pytech-tools
 - lietorch
+- authentik-client
 - ocpi-pydantic
 - acquire
 - univocalx-dj
@@ -87,5 +63,28 @@
 - allianceauth-corptools
 - ebdamame
 - claude-goblin
+- asteroid_spinprops
 - rasa-pro
 - mx-bluesky
+- alibabacloud-appstream-center20210901
+- ut-xls
+- fuzzytri
+- ai-infra-bench
+- onedl-mmcv
+- experimaestro
+- reyfetch
+- pyprojectx
+- docling
+- reyserver
+- reydb
+- project-vectorizer
+- luma-docs
+- cleanote
+- sws-spark-dissemination-helper
+- gitlab-arc-fs
+- rapidpro-api
+- dls-dodal
+- panshi-base
+- hex-device
+- energy-base
+- garf-exporter

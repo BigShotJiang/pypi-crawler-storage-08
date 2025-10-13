@@ -1,11 +1,11 @@
 {
   "name": "experimaestro",
-  "version": "1.15.0",
+  "version": "1.15.1",
   "summary": "\"Experimaestro is a computer science experiment manager\"",
   "author": "Benjamin Piwowarski",
   "license": "GPL-3",
   "home_page": null,
-  "download_filename": "experimaestro-1.15.0.tar.gz",
-  "download_time": "2025-10-12T17:52:47.428554",
+  "download_filename": "experimaestro-1.15.1.tar.gz",
+  "download_time": "2025-10-13T09:57:05.877285",
   "package_url": "https://pypi.org/project/experimaestro/"
 }

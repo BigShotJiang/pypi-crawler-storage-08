@@ -1,11 +1,11 @@
 {
   "name": "supervisorex",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Simple CLI to create supervisor processes easily",
   "author": "@NacDevs",
   "license": null,
   "home_page": "https://github.com/yuvrajmodz/supervisorex",
-  "download_filename": "supervisorex-1.0.8.tar.gz",
-  "download_time": "2025-10-13T09:45:57.517247",
+  "download_filename": "supervisorex-1.0.9.tar.gz",
+  "download_time": "2025-10-13T09:56:43.806161",
   "package_url": "https://pypi.org/project/supervisorex/"
 }
