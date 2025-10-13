@@ -1,20 +1,13 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T18:30:26.014143
+- **Download Time**: 2025-10-13T18:51:53.705603
 - **Total Packages**: 87
-- **Total Size**: 46.42 MB
+- **Total Size**: 18.07 MB
 
 ## Packages List
-- mytqdm
-- vibe-ukis
-- authentik-client
-- easy-vitessce
-- arcade-airtable-api
-- arcade-pagerduty-api
-- s2t
-- omnigenbench
 - zz-tools
+- mytqdm
 - fastkafka2
 - workspace-agent
 - ostorlab
@@ -56,6 +49,7 @@
 - dataops-testgen
 - goodmap
 - pyGSK
+- authentik-client
 - gr4vy
 - rango-api
 - uharfbuzz
@@ -93,3 +87,9 @@
 - standardbots
 - nip-config
 - vitessce
+- func-to-web
+- troubleshoot-mcp-server
+- aiecs
+- cdklabs.cdk-proserve-lib
+- gwcelery
+- pyosmeta

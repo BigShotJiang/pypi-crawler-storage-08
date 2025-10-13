@@ -1,0 +1,11 @@
+{
+  "name": "pyosmeta",
+  "version": "1.7.6",
+  "summary": "Tools that update the pyOpenSci contributor and review metadata that is posted on our website",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyosmeta-1.7.6.tar.gz",
+  "download_time": "2025-10-13T18:51:53.204588",
+  "package_url": "https://pypi.org/project/pyosmeta/"
+}
