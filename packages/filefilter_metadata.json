@@ -1,11 +1,11 @@
 {
   "name": "filefilter",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Filter files in a directory tree based on configurable glob rules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filefilter-0.1.8.tar.gz",
-  "download_time": "2025-10-13T18:30:03.952449",
+  "download_filename": "filefilter-0.1.9.tar.gz",
+  "download_time": "2025-10-13T20:43:02.318417",
   "package_url": "https://pypi.org/project/filefilter/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "manim-fa",
-  "version": "0.3.4",
+  "version": "0.3.2",
   "summary": "افزونه‌ی مانیم برای نمایش متن فارسی (راست به چپ) با قابلیت تبدیل خودکار از حروف لاتین به فارسی",
   "author": "علی تابش",
   "license": "MIT License\n        \n        Copyright (c) 2025 Alli Tabesh\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software...",
-  "home_page": "https://github.com/Tabesh2020/manim-fa",
-  "download_filename": "manim_fa-0.3.4.tar.gz",
-  "download_time": "2025-10-12T16:22:44.664656",
+  "home_page": "https://github.com/<username>/manim-fa",
+  "download_filename": "manim_fa-0.3.2.tar.gz",
+  "download_time": "2025-10-13T20:42:52.415374",
   "package_url": "https://pypi.org/project/manim-fa/"
 }

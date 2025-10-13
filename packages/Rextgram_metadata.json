@@ -1,11 +1,11 @@
 {
   "name": "Rextgram",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
   "author": "Savira",
   "license": "LGPLv3",
   "home_page": null,
-  "download_filename": "rextgram-2.0.2.tar.gz",
-  "download_time": "2025-10-13T19:41:10.462740",
+  "download_filename": "rextgram-2.0.3.tar.gz",
+  "download_time": "2025-10-13T20:42:57.657596",
   "package_url": "https://pypi.org/project/Rextgram/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "docin",
+  "version": "0.1.2",
+  "summary": "A Python package for performing OCR and document indexing on legacy documents using the Mistral Ocr API.",
+  "author": "['Ime Inyang']",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docin-0.1.2.tar.gz",
+  "download_time": "2025-10-13T20:42:56.578416",
+  "package_url": "https://pypi.org/project/docin/"
+}
