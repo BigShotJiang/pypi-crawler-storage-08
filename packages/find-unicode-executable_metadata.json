@@ -1,0 +1,11 @@
+{
+  "name": "find-unicode-executable",
+  "version": "0.1.0a2",
+  "summary": "A Python package that provides cross-platform Unicode executable path resolution. Like Unix `which` command but better.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "find_unicode_executable-0.1.0a2.tar.gz",
+  "download_time": "2025-10-13T04:56:32.225845",
+  "package_url": "https://pypi.org/project/find-unicode-executable/"
+}
