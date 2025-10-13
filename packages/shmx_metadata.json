@@ -1,0 +1,11 @@
+{
+  "name": "shmx",
+  "version": "1.0.1",
+  "summary": "High-performance shared-memory IPC for frame streaming",
+  "author": "SHMX Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shmx-1.0.1.tar.gz",
+  "download_time": "2025-10-13T04:47:29.478149",
+  "package_url": "https://pypi.org/project/shmx/"
+}

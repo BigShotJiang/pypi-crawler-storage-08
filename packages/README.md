@@ -1,13 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T04:26:03.622095
-- **Total Packages**: 74
-- **Total Size**: 19.33 MB
+- **Download Time**: 2025-10-13T04:47:53.132736
+- **Total Packages**: 69
+- **Total Size**: 20.73 MB
 
 ## Packages List
-- snippy-nextgen
+- devstack-cli
+- dserver-dependency-graph-plugin
+- GuardianUnivalle-Benito-Yucra
+- lucqa-tools
+- holy_bible_api_python
 - airobo
+- sun-agent-toolkit
+- ordercloud-mcp
+- nextpy-cli
+- puyapy
+- vega-framework
+- pydra-tasks-mrtrix3
+- fileformats-vendor-mrtrix3-extras
+- fileformats-vendor-mrtrix3
+- dserver-direct-mongo-plugin
+- authentik-client
+- rayml
+- browserstack-sdk
+- echosms
+- sdp-tools
+- flagdataset
+- SurVigilance
+- connectonion
+- pymllm
+- claude-secret-scan
+- shmx
+- genocide
+- lino-xl
+- huqt-oracle-pysdk
+- vector-vault
+- xiaoya-teacher-mcp-server
+- intentkit
+- lytools
+- BotingTools
+- wallabag-client
+- pymscada
+- snippy-nextgen
 - keras-nlp-nightly
 - keras-hub-nightly
 - polyagent
@@ -19,8 +54,6 @@
 - mkdocs-note
 - gffutilsai
 - grain-nightly
-- intentkit
-- holy_bible_api_python
 - easy-ai18n
 - compair-core
 - usdm4-pj
@@ -29,9 +62,6 @@
 - pylogue
 - geo-activity-playground
 - alethic-ism-db
-- authentik-client
-- sisou2
-- huqt-oracle-pysdk
 - icost-app-mcp-server
 - reinforcenow
 - fileformats-vendor-fsl-extras
@@ -45,38 +75,3 @@
 - alethic-ism-core
 - pyx-mcp
 - checkdmarc
-- ENPMDA
-- SURE-tools
-- django-migration-zero
-- GuardianUnivalle-Benito-Yucra
-- pymllm
-- waterqsvg
-- fileformats-vendor-freesurfer-extras
-- fileformats-vendor-freesurfer
-- nzshm-model
-- maleo-metadata-client
-- civie-chatbot
-- SUREv1
-- parameterizable
-- sovereign
-- maleo-managers
-- pydra-tasks-afni
-- anp
-- qthreadwithreturn
-- dbanu
-- mcp-getting-started
-- maleo-middlewares
-- cocina
-- dynamic-learning-model
-- gllm-inference-binary
-- maleo-google
-- rhylthyme-cli-runner
-- persidict
-- upplib
-- openportal
-- pydra-tasks-fsl
-- figmex-mcp-bridge
-- specado
-- django-salestrack
-- lattica
-- nzshm-common
