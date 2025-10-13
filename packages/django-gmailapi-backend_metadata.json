@@ -1,0 +1,11 @@
+{
+  "name": "django-gmailapi-backend",
+  "version": "0.3.3",
+  "summary": "Email backend for Django which sends email via the Gmail API",
+  "author": "Michele Dolfi",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dolfim/django-gmailapi-backend",
+  "download_filename": "django_gmailapi_backend-0.3.3.tar.gz",
+  "download_time": "2025-10-13T18:30:15.015306",
+  "package_url": "https://pypi.org/project/django-gmailapi-backend/"
+}

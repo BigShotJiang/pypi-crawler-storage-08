@@ -1,0 +1,11 @@
+{
+  "name": "synvya-sdk",
+  "version": "0.3.1",
+  "summary": "Tools for a Nostr agentic ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synvya_sdk-0.3.1.tar.gz",
+  "download_time": "2025-10-13T18:29:46.467706",
+  "package_url": "https://pypi.org/project/synvya-sdk/"
+}

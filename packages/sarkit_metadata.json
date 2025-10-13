@@ -1,0 +1,11 @@
+{
+  "name": "sarkit",
+  "version": "1.2.0",
+  "summary": "Suite of SAR-related tools in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sarkit-1.2.0.tar.gz",
+  "download_time": "2025-10-13T18:29:54.369551",
+  "package_url": "https://pypi.org/project/sarkit/"
+}

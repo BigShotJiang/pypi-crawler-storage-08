@@ -1,0 +1,11 @@
+{
+  "name": "GQNN",
+  "version": "1.6.0",
+  "summary": "QNN is a Python package for Quantum Neural Networks, a hybrid model combining Quantum Computing and Neural Networks. It was developed by GokulRaj S for research on Customized Quantum Neural Networks.",
+  "author": "GokulRaj S",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/gokulraj0906/GQNN",
+  "download_filename": "gqnn-1.6.0.tar.gz",
+  "download_time": "2025-10-13T18:29:50.155530",
+  "package_url": "https://pypi.org/project/GQNN/"
+}

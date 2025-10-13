@@ -1,0 +1,11 @@
+{
+  "name": "rt-hat-inr",
+  "version": "0.6.9",
+  "summary": "RealtimeHAT control",
+  "author": "Marian Ulbricht",
+  "license": null,
+  "home_page": "https://github.com/InnoRoute/RealtimeHAT",
+  "download_filename": "rt_hat_inr-0.6.9.tar.gz",
+  "download_time": "2025-10-13T18:30:21.856637",
+  "package_url": "https://pypi.org/project/rt-hat-inr/"
+}

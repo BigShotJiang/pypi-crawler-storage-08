@@ -1,11 +1,11 @@
 {
   "name": "eval-protocol",
-  "version": "0.2.52",
+  "version": "0.2.53",
   "summary": "The official Python SDK for Eval Protocol (EP.) EP is an open protocol that standardizes how developers author evals for large language model (LLM) applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eval_protocol-0.2.52.tar.gz",
-  "download_time": "2025-10-13T07:42:12.248105",
+  "download_filename": "eval_protocol-0.2.53.tar.gz",
+  "download_time": "2025-10-13T18:29:49.109241",
   "package_url": "https://pypi.org/project/eval-protocol/"
 }

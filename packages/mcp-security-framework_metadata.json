@@ -1,11 +1,11 @@
 {
   "name": "mcp-security-framework",
-  "version": "1.2.4",
-  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting. Fixed MCP Proxy Adapter JSON-RPC authentication issue with null roles_file. Requires cryptography>=42.0.0 for certificate operations.",
+  "version": "1.2.5",
+  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting. Fixed MCP Proxy Adapter JSON-RPC authentication issue with null roles_file and SSL verify=false handling. Requires cryptography>=42.0.0 for certificate operations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_security_framework-1.2.4.tar.gz",
-  "download_time": "2025-10-12T13:32:28.640331",
+  "download_filename": "mcp_security_framework-1.2.5.tar.gz",
+  "download_time": "2025-10-13T18:30:15.535540",
   "package_url": "https://pypi.org/project/mcp-security-framework/"
 }

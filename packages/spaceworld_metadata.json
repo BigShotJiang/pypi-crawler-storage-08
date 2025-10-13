@@ -1,0 +1,11 @@
+{
+  "name": "spaceworld",
+  "version": "3.0.0",
+  "summary": "Spaceworld is a new generation Cli framework for convenient development of your teams written in Python 3.12+ with support for asynchronous commands",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spaceworld-3.0.0.tar.gz",
+  "download_time": "2025-10-13T18:29:48.565972",
+  "package_url": "https://pypi.org/project/spaceworld/"
+}

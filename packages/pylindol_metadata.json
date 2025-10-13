@@ -1,0 +1,11 @@
+{
+  "name": "pylindol",
+  "version": "0.1.0",
+  "summary": "A tool to download earthquake report information from the Philippine Institute of Volcanology and Seismology (PHIVOLCS) website.",
+  "author": "clnhrn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylindol-0.1.0.tar.gz",
+  "download_time": "2025-10-13T18:29:48.046161",
+  "package_url": "https://pypi.org/project/pylindol/"
+}
