@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T10:47:56.348693
-- **Total Packages**: 87
-- **Total Size**: 27.8 MB
+- **Download Time**: 2025-10-13T10:58:57.349000
+- **Total Packages**: 89
+- **Total Size**: 5.64 MB
 
 ## Packages List
-- cordatus-jtop-service
-- cargo-xwin
-- trainy-policy-nightly
-- python-sat
-- glaip-sdk
-- vector-cache-memory
-- tdecomp
-- delta-rest-api-india
 - ncp-sdk
 - moleditpy-linux
 - moleditpy
@@ -29,6 +21,7 @@
 - bing-image-search-mcp
 - axiomos
 - authentik-client
+- delta-rest-api-india
 - kenobix
 - whitebox-plugin-flight-annotations
 - cadelphi
@@ -93,3 +86,12 @@
 - mp-explore-source-bundestag
 - nvidia-nat-zep-cloud
 - celitech-sdk
+- nvidia-nat-s3
+- manuscript-ocr
+- nvidia-nat
+- nvidia-nat-ragaai
+- nvidia-nat-weave
+- nvidia-nat-semantic-kernel
+- Sosse
+- nvidia-nat-data-flywheel
+- nvidia-nat-adk

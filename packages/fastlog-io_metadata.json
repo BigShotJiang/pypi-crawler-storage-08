@@ -1,11 +1,11 @@
 {
   "name": "fastlog-io",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "loguru fast wrapping supports fastapi",
   "author": "owq",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "fastlog_io-0.2.1.tar.gz",
-  "download_time": "2025-10-13T10:47:30.100432",
+  "download_filename": "fastlog_io-0.2.2.tar.gz",
+  "download_time": "2025-10-13T10:58:22.433146",
   "package_url": "https://pypi.org/project/fastlog-io/"
 }

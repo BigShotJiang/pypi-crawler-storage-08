@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-10-13T10:47:56.348693",
-  "total_packages_downloaded": 87,
-  "total_size_mb": 27.8,
+  "download_time": "2025-10-13T10:58:57.349000",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 5.64,
   "packages": [
-    "cordatus-jtop-service",
-    "cargo-xwin",
-    "trainy-policy-nightly",
-    "python-sat",
-    "glaip-sdk",
-    "vector-cache-memory",
-    "tdecomp",
-    "delta-rest-api-india",
     "ncp-sdk",
     "moleditpy-linux",
     "moleditpy",
@@ -26,6 +18,7 @@
     "bing-image-search-mcp",
     "axiomos",
     "authentik-client",
+    "delta-rest-api-india",
     "kenobix",
     "whitebox-plugin-flight-annotations",
     "cadelphi",
@@ -89,6 +82,15 @@
     "bitranox-template-py-cli",
     "mp-explore-source-bundestag",
     "nvidia-nat-zep-cloud",
-    "celitech-sdk"
+    "celitech-sdk",
+    "nvidia-nat-s3",
+    "manuscript-ocr",
+    "nvidia-nat",
+    "nvidia-nat-ragaai",
+    "nvidia-nat-weave",
+    "nvidia-nat-semantic-kernel",
+    "Sosse",
+    "nvidia-nat-data-flywheel",
+    "nvidia-nat-adk"
   ]
 }
