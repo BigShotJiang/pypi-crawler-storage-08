@@ -1,11 +1,11 @@
 {
   "name": "gembench",
-  "version": "1.0.3",
-  "summary": "A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing",
+  "version": "1.0.4",
+  "summary": "First comprehensive benchmark for Generative Engine Marketing (GEM), an emerging field that focuses on monetizing generative AI by seamlessly integrating advertisements into Large Language Model (LLM) responses. Our work addresses the core problem of ad-injected response (AIR) generation and provides a framework for its evaluation.",
   "author": "GemBench Team(Silan Hu, Shiqi Zhang, Yimin Shi, Xiaokui Xiao)",
   "license": null,
   "home_page": "https://github.com/Generative-Engine-Marketing/GEM-Bench",
-  "download_filename": "gembench-1.0.3.tar.gz",
-  "download_time": "2025-10-13T05:44:00.883703",
+  "download_filename": "gembench-1.0.4-py3-none-any.whl",
+  "download_time": "2025-10-13T06:33:29.219940",
   "package_url": "https://pypi.org/project/gembench/"
 }

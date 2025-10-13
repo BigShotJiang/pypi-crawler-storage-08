@@ -1,0 +1,11 @@
+{
+  "name": "pyblebb",
+  "version": "1.8.5",
+  "summary": "A Python Library For BitBlock",
+  "author": "devdio",
+  "license": "GNU GPLv3",
+  "home_page": "http://www.moyalab.com",
+  "download_filename": "pyblebb-1.8.5-py3-none-any.whl",
+  "download_time": "2025-10-13T06:33:52.009957",
+  "package_url": "https://pypi.org/project/pyblebb/"
+}

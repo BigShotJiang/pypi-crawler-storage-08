@@ -1,0 +1,11 @@
+{
+  "name": "django-scrapyd-manager",
+  "version": "0.2.3",
+  "summary": "A Django application for managing Scrapyd nodes, projects, spiders and jobs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_scrapyd_manager-0.2.3.tar.gz",
+  "download_time": "2025-10-13T06:33:44.398253",
+  "package_url": "https://pypi.org/project/django-scrapyd-manager/"
+}

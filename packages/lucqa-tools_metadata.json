@@ -1,11 +1,11 @@
 {
   "name": "lucqa-tools",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "summary": "Suite de herramientas para desarrollo con Kubernetes y conversores Base64",
   "author": "Lucqa Development Team",
   "license": "MIT",
   "home_page": "https://github.com/lucqa-it/app-developer-tools",
-  "download_filename": "lucqa_tools-1.0.2-py3-none-any.whl",
-  "download_time": "2025-10-13T05:44:02.474533",
+  "download_filename": "lucqa_tools-1.1.1-py3-none-any.whl",
+  "download_time": "2025-10-13T06:33:47.070239",
   "package_url": "https://pypi.org/project/lucqa-tools/"
 }
