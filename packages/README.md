@@ -1,25 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T19:41:49.324809
-- **Total Packages**: 81
-- **Total Size**: 8.59 MB
+- **Download Time**: 2025-10-13T19:54:31.648389
+- **Total Packages**: 83
+- **Total Size**: 17.0 MB
 
 ## Packages List
+- thailint
+- tailscale-api
+- nzilbb-labbcat
+- toy-api
+- mythic-container
+- authentik-client
+- ai-snake-lab
+- gget-mcp
+- aioesphomeapi
+- code-discovery
+- geezlibs
+- trivoting
+- audiobook-reader
+- aiohttp-jrpc
+- nsj-integracao-api-entidades
+- ggx
+- lakeshore
+- lbt-dragonfly
+- duckplus
+- ppt-json-embedding-model
+- newsflash
+- sapiopycommons
+- sora-extend
+- pyGSK
+- dragonfly-energy
+- PyS3Uploader
+- pyrf24
+- cognite-typed-functions
+- evo-objects
+- embed-client
+- t-sql
+- dtpyfw
+- oikan
+- fileconfig
 - fificore
 - gptbioinsightor
-- pyGSK
 - thecodecrate-pipeline
 - cuequivariance-ops-torch-cu12
 - cuequivariance-ops-jax-cu12
 - django-bulk-triggers
 - pytimetk
 - bountylab
-- authentik-client
 - galileo
 - Rextgram
 - cdvl-crawler
-- embed-client
 - 10xscale-agentflow-cli
 - FlaskAPIServer
 - api-tester-mcp
@@ -29,7 +60,6 @@
 - neural-sdk
 - argparse-interface
 - cici-tools
-- pymlt
 - bedrock-agentcore-starter-toolkit
 - gammarers.aws-waf-ip-rate-limit-rule
 - computemate
@@ -55,35 +85,7 @@
 - types-boto3-bedrock-agentcore
 - types-boto3-bedrock-agentcore-control
 - gammarers.aws-waf-ip-restrict-rule
-- nsj-integracao-api-entidades
 - tricc-oo
 - nextpy-cli
 - zz-tools
 - data-weaver-cli
-- textract-pycon-app
-- github2gerrit
-- cisco-ai-mcp-scanner
-- ppt-json-embedding-model
-- rolfedh-doc-utils
-- ogc-sta-schema-validator
-- python-pirateweather
-- rediacc
-- odoo-addon-user-log-view
-- mcp-proxy-adapter
-- boto3
-- awscli
-- robotframework-browser
-- bioql
-- gnosis-dispatch
-- ipfabric_netbox
-- mkdocstrings-github
-- pendle-yield
-- 10xscale-agentflow
-- nextstrain-cli
-- daolite
-- excel2moodle
-- radboy
-- classic-db-tools
-- botapp
-- pylizlib
-- futurehouse-client

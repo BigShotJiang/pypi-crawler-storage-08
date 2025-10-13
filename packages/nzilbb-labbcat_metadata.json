@@ -1,0 +1,11 @@
+{
+  "name": "nzilbb-labbcat",
+  "version": "1.1.1",
+  "summary": "Client library for communicating with LaBB-CAT servers",
+  "author": "Robert Fromont",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/nzilbb/labbcat-py/",
+  "download_filename": "nzilbb_labbcat-1.1.1.tar.gz",
+  "download_time": "2025-10-13T19:53:45.815499",
+  "package_url": "https://pypi.org/project/nzilbb-labbcat/"
+}

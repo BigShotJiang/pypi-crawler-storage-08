@@ -1,0 +1,11 @@
+{
+  "name": "geezlibs",
+  "version": "2.1.0",
+  "summary": "geezlibs - Telegram MTProto API Client Library for Python.",
+  "author": "izzy",
+  "license": "GNU Lesser General Public License v3.0 (LGPL-3.0)",
+  "home_page": "https://github.com/hitokizzy/geezlibs",
+  "download_filename": "geezlibs-2.1.0-py3-none-any.whl",
+  "download_time": "2025-10-13T19:53:50.613038",
+  "package_url": "https://pypi.org/project/geezlibs/"
+}

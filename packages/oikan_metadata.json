@@ -1,0 +1,11 @@
+{
+  "name": "oikan",
+  "version": "0.0.3.12",
+  "summary": "OIKAN: Neuro-Symbolic ML for Scientific Discovery",
+  "author": "Arman Zhalgasbayev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oikan-0.0.3.12.tar.gz",
+  "download_time": "2025-10-13T19:54:03.225379",
+  "package_url": "https://pypi.org/project/oikan/"
+}

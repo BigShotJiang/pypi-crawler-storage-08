@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-jrpc",
+  "version": "0.2.0",
+  "summary": "JSON RPC protocol for aiohttp.web (http server for asyncio)",
+  "author": "Veniamin Gvozdikov",
+  "license": "BSD",
+  "home_page": "https://github.com/zloidemon/aiohttp_jrpc/",
+  "download_filename": "aiohttp_jrpc-0.2.0.tar.gz",
+  "download_time": "2025-10-13T19:53:52.330417",
+  "package_url": "https://pypi.org/project/aiohttp-jrpc/"
+}

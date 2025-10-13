@@ -1,0 +1,11 @@
+{
+  "name": "pyrf24",
+  "version": "0.6.0",
+  "summary": "A python package wrapping the nRF24 C++ libraries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrf24-0.6.0.tar.gz",
+  "download_time": "2025-10-13T19:53:59.816264",
+  "package_url": "https://pypi.org/project/pyrf24/"
+}

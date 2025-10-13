@@ -1,0 +1,11 @@
+{
+  "name": "lakeshore",
+  "version": "1.9.1",
+  "summary": "A package to connect to and interact with Lake Shore instruments.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/lakeshorecryotronics/python-driver",
+  "download_filename": "lakeshore-1.9.1-py3-none-any.whl",
+  "download_time": "2025-10-13T19:53:54.042563",
+  "package_url": "https://pypi.org/project/lakeshore/"
+}

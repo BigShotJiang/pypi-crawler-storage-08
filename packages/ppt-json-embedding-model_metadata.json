@@ -1,11 +1,11 @@
 {
   "name": "ppt-json-embedding-model",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "Open-weight JSON embedding model with CharCNN architecture and contrastive learning - training required",
   "author": "Vicktor Moberg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ppt_json_embedding_model-0.3.9.tar.gz",
-  "download_time": "2025-10-13T19:29:07.218547",
+  "download_filename": "ppt_json_embedding_model-0.4.0.tar.gz",
+  "download_time": "2025-10-13T19:53:55.810177",
   "package_url": "https://pypi.org/project/ppt-json-embedding-model/"
 }

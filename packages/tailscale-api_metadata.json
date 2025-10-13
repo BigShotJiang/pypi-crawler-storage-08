@@ -1,0 +1,11 @@
+{
+  "name": "tailscale-api",
+  "version": "2025.0",
+  "summary": "Tools for working with the Tailscale API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tailscale_api-2025.0.tar.gz",
+  "download_time": "2025-10-13T19:53:45.235911",
+  "package_url": "https://pypi.org/project/tailscale-api/"
+}
