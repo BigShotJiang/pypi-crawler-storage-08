@@ -1,11 +1,11 @@
 {
   "name": "NeuraPython",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "summary": "A multi-purpose AI and utility module for Python — includes GUI, file handling, math, media, and OS integration.",
   "author": "Ibrahim Shahid",
   "license": null,
   "home_page": null,
-  "download_filename": "neurapython-1.2.1.tar.gz",
-  "download_time": "2025-10-12T10:21:25.926446",
+  "download_filename": "neurapython-1.2.3.tar.gz",
+  "download_time": "2025-10-13T16:48:37.993773",
   "package_url": "https://pypi.org/project/NeuraPython/"
 }

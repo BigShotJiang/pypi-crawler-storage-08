@@ -1,0 +1,11 @@
+{
+  "name": "phx",
+  "version": "1.51.11",
+  "summary": "Input / Output Passive House building energy model data.",
+  "author": "PH-Tools",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/PH-Tools/PHX",
+  "download_filename": "phx-1.51.11.tar.gz",
+  "download_time": "2025-10-13T16:48:35.338084",
+  "package_url": "https://pypi.org/project/phx/"
+}

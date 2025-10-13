@@ -1,0 +1,11 @@
+{
+  "name": "gda-importer",
+  "version": "1.9.6",
+  "summary": "GDA Importer provides simple command-line utilities that aide the installation of Python packages.",
+  "author": null,
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "gda_importer-1.9.6.tar.gz",
+  "download_time": "2025-10-13T16:48:21.187665",
+  "package_url": "https://pypi.org/project/gda-importer/"
+}

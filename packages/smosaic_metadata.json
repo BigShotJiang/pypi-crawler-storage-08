@@ -1,0 +1,11 @@
+{
+  "name": "smosaic",
+  "version": "0.2.1",
+  "summary": "Simple python package for creating satellite image mosaics based on Brazil Data Cube",
+  "author": "Gabriel Sansigolo",
+  "license": null,
+  "home_page": "https://github.com/GSansigolo/smosaic",
+  "download_filename": "smosaic-0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-13T16:48:11.121710",
+  "package_url": "https://pypi.org/project/smosaic/"
+}

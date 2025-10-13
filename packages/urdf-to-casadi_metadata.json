@@ -1,0 +1,11 @@
+{
+  "name": "urdf-to-casadi",
+  "version": "0.1.1",
+  "summary": "Module for tuning a chain in a URDF to a casadi function. Fork of urdf2casadi by Mathias Hauan Arbo (maharbo).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "urdf_to_casadi-0.1.1.tar.gz",
+  "download_time": "2025-10-13T16:48:22.936330",
+  "package_url": "https://pypi.org/project/urdf-to-casadi/"
+}

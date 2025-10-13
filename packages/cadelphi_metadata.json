@@ -1,11 +1,11 @@
 {
   "name": "cadelphi",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Computerized Argument Delphi experimentation toolkit",
   "author": "Sadi Evren SEKER",
   "license": null,
   "home_page": "https://github.com/sadievrenseker/cadelphi",
-  "download_filename": "cadelphi-0.2.1.tar.gz",
-  "download_time": "2025-10-13T16:27:16.419832",
+  "download_filename": "cadelphi-0.2.2.tar.gz",
+  "download_time": "2025-10-13T16:48:41.778305",
   "package_url": "https://pypi.org/project/cadelphi/"
 }
