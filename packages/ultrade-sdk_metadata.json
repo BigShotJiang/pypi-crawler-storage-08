@@ -1,0 +1,11 @@
+{
+  "name": "ultrade-sdk",
+  "version": "0.3.19",
+  "summary": "This SDK provides interface that helps making trading operations within the Ultrade network easier",
+  "author": "Ultrade",
+  "license": "MIT",
+  "home_page": "https://github.com/ultrade-org/ultrade-python-sdk",
+  "download_filename": "ultrade_sdk-0.3.19.tar.gz",
+  "download_time": "2025-10-13T21:19:58.360292",
+  "package_url": "https://pypi.org/project/ultrade-sdk/"
+}

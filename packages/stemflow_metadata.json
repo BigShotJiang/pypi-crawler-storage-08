@@ -1,0 +1,11 @@
+{
+  "name": "stemflow",
+  "version": "1.1.5",
+  "summary": "A package for Adaptive Spatio-Temporal Exploratory Model (AdaSTEM) in python",
+  "author": "Yangkang Chen",
+  "license": null,
+  "home_page": "https://github.com/chenyangkang/stemflow",
+  "download_filename": "stemflow-1.1.5.tar.gz",
+  "download_time": "2025-10-13T21:19:59.399846",
+  "package_url": "https://pypi.org/project/stemflow/"
+}

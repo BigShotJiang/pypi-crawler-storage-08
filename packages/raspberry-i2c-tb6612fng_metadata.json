@@ -1,0 +1,11 @@
+{
+  "name": "raspberry-i2c-tb6612fng",
+  "version": "0.3.0",
+  "summary": "A port of Grove Motor Driver TB6612FNG library for python and RaspberryPI. This library also includes easing functions to control your motors with smooth transitions.",
+  "author": "Markiian Benovskyi",
+  "license": "GNU General Public License",
+  "home_page": "https://github.com/MarkusBansky/raspberry-i2c-tb6612fng",
+  "download_filename": "raspberry_i2c_tb6612fng-0.3.0.tar.gz",
+  "download_time": "2025-10-13T21:19:57.840365",
+  "package_url": "https://pypi.org/project/raspberry-i2c-tb6612fng/"
+}
