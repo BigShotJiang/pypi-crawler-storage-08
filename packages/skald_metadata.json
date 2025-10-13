@@ -1,0 +1,11 @@
+{
+  "name": "skald",
+  "version": "0.7.0",
+  "summary": "📟 a simple and efficient experiment logger for Python 🐍",
+  "author": "Laurenz Farthofer",
+  "license": "MIT",
+  "home_page": "https://github.com/laurenzbeck/skald",
+  "download_filename": "skald-0.7.0.tar.gz",
+  "download_time": "2025-10-13T13:49:10.095544",
+  "package_url": "https://pypi.org/project/skald/"
+}

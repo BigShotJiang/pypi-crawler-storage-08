@@ -1,0 +1,11 @@
+{
+  "name": "nexus-cat",
+  "version": "2.0.4",
+  "summary": "Nexus is a Cluster Analysing Toolkit package.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_cat-2.0.4.tar.gz",
+  "download_time": "2025-10-13T13:49:06.723117",
+  "package_url": "https://pypi.org/project/nexus-cat/"
+}

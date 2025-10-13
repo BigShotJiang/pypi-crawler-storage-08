@@ -1,0 +1,11 @@
+{
+  "name": "indico-plugin-phonebook",
+  "version": "1.0.1",
+  "summary": "Webhook endpoint to sync categories from the phonebook",
+  "author": "You",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indico_plugin_phonebook-1.0.1.tar.gz",
+  "download_time": "2025-10-13T13:48:59.065625",
+  "package_url": "https://pypi.org/project/indico-plugin-phonebook/"
+}

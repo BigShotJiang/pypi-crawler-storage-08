@@ -1,11 +1,11 @@
 {
   "name": "penguin-tamer",
-  "version": "0.8.10",
+  "version": "0.8.11",
   "summary": "Penguin Tamer - AI-powered terminal assistant for Linux systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "penguin_tamer-0.8.10-py3-none-any.whl",
-  "download_time": "2025-10-12T15:19:08.235675",
+  "download_filename": "penguin_tamer-0.8.11-py3-none-any.whl",
+  "download_time": "2025-10-13T13:49:26.179266",
   "package_url": "https://pypi.org/project/penguin-tamer/"
 }

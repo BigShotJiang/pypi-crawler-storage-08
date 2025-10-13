@@ -1,11 +1,11 @@
 {
   "name": "mem-llm",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Memory-enabled AI assistant with local LLM support",
   "author": "C. Emre Karataş",
   "license": null,
   "home_page": "https://github.com/emredeveloper/Mem-LLM",
-  "download_filename": "mem_llm-1.0.3.tar.gz",
-  "download_time": "2025-10-13T13:22:19.469184",
+  "download_filename": "mem_llm-1.0.6.tar.gz",
+  "download_time": "2025-10-13T13:49:19.538355",
   "package_url": "https://pypi.org/project/mem-llm/"
 }

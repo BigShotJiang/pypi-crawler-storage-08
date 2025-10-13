@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-vwmetahelper",
+  "version": "0.1.1",
+  "summary": "MkDocs plugin providing get_meta() and call_macro() with lazy front-matter indexing.",
+  "author": "Che Wei Chang & Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/mkdocs-vwmetahelper",
+  "download_filename": "mkdocs-vwmetahelper-0.1.1.tar.gz",
+  "download_time": "2025-10-13T13:49:41.243038",
+  "package_url": "https://pypi.org/project/mkdocs-vwmetahelper/"
+}
