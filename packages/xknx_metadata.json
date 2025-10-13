@@ -1,11 +1,11 @@
 {
   "name": "xknx",
-  "version": "3.9.1",
+  "version": "3.10.0",
   "summary": "An Asynchronous Library for the KNX protocol. Documentation: https://xknx.io/",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xknx-3.9.1.tar.gz",
-  "download_time": "2025-10-10T10:22:20.998502",
+  "download_filename": "xknx-3.10.0.tar.gz",
+  "download_time": "2025-10-13T09:00:47.057290",
   "package_url": "https://pypi.org/project/xknx/"
 }

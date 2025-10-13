@@ -1,0 +1,11 @@
+{
+  "name": "cosmonet",
+  "version": "0.1.0",
+  "summary": "Astronomical Light Curve Classification using Physics-Informed Neural Networks",
+  "author": "CosmoNet Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cosmonet-team/cosmonet",
+  "download_filename": "cosmonet-0.1.0.tar.gz",
+  "download_time": "2025-10-13T09:01:03.582760",
+  "package_url": "https://pypi.org/project/cosmonet/"
+}

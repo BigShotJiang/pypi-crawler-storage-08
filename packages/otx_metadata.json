@@ -1,0 +1,11 @@
+{
+  "name": "otx",
+  "version": "2.6.0",
+  "summary": "OpenVINO™ Training Extensions: Train, Evaluate, Optimize, Deploy Computer Vision Models via OpenVINO™",
+  "author": "OpenVINO™ Training Extensions Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "otx-2.6.0-py3-none-any.whl",
+  "download_time": "2025-10-13T09:01:15.703119",
+  "package_url": "https://pypi.org/project/otx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dify-file-parser",
+  "version": "1.0.0",
+  "summary": "基于 Dify 项目文件处理功能抽离的通用文件解析器",
+  "author": "Javen Yan",
+  "license": null,
+  "home_page": "https://github.com/javen-yan/file-parser",
+  "download_filename": "dify_file_parser-1.0.0.tar.gz",
+  "download_time": "2025-10-13T09:01:02.561308",
+  "package_url": "https://pypi.org/project/dify-file-parser/"
+}

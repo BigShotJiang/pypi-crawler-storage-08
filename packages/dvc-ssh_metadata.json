@@ -1,0 +1,11 @@
+{
+  "name": "dvc-ssh",
+  "version": "4.2.2",
+  "summary": "ssh plugin for dvc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvc_ssh-4.2.2.tar.gz",
+  "download_time": "2025-10-13T09:00:54.754408",
+  "package_url": "https://pypi.org/project/dvc-ssh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scribus-image-embedder",
+  "version": "1.0.0",
+  "summary": "Embed linked images inline into Scribus .sla files (images only)",
+  "author": "Afueth Thomas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scribus_image_embedder-1.0.0.tar.gz",
+  "download_time": "2025-10-13T09:00:37.081174",
+  "package_url": "https://pypi.org/project/scribus-image-embedder/"
+}

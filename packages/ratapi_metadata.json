@@ -1,0 +1,11 @@
+{
+  "name": "ratapi",
+  "version": "0.0.0.dev9",
+  "summary": "Python extension for the Reflectivity Analysis Toolbox (RAT)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/RascalSoftware/python-RAT",
+  "download_filename": "ratapi-0.0.0.dev9.tar.gz",
+  "download_time": "2025-10-13T09:00:48.611304",
+  "package_url": "https://pypi.org/project/ratapi/"
+}

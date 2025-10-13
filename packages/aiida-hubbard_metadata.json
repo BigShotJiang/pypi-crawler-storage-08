@@ -1,0 +1,11 @@
+{
+  "name": "aiida-hubbard",
+  "version": "0.4.0",
+  "summary": "AiiDA plugin for the first-principles calculation of Hubbard parameters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiida_hubbard-0.4.0.tar.gz",
+  "download_time": "2025-10-13T09:01:00.969825",
+  "package_url": "https://pypi.org/project/aiida-hubbard/"
+}
