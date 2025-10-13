@@ -1,11 +1,11 @@
 {
   "name": "grimoire-model",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Dict-like model system with schema validation, derived fields, and inheritance for GRIMOIRE",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "grimoire_model-0.3.2.tar.gz",
-  "download_time": "2025-10-12T11:52:45.025530",
+  "download_filename": "grimoire_model-0.3.3.tar.gz",
+  "download_time": "2025-10-13T03:03:39.683785",
   "package_url": "https://pypi.org/project/grimoire-model/"
 }

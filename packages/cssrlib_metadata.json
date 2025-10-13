@@ -1,0 +1,11 @@
+{
+  "name": "cssrlib",
+  "version": "1.2.0",
+  "summary": "Python Toolkit for PPP/PPP-RTK positioning",
+  "author": "Rui Hirokawa",
+  "license": null,
+  "home_page": "https://github.com/hirokawa/cssrlib",
+  "download_filename": "cssrlib-1.2.0.tar.gz",
+  "download_time": "2025-10-13T03:03:43.390974",
+  "package_url": "https://pypi.org/project/cssrlib/"
+}

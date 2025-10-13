@@ -1,0 +1,11 @@
+{
+  "name": "crc32c",
+  "version": "2.7.1.post0",
+  "summary": "A python package implementing the crc32c algorithm in hardware and software",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "crc32c-2.7.1.post0.tar.gz",
+  "download_time": "2025-10-13T03:04:15.057233",
+  "package_url": "https://pypi.org/project/crc32c/"
+}

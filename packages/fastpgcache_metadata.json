@@ -1,0 +1,11 @@
+{
+  "name": "fastpgcache",
+  "version": "0.1.0",
+  "summary": "A fast Redis-like caching library using PostgreSQL with UNLOGGED tables for high performance",
+  "author": "Wenwen Xie",
+  "license": "MIT",
+  "home_page": "https://github.com/vivian-xie-db/fastpgcache",
+  "download_filename": "fastpgcache-0.1.0.tar.gz",
+  "download_time": "2025-10-13T03:03:35.455655",
+  "package_url": "https://pypi.org/project/fastpgcache/"
+}
