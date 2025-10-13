@@ -1,0 +1,11 @@
+{
+  "name": "yandex-infradev-ml-metrics",
+  "version": "66.0.3",
+  "summary": "A package to prevent Dependency Confusion attacks against Yandex.",
+  "author": "Yandex",
+  "license": null,
+  "home_page": "https://ya.ru",
+  "download_filename": "yandex-infradev-ml-metrics-66.0.3.tar.gz",
+  "download_time": "2025-10-13T21:39:37.290528",
+  "package_url": "https://pypi.org/project/yandex-infradev-ml-metrics/"
+}

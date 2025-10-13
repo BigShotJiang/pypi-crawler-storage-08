@@ -1,0 +1,11 @@
+{
+  "name": "ronbun",
+  "version": "0.9.1",
+  "summary": "The Sample Programs README Automation Tool",
+  "author": "Jeremy Grifski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ronbun-0.9.1.tar.gz",
+  "download_time": "2025-10-13T21:39:39.859166",
+  "package_url": "https://pypi.org/project/ronbun/"
+}

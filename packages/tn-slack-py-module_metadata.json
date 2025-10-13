@@ -1,11 +1,11 @@
 {
   "name": "tn-slack-py-module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "An adaptation for slack",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tn_slack_py_module-0.2.0.tar.gz",
-  "download_time": "2025-10-12T21:39:24.436460",
+  "download_filename": "tn_slack_py_module-0.2.1.tar.gz",
+  "download_time": "2025-10-13T21:39:50.052655",
   "package_url": "https://pypi.org/project/tn-slack-py-module/"
 }
