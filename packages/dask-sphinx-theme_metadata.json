@@ -1,0 +1,11 @@
+{
+  "name": "dask-sphinx-theme",
+  "version": "4.0.0",
+  "summary": "Dask theme for Sphinx",
+  "author": "Dask Developers",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "dask_sphinx_theme-4.0.0.tar.gz",
+  "download_time": "2025-10-13T15:54:15.881143",
+  "package_url": "https://pypi.org/project/dask-sphinx-theme/"
+}

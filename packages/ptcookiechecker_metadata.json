@@ -1,0 +1,11 @@
+{
+  "name": "ptcookiechecker",
+  "version": "0.0.27",
+  "summary": "Cookie security testing tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptcookiechecker-0.0.27.tar.gz",
+  "download_time": "2025-10-13T15:54:14.858613",
+  "package_url": "https://pypi.org/project/ptcookiechecker/"
+}

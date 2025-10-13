@@ -1,11 +1,11 @@
 {
   "name": "brocapclient",
-  "version": "1.0.0",
-  "summary": null,
-  "author": "Nikita Markov",
+  "version": "1.0.4",
+  "summary": "Official python client library for https://docs.brocapgpt.com captcha recognition service.",
+  "author": "dev@brocapgpt.com",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brocapclient-1.0.0.tar.gz",
-  "download_time": "2025-10-07T11:51:24.260369",
+  "download_filename": "brocapclient-1.0.4.tar.gz",
+  "download_time": "2025-10-13T15:54:15.369710",
   "package_url": "https://pypi.org/project/brocapclient/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alnfile",
+  "version": "0.1.0",
+  "summary": "A Python package for reading AreTomo alignment files into pandas DataFrames.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "alnfile-0.1.0.tar.gz",
+  "download_time": "2025-10-13T15:54:22.546167",
+  "package_url": "https://pypi.org/project/alnfile/"
+}

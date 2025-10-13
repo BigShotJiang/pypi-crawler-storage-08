@@ -1,11 +1,11 @@
 {
   "name": "pycoustic",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": null,
   "author": "thumpercastle",
   "license": null,
   "home_page": null,
-  "download_filename": "pycoustic-0.1.9.tar.gz",
-  "download_time": "2025-10-13T15:42:44.207781",
+  "download_filename": "pycoustic-0.1.12.tar.gz",
+  "download_time": "2025-10-13T15:54:04.925526",
   "package_url": "https://pypi.org/project/pycoustic/"
 }
