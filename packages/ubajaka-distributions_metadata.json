@@ -1,0 +1,11 @@
+{
+  "name": "ubajaka-distributions",
+  "version": "0.1",
+  "summary": "Gaussian and Binomial distributions package",
+  "author": "Ubajaka Chijioke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubajaka_distributions-0.1.tar.gz",
+  "download_time": "2025-10-13T09:46:17.415380",
+  "package_url": "https://pypi.org/project/ubajaka-distributions/"
+}

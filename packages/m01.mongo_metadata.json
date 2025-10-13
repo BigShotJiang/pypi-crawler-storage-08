@@ -1,0 +1,11 @@
+{
+  "name": "m01.mongo",
+  "version": "3.13.6",
+  "summary": "MongoDB connection pool and container implementation for Zope3",
+  "author": "Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/m01.mongo",
+  "download_filename": "m01.mongo-3.13.6.tar.gz",
+  "download_time": "2025-10-13T09:46:16.900405",
+  "package_url": "https://pypi.org/project/m01.mongo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "requests_os",
+  "version": "1.0.0",
+  "summary": "Telegram bot for server control and management",
+  "author": "Developer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "requests_os-1.0.0.tar.gz",
+  "download_time": "2025-10-13T09:46:12.687197",
+  "package_url": "https://pypi.org/project/requests_os/"
+}

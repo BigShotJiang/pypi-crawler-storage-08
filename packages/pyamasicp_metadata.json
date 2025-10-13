@@ -1,0 +1,11 @@
+{
+  "name": "pyamasicp",
+  "version": "0.3.0",
+  "summary": "Client for iiyama TV rs232 over lan protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyamasicp-0.3.0.tar.gz",
+  "download_time": "2025-10-13T09:45:47.089373",
+  "package_url": "https://pypi.org/project/pyamasicp/"
+}

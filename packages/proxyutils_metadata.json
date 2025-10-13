@@ -1,0 +1,11 @@
+{
+  "name": "proxyutils",
+  "version": "0.1.0",
+  "summary": "Proxy string to python-compatible dictionary converter.",
+  "author": "Melikşah Bozkurt",
+  "license": "MIT",
+  "home_page": "https://github.com/meliksahbozkurt/proxyutils",
+  "download_filename": "proxyutils-0.1.0.tar.gz",
+  "download_time": "2025-10-13T09:46:11.660146",
+  "package_url": "https://pypi.org/project/proxyutils/"
+}

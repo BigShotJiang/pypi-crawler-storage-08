@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth-corptools-pinger",
+  "version": "0.6.2",
+  "summary": "Leverage the corptools data to notify via discord certain events at a corp/alliance level",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth_corptools_pinger-0.6.2.tar.gz",
+  "download_time": "2025-10-13T09:46:06.390055",
+  "package_url": "https://pypi.org/project/allianceauth-corptools-pinger/"
+}

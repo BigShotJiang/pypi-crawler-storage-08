@@ -1,0 +1,11 @@
+{
+  "name": "YMLGenerator-MCP",
+  "version": "0.0.1",
+  "summary": "MCP Server for AL Parser - finds pages and fields for Business Central scenarios",
+  "author": "AI Script Generator Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ymlgenerator_mcp-0.0.1.tar.gz",
+  "download_time": "2025-10-13T09:45:51.792112",
+  "package_url": "https://pypi.org/project/YMLGenerator-MCP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lietorch",
+  "version": "0.8.1",
+  "summary": "PDE-G-CNN package for PyTorch",
+  "author": "B.M.N. Smets et.al",
+  "license": null,
+  "home_page": "https://gitlab.com/bsmetsjr/lietorch",
+  "download_filename": "lietorch-0.8.1.tar.gz",
+  "download_time": "2025-10-13T09:46:18.481755",
+  "package_url": "https://pypi.org/project/lietorch/"
+}
