@@ -1,11 +1,11 @@
 {
   "name": "idvpackage",
-  "version": "2.0.134",
+  "version": "2.0.135",
   "summary": "This repository contains a Python program designed to execute Optical Character Recognition (OCR) and Facial Recognition on images.",
   "author": "Fahad Patel",
   "license": null,
   "home_page": "https://github.com/NymCard-Payments/project_idv_package",
-  "download_filename": "idvpackage-2.0.134.tar.gz",
-  "download_time": "2025-10-08T08:49:11.653945",
+  "download_filename": "idvpackage-2.0.135.tar.gz",
+  "download_time": "2025-10-13T06:58:11.527215",
   "package_url": "https://pypi.org/project/idvpackage/"
 }

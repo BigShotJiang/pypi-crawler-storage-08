@@ -1,0 +1,11 @@
+{
+  "name": "multi-system-connector",
+  "version": "0.1.0",
+  "summary": "FastAPI Multi-System Connector with Azure AI and SharePoint",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multi_system_connector-0.1.0.tar.gz",
+  "download_time": "2025-10-13T06:58:16.749643",
+  "package_url": "https://pypi.org/project/multi-system-connector/"
+}

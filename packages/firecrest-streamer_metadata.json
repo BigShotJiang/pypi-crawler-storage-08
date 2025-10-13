@@ -1,11 +1,11 @@
 {
   "name": "firecrest-streamer",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "A simple file streamer over websockets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firecrest_streamer-0.0.12-py3-none-any.whl",
-  "download_time": "2025-10-13T06:33:24.856521",
+  "download_filename": "firecrest_streamer-0.0.13-py3-none-any.whl",
+  "download_time": "2025-10-13T06:58:18.833635",
   "package_url": "https://pypi.org/project/firecrest-streamer/"
 }
