@@ -1,0 +1,11 @@
+{
+  "name": "nzshm-model",
+  "version": "0.14.0",
+  "summary": "The logic tree definitions, final configurations, and versioning of the New Zealand | Aotearoa National Seismic Hazard Model",
+  "author": "Chris B Chamberlain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nzshm_model-0.14.0.tar.gz",
+  "download_time": "2025-10-13T04:25:48.717732",
+  "package_url": "https://pypi.org/project/nzshm-model/"
+}

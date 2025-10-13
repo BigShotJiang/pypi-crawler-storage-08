@@ -1,0 +1,11 @@
+{
+  "name": "ENPMDA",
+  "version": "1.0.0",
+  "summary": "Parallel analysis for ensemble simulations",
+  "author": "Yuxuan Zhuang",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/yuxuanzhuang/ENPMDA",
+  "download_filename": "enpmda-1.0.0.tar.gz",
+  "download_time": "2025-10-13T04:25:44.509745",
+  "package_url": "https://pypi.org/project/ENPMDA/"
+}

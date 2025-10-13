@@ -1,0 +1,11 @@
+{
+  "name": "sisou2",
+  "version": "2.0.0",
+  "summary": "A powerful tool to conveniently download all of your ISO files!",
+  "author": "lostallmymoney",
+  "license": "GPLv3",
+  "home_page": "https://github.com/lostallmymoney/SuperISOUpdater2",
+  "download_filename": "sisou2-2.0.0.tar.gz",
+  "download_time": "2025-10-13T04:25:36.448109",
+  "package_url": "https://pypi.org/project/sisou2/"
+}

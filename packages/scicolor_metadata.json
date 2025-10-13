@@ -1,0 +1,11 @@
+{
+  "name": "scicolor",
+  "version": "1.2",
+  "summary": "Collections of color maps for scientific visualizations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scicolor-1.2.tar.gz",
+  "download_time": "2025-10-13T04:25:26.899089",
+  "package_url": "https://pypi.org/project/scicolor/"
+}
