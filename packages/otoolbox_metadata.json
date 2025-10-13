@@ -1,0 +1,11 @@
+{
+  "name": "otoolbox",
+  "version": "0.1.23",
+  "summary": "Utilities for Odoo from Odoonix",
+  "author": "Odoonix",
+  "license": "MIT",
+  "home_page": "https://odoonix.com/apps/otoolbox",
+  "download_filename": "otoolbox-0.1.23.tar.gz",
+  "download_time": "2025-10-13T12:42:58.827278",
+  "package_url": "https://pypi.org/project/otoolbox/"
+}

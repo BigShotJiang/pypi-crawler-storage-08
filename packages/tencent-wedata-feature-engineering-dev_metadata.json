@@ -1,11 +1,11 @@
 {
   "name": "tencent-wedata-feature-engineering-dev",
-  "version": "0.1.36",
+  "version": "0.1.40",
   "summary": "Wedata Feature Engineering Library Development",
   "author": "meahqian",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "tencent-wedata-feature-engineering-dev-0.1.36.tar.gz",
-  "download_time": "2025-10-13T11:54:08.927422",
+  "download_filename": "tencent-wedata-feature-engineering-dev-0.1.40.tar.gz",
+  "download_time": "2025-10-13T12:42:50.972280",
   "package_url": "https://pypi.org/project/tencent-wedata-feature-engineering-dev/"
 }

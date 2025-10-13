@@ -1,0 +1,11 @@
+{
+  "name": "kdnmcp",
+  "version": "1.0.4",
+  "summary": "快递鸟MCP服务 - 提供快递物流查询的MCP协议服务",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdnmcp-1.0.4.tar.gz",
+  "download_time": "2025-10-13T12:43:25.851099",
+  "package_url": "https://pypi.org/project/kdnmcp/"
+}

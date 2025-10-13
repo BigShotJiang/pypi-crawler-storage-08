@@ -1,0 +1,11 @@
+{
+  "name": "connexion",
+  "version": "3.3.0",
+  "summary": "Connexion - API first applications with OpenAPI/Swagger",
+  "author": "Robbe Sneyders",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "connexion-3.3.0.tar.gz",
+  "download_time": "2025-10-13T12:42:47.282230",
+  "package_url": "https://pypi.org/project/connexion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langwatch",
+  "version": "0.5.0",
+  "summary": "LangWatch Python SDK, for monitoring your LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langwatch-0.5.0.tar.gz",
+  "download_time": "2025-10-13T12:43:15.458024",
+  "package_url": "https://pypi.org/project/langwatch/"
+}

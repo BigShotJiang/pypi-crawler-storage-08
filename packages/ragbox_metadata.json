@@ -1,0 +1,11 @@
+{
+  "name": "ragbox",
+  "version": "0.1.1",
+  "summary": "A command-line RAG tool for querying documents using LlamaIndex with OpenAI and Ollama support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ragbox-0.1.1.tar.gz",
+  "download_time": "2025-10-13T12:43:18.608627",
+  "package_url": "https://pypi.org/project/ragbox/"
+}
