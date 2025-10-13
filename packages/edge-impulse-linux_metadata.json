@@ -1,0 +1,11 @@
+{
+  "name": "edge-impulse-linux",
+  "version": "1.2.0",
+  "summary": "Python runner for real-time ML classification",
+  "author": "EdgeImpulse Inc.",
+  "license": null,
+  "home_page": "https://github.com/edgeimpulse/linux-sdk-python",
+  "download_filename": "edge_impulse_linux-1.2.0.tar.gz",
+  "download_time": "2025-10-13T10:25:12.495926",
+  "package_url": "https://pypi.org/project/edge-impulse-linux/"
+}

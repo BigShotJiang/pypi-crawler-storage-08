@@ -1,11 +1,11 @@
 {
   "name": "pyx-mcp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "X (Twitter) API client library with tweepy and pydantic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyx_mcp-0.1.2.tar.gz",
-  "download_time": "2025-10-13T09:01:07.154001",
+  "download_filename": "pyx_mcp-0.1.4.tar.gz",
+  "download_time": "2025-10-13T10:25:00.646518",
   "package_url": "https://pypi.org/project/pyx-mcp/"
 }

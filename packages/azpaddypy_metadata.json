@@ -1,11 +1,11 @@
 {
   "name": "azpaddypy",
-  "version": "0.9.37",
+  "version": "0.9.38",
   "summary": "Comprehensive Python logger for Azure, integrating OpenTelemetry for advanced, structured, and distributed tracing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azpaddypy-0.9.37.tar.gz",
-  "download_time": "2025-10-12T13:43:53.274281",
+  "download_filename": "azpaddypy-0.9.38.tar.gz",
+  "download_time": "2025-10-13T10:25:03.335338",
   "package_url": "https://pypi.org/project/azpaddypy/"
 }
