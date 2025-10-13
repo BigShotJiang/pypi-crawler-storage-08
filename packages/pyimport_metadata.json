@@ -1,11 +1,11 @@
 {
   "name": "pyimport",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "summary": "A CSV importer for MongoDB",
   "author": "Joe Drumgoole",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyimport-1.10.2.tar.gz",
-  "download_time": "2025-10-13T08:30:49.896806",
+  "download_filename": "pyimport-1.10.3.tar.gz",
+  "download_time": "2025-10-13T11:40:03.862699",
   "package_url": "https://pypi.org/project/pyimport/"
 }

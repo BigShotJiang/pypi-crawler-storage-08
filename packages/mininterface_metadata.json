@@ -1,0 +1,11 @@
+{
+  "name": "mininterface",
+  "version": "1.1.4",
+  "summary": "A minimal access to GUI, TUI, CLI and config",
+  "author": "Edvard Rejthar",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mininterface-1.1.4.tar.gz",
+  "download_time": "2025-10-13T11:40:01.282681",
+  "package_url": "https://pypi.org/project/mininterface/"
+}

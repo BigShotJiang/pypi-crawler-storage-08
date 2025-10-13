@@ -1,0 +1,11 @@
+{
+  "name": "openapi-bridge",
+  "version": "0.5.0",
+  "summary": null,
+  "author": "Patrick Schemitz",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/solute/openapi-bridge",
+  "download_filename": "openapi_bridge-0.5.0.tar.gz",
+  "download_time": "2025-10-13T11:39:53.030596",
+  "package_url": "https://pypi.org/project/openapi-bridge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ntsim",
+  "version": "0.2.0",
+  "summary": "Neutrino Telescope Simulation",
+  "author": "Sergey Zavyalov, Andrey Sheshukov, Daniil Zubchenko, Mikhail Lisitsin, Yuri Malyshkin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntsim-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-13T11:40:25.506945",
+  "package_url": "https://pypi.org/project/ntsim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gilda-slim",
+  "version": "1.4.1.1",
+  "summary": "Grounding for biomedical entities with contextual disambiguation",
+  "author": "Benjamin M. Gyori, Harvard Medical School",
+  "license": null,
+  "home_page": "https://github.com/indralab/gilda",
+  "download_filename": "gilda_slim-1.4.1.1.tar.gz",
+  "download_time": "2025-10-13T11:40:10.631928",
+  "package_url": "https://pypi.org/project/gilda-slim/"
+}

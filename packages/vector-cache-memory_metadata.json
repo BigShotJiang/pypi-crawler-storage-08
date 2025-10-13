@@ -1,11 +1,11 @@
 {
   "name": "vector-cache-memory",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Python client for VectorCache Go DB server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vector_cache_memory-0.1.1.tar.gz",
-  "download_time": "2025-10-13T10:47:12.581709",
+  "download_filename": "vector_cache_memory-0.1.4.tar.gz",
+  "download_time": "2025-10-13T11:39:46.217196",
   "package_url": "https://pypi.org/project/vector-cache-memory/"
 }

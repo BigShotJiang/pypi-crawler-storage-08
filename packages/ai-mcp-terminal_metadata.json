@@ -1,11 +1,11 @@
 {
   "name": "ai-mcp-terminal",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "AI终端管理器 - 支持MCP协议的多线程终端系统，提供并发执行、智能调度、交互检测、Web界面等功能",
   "author": "AI-MCP Contributors",
   "license": "MIT",
   "home_page": "https://github.com/kanniganfan/ai-mcp-terminal",
-  "download_filename": "ai_mcp_terminal-1.0.1.tar.gz",
-  "download_time": "2025-10-12T13:54:16.011814",
+  "download_filename": "ai_mcp_terminal-1.0.3.tar.gz",
+  "download_time": "2025-10-13T11:40:07.556661",
   "package_url": "https://pypi.org/project/ai-mcp-terminal/"
 }
