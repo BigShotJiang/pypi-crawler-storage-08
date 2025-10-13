@@ -1,15 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T13:49:47.851060
-- **Total Packages**: 89
-- **Total Size**: 21.49 MB
+- **Download Time**: 2025-10-13T14:24:11.983475
+- **Total Packages**: 85
+- **Total Size**: 8.99 MB
 
 ## Packages List
+- pyraf
+- ipars
+- tensordict-nightly
+- speakeasy-testing-sdk
+- authentik-client
+- m365-mcp
+- dsw-storage
+- dsw-tdk
+- qualibrate
+- dsw-config
+- dsw-models
+- dsw-database
+- allytools
+- fastlib-py
+- dsw-command-queue
+- matchbox-db
+- livef1
+- rocket-welder-sdk
+- sgsim
+- pyGSK
 - plasmid-bin-bench
 - registream
 - easy-bitrix
-- allytools
 - indico-plugin-phonebook
 - django-bulk-triggers
 - qrules
@@ -25,7 +44,6 @@
 - pydantic-metamodel
 - openmetadata-managed-apis
 - nexus-cat
-- authentik-client
 - bioflow-insight
 - opik
 - ol-openedx-checkout-external
@@ -73,25 +91,3 @@
 - ol-openedx-course-export
 - edx-username-changer
 - delphai-fastapi
-- tenauth
-- apafib
-- itam-assistant
-- agentmake
-- rds-proxy-password-rotation
-- model-runner-client
-- rust-template
-- lmxy
-- standard-agent
-- cleanote
-- mkdocs-vwmetahelper
-- localcurl
-- iiiflow
-- pyegeria
-- ol-openedx-course-structure-api
-- fbgemm-gpu-nightly-cpu
-- rapidata
-- rediacc
-- m365-mcp
-- plone.all-in-one-accessibility
-- csonpath
-- oscar-python
