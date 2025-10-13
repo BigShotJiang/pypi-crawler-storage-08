@@ -1,0 +1,11 @@
+{
+  "name": "zmanim-core-bindings",
+  "version": "0.2.6",
+  "summary": "Bindings to the zmanim-core rust library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zmanim_core_bindings-0.2.6.tar.gz",
+  "download_time": "2025-10-13T05:44:25.917778",
+  "package_url": "https://pypi.org/project/zmanim-core-bindings/"
+}

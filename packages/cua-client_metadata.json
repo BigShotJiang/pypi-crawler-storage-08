@@ -1,0 +1,11 @@
+{
+  "name": "cua-client",
+  "version": "0.3.5",
+  "summary": "Computer Use Automation (CUA) client for remote function execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cua_client-0.3.5.tar.gz",
+  "download_time": "2025-10-13T05:44:16.015527",
+  "package_url": "https://pypi.org/project/cua-client/"
+}

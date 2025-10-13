@@ -1,0 +1,11 @@
+{
+  "name": "a2y-paratree",
+  "version": "1.1.1",
+  "summary": "A module that supplies some functions and classes that relate to ",
+  "author": "Yu Han",
+  "license": "Private",
+  "home_page": "http://www.kersci.com/a2y/paratree.html",
+  "download_filename": "a2y_paratree-1.1.1-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-10-13T05:44:11.341604",
+  "package_url": "https://pypi.org/project/a2y-paratree/"
+}

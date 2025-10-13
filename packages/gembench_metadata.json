@@ -1,0 +1,11 @@
+{
+  "name": "gembench",
+  "version": "1.0.3",
+  "summary": "A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing",
+  "author": "GemBench Team(Silan Hu, Shiqi Zhang, Yimin Shi, Xiaokui Xiao)",
+  "license": null,
+  "home_page": "https://github.com/Generative-Engine-Marketing/GEM-Bench",
+  "download_filename": "gembench-1.0.3.tar.gz",
+  "download_time": "2025-10-13T05:44:00.883703",
+  "package_url": "https://pypi.org/project/gembench/"
+}

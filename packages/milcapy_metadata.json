@@ -1,0 +1,11 @@
+{
+  "name": "milcapy",
+  "version": "0.2.6",
+  "summary": "Librería para el análisis de estructuras 2D (Frame, Truss, CST, Membrana: Q4, Q8, Q6, Q6i).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "milcapy-0.2.6.tar.gz",
+  "download_time": "2025-10-13T05:44:19.659266",
+  "package_url": "https://pypi.org/project/milcapy/"
+}

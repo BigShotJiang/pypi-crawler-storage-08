@@ -1,0 +1,11 @@
+{
+  "name": "source-license-sdk",
+  "version": "1.0.0",
+  "summary": "A Python SDK for Source-License platform license validation and activation",
+  "author": "Source-License Team",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/PixelRidgeSoftworks/Source-License",
+  "download_filename": "source_license_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-13T05:44:26.449152",
+  "package_url": "https://pypi.org/project/source-license-sdk/"
+}
