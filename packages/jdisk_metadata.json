@@ -1,11 +1,11 @@
 {
   "name": "jdisk",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "SJTU Netdisk command line interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jdisk-0.1.8.tar.gz",
-  "download_time": "2025-10-13T17:41:32.485115",
+  "download_filename": "jdisk-0.1.9.tar.gz",
+  "download_time": "2025-10-13T17:53:34.560930",
   "package_url": "https://pypi.org/project/jdisk/"
 }
