@@ -1,0 +1,11 @@
+{
+  "name": "keycloak-django",
+  "version": "1.1.19",
+  "summary": "keycloak-django is Python package providing access to custom apps",
+  "author": "David Campos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keycloak_django-1.1.19.tar.gz",
+  "download_time": "2025-10-13T20:24:02.383894",
+  "package_url": "https://pypi.org/project/keycloak-django/"
+}

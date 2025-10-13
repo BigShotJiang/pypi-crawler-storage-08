@@ -1,11 +1,11 @@
 {
   "name": "sibi-dst",
-  "version": "2025.9.16",
+  "version": "2025.9.17",
   "summary": "A data science toolkit for scalable data processing and analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sibi_dst-2025.9.16.tar.gz",
-  "download_time": "2025-10-11T17:52:57.937579",
+  "download_filename": "sibi_dst-2025.9.17.tar.gz",
+  "download_time": "2025-10-13T20:23:50.710291",
   "package_url": "https://pypi.org/project/sibi-dst/"
 }

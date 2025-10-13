@@ -1,11 +1,11 @@
 {
   "name": "mcp-security-framework",
-  "version": "1.2.6",
-  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting. Fixed MCP Proxy Adapter JSON-RPC authentication issue with null roles_file and SSL verify=false handling. Includes embed_client SSL fix solution. Requires cryptography>=42.0.0 for certificate operations.",
+  "version": "1.2.7",
+  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting. CRITICAL FIX: SSL configuration validation now handles None values properly, resolving embed_client and mcp_proxy_adapter failures. Fixed MCP Proxy Adapter JSON-RPC authentication issue with null roles_file and SSL verify=false handling. Requires cryptography>=42.0.0 for certificate operations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_security_framework-1.2.6.tar.gz",
-  "download_time": "2025-10-13T19:17:38.118605",
+  "download_filename": "mcp_security_framework-1.2.7.tar.gz",
+  "download_time": "2025-10-13T20:24:29.868017",
   "package_url": "https://pypi.org/project/mcp-security-framework/"
 }

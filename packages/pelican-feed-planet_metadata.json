@@ -1,0 +1,11 @@
+{
+  "name": "pelican-feed-planet",
+  "version": "0.24.0",
+  "summary": "Blog aggregator plugin for Pelican",
+  "author": "Mathieu Bridon",
+  "license": null,
+  "home_page": "https://github.com/macbre/pelican-planet",
+  "download_filename": "pelican_feed_planet-0.24.0.tar.gz",
+  "download_time": "2025-10-13T20:24:25.591247",
+  "package_url": "https://pypi.org/project/pelican-feed-planet/"
+}

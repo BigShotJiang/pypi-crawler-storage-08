@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-sdml",
+  "version": "0.4.14",
+  "summary": "SDML grammar for tree-sitter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tree_sitter_sdml-0.4.14.tar.gz",
+  "download_time": "2025-10-13T20:23:57.408281",
+  "package_url": "https://pypi.org/project/tree-sitter-sdml/"
+}

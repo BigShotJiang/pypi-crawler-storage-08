@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-network-load-balancer-mcp-server",
+  "version": "1.0.0",
+  "summary": "OCI Network Load Balancer MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_network_load_balancer_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-13T20:24:03.470104",
+  "package_url": "https://pypi.org/project/oracle.oci-network-load-balancer-mcp-server/"
+}

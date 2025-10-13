@@ -1,0 +1,11 @@
+{
+  "name": "leads-finder",
+  "version": "1.0.0",
+  "summary": "Local business leads finder using Decodo proxies",
+  "author": "Yousef Kotp",
+  "license": null,
+  "home_page": "https://github.com/yousefkotp/local-leads-finder",
+  "download_filename": "leads_finder-1.0.0.tar.gz",
+  "download_time": "2025-10-13T20:24:24.506644",
+  "package_url": "https://pypi.org/project/leads-finder/"
+}

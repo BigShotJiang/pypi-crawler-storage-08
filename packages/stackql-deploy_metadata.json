@@ -1,0 +1,11 @@
+{
+  "name": "stackql-deploy",
+  "version": "1.8.7",
+  "summary": "Model driven resource provisioning and deployment framework using StackQL.",
+  "author": "Jeffrey Aven",
+  "license": "MIT",
+  "home_page": "https://github.com/stackql/stackql-deploy",
+  "download_filename": "stackql_deploy-1.8.7.tar.gz",
+  "download_time": "2025-10-13T20:23:53.557541",
+  "package_url": "https://pypi.org/project/stackql-deploy/"
+}

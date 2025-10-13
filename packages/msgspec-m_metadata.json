@@ -1,0 +1,11 @@
+{
+  "name": "msgspec-m",
+  "version": "0.19.0",
+  "summary": "A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/marimo-team/msgspec",
+  "download_filename": "msgspec-m-0.19.0.tar.gz",
+  "download_time": "2025-10-13T20:24:33.166136",
+  "package_url": "https://pypi.org/project/msgspec-m/"
+}

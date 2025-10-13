@@ -1,0 +1,11 @@
+{
+  "name": "simply-mcp",
+  "version": "0.1.0b0",
+  "summary": "A modern Python framework for building MCP servers with multiple API styles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simply_mcp-0.1.0b0.tar.gz",
+  "download_time": "2025-10-13T20:24:32.641952",
+  "package_url": "https://pypi.org/project/simply-mcp/"
+}

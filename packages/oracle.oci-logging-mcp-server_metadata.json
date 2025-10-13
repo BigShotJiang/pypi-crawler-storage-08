@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-logging-mcp-server",
+  "version": "1.0.0",
+  "summary": "OCI Logging Service MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_logging_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-13T20:24:06.266868",
+  "package_url": "https://pypi.org/project/oracle.oci-logging-mcp-server/"
+}
