@@ -1,11 +1,11 @@
 {
   "name": "robotframework-browser",
-  "version": "19.9.0",
+  "version": "19.10.0",
   "summary": "Robot Framework Browser library powered by Playwright. Aiming for speed, reliability and visibility.",
   "author": "MarketSquare - Robot Framework community",
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_browser-19.9.0-py3-none-any.whl",
-  "download_time": "2025-10-07T19:16:12.403003",
+  "download_filename": "robotframework_browser-19.10.0-py3-none-any.whl",
+  "download_time": "2025-10-13T19:29:13.104294",
   "package_url": "https://pypi.org/project/robotframework-browser/"
 }

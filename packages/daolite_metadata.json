@@ -1,0 +1,11 @@
+{
+  "name": "daolite",
+  "version": "0.1.1",
+  "summary": "A Python package for estimating latency in Adaptive Optics Real-time Control Systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daolite-0.1.1.tar.gz",
+  "download_time": "2025-10-13T19:29:17.927040",
+  "package_url": "https://pypi.org/project/daolite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pendle-yield",
+  "version": "0.1.0a1",
+  "summary": "Python SDK for interacting with Pendle Finance data",
+  "author": "obsh-onchain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pendle_yield-0.1.0a1.tar.gz",
+  "download_time": "2025-10-13T19:29:16.310083",
+  "package_url": "https://pypi.org/project/pendle-yield/"
+}
