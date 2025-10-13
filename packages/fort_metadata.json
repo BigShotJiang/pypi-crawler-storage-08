@@ -1,0 +1,11 @@
+{
+  "name": "fort",
+  "version": "2025.1",
+  "summary": "The Python database micropackage",
+  "author": "William Jackson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fort-2025.1.tar.gz",
+  "download_time": "2025-10-13T14:57:23.934872",
+  "package_url": "https://pypi.org/project/fort/"
+}

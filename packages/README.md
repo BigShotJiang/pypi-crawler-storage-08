@@ -1,61 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T14:46:45.045850
+- **Download Time**: 2025-10-13T14:57:40.707752
 - **Total Packages**: 85
-- **Total Size**: 58.04 MB
+- **Total Size**: 8.38 MB
 
 ## Packages List
-- deltachat-rpc-server
-- PyPalmSens
-- chart-studio-figlinq
-- gladiaio-sdk
-- material-color-utilities
-- quartoogle
-- django-outlook-email-backend
-- erc7730
-- mixpeek-mcp
-- OpenGeodeWeb-Microservice
-- mcp-testing
-- sec-eagle
-- retracesoftware-proxy
-- rappmysql
-- reg-normalizer
-- onedl-mmpretrain
-- preflexpart
-- django-modeltrans
-- nextract
-- xmlclasses
-- chanx
-- dragon-ml-toolbox
-- ksbanim
-- GuardianUnivalle-Benito-Yucra
-- liger-kernel-nightly
-- sommify
-- brainpy
-- orchestrator-core
-- fmc-report
-- anemoi-env
-- HowdenParser
-- pulumiverse-grafana
-- airbyte-source-github
-- luna-quantum
-- authentik-client
-- moleditpy-linux
-- moleditpy
-- supervisorex
-- odoo-addon-repair-timesheet
-- tft-cli
 - streamax
 - pyjolt
+- django-outlook-email-backend
 - django-cotton-bs5
+- gladiaio-sdk
 - obi-auth
 - django-bulk-triggers
 - workflows-mcp
+- sec-eagle
 - upgini
 - pydantic-resolve
 - sund
 - halal-image-downloader
+- pulumiverse-grafana
 - whitepossum
 - pyavrocd
 - nominal-api-protos
@@ -72,6 +36,8 @@
 - revng
 - stix2extensions
 - avrocurio
+- supervisorex
+- authentik-client
 - navconfig
 - AOT-biomaps
 - datapizza-ai-tools-duckduckgo
@@ -91,3 +57,37 @@
 - coffea-casa
 - wcpan-drive-cli
 - intuned-browser
+- copilotkit
+- rocket-welder-sdk
+- firecrawl
+- firecrawl-py
+- jupyter-jsc-custom
+- fort
+- rhizonet
+- dg-mol-track
+- pelican-hep
+- modal
+- gen-eval
+- mbake
+- nonebot-plugin-parser
+- m365-mcp
+- bioql
+- hubmap-entity-sdk
+- pulumiverse-talos
+- ics-wivi-analytics-ingest
+- mappy-python
+- llm-privacy-filter
+- hubmap-search-sdk
+- nabu
+- pyistat
+- cleanote
+- ptfa
+- pvvoltloss
+- edf-carbon-server
+- edf-carbon-core
+- edf-carbon-client
+- unifiedai-sdk
+- topologicpy
+- cxstat
+- sphinx-filtered-toctree
+- arthub-api

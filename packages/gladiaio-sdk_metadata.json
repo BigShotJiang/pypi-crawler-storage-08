@@ -1,11 +1,11 @@
 {
   "name": "gladiaio-sdk",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Gladia SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gladiaio_sdk-0.2.4.tar.gz",
-  "download_time": "2025-10-13T14:45:56.749823",
+  "download_filename": "gladiaio_sdk-0.2.6.tar.gz",
+  "download_time": "2025-10-13T14:56:55.261393",
   "package_url": "https://pypi.org/project/gladiaio-sdk/"
 }

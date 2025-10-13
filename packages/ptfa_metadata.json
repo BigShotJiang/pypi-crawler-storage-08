@@ -1,11 +1,11 @@
 {
   "name": "ptfa",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "Probabilistic Targeted Factor Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ptfa-0.4.0.tar.gz",
-  "download_time": "2025-10-12T03:36:16.996930",
+  "download_filename": "ptfa-0.4.3.tar.gz",
+  "download_time": "2025-10-13T14:57:34.975804",
   "package_url": "https://pypi.org/project/ptfa/"
 }
