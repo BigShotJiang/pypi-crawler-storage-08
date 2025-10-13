@@ -1,11 +1,11 @@
 {
   "name": "ldc-dashboard-rbac",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "A flexible Django app for feature-based role-based access control (RBAC)",
   "author": "Nishant Baruah",
   "license": "MIT",
   "home_page": "https://github.com/nishantbaruahldc/ldc-dashboard-rbac",
-  "download_filename": "ldc_dashboard_rbac-1.0.7.tar.gz",
-  "download_time": "2025-10-13T07:24:39.351371",
+  "download_filename": "ldc_dashboard_rbac-1.0.9.tar.gz",
+  "download_time": "2025-10-13T07:41:59.720426",
   "package_url": "https://pypi.org/project/ldc-dashboard-rbac/"
 }
