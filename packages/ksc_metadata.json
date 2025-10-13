@@ -1,0 +1,11 @@
+{
+  "name": "ksc",
+  "version": "1.4",
+  "summary": "A command line tool and python library for documenting and describing keyboard shortcuts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ksc-1.4.tar.gz",
+  "download_time": "2025-10-13T19:18:07.300966",
+  "package_url": "https://pypi.org/project/ksc/"
+}

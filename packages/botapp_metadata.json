@@ -1,0 +1,11 @@
+{
+  "name": "botapp",
+  "version": "0.2.13",
+  "summary": "Pacote Django para gerenciamento de bots e tarefas de RPA",
+  "author": "Ben-Hur P. B. Santos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botapp-0.2.13.tar.gz",
+  "download_time": "2025-10-13T19:17:28.687329",
+  "package_url": "https://pypi.org/project/botapp/"
+}

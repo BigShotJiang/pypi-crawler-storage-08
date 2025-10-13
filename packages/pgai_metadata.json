@@ -1,0 +1,11 @@
+{
+  "name": "pgai",
+  "version": "0.12.1",
+  "summary": "AI workflows in your PostgreSQL database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgai-0.12.1-py3-none-any.whl",
+  "download_time": "2025-10-13T19:17:48.994311",
+  "package_url": "https://pypi.org/project/pgai/"
+}

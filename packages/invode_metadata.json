@@ -1,0 +1,11 @@
+{
+  "name": "invode",
+  "version": "0.1.2",
+  "summary": "Inverse-ODE fitting and sensitivity tools",
+  "author": "Raunak Dey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "invode-0.1.2.tar.gz",
+  "download_time": "2025-10-13T19:17:56.469017",
+  "package_url": "https://pypi.org/project/invode/"
+}

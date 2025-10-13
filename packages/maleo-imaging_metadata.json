@@ -1,11 +1,11 @@
 {
   "name": "maleo-imaging",
-  "version": "0.0.34",
+  "version": "0.0.37",
   "summary": "MaleoImaging service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_imaging-0.0.34.tar.gz",
-  "download_time": "2025-10-13T09:01:09.204162",
+  "download_filename": "maleo_imaging-0.0.37.tar.gz",
+  "download_time": "2025-10-13T19:17:58.223876",
   "package_url": "https://pypi.org/project/maleo-imaging/"
 }

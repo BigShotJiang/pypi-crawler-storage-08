@@ -1,0 +1,11 @@
+{
+  "name": "setup-assistant",
+  "version": "0.1.8",
+  "summary": "A CLI Setup Assistant powered by AI",
+  "author": "Varshik Chebrolu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "setup_assistant-0.1.8.tar.gz",
+  "download_time": "2025-10-13T19:17:50.164614",
+  "package_url": "https://pypi.org/project/setup-assistant/"
+}

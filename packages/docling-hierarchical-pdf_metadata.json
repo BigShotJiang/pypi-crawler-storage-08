@@ -1,0 +1,11 @@
+{
+  "name": "docling-hierarchical-pdf",
+  "version": "0.1.1",
+  "summary": "This package enables inference of header hierarchy in the docling PDF parsing pipeline.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docling_hierarchical_pdf-0.1.1.tar.gz",
+  "download_time": "2025-10-13T19:17:35.360196",
+  "package_url": "https://pypi.org/project/docling-hierarchical-pdf/"
+}

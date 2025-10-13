@@ -1,0 +1,11 @@
+{
+  "name": "weewx",
+  "version": "5.2.0",
+  "summary": "The WeeWX weather software system.",
+  "author": "Tom Keffer",
+  "license": "GPL3",
+  "home_page": "https://weewx.com",
+  "download_filename": "weewx-5.2.0.tar.gz",
+  "download_time": "2025-10-13T19:17:32.286824",
+  "package_url": "https://pypi.org/project/weewx/"
+}

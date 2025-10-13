@@ -1,0 +1,11 @@
+{
+  "name": "ragora",
+  "version": "0.1.0",
+  "summary": "A RAG system for creating knowledge bases from different document formats",
+  "author": "Vahid Lari",
+  "license": null,
+  "home_page": "https://github.com/vahidlari/aiapps",
+  "download_filename": "ragora-0.1.0.tar.gz",
+  "download_time": "2025-10-13T19:18:11.730509",
+  "package_url": "https://pypi.org/project/ragora/"
+}
