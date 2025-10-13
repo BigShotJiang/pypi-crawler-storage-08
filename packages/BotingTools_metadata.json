@@ -1,11 +1,11 @@
 {
   "name": "BotingTools",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "AI-powered automation and video generation toolkit",
   "author": "Dinis Valente",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "botingtools-1.1.4.tar.gz",
-  "download_time": "2025-10-13T04:47:34.804414",
+  "download_filename": "botingtools-1.1.5.tar.gz",
+  "download_time": "2025-10-13T17:41:31.399186",
   "package_url": "https://pypi.org/project/BotingTools/"
 }

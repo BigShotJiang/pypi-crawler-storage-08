@@ -1,11 +1,11 @@
 {
   "name": "taha",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "summary": "📦 Taha Library - Premium Edition with voice, AI, and tools",
   "author": "Taha",
   "license": null,
   "home_page": null,
-  "download_filename": "taha-2.2.6.tar.gz",
-  "download_time": "2025-10-09T19:17:37.396891",
+  "download_filename": "taha-2.2.7.tar.gz",
+  "download_time": "2025-10-13T17:41:30.861143",
   "package_url": "https://pypi.org/project/taha/"
 }

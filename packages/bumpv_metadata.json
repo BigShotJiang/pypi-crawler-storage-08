@@ -1,0 +1,11 @@
+{
+  "name": "bumpv",
+  "version": "0.8.0",
+  "summary": "Version-bump your software with a single command!",
+  "author": "Kylie Auld",
+  "license": "MIT",
+  "home_page": "https://github.com/kylieCat/bumpv",
+  "download_filename": "bumpv-0.8.0.tar.gz",
+  "download_time": "2025-10-13T17:41:36.324334",
+  "package_url": "https://pypi.org/project/bumpv/"
+}

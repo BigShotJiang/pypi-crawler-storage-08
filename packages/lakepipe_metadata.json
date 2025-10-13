@@ -1,0 +1,11 @@
+{
+  "name": "lakepipe",
+  "version": "0.1.0",
+  "summary": "Modern data transfer for cloud data lakes - High-performance pipelines via object storage",
+  "author": "Md. Rakibul Hasan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lakepipe-0.1.0.tar.gz",
+  "download_time": "2025-10-13T17:42:10.173003",
+  "package_url": "https://pypi.org/project/lakepipe/"
+}

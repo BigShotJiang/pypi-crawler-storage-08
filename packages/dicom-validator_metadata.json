@@ -1,0 +1,11 @@
+{
+  "name": "dicom-validator",
+  "version": "0.7.3",
+  "summary": "Python DICOM validator using input from DICOM specs in docbook format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dicom_validator-0.7.3.tar.gz",
+  "download_time": "2025-10-13T17:41:46.043664",
+  "package_url": "https://pypi.org/project/dicom-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "idi-shipstation-sdk",
+  "version": "0.7.0",
+  "summary": "ShipStation API SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idi_shipstation_sdk-0.7.0.tar.gz",
+  "download_time": "2025-10-13T17:41:55.553634",
+  "package_url": "https://pypi.org/project/idi-shipstation-sdk/"
+}

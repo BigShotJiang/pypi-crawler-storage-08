@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-voip-oca",
+  "version": "18.0.1.0.2",
+  "summary": "Provides the use of Voip",
+  "author": "Dixmit, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/connector-telephony",
+  "download_filename": "odoo_addon_voip_oca-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-13T17:41:33.601405",
+  "package_url": "https://pypi.org/project/odoo-addon-voip-oca/"
+}

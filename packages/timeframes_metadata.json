@@ -1,11 +1,11 @@
 {
   "name": "timeframes",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Lightweight validation framework for time series forecasting.",
   "author": "Andrew R. Garcia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timeframes-1.1.0.tar.gz",
-  "download_time": "2025-10-13T06:33:57.518480",
+  "download_filename": "timeframes-1.2.1.tar.gz",
+  "download_time": "2025-10-13T17:42:13.385365",
   "package_url": "https://pypi.org/project/timeframes/"
 }

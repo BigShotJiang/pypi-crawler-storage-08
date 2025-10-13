@@ -1,0 +1,11 @@
+{
+  "name": "devclikit",
+  "version": "0.1.11",
+  "summary": "Framework for building development CLIs with PEP 723 script support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devclikit-0.1.11.tar.gz",
+  "download_time": "2025-10-13T17:41:35.783078",
+  "package_url": "https://pypi.org/project/devclikit/"
+}
