@@ -1,0 +1,11 @@
+{
+  "name": "django-modeltrans",
+  "version": "0.9.0",
+  "summary": "Model translations in a jsonb field",
+  "author": "Jan Pieter Waagmeester",
+  "license": "Simplified BSD",
+  "home_page": "https://github.com/zostera/django-modeltrans/",
+  "download_filename": "django-modeltrans-0.9.0.tar.gz",
+  "download_time": "2025-10-13T14:46:04.389992",
+  "package_url": "https://pypi.org/project/django-modeltrans/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "obi-auth",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python library for retrieving Keycloak access tokens interactively",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "obi_auth-0.4.0.tar.gz",
-  "download_time": "2025-10-13T07:53:26.364711",
+  "download_filename": "obi_auth-0.4.1.tar.gz",
+  "download_time": "2025-10-13T14:46:20.283348",
   "package_url": "https://pypi.org/project/obi-auth/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-outlook-email-backend",
+  "version": "1.1.24",
+  "summary": "Ouauth2 outlook email backend for Django",
+  "author": "Marc Claramunt",
+  "license": "MIT",
+  "home_page": "https://github.com/enley-es/django-outlook-email-backend",
+  "download_filename": "django_outlook_email_backend-1.1.24.tar.gz",
+  "download_time": "2025-10-13T14:45:58.342709",
+  "package_url": "https://pypi.org/project/django-outlook-email-backend/"
+}

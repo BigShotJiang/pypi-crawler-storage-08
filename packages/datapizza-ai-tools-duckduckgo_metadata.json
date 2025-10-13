@@ -1,11 +1,11 @@
 {
   "name": "datapizza-ai-tools-duckduckgo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Azure Document Intelligence parser for the datapizza-ai framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datapizza_ai_tools_duckduckgo-0.0.2.tar.gz",
-  "download_time": "2025-10-10T15:20:45.839948",
+  "download_filename": "datapizza_ai_tools_duckduckgo-0.0.3.tar.gz",
+  "download_time": "2025-10-13T14:46:34.699110",
   "package_url": "https://pypi.org/project/datapizza-ai-tools-duckduckgo/"
 }

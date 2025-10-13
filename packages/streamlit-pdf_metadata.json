@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-pdf",
+  "version": "1.0.8",
+  "summary": "A Streamlit component for viewing PDF files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "streamlit_pdf-1.0.8.tar.gz",
+  "download_time": "2025-10-13T14:46:28.694191",
+  "package_url": "https://pypi.org/project/streamlit-pdf/"
+}

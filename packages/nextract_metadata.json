@@ -1,0 +1,11 @@
+{
+  "name": "nextract",
+  "version": "0.1.1",
+  "summary": "Structured extraction framework over Pydantic AI Agent with JSON Schema & Pydantic model outputs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nextract-0.1.1.tar.gz",
+  "download_time": "2025-10-13T14:46:04.917935",
+  "package_url": "https://pypi.org/project/nextract/"
+}

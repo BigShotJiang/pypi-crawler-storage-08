@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-repair-timesheet",
+  "version": "18.0.1.0.0.2",
+  "summary": "Repair Timesheet",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/repair",
+  "download_filename": "odoo_addon_repair_timesheet-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-13T14:46:17.523601",
+  "package_url": "https://pypi.org/project/odoo-addon-repair-timesheet/"
+}

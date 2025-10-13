@@ -1,0 +1,11 @@
+{
+  "name": "felyx",
+  "version": "0.12.16",
+  "summary": "Video coder for psychological experiments",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "felyx-0.12.16.tar.gz",
+  "download_time": "2025-10-13T14:46:28.148728",
+  "package_url": "https://pypi.org/project/felyx/"
+}
