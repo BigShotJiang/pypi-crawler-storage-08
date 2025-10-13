@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T19:29:33.566024
-- **Total Packages**: 85
-- **Total Size**: 25.68 MB
+- **Download Time**: 2025-10-13T19:41:49.324809
+- **Total Packages**: 81
+- **Total Size**: 8.59 MB
 
 ## Packages List
+- fificore
+- gptbioinsightor
+- pyGSK
+- thecodecrate-pipeline
+- cuequivariance-ops-torch-cu12
+- cuequivariance-ops-jax-cu12
+- django-bulk-triggers
+- pytimetk
+- bountylab
+- authentik-client
+- galileo
+- Rextgram
+- cdvl-crawler
+- embed-client
+- 10xscale-agentflow-cli
+- FlaskAPIServer
+- api-tester-mcp
+- Geode-Conversion
+- goodmap
+- pydantic_core
+- neural-sdk
+- argparse-interface
+- cici-tools
+- pymlt
 - bedrock-agentcore-starter-toolkit
 - gammarers.aws-waf-ip-rate-limit-rule
 - computemate
@@ -33,16 +57,12 @@
 - gammarers.aws-waf-ip-restrict-rule
 - nsj-integracao-api-entidades
 - tricc-oo
-- embed-client
-- argparse_interface
 - nextpy-cli
 - zz-tools
 - data-weaver-cli
 - textract-pycon-app
 - github2gerrit
 - cisco-ai-mcp-scanner
-- authentik-client
-- pymlt
 - ppt-json-embedding-model
 - rolfedh-doc-utils
 - ogc-sta-schema-validator
@@ -54,7 +74,6 @@
 - awscli
 - robotframework-browser
 - bioql
-- django-bulk-triggers
 - gnosis-dispatch
 - ipfabric_netbox
 - mkdocstrings-github
@@ -67,27 +86,4 @@
 - classic-db-tools
 - botapp
 - pylizlib
-- FlaskAPIServer
 - futurehouse-client
-- codemie-sdk-python
-- awesome-cheap-flights
-- api-dock
-- weewx
-- Data-Generation-Agents
-- pulumi-pulumiservice
-- make-mlops-easy
-- rclogvis
-- docling-hierarchical-pdf
-- delta-rest-api-india
-- vit-pytorch
-- vibe-ukis
-- mcp-security-framework
-- pwconn
-- pyrobosim
-- statsig-python-core
-- zipher-sdk
-- dp-chem
-- colander-data-converter
-- chart-studio-figlinq
-- wandelbots-api-client
-- bbot

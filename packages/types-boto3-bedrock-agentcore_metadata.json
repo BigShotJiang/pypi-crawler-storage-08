@@ -5,7 +5,7 @@
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_boto3_bedrock_agentcore-1.40.51-py3-none-any.whl",
-  "download_time": "2025-10-13T19:28:58.629938",
+  "download_filename": "types_boto3_bedrock_agentcore-1.40.51.tar.gz",
+  "download_time": "2025-10-13T19:41:29.400053",
   "package_url": "https://pypi.org/project/types-boto3-bedrock-agentcore/"
 }

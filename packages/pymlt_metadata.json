@@ -1,11 +1,11 @@
 {
   "name": "pymlt",
-  "version": "1.2.100",
+  "version": "1.2.95",
   "summary": "Python Machine Learning Toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymlt-1.2.100.tar.gz",
-  "download_time": "2025-10-13T19:29:06.151552",
+  "download_filename": "pymlt-1.2.95.tar.gz",
+  "download_time": "2025-10-13T19:41:17.214436",
   "package_url": "https://pypi.org/project/pymlt/"
 }

@@ -5,7 +5,7 @@
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "mypy_boto3_bedrock_agentcore_control-1.40.51-py3-none-any.whl",
-  "download_time": "2025-10-13T19:28:57.561266",
+  "download_filename": "mypy_boto3_bedrock_agentcore_control-1.40.51.tar.gz",
+  "download_time": "2025-10-13T19:41:28.343969",
   "package_url": "https://pypi.org/project/mypy-boto3-bedrock-agentcore-control/"
 }
