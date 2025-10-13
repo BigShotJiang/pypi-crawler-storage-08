@@ -1,14 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T23:20:00.471244
+- **Download Time**: 2025-10-13T23:41:44.163040
 - **Total Packages**: 86
-- **Total Size**: 17.34 MB
+- **Total Size**: 3.83 MB
 
 ## Packages List
+- GameSentenceMiner
+- dooservice-cli
+- s2t
 - dsf-aml-sdk
 - earthengine-api
-- s2t
 - prompd
 - forgebase
 - computemate
@@ -90,5 +92,3 @@
 - bfcl-eval
 - django-peeringdb
 - doordeck-headless-sdk
-- pico2d
-- svc-infra

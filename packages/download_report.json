@@ -1,11 +1,13 @@
 {
-  "download_time": "2025-10-13T23:20:00.471244",
+  "download_time": "2025-10-13T23:41:44.163040",
   "total_packages_downloaded": 86,
-  "total_size_mb": 17.34,
+  "total_size_mb": 3.83,
   "packages": [
+    "GameSentenceMiner",
+    "dooservice-cli",
+    "s2t",
     "dsf-aml-sdk",
     "earthengine-api",
-    "s2t",
     "prompd",
     "forgebase",
     "computemate",
@@ -86,8 +88,6 @@
     "niklibrary",
     "bfcl-eval",
     "django-peeringdb",
-    "doordeck-headless-sdk",
-    "pico2d",
-    "svc-infra"
+    "doordeck-headless-sdk"
   ]
 }
