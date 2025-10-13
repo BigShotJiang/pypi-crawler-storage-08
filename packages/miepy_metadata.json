@@ -1,11 +1,11 @@
 {
   "name": "miepy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Solve Maxwell's equations for a cluster of particles using the generalized multiparticle Mie theory (GMMT)",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "miepy-1.0.0.tar.gz",
-  "download_time": "2025-10-13T05:44:01.435873",
+  "download_filename": "miepy-1.0.1.tar.gz",
+  "download_time": "2025-10-13T23:53:53.168321",
   "package_url": "https://pypi.org/project/miepy/"
 }

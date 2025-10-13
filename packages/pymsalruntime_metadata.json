@@ -1,0 +1,11 @@
+{
+  "name": "pymsalruntime",
+  "version": "0.20.0",
+  "summary": "The MSALRuntime Python Interop Package",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymsalruntime-0.20.0-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-13T23:54:02.028037",
+  "package_url": "https://pypi.org/project/pymsalruntime/"
+}

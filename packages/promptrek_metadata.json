@@ -1,11 +1,11 @@
 {
   "name": "promptrek",
-  "version": "0.0.7",
+  "version": "0.1.1",
   "summary": "Universal AI Editor prompt storage solution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptrek-0.0.7.tar.gz",
-  "download_time": "2025-10-08T23:17:47.362806",
+  "download_filename": "promptrek-0.1.1.tar.gz",
+  "download_time": "2025-10-13T23:53:43.834232",
   "package_url": "https://pypi.org/project/promptrek/"
 }

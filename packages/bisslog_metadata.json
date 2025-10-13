@@ -1,0 +1,11 @@
+{
+  "name": "bisslog",
+  "version": "0.0.9",
+  "summary": "Business logic core (bisslog-core) - A lightweight and dependency-free implementation of Hexagonal Architecture (Ports and Adapters) in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bisslog-0.0.9.tar.gz",
+  "download_time": "2025-10-13T23:54:14.621465",
+  "package_url": "https://pypi.org/project/bisslog/"
+}

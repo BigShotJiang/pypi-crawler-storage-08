@@ -1,11 +1,11 @@
 {
   "name": "apbuilder",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "summary": "Atmospheric Profile Builder (APBuilder)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apbuilder-0.0.1.tar.gz",
-  "download_time": "2025-10-13T16:48:12.957928",
+  "download_filename": "apbuilder-1.0.0.tar.gz",
+  "download_time": "2025-10-13T23:53:47.720704",
   "package_url": "https://pypi.org/project/apbuilder/"
 }

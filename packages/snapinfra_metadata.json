@@ -1,11 +1,11 @@
 {
   "name": "snapinfra",
-  "version": "1.0.1",
-  "summary": "Snap Infrastructure - AI-Powered Infrastructure Code Generator",
+  "version": "1.0.3",
+  "summary": "Revolutionary AI-powered CLI that generates production-ready infrastructure code, architectural diagrams, and comprehensive documentation from natural language descriptions. Supports Terraform, Kubernetes, Docker, CloudFormation, and more with multi-provider AI backends including OpenAI, Groq, AWS Bedrock, and Ollama.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snapinfra-1.0.1.tar.gz",
-  "download_time": "2025-10-13T03:03:32.298904",
+  "download_filename": "snapinfra-1.0.3.tar.gz",
+  "download_time": "2025-10-13T23:53:46.042885",
   "package_url": "https://pypi.org/project/snapinfra/"
 }

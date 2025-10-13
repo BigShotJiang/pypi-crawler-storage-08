@@ -1,0 +1,11 @@
+{
+  "name": "osc-transformers",
+  "version": "0.3.0",
+  "summary": "以配置文件的方式构建transformer模型",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osc_transformers-0.3.0.tar.gz",
+  "download_time": "2025-10-13T23:53:46.566887",
+  "package_url": "https://pypi.org/project/osc-transformers/"
+}

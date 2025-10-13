@@ -1,0 +1,11 @@
+{
+  "name": "k8s-kitchen",
+  "version": "0.2.0",
+  "summary": "Your Kubernetes cookbook for cluster management",
+  "author": "User",
+  "license": null,
+  "home_page": null,
+  "download_filename": "k8s_kitchen-0.2.0.tar.gz",
+  "download_time": "2025-10-13T23:54:00.448552",
+  "package_url": "https://pypi.org/project/k8s-kitchen/"
+}
