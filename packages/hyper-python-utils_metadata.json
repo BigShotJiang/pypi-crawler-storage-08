@@ -1,11 +1,11 @@
 {
   "name": "hyper-python-utils",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "AWS S3 and Athena utilities for data processing with Polars",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyper_python_utils-0.3.0.tar.gz",
-  "download_time": "2025-10-13T06:58:05.594100",
+  "download_filename": "hyper_python_utils-0.3.3.tar.gz",
+  "download_time": "2025-10-13T07:24:20.466365",
   "package_url": "https://pypi.org/project/hyper-python-utils/"
 }
