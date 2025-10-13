@@ -1,11 +1,11 @@
 {
   "name": "pymllm",
-  "version": "2.0.1",
+  "version": "2.0.2b0",
   "summary": "Fast and lightweight multimodal LLM inference engine for mobile and edge devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymllm-2.0.1-py3-none-macosx_15_0_arm64.whl",
-  "download_time": "2025-10-13T04:25:46.627827",
+  "download_filename": "pymllm-2.0.2b0-py3-none-macosx_15_0_arm64.whl",
+  "download_time": "2025-10-13T05:23:36.650850",
   "package_url": "https://pypi.org/project/pymllm/"
 }

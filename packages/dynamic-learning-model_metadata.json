@@ -1,11 +1,11 @@
 {
   "name": "dynamic-learning-model",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "summary": "A Dynamic Learning Model for processing NLP queries using hybrid AI and reasoning.",
   "author": "Vignesh Thondikulam",
   "license": "MIT",
   "home_page": "https://github.com/VigneshT24/Dynamic_Learning_Model",
-  "download_filename": "dynamic_learning_model-3.3.5.tar.gz",
-  "download_time": "2025-10-13T04:56:31.183851",
+  "download_filename": "dynamic_learning_model-3.3.6.tar.gz",
+  "download_time": "2025-10-13T05:23:18.694462",
   "package_url": "https://pypi.org/project/dynamic-learning-model/"
 }

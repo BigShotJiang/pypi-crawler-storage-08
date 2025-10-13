@@ -1,13 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T04:57:07.517409
-- **Total Packages**: 69
-- **Total Size**: 7.05 MB
+- **Download Time**: 2025-10-13T05:23:50.503875
+- **Total Packages**: 72
+- **Total Size**: 13.02 MB
 
 ## Packages List
-- dynamic-learning-model
+- dlt-iceberg
+- rayml
+- SURE-tools
+- unitysvc-services
+- byzh-ai
+- moto-ext
+- compair-core
+- ldc-dashboard-rbac
+- conmap
+- boulder-opal
+- regula-facesdk-webclient
+- telepact-cli
+- fnschool
 - airobo
+- telepact
+- ara-cli
+- dynamic-learning-model
 - find-unicode-executable
 - urbanity
 - inset
@@ -33,7 +48,6 @@
 - fileformats-vendor-mrtrix3-extras
 - fileformats-vendor-mrtrix3
 - dserver-direct-mongo-plugin
-- rayml
 - browserstack-sdk
 - echosms
 - sdp-tools
@@ -64,14 +78,3 @@
 - hvala
 - mkdocs-note
 - gffutilsai
-- grain-nightly
-- easy-ai18n
-- compair-core
-- usdm4-pj
-- django-cfg
-- pylogue
-- geo-activity-playground
-- alethic-ism-db
-- icost-app-mcp-server
-- reinforcenow
-- fileformats-vendor-fsl-extras
