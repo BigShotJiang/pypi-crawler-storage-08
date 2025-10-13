@@ -1,11 +1,11 @@
 {
   "name": "delta-rest-api-india",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "DELTA ALOG ",
   "author": "Shashank Joshi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "delta_rest_api_india-1.0.0.tar.gz",
-  "download_time": "2025-10-13T09:45:53.342756",
+  "download_filename": "delta_rest_api_india-1.0.3.tar.gz",
+  "download_time": "2025-10-13T10:47:13.605152",
   "package_url": "https://pypi.org/project/delta-rest-api-india/"
 }

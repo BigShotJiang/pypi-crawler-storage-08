@@ -1,0 +1,11 @@
+{
+  "name": "argoflow",
+  "version": "0.1.0",
+  "summary": "A Python library for building Argo Workflows programmatically",
+  "author": "D Ajay Kumar",
+  "license": null,
+  "home_page": "https://github.com/D-Ajay-Kumar/argowf-python",
+  "download_filename": "argoflow-0.1.0.tar.gz",
+  "download_time": "2025-10-13T10:47:37.852638",
+  "package_url": "https://pypi.org/project/argoflow/"
+}
