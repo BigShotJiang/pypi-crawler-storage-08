@@ -1,0 +1,11 @@
+{
+  "name": "bln",
+  "version": "2.3.12",
+  "summary": "Python client for the biglocalnews.org API",
+  "author": "Big Local News",
+  "license": "Apache",
+  "home_page": "https://github.com/biglocalnews/sdk/py",
+  "download_filename": "bln-2.3.12.tar.gz",
+  "download_time": "2025-10-13T20:54:29.679952",
+  "package_url": "https://pypi.org/project/bln/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slack-github-triager-core",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Core library for Slack-GitHub triaging functionality",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slack_github_triager_core-0.2.0.tar.gz",
-  "download_time": "2025-10-12T03:35:45.741074",
+  "download_filename": "slack_github_triager_core-0.3.0.tar.gz",
+  "download_time": "2025-10-13T20:54:11.560127",
   "package_url": "https://pypi.org/project/slack-github-triager-core/"
 }

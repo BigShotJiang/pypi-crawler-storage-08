@@ -1,11 +1,11 @@
 {
   "name": "slippers-proxy",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": null,
   "author": "Ryan Siemens",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slippers_proxy-0.1.1.tar.gz",
-  "download_time": "2025-10-13T05:44:24.864581",
+  "download_filename": "slippers_proxy-0.2.0.tar.gz",
+  "download_time": "2025-10-13T20:54:28.504827",
   "package_url": "https://pypi.org/project/slippers-proxy/"
 }

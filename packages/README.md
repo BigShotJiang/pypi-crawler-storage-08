@@ -1,12 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-13T20:43:22.811854
+- **Download Time**: 2025-10-13T20:55:02.016851
 - **Total Packages**: 91
-- **Total Size**: 25.08 MB
+- **Total Size**: 12.04 MB
 
 ## Packages List
+- embed-client
+- smooai-logger
+- ivybloom
+- lakeshore
+- slack-github-triager-core
+- fastpubsub
+- authentik-client
+- awslabs.billing-cost-management-mcp-server
+- mypy-gh-action-report
+- awslabs.bedrock-kb-retrieval-mcp-server
+- qrotor
+- comfy-commander
+- checkdmarc
+- awslabs.aws-msk-mcp-server
+- awslabs.aws-dataprocessing-mcp-server
+- awslabs.aws-pricing-mcp-server
+- awslabs.aws-healthomics-mcp-server
+- awslabs.aws-documentation-mcp-server
+- awslabs.aws-location-mcp-server
+- awslabs.aws-diagram-mcp-server
+- awslabs.aws-iot-sitewise-mcp-server
+- hyperchoron
+- indy-hub
+- lspinstaller
 - controllable-py
+- videotrim
+- docassemble.ALToolbox
+- awslabs.aws-bedrock-data-automation-mcp-server
+- awslabs.aws-bedrock-custom-model-import-mcp-server
+- sqlalchemy-declarative-extensions
+- worktreeflow
+- llama-index-instrumentation
+- slippers-proxy
+- securevibes
+- bln
+- kywy
+- modal
+- acryl-datahub
+- acryl-datahub-dagster-plugin
+- acryl-datahub-actions
+- hvala
+- caveclient
+- mcp-commons
+- bitbox
 - prefect-datahub
 - acryl-datahub-gx-plugin
 - acryl-datahub-airflow-plugin
@@ -37,7 +80,6 @@
 - sg-games
 - freyja
 - droidrun
-- authentik-client
 - masai-framework
 - raster-drone
 - DedupeCopy
@@ -55,45 +97,3 @@
 - FAIRLinked
 - codeset
 - localstack-core
-- pulumi-cloudflare
-- clifpy
-- libinspector
-- keycloak-django
-- filefilter
-- elecnova-client
-- worktreeflow
-- usdm4
-- axiomtradeapi
-- nominal-api-protos
-- api-tester-mcp
-- nominal-api
-- llama-index-storage-chat-store-dynamodb
-- llama-index-llms-bedrock-converse
-- tdcsophiread
-- botocore-stubs
-- django-directory-cms
-- registro
-- bountylab
-- nbgradio
-- audiobook-reader
-- kui
-- lamindb
-- feldera
-- simple-json-mapped-dict
-- pytest-infrahouse
-- stjames
-- ethyca-fides
-- django-nativemojo
-- trialblazer
-- abstract-utilities
-- assonant
-- sibi-dst
-- hyperchoron
-- rwskit
-- llm-ollama
-- liminal-orm
-- stackql-deploy
-- jst-django
-- cuequivariance-ops-torch-cu13
-- cuequivariance-ops-jax-cu13
-- t-sql
