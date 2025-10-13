@@ -1,0 +1,11 @@
+{
+  "name": "cw-rpa",
+  "version": "1.2.2",
+  "summary": "The cw-rpa package provides reusable functions/common utilities for developing CW RPA bots.",
+  "author": "ConnectWise",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cw_rpa-1.2.2-py3-none-any.whl",
+  "download_time": "2025-10-13T09:25:57.281790",
+  "package_url": "https://pypi.org/project/cw-rpa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "contentful-webhook-receiver",
+  "version": "0.8.2",
+  "summary": "A Django package to receive Webhooks from Contentful as signals",
+  "author": "MarcoGlauser",
+  "license": "MIT",
+  "home_page": "https://github.com/MarcoGlauser/contentful-webhook-receiver",
+  "download_filename": "contentful_webhook_receiver-0.8.2.tar.gz",
+  "download_time": "2025-10-13T09:25:56.032538",
+  "package_url": "https://pypi.org/project/contentful-webhook-receiver/"
+}
