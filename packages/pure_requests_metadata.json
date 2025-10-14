@@ -1,0 +1,11 @@
+{
+  "name": "pure_requests",
+  "version": "3.0.0",
+  "summary": "Wrapper over requests library for functional programming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pure_requests-3.0.0.tar.gz",
+  "download_time": "2025-10-14T21:20:10.429758",
+  "package_url": "https://pypi.org/project/pure_requests/"
+}

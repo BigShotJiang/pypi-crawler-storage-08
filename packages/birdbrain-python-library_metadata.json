@@ -1,0 +1,11 @@
+{
+  "name": "birdbrain-python-library",
+  "version": "0.0.12",
+  "summary": "Python Library for Birdbrain Technologies Hummingbird Bit and Finch 2",
+  "author": "Frank Morton",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/fmorton/BirdBrain-Python-Library",
+  "download_filename": "birdbrain_python_library-0.0.12.tar.gz",
+  "download_time": "2025-10-14T21:20:07.736694",
+  "package_url": "https://pypi.org/project/birdbrain-python-library/"
+}

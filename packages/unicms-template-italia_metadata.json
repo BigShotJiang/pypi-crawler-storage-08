@@ -1,0 +1,11 @@
+{
+  "name": "unicms-template-italia",
+  "version": "1.4.0",
+  "summary": "uniCMS Template based on Bootstrap Italia design",
+  "author": "Giuseppe De Marco, Francesco Filicetti",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/UniversitaDellaCalabria/unicms-template-italia",
+  "download_filename": "unicms_template_italia-1.4.0.tar.gz",
+  "download_time": "2025-10-14T21:20:39.037135",
+  "package_url": "https://pypi.org/project/unicms-template-italia/"
+}

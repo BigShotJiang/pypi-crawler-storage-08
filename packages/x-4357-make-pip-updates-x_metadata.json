@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-pip-updates-x",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "summary": "Makes pip package updates.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_pip_updates_x-0.20.1.tar.gz",
-  "download_time": "2025-10-14T05:42:32.836818",
+  "download_filename": "x_4357_make_pip_updates_x-0.20.2.tar.gz",
+  "download_time": "2025-10-14T21:20:29.422421",
   "package_url": "https://pypi.org/project/x-4357-make-pip-updates-x/"
 }

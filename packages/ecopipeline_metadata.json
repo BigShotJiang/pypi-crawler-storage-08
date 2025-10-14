@@ -1,11 +1,11 @@
 {
   "name": "ecopipeline",
-  "version": "0.11.9",
+  "version": "1.0.0",
   "summary": "Contains functions for use in Ecotope Datapipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecopipeline-0.11.9.tar.gz",
-  "download_time": "2025-10-14T19:18:20.779001",
+  "download_filename": "ecopipeline-1.0.0.tar.gz",
+  "download_time": "2025-10-14T21:20:21.182024",
   "package_url": "https://pypi.org/project/ecopipeline/"
 }

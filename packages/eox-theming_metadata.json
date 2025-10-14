@@ -1,0 +1,11 @@
+{
+  "name": "eox-theming",
+  "version": "9.3.0",
+  "summary": "Open edX Theming Plugin",
+  "author": "eduNEXT",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "eox_theming-9.3.0.tar.gz",
+  "download_time": "2025-10-14T21:20:15.247345",
+  "package_url": "https://pypi.org/project/eox-theming/"
+}

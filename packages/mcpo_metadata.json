@@ -1,11 +1,11 @@
 {
   "name": "mcpo",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A simple, secure MCP-to-OpenAPI proxy server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpo-0.0.18.tar.gz",
-  "download_time": "2025-10-14T20:44:03.036566",
+  "download_filename": "mcpo-0.0.19.tar.gz",
+  "download_time": "2025-10-14T21:20:03.478396",
   "package_url": "https://pypi.org/project/mcpo/"
 }

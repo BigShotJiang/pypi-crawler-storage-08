@@ -1,11 +1,11 @@
 {
   "name": "os-fastapi-middleware",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Adaptable security middlewares for FastAPI: API keys, rate limiting, IP whitelist",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "os-fastapi-middleware-1.1.0.tar.gz",
-  "download_time": "2025-10-13T12:43:17.582241",
+  "download_filename": "os-fastapi-middleware-1.1.1.tar.gz",
+  "download_time": "2025-10-14T21:20:21.694692",
   "package_url": "https://pypi.org/project/os-fastapi-middleware/"
 }
