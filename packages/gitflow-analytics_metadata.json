@@ -1,11 +1,11 @@
 {
   "name": "gitflow-analytics",
-  "version": "3.9.2",
+  "version": "3.10.4",
   "summary": "Analyze Git repositories for developer productivity insights",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitflow_analytics-3.9.2.tar.gz",
-  "download_time": "2025-10-13T22:20:22.206347",
+  "download_filename": "gitflow_analytics-3.10.4.tar.gz",
+  "download_time": "2025-10-14T18:32:33.711348",
   "package_url": "https://pypi.org/project/gitflow-analytics/"
 }

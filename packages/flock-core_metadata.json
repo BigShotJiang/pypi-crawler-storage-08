@@ -1,11 +1,11 @@
 {
   "name": "flock-core",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "Flock: A declrative framework for building and orchestrating AI agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flock_core-0.5.5.tar.gz",
-  "download_time": "2025-10-14T11:54:28.273648",
+  "download_filename": "flock_core-0.5.6.tar.gz",
+  "download_time": "2025-10-14T18:32:20.372951",
   "package_url": "https://pypi.org/project/flock-core/"
 }

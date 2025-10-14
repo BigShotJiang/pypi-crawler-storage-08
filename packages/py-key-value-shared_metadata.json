@@ -1,11 +1,11 @@
 {
   "name": "py-key-value-shared",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Shared Key-Value",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_key_value_shared-0.2.1.tar.gz",
-  "download_time": "2025-10-09T03:33:12.545101",
+  "download_filename": "py_key_value_shared-0.2.2.tar.gz",
+  "download_time": "2025-10-14T18:32:08.918763",
   "package_url": "https://pypi.org/project/py-key-value-shared/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "catalog-agent",
+  "version": "0.1.2",
+  "summary": "AI-powered catalog agent for product discovery and recommendations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catalog_agent-0.1.2.tar.gz",
+  "download_time": "2025-10-14T18:32:14.707946",
+  "package_url": "https://pypi.org/project/catalog-agent/"
+}

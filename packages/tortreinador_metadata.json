@@ -1,0 +1,11 @@
+{
+  "name": "tortreinador",
+  "version": "0.2.1",
+  "summary": "A trainer based on Pytorch",
+  "author": "Xavier",
+  "license": null,
+  "home_page": "https://github.com/ArdenteX/tortreinador",
+  "download_filename": "tortreinador-0.2.1.tar.gz",
+  "download_time": "2025-10-14T18:32:37.137181",
+  "package_url": "https://pypi.org/project/tortreinador/"
+}

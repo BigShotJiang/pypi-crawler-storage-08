@@ -1,11 +1,11 @@
 {
   "name": "toy-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Easily configurable test API servers and dummy Database generation for development and testing",
   "author": null,
   "license": "BSd 3-clause",
   "home_page": null,
-  "download_filename": "toy_api-0.0.2.tar.gz",
-  "download_time": "2025-10-14T17:54:28.031640",
+  "download_filename": "toy_api-0.0.3.tar.gz",
+  "download_time": "2025-10-14T18:32:14.072362",
   "package_url": "https://pypi.org/project/toy-api/"
 }
