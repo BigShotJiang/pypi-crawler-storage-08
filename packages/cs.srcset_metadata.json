@@ -1,0 +1,11 @@
+{
+  "name": "cs.srcset",
+  "version": "1.1",
+  "summary": "An add-on for Plone",
+  "author": "Mikel Larreategi",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/codesyntax/cs.srcset",
+  "download_filename": "cs_srcset-1.1.tar.gz",
+  "download_time": "2025-10-14T09:44:44.319868",
+  "package_url": "https://pypi.org/project/cs.srcset/"
+}

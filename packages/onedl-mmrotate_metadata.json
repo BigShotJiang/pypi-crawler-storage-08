@@ -1,0 +1,11 @@
+{
+  "name": "onedl-mmrotate",
+  "version": "1.1.0",
+  "summary": "Rotation Detection Toolbox and Benchmark",
+  "author": "OneDL MMRotate Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "onedl_mmrotate-1.1.0.tar.gz",
+  "download_time": "2025-10-14T09:44:57.829452",
+  "package_url": "https://pypi.org/project/onedl-mmrotate/"
+}

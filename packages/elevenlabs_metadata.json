@@ -1,11 +1,11 @@
 {
   "name": "elevenlabs",
-  "version": "2.17.0",
+  "version": "2.18.0",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elevenlabs-2.17.0.tar.gz",
-  "download_time": "2025-10-09T09:21:28.751418",
+  "download_filename": "elevenlabs-2.18.0.tar.gz",
+  "download_time": "2025-10-14T09:45:06.592687",
   "package_url": "https://pypi.org/project/elevenlabs/"
 }

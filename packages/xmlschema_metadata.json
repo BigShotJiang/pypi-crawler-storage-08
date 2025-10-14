@@ -1,0 +1,11 @@
+{
+  "name": "xmlschema",
+  "version": "4.2.0",
+  "summary": "An XML Schema validator and decoder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmlschema-4.2.0.tar.gz",
+  "download_time": "2025-10-14T09:45:14.796840",
+  "package_url": "https://pypi.org/project/xmlschema/"
+}

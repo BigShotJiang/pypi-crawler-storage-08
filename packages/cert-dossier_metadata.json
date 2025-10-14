@@ -1,0 +1,11 @@
+{
+  "name": "cert-dossier",
+  "version": "1.0.0.post1",
+  "summary": "Generator for certificate reports conformant with CCADB IR Guidelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cert_dossier-1.0.0.post1.tar.gz",
+  "download_time": "2025-10-14T09:44:42.265528",
+  "package_url": "https://pypi.org/project/cert-dossier/"
+}

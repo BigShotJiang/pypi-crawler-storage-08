@@ -1,11 +1,11 @@
 {
   "name": "creative-catalyst-client",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "A client for the Creative Catalyst Engine API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "creative_catalyst_client-1.1.7.tar.gz",
-  "download_time": "2025-10-13T06:33:48.764994",
+  "download_filename": "creative_catalyst_client-1.1.8.tar.gz",
+  "download_time": "2025-10-14T09:44:43.295835",
   "package_url": "https://pypi.org/project/creative-catalyst-client/"
 }

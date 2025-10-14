@@ -1,11 +1,11 @@
 {
   "name": "junshan-kit",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "summary": "This is an optimization tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "junshan_kit-2.2.8-py2.py3-none-any.whl",
-  "download_time": "2025-10-14T09:24:46.348252",
+  "download_filename": "junshan_kit-2.2.9-py2.py3-none-any.whl",
+  "download_time": "2025-10-14T09:44:37.113228",
   "package_url": "https://pypi.org/project/junshan-kit/"
 }

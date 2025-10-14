@@ -1,11 +1,11 @@
 {
   "name": "nlannuzel.sgrain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Tells if, and how hard, it's raining at any location in Singapore",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nlannuzel_sgrain-1.0.0.tar.gz",
-  "download_time": "2025-10-14T07:22:28.211750",
+  "download_filename": "nlannuzel_sgrain-1.0.1.tar.gz",
+  "download_time": "2025-10-14T09:45:20.953892",
   "package_url": "https://pypi.org/project/nlannuzel.sgrain/"
 }

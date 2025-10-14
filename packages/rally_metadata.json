@@ -1,0 +1,11 @@
+{
+  "name": "rally",
+  "version": "5.0.1",
+  "summary": "Generic Testing Framework & Tool that unifies all types of testing",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "rally-5.0.1.tar.gz",
+  "download_time": "2025-10-14T09:44:54.225637",
+  "package_url": "https://pypi.org/project/rally/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reemote",
+  "version": "0.0.18",
+  "summary": "A Python package for reemote functionality",
+  "author": "Kim Jarvis",
+  "license": "MIT",
+  "home_page": "http://reemote.org/",
+  "download_filename": "reemote-0.0.18.tar.gz",
+  "download_time": "2025-10-14T09:44:49.526088",
+  "package_url": "https://pypi.org/project/reemote/"
+}

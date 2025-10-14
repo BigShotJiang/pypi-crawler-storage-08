@@ -1,11 +1,11 @@
 {
   "name": "jibit",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "python tool for jbit.ir apis",
   "author": "s7eed",
   "license": "MIT",
   "home_page": "https://github.com/s7eed/jibit",
-  "download_filename": "jibit-1.2.3.tar.gz",
-  "download_time": "2025-10-14T09:24:45.742256",
+  "download_filename": "jibit-1.2.4.tar.gz",
+  "download_time": "2025-10-14T09:45:02.482379",
   "package_url": "https://pypi.org/project/jibit/"
 }

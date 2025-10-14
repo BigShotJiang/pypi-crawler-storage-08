@@ -1,11 +1,11 @@
 {
   "name": "kmerexplor",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "KmerExploR provides information on RNA-sequencing datasets.",
   "author": "Benoit Guibert",
   "license": "GPLv3",
   "home_page": "https://github.com/Transipedia/KmerExploR",
-  "download_filename": "kmerexplor-1.1.4.tar.gz",
-  "download_time": "2025-10-13T12:42:52.105144",
+  "download_filename": "kmerexplor-1.1.5.tar.gz",
+  "download_time": "2025-10-14T09:44:45.923222",
   "package_url": "https://pypi.org/project/kmerexplor/"
 }
