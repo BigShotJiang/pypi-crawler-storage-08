@@ -1,0 +1,11 @@
+{
+  "name": "retrotv-log",
+  "version": "0.0.6a0",
+  "summary": "로깅을 위한 패키지",
+  "author": "RetroTV",
+  "license": null,
+  "home_page": "https://github.com/retrotv-pypi-repo/log",
+  "download_filename": "retrotv_log-0.0.6a0.tar.gz",
+  "download_time": "2025-10-14T08:54:57.556261",
+  "package_url": "https://pypi.org/project/retrotv-log/"
+}

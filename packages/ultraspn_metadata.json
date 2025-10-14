@@ -1,11 +1,11 @@
 {
   "name": "ultraspn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "UltraSPN: An open-source toolbox for automated analysis of compression test images using computer vision",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ultraspn-0.0.2.tar.gz",
-  "download_time": "2025-10-11T21:17:01.905171",
+  "download_filename": "ultraspn-0.0.3.tar.gz",
+  "download_time": "2025-10-14T08:55:22.282075",
   "package_url": "https://pypi.org/project/ultraspn/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Docker-Services-CLI",
+  "version": "0.12.1",
+  "summary": "Python module to ease the creation and management of external services.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/docker-services-cli",
+  "download_filename": "Docker-Services-CLI-0.12.1.tar.gz",
+  "download_time": "2025-10-14T08:55:07.962647",
+  "package_url": "https://pypi.org/project/Docker-Services-CLI/"
+}

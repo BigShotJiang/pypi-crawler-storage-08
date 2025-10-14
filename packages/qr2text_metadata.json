@@ -1,0 +1,11 @@
+{
+  "name": "qr2text",
+  "version": "1.1.2",
+  "summary": "Convert PyQRCode generated SVG to ASCII art",
+  "author": "Marius Gedminas",
+  "license": "GPL",
+  "home_page": "https://github.com/mgedmin/qr2text",
+  "download_filename": "qr2text-1.1.2.tar.gz",
+  "download_time": "2025-10-14T08:55:30.358126",
+  "package_url": "https://pypi.org/project/qr2text/"
+}

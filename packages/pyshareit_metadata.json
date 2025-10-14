@@ -1,11 +1,11 @@
 {
   "name": "pyshareit",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A fast, peer-to-peer file sharing tool with a simple terminal interface.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyshareit-1.5.0.tar.gz",
-  "download_time": "2025-10-14T08:29:33.006156",
+  "download_filename": "pyshareit-1.6.0.tar.gz",
+  "download_time": "2025-10-14T08:55:19.846357",
   "package_url": "https://pypi.org/project/pyshareit/"
 }

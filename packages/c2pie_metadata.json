@@ -1,0 +1,11 @@
+{
+  "name": "c2pie",
+  "version": "0.1.0a2",
+  "summary": "The c2pie is a Python library that provides C2PA standard functionality.",
+  "author": "Tourmaline Core",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c2pie-0.1.0a2.tar.gz",
+  "download_time": "2025-10-14T08:55:19.324980",
+  "package_url": "https://pypi.org/project/c2pie/"
+}
