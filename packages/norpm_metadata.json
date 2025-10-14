@@ -1,0 +1,11 @@
+{
+  "name": "norpm",
+  "version": "1.6",
+  "summary": "RPM Macro Expansion in Python",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "norpm-1.6.tar.gz",
+  "download_time": "2025-10-14T10:57:36.032547",
+  "package_url": "https://pypi.org/project/norpm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-dcat",
+  "version": "2.4.2",
+  "summary": "Plugins for exposing and consuming DCAT metadata on CKAN",
+  "author": null,
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "ckanext_dcat-2.4.2.tar.gz",
+  "download_time": "2025-10-14T10:57:37.078813",
+  "package_url": "https://pypi.org/project/ckanext-dcat/"
+}

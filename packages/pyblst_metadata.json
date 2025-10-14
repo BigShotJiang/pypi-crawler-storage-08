@@ -1,0 +1,11 @@
+{
+  "name": "pyblst",
+  "version": "0.3.14",
+  "summary": "Python bindings for blst",
+  "author": "Niels Mündler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyblst-0.3.14.tar.gz",
+  "download_time": "2025-10-14T10:57:32.927295",
+  "package_url": "https://pypi.org/project/pyblst/"
+}

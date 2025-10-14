@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T10:47:30.024733
+- **Download Time**: 2025-10-14T10:58:12.352571
 - **Total Packages**: 79
-- **Total Size**: 28.76 MB
+- **Total Size**: 7.45 MB
 
 ## Packages List
+- azpaddypy
+- sciveo
+- astrosr
+- omni-pathlib
+- pyblst
+- allytools
+- srx-lib-llm
+- pymetaf
+- port-experience
+- ml-management
+- norpm
+- maq-rai-sdk-1
+- ckanext-dcat
+- AOT-biomaps
+- llama-index-llms-bedrock-converse
+- minecraft-bds
+- python-htmlinfo
+- ol-openedx-chat-xblock
+- instantsplat
+- workflows-mcp
+- matlab-runtime
+- authentik-client
+- dsf-mobility
+- toucanpy
+- alibabacloud-anytrans20250707
+- dogesec-commons
+- goad-py
+- dplex
+- ventrun
+- dq-suite-amsterdam
+- pyuvm
+- moduvent
+- konduktor-nightly
+- ocean-contracts
 - bosa-server-plugins-binary
 - RunFeemsSim
 - platon-cli
@@ -30,8 +64,6 @@
 - abagentsdk
 - synapse-logger
 - imcar
-- authentik-client
-- minecraft-bds
 - readerbotda
 - owocr
 - open_ticket_ai
@@ -51,37 +83,5 @@
 - zfx
 - posthoganalytics
 - posthog
-- azpaddypy
 - argo-workflows
 - pypsa
-- plado
-- easemysql
-- nc-user-terminator
-- droidrun
-- nvidia-nat-redis
-- nvidia-nat-crewai
-- multiview-stitcher
-- python-htmlinfo
-- nvidia-nat-ingestion
-- mapillary-downloader
-- nvidia-nat-test
-- xenodocs-mcp-server
-- nvidia-nat-mysql
-- nvidia-nat-semantic-kernel
-- nvidia-nat-agno
-- AFL-2-MATH
-- irispreppy
-- nvidia-nat-opentelemetry
-- nvidia-nat-ragaai
-- tdfs4ds
-- seven-cloudapp-frame
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- nvidia-nat-langchain
-- doppler-secrets
-- aiqtoolkit-semantic-kernel
-- woodelf-explainer
-- grib-check
-- patool
-- aiqtoolkit-weave
-- portkey-ai

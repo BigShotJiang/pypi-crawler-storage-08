@@ -1,0 +1,11 @@
+{
+  "name": "ocean-contracts",
+  "version": "2.4.1",
+  "summary": "🐳 Ocean Protocol L1 - v4",
+  "author": "leucothia",
+  "license": null,
+  "home_page": "https://github.com/oceanprotocol/contracts",
+  "download_filename": "ocean_contracts-2.4.1.tar.gz",
+  "download_time": "2025-10-14T10:57:48.766999",
+  "package_url": "https://pypi.org/project/ocean-contracts/"
+}
