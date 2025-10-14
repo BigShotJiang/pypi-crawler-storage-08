@@ -1,0 +1,11 @@
+{
+  "name": "pymedia-crawler",
+  "version": "1.0.0",
+  "summary": "A robust, extensible web crawler for downloading media content",
+  "author": "Hasan Ragab",
+  "license": "MIT",
+  "home_page": "https://github.com/hasanragab/media-crawler",
+  "download_filename": "pymedia_crawler-1.0.0.tar.gz",
+  "download_time": "2025-10-14T21:54:48.802348",
+  "package_url": "https://pypi.org/project/pymedia-crawler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-graph-rag-mcp",
+  "version": "0.1.0",
+  "summary": "Local-first code knowledge graph MCP server",
+  "author": "Andrew",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_graph_rag_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-14T21:54:59.652487",
+  "package_url": "https://pypi.org/project/code-graph-rag-mcp/"
+}

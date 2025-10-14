@@ -1,11 +1,11 @@
 {
   "name": "objectdb",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": null,
   "author": "Felix Trautwein <mail@felixtrautwein.de>",
   "license": null,
   "home_page": null,
-  "download_filename": "objectdb-0.9.1.tar.gz",
-  "download_time": "2025-10-07T15:21:35.876984",
+  "download_filename": "objectdb-0.9.2.tar.gz",
+  "download_time": "2025-10-14T21:55:02.884831",
   "package_url": "https://pypi.org/project/objectdb/"
 }
