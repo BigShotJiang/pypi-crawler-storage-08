@@ -1,0 +1,11 @@
+{
+  "name": "lcmodel-wrapper",
+  "version": "0.1.2",
+  "summary": "Python wrapper for LCModel MRS fitting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lcmodel_wrapper-0.1.2.tar.gz",
+  "download_time": "2025-10-14T15:43:41.027790",
+  "package_url": "https://pypi.org/project/lcmodel-wrapper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "broadie",
+  "version": "2.1.1",
+  "summary": "Broadie: Opinionated framework for building and serving AI agents with build on LangGraph + LangServe.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "broadie-2.1.1.tar.gz",
+  "download_time": "2025-10-14T15:43:37.208895",
+  "package_url": "https://pypi.org/project/broadie/"
+}

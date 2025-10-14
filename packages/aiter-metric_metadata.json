@@ -1,11 +1,11 @@
 {
   "name": "aiter-metric",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Métrique AITER",
   "author": "Antoine Dieu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiter_metric-0.1.2.tar.gz",
-  "download_time": "2025-10-10T19:41:00.008032",
+  "download_filename": "aiter_metric-0.1.3.tar.gz",
+  "download_time": "2025-10-14T15:43:27.390236",
   "package_url": "https://pypi.org/project/aiter-metric/"
 }

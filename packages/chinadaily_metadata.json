@@ -1,0 +1,11 @@
+{
+  "name": "chinadaily",
+  "version": "0.2.0",
+  "summary": "Download China Daily newspaper PDF",
+  "author": "ChinaDaily",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/yarving/chinadailyproject",
+  "download_filename": "chinadaily-0.2.0.tar.gz",
+  "download_time": "2025-10-14T15:43:38.842683",
+  "package_url": "https://pypi.org/project/chinadaily/"
+}

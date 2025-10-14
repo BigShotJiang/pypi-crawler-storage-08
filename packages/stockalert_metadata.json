@@ -1,11 +1,11 @@
 {
   "name": "stockalert",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Official Python SDK for StockAlert.pro API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stockalert-2.0.0.tar.gz",
-  "download_time": "2025-10-14T14:47:34.912123",
+  "download_filename": "stockalert-2.0.1.tar.gz",
+  "download_time": "2025-10-14T15:43:06.211517",
   "package_url": "https://pypi.org/project/stockalert/"
 }

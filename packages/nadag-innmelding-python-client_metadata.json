@@ -1,11 +1,11 @@
 {
   "name": "nadag-innmelding-python-client",
-  "version": "2025.10.10",
+  "version": "2025.10.14",
   "summary": "A client library for accessing Nadag innmelding API",
   "author": "Jiyang Ye",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nadag_innmelding_python_client-2025.10.10.tar.gz",
-  "download_time": "2025-10-14T08:55:44.195690",
+  "download_filename": "nadag_innmelding_python_client-2025.10.14.tar.gz",
+  "download_time": "2025-10-14T15:42:57.755710",
   "package_url": "https://pypi.org/project/nadag-innmelding-python-client/"
 }
