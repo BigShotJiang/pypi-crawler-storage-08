@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-mock",
+  "version": "1.1",
+  "summary": "Sphinx extension for masking unsupported directives and roles",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_mock-1.1.tar.gz",
+  "download_time": "2025-10-14T17:41:19.432316",
+  "package_url": "https://pypi.org/project/sphinxnotes-mock/"
+}

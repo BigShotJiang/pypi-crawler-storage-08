@@ -1,11 +1,11 @@
 {
   "name": "bigframes",
-  "version": "2.24.0",
+  "version": "2.25.0",
   "summary": "BigQuery DataFrames -- scalable analytics and machine learning with BigQuery",
   "author": "Google LLC",
   "license": "Apache 2.0",
   "home_page": "https://github.com/googleapis/python-bigquery-dataframes",
-  "download_filename": "bigframes-2.24.0.tar.gz",
-  "download_time": "2025-10-07T17:51:04.820076",
+  "download_filename": "bigframes-2.25.0.tar.gz",
+  "download_time": "2025-10-14T17:41:27.595475",
   "package_url": "https://pypi.org/project/bigframes/"
 }

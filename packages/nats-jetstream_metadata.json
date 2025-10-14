@@ -1,0 +1,11 @@
+{
+  "name": "nats-jetstream",
+  "version": "0.0.0",
+  "summary": "NATS JetStream functionality - package name reserved",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nats_jetstream-0.0.0.tar.gz",
+  "download_time": "2025-10-14T17:41:35.640986",
+  "package_url": "https://pypi.org/project/nats-jetstream/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-account-operating-unit",
+  "version": "15.0.1.0.0.7",
+  "summary": "Create journal entries in moves between internal locations with different operating units.",
+  "author": "ForgeFlow, Serpent Consulting Services Pvt. Ltd.,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo_addon_stock_account_operating_unit-15.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2025-10-14T17:41:48.119608",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-account-operating-unit/"
+}

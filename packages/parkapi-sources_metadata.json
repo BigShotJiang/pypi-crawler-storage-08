@@ -1,11 +1,11 @@
 {
   "name": "parkapi-sources",
-  "version": "0.27.0",
+  "version": "0.27.1",
   "summary": "ParkAPI Sources is a collection of converters from several different data sources to normalized ParkAPI data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parkapi_sources-0.27.0.tar.gz",
-  "download_time": "2025-10-13T18:29:52.266073",
+  "download_filename": "parkapi_sources-0.27.1.tar.gz",
+  "download_time": "2025-10-14T17:41:15.138014",
   "package_url": "https://pypi.org/project/parkapi-sources/"
 }

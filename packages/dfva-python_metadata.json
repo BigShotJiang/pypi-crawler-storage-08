@@ -1,0 +1,11 @@
+{
+  "name": "dfva-python",
+  "version": "0.0.7",
+  "summary": "DFVA client for python.",
+  "author": "Luis Zarate",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/luisza/dfva_python",
+  "download_filename": "dfva_python-0.0.7.tar.gz",
+  "download_time": "2025-10-14T17:41:23.793623",
+  "package_url": "https://pypi.org/project/dfva-python/"
+}
