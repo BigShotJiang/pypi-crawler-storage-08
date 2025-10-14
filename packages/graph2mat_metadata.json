@@ -1,11 +1,11 @@
 {
   "name": "graph2mat",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "Utility package to work with equivariant matrices and graphs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graph2mat-0.0.12.tar.gz",
-  "download_time": "2025-10-14T11:41:45.938913",
+  "download_filename": "graph2mat-0.0.13.tar.gz",
+  "download_time": "2025-10-14T11:54:22.858012",
   "package_url": "https://pypi.org/project/graph2mat/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "treescript-builder",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Builds File Trees from TreeScript. If DataLabels are present in TreeScript, a DataDirectory argument is required.",
   "author": "DK96-OS",
   "license": "GPLv3",
   "home_page": "https://github.com/DK96-OS/treescript-builder",
-  "download_filename": "treescript_builder-0.1.9.tar.gz",
-  "download_time": "2025-10-14T01:28:05.234363",
+  "download_filename": "treescript_builder-0.1.10.tar.gz",
+  "download_time": "2025-10-14T11:54:01.899722",
   "package_url": "https://pypi.org/project/treescript-builder/"
 }

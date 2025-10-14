@@ -1,0 +1,11 @@
+{
+  "name": "unmeshed-sdk",
+  "version": "1.2.3",
+  "summary": "Python SDK for Unmeshed Orchestration platform",
+  "author": "Unmeshed",
+  "license": null,
+  "home_page": "https://github.com/stablequark/unmeshed-python-sdk",
+  "download_filename": "unmeshed_sdk-1.2.3.tar.gz",
+  "download_time": "2025-10-14T11:54:12.839262",
+  "package_url": "https://pypi.org/project/unmeshed-sdk/"
+}

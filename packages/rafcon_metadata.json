@@ -1,11 +1,11 @@
 {
   "name": "rafcon",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Develop your robotic tasks with hierarchical state machines using an intuitive graphical user interface",
   "author": null,
   "license": "EPL",
   "home_page": null,
-  "download_filename": "rafcon-2.2.2.tar.gz",
-  "download_time": "2025-10-14T08:55:05.220086",
+  "download_filename": "rafcon-2.2.3.tar.gz",
+  "download_time": "2025-10-14T11:54:09.044074",
   "package_url": "https://pypi.org/project/rafcon/"
 }
