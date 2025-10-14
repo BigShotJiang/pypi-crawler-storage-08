@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T22:43:19.115583
-- **Total Packages**: 79
-- **Total Size**: 36.69 MB
+- **Download Time**: 2025-10-14T22:54:48.264486
+- **Total Packages**: 84
+- **Total Size**: 4.24 MB
 
 ## Packages List
+- tree-sitter-analyzer
+- beets
+- eamin
+- crossworlds-modmanager
+- dbt-databricks
+- techlens-agent
+- seeq
+- salientsdk
+- plex-generate-previews
+- pycc.id
+- code-graph-rag-mcp
+- knowledge-graph-rag-mcp
+- azureml-designer-dataio-modules
+- azureml-designer-datatransform-modules
+- pyseapc
+- isolate
+- rds-proxy-password-rotation
+- s2t
 - imha
 - fava-dashboards
 - nnsight
@@ -21,7 +39,6 @@
 - dbferry
 - format-docstring
 - dsf-aml-sdk
-- pycc.id
 - moviebox-api
 - antares-client
 - icmpx
@@ -37,7 +54,6 @@
 - dbos
 - spark-rapids-user-tools
 - code-puppy
-- knowledge-graph-rag-mcp
 - planar
 - oxonfair
 - sinapsis-object-detection
@@ -74,14 +90,3 @@
 - deployman-cli
 - arthur-client
 - biblemate
-- meltanolabs-tap-github
-- cuopt-cu12
-- statsig-python-core
-- awsimple
-- cuopt-cu13
-- sumtyme
-- regula-documentreader-webclient
-- anyscale
-- algobattle-base
-- cuopt-mps-parser
-- meltano

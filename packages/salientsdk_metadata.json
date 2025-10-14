@@ -1,0 +1,11 @@
+{
+  "name": "salientsdk",
+  "version": "0.3.46",
+  "summary": "Salient Predictions Software Development Kit",
+  "author": "Salient Predictions",
+  "license": "LicenseRef-Custom",
+  "home_page": "https://salientpredictions.com",
+  "download_filename": "salientsdk-0.3.46.tar.gz",
+  "download_time": "2025-10-14T22:54:07.955036",
+  "package_url": "https://pypi.org/project/salientsdk/"
+}
