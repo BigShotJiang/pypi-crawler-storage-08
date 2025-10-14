@@ -1,11 +1,11 @@
 {
   "name": "bandcrash",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Tools for publishing albums to the web and digital stores",
   "author": "fluffy",
   "license": "MIT",
   "home_page": "https://github.com/fluffy-critter/bandcrash",
-  "download_filename": "bandcrash-0.9.2.tar.gz",
-  "download_time": "2025-10-13T19:17:46.231081",
+  "download_filename": "bandcrash-0.9.3.tar.gz",
+  "download_time": "2025-10-14T07:22:33.346166",
   "package_url": "https://pypi.org/project/bandcrash/"
 }

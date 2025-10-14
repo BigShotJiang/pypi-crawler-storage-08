@@ -1,0 +1,11 @@
+{
+  "name": "model-compression-toolkit",
+  "version": "2.4.4",
+  "summary": "A Model Compression Toolkit for neural networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_compression_toolkit-2.4.4.tar.gz",
+  "download_time": "2025-10-14T07:22:51.372117",
+  "package_url": "https://pypi.org/project/model-compression-toolkit/"
+}

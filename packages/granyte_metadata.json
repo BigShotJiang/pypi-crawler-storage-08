@@ -1,11 +1,11 @@
 {
   "name": "granyte",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "A minimal demo package",
   "author": "Ulf Bissbort",
   "license": null,
   "home_page": null,
-  "download_filename": "granyte-0.1.3.tar.gz",
-  "download_time": "2025-10-13T06:58:36.860426",
+  "download_filename": "granyte-0.1.6.tar.gz",
+  "download_time": "2025-10-14T07:22:20.507253",
   "package_url": "https://pypi.org/project/granyte/"
 }

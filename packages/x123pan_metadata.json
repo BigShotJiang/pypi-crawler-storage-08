@@ -1,11 +1,11 @@
 {
   "name": "x123pan",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "My short description for my project.",
   "author": "xxxxxfpx",
   "license": "MIT",
   "home_page": "https://github.com/xxxxxfpx/123PanOpen",
-  "download_filename": "x123pan-0.1.9.tar.gz",
-  "download_time": "2025-10-13T03:52:07.872292",
+  "download_filename": "x123pan-0.2.0.tar.gz",
+  "download_time": "2025-10-14T07:22:49.833160",
   "package_url": "https://pypi.org/project/x123pan/"
 }
