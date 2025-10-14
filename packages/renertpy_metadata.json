@@ -1,0 +1,11 @@
+{
+  "name": "renertpy",
+  "version": "0.6.0",
+  "summary": "Collection of functions used to teach Python at Renert School",
+  "author": "Assaf Gordon",
+  "license": "BSD",
+  "home_page": "https://github.com/agordon/renertpy",
+  "download_filename": "renertpy-0.6.0.tar.gz",
+  "download_time": "2025-10-14T05:21:11.413806",
+  "package_url": "https://pypi.org/project/renertpy/"
+}

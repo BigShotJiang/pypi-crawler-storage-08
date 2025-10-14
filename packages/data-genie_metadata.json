@@ -1,0 +1,11 @@
+{
+  "name": "data-genie",
+  "version": "1.4.0",
+  "summary": "A small genie to generate test data",
+  "author": "Keshav Murthy",
+  "license": null,
+  "home_page": "https://github.com/mkeshav/data-genie.git",
+  "download_filename": "data_genie-1.4.0.tar.gz",
+  "download_time": "2025-10-14T05:21:09.795115",
+  "package_url": "https://pypi.org/project/data-genie/"
+}

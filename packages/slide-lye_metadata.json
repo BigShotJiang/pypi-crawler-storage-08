@@ -1,11 +1,11 @@
 {
   "name": "slide-lye",
-  "version": "1.0.1",
+  "version": "2.2.3",
   "summary": "Lye - Tools package for Tyler AI framework",
   "author": "adamwdraper",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slide_lye-1.0.1.tar.gz",
-  "download_time": "2025-10-10T23:18:08.157401",
+  "download_filename": "slide_lye-2.2.3.tar.gz",
+  "download_time": "2025-10-14T05:21:05.019452",
   "package_url": "https://pypi.org/project/slide-lye/"
 }

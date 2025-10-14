@@ -1,0 +1,11 @@
+{
+  "name": "moo-printer",
+  "version": "1.0.0.dev0",
+  "summary": "A simple package that prints 'moo'",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/moo_printer",
+  "download_filename": "moo_printer-1.0.0.dev0.tar.gz",
+  "download_time": "2025-10-14T05:20:57.642055",
+  "package_url": "https://pypi.org/project/moo-printer/"
+}

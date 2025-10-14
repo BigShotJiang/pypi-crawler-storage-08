@@ -1,0 +1,11 @@
+{
+  "name": "expression-copilot",
+  "version": "0.3.0",
+  "summary": "Quantifying predictability of gene expression from histology image",
+  "author": "Chen-Rui Xia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "expression_copilot-0.3.0.tar.gz",
+  "download_time": "2025-10-14T05:21:07.638813",
+  "package_url": "https://pypi.org/project/expression-copilot/"
+}
