@@ -1,11 +1,11 @@
 {
   "name": "molecular-simulations",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "summary": "A small package for building molecular systems using the AMBER \\ force field and deploying OpenMM simulations on HPC clusters using Parsl.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "molecular_simulations-0.3.11.tar.gz",
-  "download_time": "2025-10-10T21:53:01.029945",
+  "download_filename": "molecular_simulations-0.3.12.tar.gz",
+  "download_time": "2025-10-14T20:25:03.964167",
   "package_url": "https://pypi.org/project/molecular-simulations/"
 }

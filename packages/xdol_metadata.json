@@ -1,0 +1,11 @@
+{
+  "name": "xdol",
+  "version": "0.1.10",
+  "summary": "Extended Data Object Layers - dol-based tools",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": null,
+  "download_filename": "xdol-0.1.10.tar.gz",
+  "download_time": "2025-10-14T20:24:38.837110",
+  "package_url": "https://pypi.org/project/xdol/"
+}

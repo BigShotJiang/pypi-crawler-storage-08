@@ -1,0 +1,11 @@
+{
+  "name": "repex-topology-parser",
+  "version": "0.1.0",
+  "summary": "Parse gromacs topology for scaling",
+  "author": "Korey M. Reid",
+  "license": null,
+  "home_page": "https://github.com/koreyr/repex_topology_parser.git",
+  "download_filename": "repex_topology_parser-0.1.0.tar.gz",
+  "download_time": "2025-10-14T20:24:59.220145",
+  "package_url": "https://pypi.org/project/repex-topology-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "amebo",
+  "version": "0.5.6",
+  "summary": "HTTP Event Notifications Server - A lightweight, schema-driven event broadcasting system for microservices and distributed applications",
+  "author": "Raymond Ortserga",
+  "license": "MIT",
+  "home_page": "https://github.com/rayattack/amebo",
+  "download_filename": "amebo-0.5.6.tar.gz",
+  "download_time": "2025-10-14T20:24:41.966525",
+  "package_url": "https://pypi.org/project/amebo/"
+}

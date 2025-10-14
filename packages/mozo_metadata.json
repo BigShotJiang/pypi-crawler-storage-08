@@ -1,0 +1,11 @@
+{
+  "name": "mozo",
+  "version": "0.2.0",
+  "summary": "Universal computer vision model serving library with dynamic model management and PixelFlow integration",
+  "author": "Emrah NAZIF",
+  "license": "MIT",
+  "home_page": "https://github.com/datamarkin/mozo",
+  "download_filename": "mozo-0.2.0.tar.gz",
+  "download_time": "2025-10-14T20:24:16.748855",
+  "package_url": "https://pypi.org/project/mozo/"
+}

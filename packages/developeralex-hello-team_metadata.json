@@ -1,0 +1,11 @@
+{
+  "name": "developeralex-hello-team",
+  "version": "0.1.0",
+  "summary": "A colorful Python package that greets teams with style using colorama",
+  "author": "DeveloperAlex",
+  "license": "MIT",
+  "home_page": "https://github.com/DeveloperAlex/pypi_HelloTeam",
+  "download_filename": "developeralex_hello_team-0.1.0.tar.gz",
+  "download_time": "2025-10-14T20:25:04.483903",
+  "package_url": "https://pypi.org/project/developeralex-hello-team/"
+}

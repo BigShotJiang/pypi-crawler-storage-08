@@ -1,11 +1,11 @@
 {
   "name": "horsemeat",
-  "version": "2.26.1",
+  "version": "2.26.2",
   "summary": "Web framework for the damned.  The mad.",
   "author": "216 Software, LLC",
   "license": null,
   "home_page": "https://github.com/216software/horsemeat",
-  "download_filename": "horsemeat-2.26.1.tar.gz",
-  "download_time": "2025-10-14T13:23:56.019242",
+  "download_filename": "horsemeat-2.26.2.tar.gz",
+  "download_time": "2025-10-14T20:24:16.220118",
   "package_url": "https://pypi.org/project/horsemeat/"
 }

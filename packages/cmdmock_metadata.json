@@ -1,0 +1,11 @@
+{
+  "name": "cmdmock",
+  "version": "1.0.0",
+  "summary": "a simplistic mocking framework for CLI commands",
+  "author": "Pierre Smeyers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmdmock-1.0.0.tar.gz",
+  "download_time": "2025-10-14T20:25:01.307964",
+  "package_url": "https://pypi.org/project/cmdmock/"
+}
