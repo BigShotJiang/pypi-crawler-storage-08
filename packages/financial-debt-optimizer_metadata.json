@@ -1,0 +1,11 @@
+{
+  "name": "financial-debt-optimizer",
+  "version": "1.1.1",
+  "summary": "A comprehensive tool for analyzing and optimizing debt repayment strategies",
+  "author": "Bryan Kemp",
+  "license": null,
+  "home_page": "https://github.com/bryankemp/financial-debt-optimizer",
+  "download_filename": "financial_debt_optimizer-1.1.1.tar.gz",
+  "download_time": "2025-10-14T02:52:45.477654",
+  "package_url": "https://pypi.org/project/financial-debt-optimizer/"
+}

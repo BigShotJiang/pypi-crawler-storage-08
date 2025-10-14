@@ -1,0 +1,11 @@
+{
+  "name": "qgif",
+  "version": "1.0.3",
+  "summary": "Convert GIF to QGIF, or decode QGIF.",
+  "author": "Hangzhou Nationalchip Inc.",
+  "license": "MIT Licence",
+  "home_page": null,
+  "download_filename": "qgif-1.0.3.tar.gz",
+  "download_time": "2025-10-14T02:53:31.396134",
+  "package_url": "https://pypi.org/project/qgif/"
+}

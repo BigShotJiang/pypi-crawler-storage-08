@@ -1,11 +1,11 @@
 {
   "name": "forgebase",
-  "version": "0.2.5",
+  "version": "0.2.9",
   "summary": "Forgebase core libraries (utils, framework e cliente LLM)",
   "author": "palhano",
   "license": "LGPL",
   "home_page": "https://github.com/palhanobrazil/forgebase",
-  "download_filename": "forgebase-0.2.5.tar.gz",
-  "download_time": "2025-10-14T01:28:45.010174",
+  "download_filename": "forgebase-0.2.9.tar.gz",
+  "download_time": "2025-10-14T02:53:21.419315",
   "package_url": "https://pypi.org/project/forgebase/"
 }

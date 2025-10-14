@@ -1,0 +1,11 @@
+{
+  "name": "vgva",
+  "version": "0.0.1",
+  "summary": "Viral genome variation analysis",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "vgva-0.0.1.tar.gz",
+  "download_time": "2025-10-14T02:53:00.481084",
+  "package_url": "https://pypi.org/project/vgva/"
+}
