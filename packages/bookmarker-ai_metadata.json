@@ -1,0 +1,11 @@
+{
+  "name": "bookmarker-ai",
+  "version": "0.2.0",
+  "summary": "A CLI tool to manage the online articles you want to read. Too much content and too little time? Bookmarker helps you pick what to read.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bookmarker_ai-0.2.0.tar.gz",
+  "download_time": "2025-10-14T14:48:16.994045",
+  "package_url": "https://pypi.org/project/bookmarker-ai/"
+}

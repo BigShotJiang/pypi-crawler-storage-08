@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-privacy",
+  "version": "18.0.1.0.0.3",
+  "summary": "Provides data privacy and protection features to comply to regulations, such as GDPR.",
+  "author": "Eficent, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/data-protection",
+  "download_filename": "odoo_addon_privacy-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-14T14:47:50.641589",
+  "package_url": "https://pypi.org/project/odoo-addon-privacy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cpr_sdk",
+  "version": "1.24.0",
+  "summary": null,
+  "author": "CPR Tech",
+  "license": "LICENSE",
+  "home_page": "https://github.com/climatepolicyradar/cpr-sdk",
+  "download_filename": "cpr_sdk-1.24.0.tar.gz",
+  "download_time": "2025-10-14T14:48:07.000426",
+  "package_url": "https://pypi.org/project/cpr_sdk/"
+}

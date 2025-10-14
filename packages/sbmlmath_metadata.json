@@ -1,0 +1,11 @@
+{
+  "name": "sbmlmath",
+  "version": "0.4.1",
+  "summary": "SBML Math <-> SymPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbmlmath-0.4.1.tar.gz",
+  "download_time": "2025-10-14T14:47:46.432249",
+  "package_url": "https://pypi.org/project/sbmlmath/"
+}

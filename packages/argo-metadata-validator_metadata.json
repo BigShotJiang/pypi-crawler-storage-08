@@ -1,0 +1,11 @@
+{
+  "name": "argo-metadata-validator",
+  "version": "0.0.4",
+  "summary": "Validator for ARGO sensor metadata JSON",
+  "author": "Matt McCormack",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/euroargodev/argo-metadata-validator",
+  "download_filename": "argo_metadata_validator-0.0.4.tar.gz",
+  "download_time": "2025-10-14T14:48:03.260296",
+  "package_url": "https://pypi.org/project/argo-metadata-validator/"
+}

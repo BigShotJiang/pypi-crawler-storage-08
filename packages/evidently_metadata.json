@@ -1,0 +1,11 @@
+{
+  "name": "evidently",
+  "version": "0.7.15",
+  "summary": "Open-source tools to analyze, monitor, and debug machine learning model in production.",
+  "author": "Emeli Dral",
+  "license": null,
+  "home_page": "https://github.com/evidentlyai/evidently",
+  "download_filename": "evidently-0.7.15.tar.gz",
+  "download_time": "2025-10-14T14:47:33.867952",
+  "package_url": "https://pypi.org/project/evidently/"
+}

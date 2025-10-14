@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract-group-somconnexio",
+  "version": "16.0.1.0.4.1",
+  "summary": "Customizations for contract groups in Som Connexió.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo-addon-contract_group_somconnexio-16.0.1.0.4.1.tar.gz",
+  "download_time": "2025-10-14T14:48:14.393828",
+  "package_url": "https://pypi.org/project/odoo-addon-contract-group-somconnexio/"
+}

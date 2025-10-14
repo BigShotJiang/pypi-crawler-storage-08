@@ -1,11 +1,11 @@
 {
   "name": "splunk-hec-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple Splunk HEC logger.",
   "author": "Rostislav Anisimov",
   "license": null,
   "home_page": null,
-  "download_filename": "splunk_hec_logger-0.1.0-py3-none-any.whl",
-  "download_time": "2025-10-14T14:22:53.470509",
+  "download_filename": "splunk_hec_logger-0.1.1.tar.gz",
+  "download_time": "2025-10-14T14:48:05.958896",
   "package_url": "https://pypi.org/project/splunk-hec-logger/"
 }
