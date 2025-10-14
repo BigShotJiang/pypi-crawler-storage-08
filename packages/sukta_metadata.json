@@ -1,11 +1,11 @@
 {
   "name": "sukta",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "summary": "Personalized CLU and experiment tracking utility",
   "author": "Arjun Krishna",
   "license": null,
   "home_page": null,
-  "download_filename": "sukta-0.0.11.tar.gz",
-  "download_time": "2025-10-13T03:03:45.477406",
+  "download_filename": "sukta-0.0.13.tar.gz",
+  "download_time": "2025-10-14T03:36:37.183833",
   "package_url": "https://pypi.org/project/sukta/"
 }

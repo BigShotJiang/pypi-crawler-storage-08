@@ -1,11 +1,11 @@
 {
   "name": "li-group-center",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Group Center Tools",
   "author": "Haomin Kong",
   "license": "GPLv3",
   "home_page": "https://github.com/a645162/group-center-client",
-  "download_filename": "li_group_center-2.5.0.tar.gz",
-  "download_time": "2025-10-13T12:43:22.211427",
+  "download_filename": "li_group_center-2.5.1.tar.gz",
+  "download_time": "2025-10-14T03:36:36.142996",
   "package_url": "https://pypi.org/project/li-group-center/"
 }

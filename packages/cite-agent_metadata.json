@@ -1,11 +1,11 @@
 {
   "name": "cite-agent",
-  "version": "1.0.5",
+  "version": "1.2.5",
   "summary": "Terminal AI assistant for academic research with citation verification",
   "author": "Cite-Agent Team",
   "license": null,
   "home_page": "https://github.com/Spectating101/cite-agent",
-  "download_filename": "cite_agent-1.0.5-py3-none-any.whl",
-  "download_time": "2025-10-12T11:16:41.947505",
+  "download_filename": "cite_agent-1.2.5.tar.gz",
+  "download_time": "2025-10-14T03:35:55.713472",
   "package_url": "https://pypi.org/project/cite-agent/"
 }

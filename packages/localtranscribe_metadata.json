@@ -1,11 +1,11 @@
 {
   "name": "localtranscribe",
-  "version": "2.0.1b0",
-  "summary": "Offline audio transcription with speaker diarization, optimized for Apple Silicon",
+  "version": "2.0.2b1",
+  "summary": "Privacy-first audio transcription with speaker diarization. Entirely offline.",
   "author": "LocalTranscribe Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localtranscribe-2.0.1b0.tar.gz",
-  "download_time": "2025-10-14T02:52:51.773669",
+  "download_filename": "localtranscribe-2.0.2b1.tar.gz",
+  "download_time": "2025-10-14T03:36:01.441238",
   "package_url": "https://pypi.org/project/localtranscribe/"
 }

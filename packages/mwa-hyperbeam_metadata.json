@@ -1,0 +1,11 @@
+{
+  "name": "mwa-hyperbeam",
+  "version": "0.10.4",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/MWATelescope/mwa_hyperbeam",
+  "download_filename": "mwa_hyperbeam-0.10.4-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-14T03:36:35.117297",
+  "package_url": "https://pypi.org/project/mwa-hyperbeam/"
+}

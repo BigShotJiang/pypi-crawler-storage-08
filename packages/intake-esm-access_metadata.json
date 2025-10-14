@@ -1,0 +1,11 @@
+{
+  "name": "intake-esm-access",
+  "version": "2025.10.14",
+  "summary": "An intake plugin for parsing an Earth System Model (ESM) catalog and loading netCDF files and/or Zarr stores into Xarray datasets. This is the ACCESS-NRI bleeding edge fork.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "intake_esm_access-2025.10.14.tar.gz",
+  "download_time": "2025-10-14T03:36:15.243495",
+  "package_url": "https://pypi.org/project/intake-esm-access/"
+}

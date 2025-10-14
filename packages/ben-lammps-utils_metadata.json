@@ -1,0 +1,11 @@
+{
+  "name": "ben-lammps-utils",
+  "version": "0.8.0",
+  "summary": "A set of tools for parsing Lammps and ReaxFF output ",
+  "author": "Ben",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ben_lammps_utils-0.8.0.tar.gz",
+  "download_time": "2025-10-14T03:36:37.695222",
+  "package_url": "https://pypi.org/project/ben-lammps-utils/"
+}

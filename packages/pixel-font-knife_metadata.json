@@ -1,11 +1,11 @@
 {
   "name": "pixel-font-knife",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A set of pixel font utilities",
   "author": "TakWolf",
   "license": null,
   "home_page": null,
-  "download_filename": "pixel_font_knife-0.0.18.tar.gz",
-  "download_time": "2025-10-13T21:54:17.064452",
+  "download_filename": "pixel_font_knife-0.0.19.tar.gz",
+  "download_time": "2025-10-14T03:36:17.308900",
   "package_url": "https://pypi.org/project/pixel-font-knife/"
 }

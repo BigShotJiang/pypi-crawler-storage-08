@@ -1,11 +1,11 @@
 {
   "name": "tapm-distro",
-  "version": "0.55.2",
+  "version": "0.55.3",
   "summary": "TAPM Python Distro",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tapm_distro-0.55.2-py3-none-any.whl",
-  "download_time": "2025-10-13T11:54:10.474130",
+  "download_filename": "tapm_distro-0.55.3-py3-none-any.whl",
+  "download_time": "2025-10-14T03:36:20.948543",
   "package_url": "https://pypi.org/project/tapm-distro/"
 }

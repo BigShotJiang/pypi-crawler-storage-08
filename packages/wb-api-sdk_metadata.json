@@ -1,0 +1,11 @@
+{
+  "name": "wb-api-sdk",
+  "version": "0.3.1",
+  "summary": "WB API Продавца Python Library",
+  "author": "artemdorozhkin",
+  "license": null,
+  "home_page": "https://github.com/artemdorozhkin/wb-api",
+  "download_filename": "wb_api_sdk-0.3.1.tar.gz",
+  "download_time": "2025-10-14T03:36:24.593383",
+  "package_url": "https://pypi.org/project/wb-api-sdk/"
+}
