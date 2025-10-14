@@ -1,11 +1,11 @@
 {
   "name": "windsuite-sdk",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Windsuite User SDK for the Windshape Software Suite.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "windsuite_sdk-0.2.1.tar.gz",
-  "download_time": "2025-10-14T11:54:03.546214",
+  "download_filename": "windsuite_sdk-0.2.3.tar.gz",
+  "download_time": "2025-10-14T12:45:14.113948",
   "package_url": "https://pypi.org/project/windsuite-sdk/"
 }

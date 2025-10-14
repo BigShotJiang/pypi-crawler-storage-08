@@ -1,14 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T11:54:45.555200
-- **Total Packages**: 83
-- **Total Size**: 31.63 MB
+- **Download Time**: 2025-10-14T12:45:57.941549
+- **Total Packages**: 85
+- **Total Size**: 3.63 MB
 
 ## Packages List
-- minecraft-bds
-- srx-lib-azure
-- ksbanim
 - patchfm
 - treescript-builder
 - jsonmagic
@@ -26,6 +23,7 @@
 - nys-client
 - nys-schemas
 - nys-constants
+- srx-lib-azure
 - quash-mcp
 - maq-rai-sdk-1
 - PyS3Uploader
@@ -68,6 +66,7 @@
 - TypeDAL
 - pypx800v5
 - dapu
+- ksbanim
 - solvice-vrp-solver
 - lean-library
 - foxypack
@@ -89,3 +88,6 @@
 - torchx-nightly
 - wypp
 - torappu-excel
+- pytmle
+- herosdevices
+- tadasets

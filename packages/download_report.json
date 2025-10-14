@@ -1,11 +1,8 @@
 {
-  "download_time": "2025-10-14T11:54:45.555200",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 31.63,
+  "download_time": "2025-10-14T12:45:57.941549",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 3.63,
   "packages": [
-    "minecraft-bds",
-    "srx-lib-azure",
-    "ksbanim",
     "patchfm",
     "treescript-builder",
     "jsonmagic",
@@ -23,6 +20,7 @@
     "nys-client",
     "nys-schemas",
     "nys-constants",
+    "srx-lib-azure",
     "quash-mcp",
     "maq-rai-sdk-1",
     "PyS3Uploader",
@@ -65,6 +63,7 @@
     "TypeDAL",
     "pypx800v5",
     "dapu",
+    "ksbanim",
     "solvice-vrp-solver",
     "lean-library",
     "foxypack",
@@ -85,6 +84,9 @@
     "twocaptcha-python",
     "torchx-nightly",
     "wypp",
-    "torappu-excel"
+    "torappu-excel",
+    "pytmle",
+    "herosdevices",
+    "tadasets"
   ]
 }
