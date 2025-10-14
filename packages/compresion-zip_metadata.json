@@ -1,0 +1,11 @@
+{
+  "name": "compresion-zip",
+  "version": "1.1.0",
+  "summary": "Compresor y descompresor ZIP con barra de progreso y CLI",
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compresion_zip-1.1.0.tar.gz",
+  "download_time": "2025-10-14T10:24:22.310093",
+  "package_url": "https://pypi.org/project/compresion-zip/"
+}

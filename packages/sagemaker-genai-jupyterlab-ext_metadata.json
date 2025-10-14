@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-genai-jupyterlab-ext",
+  "version": "1.0.10",
+  "summary": "An extension supporting SageMaker's GenAI capabilities in JupyterLab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagemaker_genai_jupyterlab_ext-1.0.10.tar.gz",
+  "download_time": "2025-10-14T10:23:59.190438",
+  "package_url": "https://pypi.org/project/sagemaker-genai-jupyterlab-ext/"
+}

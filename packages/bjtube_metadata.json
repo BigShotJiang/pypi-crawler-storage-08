@@ -1,0 +1,11 @@
+{
+  "name": "bjtube",
+  "version": "1.0.0",
+  "summary": "A YouTube downloader with faster speed, ffmpeg is essential to use before installation. with auto-update and dependency installer.",
+  "author": "Babar Ali Jamali",
+  "license": "MIT",
+  "home_page": "https://github.com/babaralijamali/bjtube",
+  "download_filename": "bjtube-1.0.0.tar.gz",
+  "download_time": "2025-10-14T10:24:12.341985",
+  "package_url": "https://pypi.org/project/bjtube/"
+}
