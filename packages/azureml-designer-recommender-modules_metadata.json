@@ -1,0 +1,11 @@
+{
+  "name": "azureml-designer-recommender-modules",
+  "version": "0.0.76",
+  "summary": "Modules to train and inference recommendation models based on deep neural network.",
+  "author": "Microsoft Crop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azureml_designer_recommender_modules-0.0.76-py3-none-any.whl",
+  "download_time": "2025-10-14T22:21:26.350569",
+  "package_url": "https://pypi.org/project/azureml-designer-recommender-modules/"
+}

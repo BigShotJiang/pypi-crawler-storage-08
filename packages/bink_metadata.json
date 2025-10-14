@@ -1,0 +1,11 @@
+{
+  "name": "bink",
+  "version": "0.5.0",
+  "summary": "Runtime for Ink, a scripting language for writing interactive narrative",
+  "author": "Rafael Garcia",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "bink-0.5.0.tar.gz",
+  "download_time": "2025-10-14T22:21:31.255760",
+  "package_url": "https://pypi.org/project/bink/"
+}
