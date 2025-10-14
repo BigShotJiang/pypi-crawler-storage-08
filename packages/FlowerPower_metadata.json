@@ -1,11 +1,11 @@
 {
   "name": "FlowerPower",
-  "version": "0.31.5",
+  "version": "0.31.5.1",
   "summary": "A simple workflow framework for building and managing data processing pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowerpower-0.31.5.tar.gz",
-  "download_time": "2025-10-14T01:28:21.960072",
+  "download_filename": "flowerpower-0.31.5.1.tar.gz",
+  "download_time": "2025-10-14T06:49:38.189658",
   "package_url": "https://pypi.org/project/FlowerPower/"
 }

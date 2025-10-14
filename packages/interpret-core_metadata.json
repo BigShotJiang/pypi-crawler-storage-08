@@ -1,0 +1,11 @@
+{
+  "name": "interpret-core",
+  "version": "0.7.3",
+  "summary": "Fit interpretable models. Explain blackbox machine learning.",
+  "author": "The InterpretML Contributors",
+  "license": null,
+  "home_page": "https://github.com/interpretml/interpret",
+  "download_filename": "interpret_core-0.7.3.tar.gz",
+  "download_time": "2025-10-14T06:49:38.715175",
+  "package_url": "https://pypi.org/project/interpret-core/"
+}

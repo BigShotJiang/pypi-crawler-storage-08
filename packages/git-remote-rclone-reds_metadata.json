@@ -1,0 +1,11 @@
+{
+  "name": "git-remote-rclone-reds",
+  "version": "0.3",
+  "summary": "Git remote helper for rclone-supported services",
+  "author": "Red S",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/redstreet/git-remote-rclone-reds",
+  "download_filename": "git_remote_rclone_reds-0.3.tar.gz",
+  "download_time": "2025-10-14T06:49:01.102031",
+  "package_url": "https://pypi.org/project/git-remote-rclone-reds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blake3",
+  "version": "1.0.8",
+  "summary": "Python bindings for the Rust blake3 crate",
+  "author": "Jack O'Connor <oconnor663@gmail.com>",
+  "license": "CC0-1.0 OR Apache-2.0",
+  "home_page": "https://github.com/oconnor663/blake3-py",
+  "download_filename": "blake3-1.0.8.tar.gz",
+  "download_time": "2025-10-14T06:48:58.009768",
+  "package_url": "https://pypi.org/project/blake3/"
+}

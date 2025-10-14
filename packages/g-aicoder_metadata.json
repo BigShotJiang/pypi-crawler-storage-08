@@ -1,11 +1,11 @@
 {
   "name": "g-aicoder",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "G-AiCoder - Advanced AI development assistant with multi-modal intelligence",
   "author": "gCoder Project",
   "license": "MIT",
   "home_page": "https://github.com/prdpspkt/gCoder",
-  "download_filename": "g_aicoder-1.0.5.tar.gz",
-  "download_time": "2025-10-14T03:36:29.841082",
+  "download_filename": "g_aicoder-1.0.6.tar.gz",
+  "download_time": "2025-10-14T06:49:03.164315",
   "package_url": "https://pypi.org/project/g-aicoder/"
 }
