@@ -1,11 +1,11 @@
 {
   "name": "ebm",
-  "version": "0.99.5",
+  "version": "0.99.7",
   "summary": "A project for energy usage modeling",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "ebm-0.99.5.tar.gz",
-  "download_time": "2025-10-14T05:43:02.330725",
+  "download_filename": "ebm-0.99.7.tar.gz",
+  "download_time": "2025-10-14T07:54:04.012802",
   "package_url": "https://pypi.org/project/ebm/"
 }

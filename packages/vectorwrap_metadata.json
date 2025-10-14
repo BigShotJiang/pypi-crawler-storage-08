@@ -1,11 +1,11 @@
 {
   "name": "vectorwrap",
-  "version": "0.7.3",
-  "summary": "Universal vector search wrapper for Postgres, MySQL, MariaDB, SQLite, DuckDB, ClickHouse, Redis (pgvector, HeatWave, sqlite-vss, DuckDB VSS, ClickHouse ANN, RediSearch)",
+  "version": "0.8.0",
+  "summary": "Universal vector search wrapper for Postgres, MySQL, MariaDB, SQLite, DuckDB, ClickHouse, Redis, RethinkDB (pgvector, HeatWave, sqlite-vss, DuckDB VSS, ClickHouse ANN, RediSearch, Real-time changefeeds)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vectorwrap-0.7.3.tar.gz",
-  "download_time": "2025-10-14T05:42:52.400107",
+  "download_filename": "vectorwrap-0.8.0.tar.gz",
+  "download_time": "2025-10-14T07:54:04.580303",
   "package_url": "https://pypi.org/project/vectorwrap/"
 }
