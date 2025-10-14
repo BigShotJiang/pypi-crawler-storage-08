@@ -1,11 +1,11 @@
 {
   "name": "jmo-security",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "JMo Security Audit Suite (terminal-first, multi-tool, unified outputs)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jmo_security-0.4.2.tar.gz",
-  "download_time": "2025-10-14T23:40:25.790868",
+  "download_filename": "jmo_security-0.4.3.tar.gz",
+  "download_time": "2025-10-14T23:54:07.427137",
   "package_url": "https://pypi.org/project/jmo-security/"
 }
