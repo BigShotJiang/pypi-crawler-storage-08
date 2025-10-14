@@ -1,11 +1,11 @@
 {
   "name": "AutoImblearn",
-  "version": "0.1.34",
-  "summary": "Automated machine learning system for imbalanced medical data",
+  "version": "0.3.0",
+  "summary": "Automated machine learning system for imbalanced medical data with survival analysis, unsupervised learning, and hyperparameter optimization",
   "author": "Hank Wang",
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "autoimblearn-0.1.34.tar.gz",
-  "download_time": "2025-10-10T05:42:00.966670",
+  "download_filename": "autoimblearn-0.3.0.tar.gz",
+  "download_time": "2025-10-14T03:56:57.867604",
   "package_url": "https://pypi.org/project/AutoImblearn/"
 }

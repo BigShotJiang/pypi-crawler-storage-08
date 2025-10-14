@@ -1,13 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T03:36:39.754115
+- **Download Time**: 2025-10-14T03:57:41.654650
 - **Total Packages**: 82
-- **Total Size**: 29.94 MB
+- **Total Size**: 12.92 MB
 
 ## Packages List
-- cite-agent
+- ndevio
+- aioesphomeapi
+- odoo-addon-sale-order-report-hide-tax
 - pulumi-auth0
+- pulumi-newrelic
+- sofastats
+- AutoImblearn
+- odoo14-addon-sale-exception-stock-prebook
+- pybrag
+- autocoder-nano
+- pai-browser-use
+- select-ai
+- pulumi-sdwan
+- GameSentenceMiner
+- chat-completion-server
+- lt-tensor
+- dooservice-cli
+- aind-zarr-utils
+- odoo-addon-purchase-stock-secondary-unit
+- pymupdf4llm-enhanced-mcp
+- BoschRpaMagicBox
+- tooppy
+- publicsuffixlist
+- vectorm
+- ui-tars
+- esphome
+- cite-agent
 - tencent-wedata-feature-engineering-dev
 - odoo-addon-product-variant-default-code
 - ai-agent-manager
@@ -19,7 +44,6 @@
 - zizmor
 - localtranscribe
 - seven-cloudapp-frame
-- lt-tensor
 - instantsplat
 - drive2x-sca-interfaces
 - tabeline
@@ -36,7 +60,6 @@
 - policyengine-us
 - maleo-imaging
 - lumnisai
-- ndevio
 - resumable-file-server
 - rp_python_sdk
 - GANDLF
@@ -65,26 +88,3 @@
 - tapm-instrumentation-ollama
 - kbitfont
 - tapm-instrumentation-openai
-- tairGDN-latencytest
-- highlighter-sdk
-- ai-snake-lab
-- ani-scrapy
-- g-aicoder
-- device-protocol-sdk
-- odoo-addon-github-connector-odoo
-- odoo14-addon-github-connector-oca
-- flowerpower-io
-- pex
-- pcffont
-- bear-dereth
-- myanimelist-api
-- gllm-inference-binary
-- mwa-hyperbeam
-- odoo-addon-helpdesk-mgmt-project
-- li-group-center
-- odoo-addon-fieldservice-equipment-stock
-- sukta
-- ben-lammps-utils
-- isek
-- odoo14-addon-fieldservice-equipment-type
-- toollib
