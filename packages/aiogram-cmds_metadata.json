@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-cmds",
+  "version": "0.1.0",
+  "summary": "Command management library for aiogram v3",
+  "author": "aiogram-cmds contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_cmds-0.1.0.tar.gz",
+  "download_time": "2025-10-14T04:56:13.303904",
+  "package_url": "https://pypi.org/project/aiogram-cmds/"
+}

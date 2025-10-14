@@ -1,0 +1,11 @@
+{
+  "name": "torchcp",
+  "version": "1.2.1",
+  "summary": "A Python toolbox for conformal prediction on deep learning models.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ml-stat-Sustech/TorchCP",
+  "download_filename": "torchcp-1.2.1.tar.gz",
+  "download_time": "2025-10-14T04:56:12.280176",
+  "package_url": "https://pypi.org/project/torchcp/"
+}
