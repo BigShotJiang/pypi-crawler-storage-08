@@ -1,0 +1,11 @@
+{
+  "name": "ngs-ai-agent",
+  "version": "1.0.0",
+  "summary": "AI-powered automated NGS analysis pipeline",
+  "author": "NGS AI Agent Team",
+  "license": null,
+  "home_page": "https://github.com/your-org/ngs-ai-agent",
+  "download_filename": "ngs_ai_agent-1.0.0.tar.gz",
+  "download_time": "2025-10-14T22:42:39.414909",
+  "package_url": "https://pypi.org/project/ngs-ai-agent/"
+}

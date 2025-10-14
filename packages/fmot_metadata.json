@@ -1,11 +1,11 @@
 {
   "name": "fmot",
-  "version": "3.9.2",
+  "version": "3.9.3",
   "summary": "Femtosense Model Optimization Toolkit",
   "author": "Femtosense",
   "license": null,
   "home_page": "https://github.com/femtosense/fmot",
-  "download_filename": "fmot-3.9.2-py3-none-any.whl",
-  "download_time": "2025-10-09T18:51:32.099840",
+  "download_filename": "fmot-3.9.3-py3-none-any.whl",
+  "download_time": "2025-10-14T22:42:51.041698",
   "package_url": "https://pypi.org/project/fmot/"
 }

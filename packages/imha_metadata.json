@@ -1,0 +1,11 @@
+{
+  "name": "imha",
+  "version": "0.2.0",
+  "summary": "A more constrained and friendlier fork of ImageHash.",
+  "author": "Eric Nielsen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imha-0.2.0.tar.gz",
+  "download_time": "2025-10-14T22:42:36.644000",
+  "package_url": "https://pypi.org/project/imha/"
+}

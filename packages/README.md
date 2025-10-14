@@ -1,16 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T22:21:46.953018
-- **Total Packages**: 80
-- **Total Size**: 43.28 MB
+- **Download Time**: 2025-10-14T22:43:19.115583
+- **Total Packages**: 79
+- **Total Size**: 36.69 MB
 
 ## Packages List
+- imha
+- fava-dashboards
+- nnsight
+- worker-automate-hub
+- critical-es-value
+- ngs-ai-agent
+- dictlens
+- parcake
+- pyGSK
+- modelship
+- team-digest
+- sso-apigee-client
+- dbferry
+- format-docstring
+- dsf-aml-sdk
+- pycc.id
+- moviebox-api
+- antares-client
+- icmpx
+- junkie-rfglab
+- flixopt
+- thailint
+- suga-client
+- uiprotect
+- lusid-sdk
+- pycarlo
+- fmot
+- paynt
+- dbos
+- spark-rapids-user-tools
+- code-puppy
+- knowledge-graph-rag-mcp
+- planar
+- oxonfair
+- sinapsis-object-detection
+- sinapsis-dfine
+- brs-kb
+- enventor
+- arrayfunc
+- agilix-api-fr8train
+- dtpyfw
+- increase
+- api-dock
+- abstract-utilities
+- spaps
+- bytesfunc
+- equiboots
+- aiogram-sentinel
+- ekodb-client
+- gable
+- Team-19-Custom-Utils-Lib
+- pvw-cli
+- tranpy-ai
 - odk-tools
 - orchestra-code
 - nedo-vision-training
 - stewbeet
-- telegram-bot-discussion
 - cuopt-server-cu12
 - cuopt-server-cu13
 - experimented
@@ -18,8 +70,6 @@
 - sbn
 - trackio
 - aind-data-schema
-- code-puppy
-- pycarlo
 - pdf-file-renamer
 - deployman-cli
 - arthur-client
@@ -33,56 +83,5 @@
 - regula-documentreader-webclient
 - anyscale
 - algobattle-base
-- sso-apigee-client
 - cuopt-mps-parser
 - meltano
-- deps-rocker
-- flet-charts
-- opsrampcli
-- libcuopt-cu13
-- resource-ingest-guide-schema
-- wry
-- azureml-designer-vowpal-wabbit-modules
-- fava-portfolio-returns
-- code-graph-rag-mcp
-- browser-use
-- azureml-designer-pytorch-modules
-- tranpy-ai
-- azureml-designer-recommender-modules
-- azureml-designer-core
-- azureml-designer-classic-modules
-- fair-debate-md
-- t-sql
-- diane
-- diagentic
-- truss
-- upgini
-- bink
-- haystack-ml-stack
-- computemate
-- alphabench
-- bitwarden-rest-client
-- buelon
-- agentmake
-- amazon-braket-default-simulator
-- ixbrl-viewer
-- training-hub
-- replicated
-- geneva
-- kuroboros
-- utility-pi
-- pytest-lf-skip
-- libcuopt-cu12
-- infraweave
-- nvfuser-cu128
-- simple-mqtt
-- mlrl-util
-- mlrl-testbed-slurm
-- mlrl-testbed-sklearn
-- mlrl-testbed-arff
-- mlrl-testbed
-- choreographer
-- mlrl-seco
-- mlrl-common
-- mlrl-boomer
-- pytest-crayons

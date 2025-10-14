@@ -1,0 +1,11 @@
+{
+  "name": "bytesfunc",
+  "version": "3.4.8",
+  "summary": "Fast bytes and bytearray processing functions",
+  "author": "M Griffin",
+  "license": "Apache License V2.0",
+  "home_page": "https://github.com/m1griffin/bytesfunc",
+  "download_filename": "bytesfunc-3.4.8.tar.gz",
+  "download_time": "2025-10-14T22:43:01.016354",
+  "package_url": "https://pypi.org/project/bytesfunc/"
+}

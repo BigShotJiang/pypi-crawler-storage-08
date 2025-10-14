@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-sentinel",
+  "version": "1.1.0",
+  "summary": "Edge hygiene library for aiogram v3 with middlewares, router, and storage backends",
+  "author": "aiogram-sentinel contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_sentinel-1.1.0.tar.gz",
+  "download_time": "2025-10-14T22:43:02.054929",
+  "package_url": "https://pypi.org/project/aiogram-sentinel/"
+}

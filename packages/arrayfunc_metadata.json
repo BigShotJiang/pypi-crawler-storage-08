@@ -1,0 +1,11 @@
+{
+  "name": "arrayfunc",
+  "version": "8.5.7",
+  "summary": "Fast array processing functions",
+  "author": "M Griffin",
+  "license": "Apache License V2.0",
+  "home_page": "https://github.com/m1griffin/arrayfunc",
+  "download_filename": "arrayfunc-8.5.7.tar.gz",
+  "download_time": "2025-10-14T22:42:57.361705",
+  "package_url": "https://pypi.org/project/arrayfunc/"
+}

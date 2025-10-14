@@ -1,0 +1,11 @@
+{
+  "name": "oxonfair",
+  "version": "0.2.1.10",
+  "summary": "Toolkit for evaluating and enforcing ML model fairness",
+  "author": "Governance of Emerging Technologies Programme (Oxford Internet Insitute)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/oxfordinternetinstitute/oxonfair",
+  "download_filename": "oxonfair-0.2.1.10.tar.gz",
+  "download_time": "2025-10-14T22:42:54.765787",
+  "package_url": "https://pypi.org/project/oxonfair/"
+}

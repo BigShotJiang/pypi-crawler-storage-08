@@ -1,0 +1,11 @@
+{
+  "name": "brs-kb",
+  "version": "1.0.0",
+  "summary": "Community-Driven XSS Knowledge Base - Open Security Intelligence",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brs_kb-1.0.0.tar.gz",
+  "download_time": "2025-10-14T22:42:56.322585",
+  "package_url": "https://pypi.org/project/brs-kb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "junkie-rfglab",
-  "version": "2025.10.1",
+  "version": "2025.10.3",
   "summary": "junkie is a JUpyter NotebooK Image Explorer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "junkie_rfglab-2025.10.1.tar.gz",
-  "download_time": "2025-10-13T05:54:35.784943",
+  "download_filename": "junkie_rfglab-2025.10.3.tar.gz",
+  "download_time": "2025-10-14T22:42:47.287193",
   "package_url": "https://pypi.org/project/junkie-rfglab/"
 }
