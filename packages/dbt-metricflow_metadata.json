@@ -1,0 +1,11 @@
+{
+  "name": "dbt-metricflow",
+  "version": "0.11.0",
+  "summary": "Execute commands against the MetricFlow semantic layer with dbt.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_metricflow-0.11.0.tar.gz",
+  "download_time": "2025-10-14T16:28:03.339089",
+  "package_url": "https://pypi.org/project/dbt-metricflow/"
+}

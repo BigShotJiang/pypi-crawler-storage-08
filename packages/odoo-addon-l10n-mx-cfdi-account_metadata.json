@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-mx-cfdi-account",
+  "version": "17.0.1.0.2",
+  "summary": "Mexico CFDI Account Integration",
+  "author": "=?utf-8?q?Alexis_L=C3=B3pez_Zubieta_=3Calexis=2Elopez=40augetec=2Ecom=3E_=28Auge_TEC=29=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/l10n-mexico",
+  "download_filename": "odoo_addon_l10n_mx_cfdi_account-17.0.1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-14T16:28:00.732412",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-mx-cfdi-account/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ssak",
+  "version": "0.0.2",
+  "summary": "Toolbox for Speech Processing.",
+  "author": "linto-ai",
+  "license": "GPLv3",
+  "home_page": "https://github.com/linagora-labs/ssak",
+  "download_filename": "ssak-0.0.2.tar.gz",
+  "download_time": "2025-10-14T16:28:23.529354",
+  "package_url": "https://pypi.org/project/ssak/"
+}

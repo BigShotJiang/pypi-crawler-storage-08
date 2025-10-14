@@ -1,0 +1,11 @@
+{
+  "name": "siss",
+  "version": "0.1.4",
+  "summary": "A command-line utility for applying artistic effects to videos",
+  "author": "Michail Semoglou",
+  "license": "MIT",
+  "home_page": "https://github.com/MichailSemoglou/siss",
+  "download_filename": "siss-0.1.4.tar.gz",
+  "download_time": "2025-10-14T16:27:49.658396",
+  "package_url": "https://pypi.org/project/siss/"
+}

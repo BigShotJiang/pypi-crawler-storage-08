@@ -1,0 +1,11 @@
+{
+  "name": "Samara",
+  "version": "0.1.0",
+  "summary": "Config Driven ETL Framework",
+  "author": "Krijn van der Burg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "samara-0.1.0.tar.gz",
+  "download_time": "2025-10-14T16:28:14.074924",
+  "package_url": "https://pypi.org/project/Samara/"
+}

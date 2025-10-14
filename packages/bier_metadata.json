@@ -1,0 +1,11 @@
+{
+  "name": "bier",
+  "version": "0.0.2",
+  "summary": "Endian-aware binary IO streams and annotation driven serialization helpers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bier-0.0.2.tar.gz",
+  "download_time": "2025-10-14T16:28:06.164775",
+  "package_url": "https://pypi.org/project/bier/"
+}

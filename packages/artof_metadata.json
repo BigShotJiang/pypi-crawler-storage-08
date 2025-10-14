@@ -1,0 +1,11 @@
+{
+  "name": "artof",
+  "version": "1.2.1",
+  "summary": "The ARTOF is a tool to read, process and analyze data collected from angle resolved time of flight (ARToF) electron analyzer.",
+  "author": "Carl Magnus Meier",
+  "license": null,
+  "home_page": "https://codebase.helmholtz.cloud/carl.meier/artof",
+  "download_filename": "artof-1.2.1.tar.gz",
+  "download_time": "2025-10-14T16:28:23.010667",
+  "package_url": "https://pypi.org/project/artof/"
+}

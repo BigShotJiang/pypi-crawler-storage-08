@@ -1,0 +1,11 @@
+{
+  "name": "django-prune-media",
+  "version": "0.1.7",
+  "summary": "Adds tools for pruning media files from your django project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_prune_media-0.1.7.tar.gz",
+  "download_time": "2025-10-14T16:27:44.442961",
+  "package_url": "https://pypi.org/project/django-prune-media/"
+}
