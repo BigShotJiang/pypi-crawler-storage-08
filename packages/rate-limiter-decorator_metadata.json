@@ -1,11 +1,11 @@
 {
   "name": "rate-limiter-decorator",
-  "version": "0.0.6",
-  "summary": null,
+  "version": "0.0.7",
+  "summary": "A Python async rate limiter using Redis and Lua with sliding window algorithm. Supports retries, exponential backoff, and optional exception handling.",
   "author": "Вадим Бажов",
   "license": null,
   "home_page": null,
-  "download_filename": "rate_limiter_decorator-0.0.6.tar.gz",
-  "download_time": "2025-10-14T09:44:38.141455",
+  "download_filename": "rate_limiter_decorator-0.0.7.tar.gz",
+  "download_time": "2025-10-14T09:55:08.705262",
   "package_url": "https://pypi.org/project/rate-limiter-decorator/"
 }

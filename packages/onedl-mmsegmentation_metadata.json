@@ -1,0 +1,11 @@
+{
+  "name": "onedl-mmsegmentation",
+  "version": "1.3.0",
+  "summary": "OneDL Semantic Segmentation Toolbox and Benchmark",
+  "author": "OneDL-MMSegmentation Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "onedl_mmsegmentation-1.3.0.tar.gz",
+  "download_time": "2025-10-14T09:55:01.768740",
+  "package_url": "https://pypi.org/project/onedl-mmsegmentation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crowdstrike-foundry-function",
+  "version": "1.1.2",
+  "summary": "CrowdStrike Foundry Function Software Developer Kit for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crowdstrike_foundry_function-1.1.2.tar.gz",
+  "download_time": "2025-10-14T09:55:00.716481",
+  "package_url": "https://pypi.org/project/crowdstrike-foundry-function/"
+}

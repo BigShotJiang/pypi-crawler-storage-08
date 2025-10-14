@@ -1,0 +1,11 @@
+{
+  "name": "tqdx",
+  "version": "0.1.5",
+  "summary": "JAX compatible progress bars for scan and fori_loop.",
+  "author": "huterguier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tqdx-0.1.5.tar.gz",
+  "download_time": "2025-10-14T09:54:59.675244",
+  "package_url": "https://pypi.org/project/tqdx/"
+}

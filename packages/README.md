@@ -1,18 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T09:45:23.001012
-- **Total Packages**: 87
-- **Total Size**: 38.69 MB
+- **Download Time**: 2025-10-14T09:55:38.697328
+- **Total Packages**: 82
+- **Total Size**: 16.92 MB
 
 ## Packages List
+- dc43-service-backends
+- dc43-service-clients
+- dc43
+- XER-Technologies-metadata-extractor
 - junshan-kit
-- jamlib
+- qnvip-mcp
+- logdetective
+- openhive
+- tqml
+- tqdx
+- fsspec-utils
+- crowdstrike-foundry-function
+- talentro-commons
+- onedl-mmsegmentation
+- re-browser-use
+- birder
+- authentik-client
+- id-recognizer
+- port-experience
+- crawlee
+- choreopath
+- minecraft-bds
+- graph2mat
+- hippius
+- droidrun
 - rate-limiter-decorator
-- cracker
-- browser-use-neo
 - oterogeneity
 - sfhunter
+- LightAgent
+- youku-video-download-mcp
+- bilibili-video-download-mcp
+- jupyterlab-browser-ai
+- jamlib
+- cracker
+- browser-use-neo
 - dsp-tools
 - unifiedai-sdk
 - faster-app
@@ -22,7 +50,6 @@
 - ray-utilities
 - cs.srcset
 - fmc-report
-- authentik-client
 - kmerexplor
 - doordeck-headless-sdk
 - mostlyai
@@ -30,7 +57,6 @@
 - alibabacloud-aliding20230426
 - mzpy
 - reemote
-- talentro-commons
 - modal
 - ewccli
 - key-master-3000
@@ -60,36 +86,5 @@
 - lrdbenchmark
 - clirk
 - HowdenParser
-- minecraft-bds
 - quash-mcp
 - elevenlabs
-- pydivkit
-- mcp-qweather
-- srx-lib-docs
-- kstchatutils
-- id-recognizer
-- evalscope
-- basefwx
-- tbp-nightly
-- open-constructs-aws-cdk
-- dataleon
-- re-browser-use
-- platon-cli
-- aristech-stt-client
-- pycasbin
-- xmlschema
-- maleo-imaging
-- dsslab-net-bench
-- gaussian-splatting
-- fastpluggy-postgres-tools
-- twix-dl
-- xgovuk-flask-admin
-- scriptmate
-- edge-containers-cli
-- qecore
-- fameio
-- shotgun-sh
-- nlannuzel.sgrain
-- ldc-dashboard-rbac
-- ultra-paas-sidecar
-- rormula
