@@ -1,11 +1,11 @@
 {
   "name": "Rextgram",
-  "version": "2.0.182",
+  "version": "2.0.183",
   "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
   "author": "Dan",
   "license": "LGPLv3",
   "home_page": "https://github.com/adityadwiprs190/pyrogram",
-  "download_filename": "rextgram-2.0.182-py3-none-any.whl",
-  "download_time": "2025-10-14T06:48:59.558487",
+  "download_filename": "rextgram-2.0.183.tar.gz",
+  "download_time": "2025-10-14T07:42:41.425808",
   "package_url": "https://pypi.org/project/Rextgram/"
 }

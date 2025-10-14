@@ -1,0 +1,11 @@
+{
+  "name": "tc-hivemind-backend",
+  "version": "1.4.7",
+  "summary": "This repository is a shared library for together hivemind etl and bot codes.",
+  "author": "Mohammad Amin Dadgar, TogetherCrew",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tc_hivemind_backend-1.4.7.tar.gz",
+  "download_time": "2025-10-14T07:42:38.807694",
+  "package_url": "https://pypi.org/project/tc-hivemind-backend/"
+}

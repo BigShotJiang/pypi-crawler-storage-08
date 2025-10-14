@@ -1,0 +1,11 @@
+{
+  "name": "miris-manager-client",
+  "version": "7.0",
+  "summary": "A python3 reference implementation of an UbiCast Miris Manager API client.",
+  "author": "UbiCast",
+  "license": null,
+  "home_page": null,
+  "download_filename": "miris_manager_client-7.0.tar.gz",
+  "download_time": "2025-10-14T07:42:34.641479",
+  "package_url": "https://pypi.org/project/miris-manager-client/"
+}

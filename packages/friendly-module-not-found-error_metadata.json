@@ -1,11 +1,11 @@
 {
   "name": "friendly-module-not-found-error",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "summary": "Change the message in ModuleNotFoundError",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "friendly_module_not_found_error-1.0.25.tar.gz",
-  "download_time": "2025-10-13T09:46:01.246873",
+  "download_filename": "friendly_module_not_found_error-1.0.26.tar.gz",
+  "download_time": "2025-10-14T07:42:38.292593",
   "package_url": "https://pypi.org/project/friendly-module-not-found-error/"
 }

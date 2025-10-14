@@ -1,11 +1,11 @@
 {
   "name": "mqt-core",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "The Backbone of the Munich Quantum Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mqt_core-3.3.0.tar.gz",
-  "download_time": "2025-10-13T20:24:20.704485",
+  "download_filename": "mqt_core-3.3.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-14T07:42:18.201374",
   "package_url": "https://pypi.org/project/mqt-core/"
 }

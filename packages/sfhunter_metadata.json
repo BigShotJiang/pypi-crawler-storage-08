@@ -1,0 +1,11 @@
+{
+  "name": "sfhunter",
+  "version": "1.0.0",
+  "summary": "High-performance Salesforce URL scanner with Discord/Telegram integration",
+  "author": "SFHunter",
+  "license": null,
+  "home_page": "https://github.com/yourusername/sfhunter",
+  "download_filename": "sfhunter-1.0.0.tar.gz",
+  "download_time": "2025-10-14T07:42:27.339227",
+  "package_url": "https://pypi.org/project/sfhunter/"
+}
