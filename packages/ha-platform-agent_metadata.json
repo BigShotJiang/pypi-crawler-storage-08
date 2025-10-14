@@ -1,11 +1,11 @@
 {
   "name": "ha-platform-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Agentic AI-powered platform evaluator for multi-cloud code and logic evaluation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ha_platform_agent-0.1.0-py3-none-any.whl",
-  "download_time": "2025-10-14T14:12:47.030285",
+  "download_filename": "ha_platform_agent-0.1.1.tar.gz",
+  "download_time": "2025-10-14T14:23:07.454881",
   "package_url": "https://pypi.org/project/ha-platform-agent/"
 }

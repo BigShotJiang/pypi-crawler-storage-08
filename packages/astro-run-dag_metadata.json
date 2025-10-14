@@ -1,0 +1,11 @@
+{
+  "name": "astro-run-dag",
+  "version": "0.2.10",
+  "summary": "Run Airflow DAGs with just python",
+  "author": "Astronomer",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "astro_run_dag-0.2.10.tar.gz",
+  "download_time": "2025-10-14T14:23:00.570688",
+  "package_url": "https://pypi.org/project/astro-run-dag/"
+}

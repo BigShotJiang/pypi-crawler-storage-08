@@ -1,0 +1,11 @@
+{
+  "name": "jianpu-ly",
+  "version": "1.864",
+  "summary": "Jianpu in Lilypond",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": "http://ssb22.user.srcf.net/mwrhome/jianpu-ly.html",
+  "download_filename": "jianpu_ly-1.864.tar.gz",
+  "download_time": "2025-10-14T14:22:54.800089",
+  "package_url": "https://pypi.org/project/jianpu-ly/"
+}

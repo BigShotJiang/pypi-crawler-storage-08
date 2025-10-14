@@ -1,0 +1,11 @@
+{
+  "name": "label-studio-sdk",
+  "version": "2.0.12",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/HumanSignal/label-studio-sdk",
+  "download_filename": "label_studio_sdk-2.0.12.tar.gz",
+  "download_time": "2025-10-14T14:23:08.578102",
+  "package_url": "https://pypi.org/project/label-studio-sdk/"
+}

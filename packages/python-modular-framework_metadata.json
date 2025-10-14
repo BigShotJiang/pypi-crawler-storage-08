@@ -1,0 +1,11 @@
+{
+  "name": "python-modular-framework",
+  "version": "1.0.0",
+  "summary": "一个功能完整的Python模块化框架，支持组件化开发、依赖注入、中间件系统、插件机制等现代软件开发的核心特性",
+  "author": "Python模块化框架开发团队",
+  "license": "MIT",
+  "home_page": "https://github.com/python-modular-framework/python-modular-framework",
+  "download_filename": "python_modular_framework-1.0.0.tar.gz",
+  "download_time": "2025-10-14T14:23:04.024523",
+  "package_url": "https://pypi.org/project/python-modular-framework/"
+}

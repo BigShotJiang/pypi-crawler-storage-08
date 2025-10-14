@@ -1,11 +1,11 @@
 {
   "name": "python-htmlinfo",
-  "version": "0.1.4",
-  "summary": "HTML version of Python info, like phpinfo() but for Python",
+  "version": "0.1.7",
+  "summary": "Beautiful HTML version of phpinfo(), but for Python.",
   "author": "ATRCORE-UA",
   "license": "MIT",
   "home_page": "https://pypi.org/project/python-htmlinfo/",
-  "download_filename": "python_htmlinfo-0.1.4.tar.gz",
-  "download_time": "2025-10-14T10:57:39.686393",
+  "download_filename": "python_htmlinfo-0.1.7.tar.gz",
+  "download_time": "2025-10-14T14:22:48.336393",
   "package_url": "https://pypi.org/project/python-htmlinfo/"
 }

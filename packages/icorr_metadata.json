@@ -1,0 +1,11 @@
+{
+  "name": "icorr",
+  "version": "0.0.1",
+  "summary": "Identity Correlation Value to measure how identical two arrays X and Y are and how likely this similarity is by random chance.",
+  "author": "Florian P. Bayer",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "icorr-0.0.1.tar.gz",
+  "download_time": "2025-10-14T14:23:01.159268",
+  "package_url": "https://pypi.org/project/icorr/"
+}

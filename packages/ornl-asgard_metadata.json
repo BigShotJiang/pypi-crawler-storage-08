@@ -1,0 +1,11 @@
+{
+  "name": "ornl-asgard",
+  "version": "0.7.1a5",
+  "summary": "Library for high-dimensional PDEs using sparse grids and discontinuous Galerkin method",
+  "author": "Miroslav Stoyanov",
+  "license": "MIT",
+  "home_page": "https://github.com/project-asgard/asgard",
+  "download_filename": "ornl_asgard-0.7.1a5.tar.gz",
+  "download_time": "2025-10-14T14:22:48.914365",
+  "package_url": "https://pypi.org/project/ornl-asgard/"
+}
