@@ -1,0 +1,11 @@
+{
+  "name": "RunFeemsSim",
+  "version": "0.2.6",
+  "summary": "A library for running feems simulation",
+  "author": "Kevin Koosup Yum",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/SINTEF/FEEMS",
+  "download_filename": "runfeemssim-0.2.6.tar.gz",
+  "download_time": "2025-10-14T10:46:49.839933",
+  "package_url": "https://pypi.org/project/RunFeemsSim/"
+}

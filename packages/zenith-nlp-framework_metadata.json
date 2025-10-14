@@ -1,0 +1,11 @@
+{
+  "name": "zenith-nlp-framework",
+  "version": "1.0.0",
+  "summary": "An advanced, from-scratch NLP framework for training and deploying modern transformer models.",
+  "author": "Satya Sai Nischal",
+  "license": null,
+  "home_page": "https://github.com/cattolatte/zenith-nlp-framework",
+  "download_filename": "zenith_nlp_framework-1.0.0.tar.gz",
+  "download_time": "2025-10-14T10:47:10.002328",
+  "package_url": "https://pypi.org/project/zenith-nlp-framework/"
+}

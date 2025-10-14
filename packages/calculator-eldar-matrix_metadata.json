@@ -1,0 +1,11 @@
+{
+  "name": "calculator-eldar-matrix",
+  "version": "0.5.0",
+  "summary": "Python calculator library with math, trig, stats, and geometry functions",
+  "author": "Eldar",
+  "license": null,
+  "home_page": "https://github.com/eldar/calculator",
+  "download_filename": "calculator_eldar_matrix-0.5.0.tar.gz",
+  "download_time": "2025-10-14T10:46:56.074262",
+  "package_url": "https://pypi.org/project/calculator-eldar-matrix/"
+}

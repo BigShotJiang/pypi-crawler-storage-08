@@ -1,11 +1,11 @@
 {
   "name": "AFL-2-MATH",
-  "version": "3.0",
+  "version": "4.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "afl_2_math-3.0.tar.gz",
-  "download_time": "2025-10-14T07:42:35.687199",
+  "download_filename": "afl_2_math-4.0.tar.gz",
+  "download_time": "2025-10-14T10:47:21.844619",
   "package_url": "https://pypi.org/project/AFL-2-MATH/"
 }
