@@ -1,22 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T20:44:26.497784
-- **Total Packages**: 88
-- **Total Size**: 42.29 MB
+- **Download Time**: 2025-10-14T20:55:18.491916
+- **Total Packages**: 86
+- **Total Size**: 22.2 MB
 
 ## Packages List
+- aviary.notebook
+- aviary.litqa
+- aviary.lfrqa
+- aviary.hotpotqa
+- aviary.gsm8k
+- kerykeion
+- fhlmi
+- ldp
+- pre-commit-vauxoo
+- odoo-addon-account-move-name-sequence
+- abstract-nginx
+- resaid
+- trapster
+- deluge-mcp
+- rail-django-graphql
+- streamlit-octostar-utils
+- fluoscenepy
+- pappardelle
+- pyblst
+- liger-kernel-nightly
+- yopmail-client
+- types-boto3
+- types-boto3-lite
+- onvif-python
+- bambu-printer-manager
+- lparchive2epub
+- natbus
+- instructlab-training
+- table-toolkit
+- landingai-ade
+- dulwich
+- pylucam
+- bandcamp-lib
+- broker
+- devcommit
+- educommon
+- boto3-stubs
+- boto3-stubs-lite
+- types-boto3-transfer
+- mypy-boto3-transfer
+- types-boto3-transcribe
+- mypy-boto3-transcribe
+- mypy-boto3-ec2
+- types-boto3-ec2
+- mypy-boto3-datazone
+- maqet
+- types-boto3-datazone
+- mypy-boto3-connect
+- mypy-boto3-appstream
+- mypy-boto3-backup
+- types-boto3-connect
+- types-boto3-backup
+- types-boto3-appstream
+- sftpretty
+- agent-jupyter-toolkit
+- agentui
 - strictdoc
 - statsig-python-core
 - water-column-sonar-resampling
 - ai4ce-helpers
 - satori-ci
-- abstract-nginx
 - rocketlogger
-- bambu-printer-manager
 - concurry
 - industrial-model
-- devcommit
 - emp-utl
 - napari-tomodl
 - mcp-proxy-adapter
@@ -29,7 +82,6 @@
 - bacon-net
 - aibs-informatics-aws-utils
 - scoutsdk
-- yopmail-client
 - buelon
 - PyComplexHeatmap
 - airbyte-source-outbrain-amplify
@@ -40,57 +92,3 @@
 - veris-ai
 - airbyte-source-netsuite
 - matrix-synapse
-- mnistvit
-- machineconfig
-- streamlit-octostar-utils
-- airbyte-source-shopify
-- resonate-sdk
-- cybrid-api-organization-python
-- airbyte-source-faker
-- cybrid-api-id-python
-- deluge-mcp
-- mcpo
-- yapCAD
-- apstrim
-- beaker-py
-- hexdoc-mediatransport
-- navam-invest
-- effectful
-- airbyte-source-marketo
-- spacefrontiers-clients
-- wry
-- wwpdb.utils.align
-- AOT-biomaps
-- airbyte-source-surveymonkey
-- klokku-python-client
-- horsemeat
-- mozo
-- airbyte-source-hardcoded-records
-- bittensor-cli
-- airbyte-source-sftp-bulk
-- airbyte-source-recharge
-- deepfabric
-- neuro-san
-- flyteidl2
-- airbyte-source-iterable
-- langsmith
-- sourcemeta-jsonschema
-- cas-base
-- computemate
-- GNServer
-- vicpyx
-- airbyte-source-azure-table
-- agentmake
-- s2t
-- jsonpath-rust-bindings
-- tabpfn-time-series
-- airbyte-destination-pgvector
-- pycoustic
-- agnt5
-- codefury
-- pylint-odoo
-- fastapi-basekit
-- llmflowstack
-- airbyte-source-azure-blob-storage
-- pappardelle
-- crossplane-function-pythonic

@@ -1,11 +1,11 @@
 {
   "name": "pylucam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python wrapper for Lumenera Lucam API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylucam-1.0.1.tar.gz",
-  "download_time": "2025-10-13T22:20:04.978011",
+  "download_filename": "pylucam-1.0.2.tar.gz",
+  "download_time": "2025-10-14T20:54:48.628621",
   "package_url": "https://pypi.org/project/pylucam/"
 }

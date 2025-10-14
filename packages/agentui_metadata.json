@@ -1,11 +1,11 @@
 {
   "name": "agentui",
-  "version": "0.1.0",
-  "summary": "A starter package to build Agents",
-  "author": "Emrah NAZIF",
+  "version": "0.1.1",
+  "summary": "Visual workflow builder for computer vision",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/datamarkin/agents",
-  "download_filename": "agentui-0.1.0.tar.gz",
-  "download_time": "2025-10-12T10:53:15.323528",
+  "home_page": null,
+  "download_filename": "agentui-0.1.1.tar.gz",
+  "download_time": "2025-10-14T20:55:01.047167",
   "package_url": "https://pypi.org/project/agentui/"
 }

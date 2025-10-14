@@ -1,11 +1,11 @@
 {
   "name": "bandcamp-lib",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bandcamp_lib-0.2.0.tar.gz",
-  "download_time": "2025-10-13T21:54:25.347374",
+  "download_filename": "bandcamp_lib-0.3.0.tar.gz",
+  "download_time": "2025-10-14T20:54:49.145993",
   "package_url": "https://pypi.org/project/bandcamp-lib/"
 }
