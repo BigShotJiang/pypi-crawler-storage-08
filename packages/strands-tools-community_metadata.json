@@ -1,11 +1,11 @@
 {
   "name": "strands-tools-community",
-  "version": "0.1.0",
-  "summary": "Community tools for Strands Agent SDK: Deepgram, HubSpot, Microsoft Teams",
+  "version": "0.2.0",
+  "summary": "Meta-package for Strands community tools (convenience wrapper for strands-deepgram, strands-hubspot, strands-teams)",
   "author": "Eray Keskin",
   "license": "MIT",
   "home_page": "https://github.com/eraykeskinmac/strands-tools-community",
-  "download_filename": "strands_tools_community-0.1.0.tar.gz",
-  "download_time": "2025-10-09T03:33:22.839779",
+  "download_filename": "strands_tools_community-0.2.0.tar.gz",
+  "download_time": "2025-10-14T23:40:19.564278",
   "package_url": "https://pypi.org/project/strands-tools-community/"
 }

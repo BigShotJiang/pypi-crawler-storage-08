@@ -1,11 +1,11 @@
 {
   "name": "jijzept-sdk",
-  "version": "2025.10.7",
+  "version": "2025.10.14",
   "summary": "Free development kit provided by JijZept.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jijzept_sdk-2025.10.7.tar.gz",
-  "download_time": "2025-10-07T23:37:54.011336",
+  "download_filename": "jijzept_sdk-2025.10.14.tar.gz",
+  "download_time": "2025-10-14T23:40:22.885656",
   "package_url": "https://pypi.org/project/jijzept-sdk/"
 }

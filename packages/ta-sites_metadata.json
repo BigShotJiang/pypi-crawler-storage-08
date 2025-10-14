@@ -1,11 +1,11 @@
 {
   "name": "ta-sites",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "TA Sites",
   "author": "Serhii Romanets",
   "license": null,
   "home_page": "https://www.thoughtfulautomation.com/",
-  "download_filename": "ta_sites-0.5.3.tar.gz",
-  "download_time": "2025-10-10T20:41:30.412752",
+  "download_filename": "ta_sites-0.5.4.tar.gz",
+  "download_time": "2025-10-14T23:40:25.206906",
   "package_url": "https://pypi.org/project/ta-sites/"
 }

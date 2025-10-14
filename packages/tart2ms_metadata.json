@@ -1,0 +1,11 @@
+{
+  "name": "tart2ms",
+  "version": "0.7.4",
+  "summary": "Convert TART observation data to Measurement Sets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tart2ms-0.7.4.tar.gz",
+  "download_time": "2025-10-14T23:40:35.271682",
+  "package_url": "https://pypi.org/project/tart2ms/"
+}

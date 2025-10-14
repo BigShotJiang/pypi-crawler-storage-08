@@ -1,11 +1,11 @@
 {
   "name": "yt-dlp",
-  "version": "2025.9.26",
+  "version": "2025.10.14",
   "summary": "A feature-rich command-line audio/video downloader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yt_dlp-2025.9.26.tar.gz",
-  "download_time": "2025-10-11T23:39:25.802534",
+  "download_filename": "yt_dlp-2025.10.14.tar.gz",
+  "download_time": "2025-10-14T23:40:17.192179",
   "package_url": "https://pypi.org/project/yt-dlp/"
 }

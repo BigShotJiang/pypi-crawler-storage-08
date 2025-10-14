@@ -1,0 +1,11 @@
+{
+  "name": "magentic",
+  "version": "0.41.0",
+  "summary": "Seamlessly integrate LLMs as Python functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magentic-0.41.0.tar.gz",
+  "download_time": "2025-10-14T23:40:38.155175",
+  "package_url": "https://pypi.org/project/magentic/"
+}
