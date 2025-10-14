@@ -1,11 +1,11 @@
 {
   "name": "izisat",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "izisat-1.0.17.tar.gz",
-  "download_time": "2025-10-14T02:52:58.672574",
+  "download_filename": "izisat-1.0.18.tar.gz",
+  "download_time": "2025-10-14T04:26:36.870342",
   "package_url": "https://pypi.org/project/izisat/"
 }

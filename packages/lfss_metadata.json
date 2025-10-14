@@ -1,11 +1,11 @@
 {
   "name": "lfss",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "Lite file storage service",
   "author": "Li, Mengxun",
   "license": null,
   "home_page": "https://github.com/MenxLi/lfss",
-  "download_filename": "lfss-0.13.0.tar.gz",
-  "download_time": "2025-10-11T14:16:45.937266",
+  "download_filename": "lfss-0.13.1-py3-none-any.whl",
+  "download_time": "2025-10-14T04:25:53.283664",
   "package_url": "https://pypi.org/project/lfss/"
 }

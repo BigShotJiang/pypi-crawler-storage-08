@@ -1,0 +1,11 @@
+{
+  "name": "jancodegen",
+  "version": "0.1.2",
+  "summary": "A Python package for generating random JAN codes and related product identification codes with valid check digits",
+  "author": "Tran Trung Kien",
+  "license": null,
+  "home_page": "https://github.com/kientt137/jancodegen",
+  "download_filename": "jancodegen-0.1.2.tar.gz",
+  "download_time": "2025-10-14T04:25:57.981953",
+  "package_url": "https://pypi.org/project/jancodegen/"
+}

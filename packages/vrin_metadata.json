@@ -1,0 +1,11 @@
+{
+  "name": "vrin",
+  "version": "0.8.0",
+  "summary": "Enterprise Hybrid RAG SDK with entity-centric extraction, zero-loss architecture, complete source attribution, constraint solver, temporal consistency, and multi-cloud deployment",
+  "author": "VRIN Team",
+  "license": null,
+  "home_page": "https://github.com/vrin-ai/vrin-sdk",
+  "download_filename": "vrin-0.8.0.tar.gz",
+  "download_time": "2025-10-14T04:26:02.232695",
+  "package_url": "https://pypi.org/project/vrin/"
+}

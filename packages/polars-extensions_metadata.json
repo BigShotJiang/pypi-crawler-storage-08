@@ -1,0 +1,11 @@
+{
+  "name": "polars-extensions",
+  "version": "0.9.0",
+  "summary": "The Library of Polars Extensions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_extensions-0.9.0.tar.gz",
+  "download_time": "2025-10-14T04:26:36.351134",
+  "package_url": "https://pypi.org/project/polars-extensions/"
+}

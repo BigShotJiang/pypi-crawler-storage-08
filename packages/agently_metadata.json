@@ -1,11 +1,11 @@
 {
   "name": "agently",
-  "version": "4.0.5",
+  "version": "4.0.5.1",
   "summary": null,
   "author": "Agently Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agently-4.0.5.tar.gz",
-  "download_time": "2025-10-08T10:20:45.243411",
+  "download_filename": "agently-4.0.5.1.tar.gz",
+  "download_time": "2025-10-14T04:25:56.943549",
   "package_url": "https://pypi.org/project/agently/"
 }

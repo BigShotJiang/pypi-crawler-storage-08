@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-stock-full-location-reservation-on-assign",
+  "version": "14.0.1.0.1.dev4",
+  "summary": "Do a automatic full location reservationon picking's action_assign",
+  "author": "MT Software, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/wms",
+  "download_filename": "odoo14_addon_stock_full_location_reservation_on_assign-14.0.1.0.1.dev4-py3-none-any.whl",
+  "download_time": "2025-10-14T04:26:07.471866",
+  "package_url": "https://pypi.org/project/odoo14-addon-stock-full-location-reservation-on-assign/"
+}

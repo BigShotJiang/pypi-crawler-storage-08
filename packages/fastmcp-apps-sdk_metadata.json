@@ -1,0 +1,11 @@
+{
+  "name": "fastmcp-apps-sdk",
+  "version": "1.0.0",
+  "summary": "Widgets SDK for FastMCP targeting OpenAI Apps SDK (outputTemplate + widget helpers).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmcp_apps_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-14T04:26:16.951365",
+  "package_url": "https://pypi.org/project/fastmcp-apps-sdk/"
+}

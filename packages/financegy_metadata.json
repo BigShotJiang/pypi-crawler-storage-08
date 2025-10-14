@@ -1,0 +1,11 @@
+{
+  "name": "financegy",
+  "version": "0.1.0",
+  "summary": "Unofficial Python library for accessing GSE (Guyana Stock Exchange) financial data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "financegy-0.1.0.tar.gz",
+  "download_time": "2025-10-14T04:26:05.389155",
+  "package_url": "https://pypi.org/project/financegy/"
+}

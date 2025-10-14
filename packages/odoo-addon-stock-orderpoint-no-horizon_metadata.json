@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-orderpoint-no-horizon",
+  "version": "18.0.1.0.0.5",
+  "summary": "Consider all future moves, do not limit horizon to the rule lead days.",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-orderpoint",
+  "download_filename": "odoo_addon_stock_orderpoint_no_horizon-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-14T04:26:26.496837",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-orderpoint-no-horizon/"
+}

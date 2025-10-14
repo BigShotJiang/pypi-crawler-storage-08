@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-printing-auto-stock-picking",
+  "version": "14.0.1.1.1",
+  "summary": "Printing Auto Stock Picking",
+  "author": "BCIM, MT Software, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reporting",
+  "download_filename": "odoo14_addon_printing_auto_stock_picking-14.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-10-14T04:26:25.458040",
+  "package_url": "https://pypi.org/project/odoo14-addon-printing-auto-stock-picking/"
+}

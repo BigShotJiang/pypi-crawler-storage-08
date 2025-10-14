@@ -1,11 +1,11 @@
 {
   "name": "bear-dereth",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "A set of common tools for various bear projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bear_dereth-0.3.10.tar.gz",
-  "download_time": "2025-10-14T03:36:33.528566",
+  "download_filename": "bear_dereth-0.3.11.tar.gz",
+  "download_time": "2025-10-14T04:25:59.565067",
   "package_url": "https://pypi.org/project/bear-dereth/"
 }

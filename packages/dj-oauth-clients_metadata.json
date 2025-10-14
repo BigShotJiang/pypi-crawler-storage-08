@@ -1,0 +1,11 @@
+{
+  "name": "dj-oauth-clients",
+  "version": "0.1.7",
+  "summary": "Django app for handling oauth2 clients.",
+  "author": "Karel Antonio Verdecia Ortiz",
+  "license": "MIT",
+  "home_page": "https://github.com/kverdecia/dj-oauth-clients",
+  "download_filename": "dj_oauth_clients-0.1.7.tar.gz",
+  "download_time": "2025-10-14T04:26:34.810187",
+  "package_url": "https://pypi.org/project/dj-oauth-clients/"
+}
