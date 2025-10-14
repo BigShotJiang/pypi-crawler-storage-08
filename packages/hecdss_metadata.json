@@ -1,0 +1,11 @@
+{
+  "name": "hecdss",
+  "version": "0.1.27",
+  "summary": "Python wrapper for the HEC-DSS file database C library.",
+  "author": "Hydrologic Engineering Center",
+  "license": null,
+  "home_page": "https://github.com/HydrologicEngineeringCenter/hec-dss-python",
+  "download_filename": "hecdss-0.1.27.tar.gz",
+  "download_time": "2025-10-14T23:21:05.997670",
+  "package_url": "https://pypi.org/project/hecdss/"
+}

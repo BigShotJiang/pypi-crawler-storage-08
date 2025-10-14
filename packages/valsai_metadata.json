@@ -1,0 +1,11 @@
+{
+  "name": "valsai",
+  "version": "0.3.6",
+  "summary": "SDK for the Vals AI Platform",
+  "author": "Langston Nashold, Rayan Krishnan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "valsai-0.3.6.tar.gz",
+  "download_time": "2025-10-14T23:21:22.696404",
+  "package_url": "https://pypi.org/project/valsai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "team-digest",
-  "version": "0.1.10",
+  "version": "1.0.0",
   "summary": "Generate team digests from logs/emails, post to Slack, and automate on Windows.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "team_digest-0.1.10.tar.gz",
-  "download_time": "2025-10-09T23:18:52.049597",
+  "download_filename": "team_digest-1.0.0.tar.gz",
+  "download_time": "2025-10-14T23:21:05.396740",
   "package_url": "https://pypi.org/project/team-digest/"
 }

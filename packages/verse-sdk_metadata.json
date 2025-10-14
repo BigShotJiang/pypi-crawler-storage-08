@@ -1,11 +1,11 @@
 {
   "name": "verse-sdk",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Verse Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "verse_sdk-0.1.5.tar.gz",
-  "download_time": "2025-10-09T01:26:11.145134",
+  "download_filename": "verse_sdk-0.1.7.tar.gz",
+  "download_time": "2025-10-14T23:21:04.180652",
   "package_url": "https://pypi.org/project/verse-sdk/"
 }
