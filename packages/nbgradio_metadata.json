@@ -1,11 +1,11 @@
 {
   "name": "nbgradio",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Convert Jupyter notebooks to static HTML websites with live Gradio apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nbgradio-0.0.2.tar.gz",
-  "download_time": "2025-10-13T20:43:10.555822",
+  "download_filename": "nbgradio-0.0.3.tar.gz",
+  "download_time": "2025-10-14T19:55:29.809754",
   "package_url": "https://pypi.org/project/nbgradio/"
 }

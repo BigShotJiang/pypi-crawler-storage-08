@@ -1,0 +1,11 @@
+{
+  "name": "pubtools-marketplacesvm",
+  "version": "2.0.0",
+  "summary": "Publishing tools for various Cloud Marketplaces",
+  "author": null,
+  "license": "GPLv3+",
+  "home_page": "https://github.com/release-engineering/pubtools-marketplacesvm",
+  "download_filename": "pubtools_marketplacesvm-2.0.0.tar.gz",
+  "download_time": "2025-10-14T19:54:53.322678",
+  "package_url": "https://pypi.org/project/pubtools-marketplacesvm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thermo-calc",
+  "version": "0.0.10",
+  "summary": "Python wrapper for thermo-calc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thermo_calc-0.0.10.tar.gz",
+  "download_time": "2025-10-14T19:55:28.783820",
+  "package_url": "https://pypi.org/project/thermo-calc/"
+}

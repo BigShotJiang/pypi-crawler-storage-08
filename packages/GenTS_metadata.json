@@ -1,0 +1,11 @@
+{
+  "name": "GenTS",
+  "version": "0.9.2",
+  "summary": "A useful tool for post-processing Earth System Model output 'history files' into the time series format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gents-0.9.2.tar.gz",
+  "download_time": "2025-10-14T19:55:22.635000",
+  "package_url": "https://pypi.org/project/GenTS/"
+}

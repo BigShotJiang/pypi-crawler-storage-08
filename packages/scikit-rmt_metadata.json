@@ -1,0 +1,11 @@
+{
+  "name": "scikit-rmt",
+  "version": "1.2.0",
+  "summary": "Random Matrix Theory Python package",
+  "author": "Alejandro Santorum Varela",
+  "license": "BSD",
+  "home_page": "https://github.com/AlejandroSantorum/scikit-rmt",
+  "download_filename": "scikit-rmt-1.2.0.tar.gz",
+  "download_time": "2025-10-14T19:55:11.295112",
+  "package_url": "https://pypi.org/project/scikit-rmt/"
+}
