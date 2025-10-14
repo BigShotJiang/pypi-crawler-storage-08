@@ -1,0 +1,11 @@
+{
+  "name": "generic-grader",
+  "version": "0.1.23",
+  "summary": "A collection of parameterizable tests for automatic grading.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "generic_grader-0.1.23.tar.gz",
+  "download_time": "2025-10-14T21:42:31.642350",
+  "package_url": "https://pypi.org/project/generic-grader/"
+}
