@@ -1,0 +1,11 @@
+{
+  "name": "magnum-cluster-api",
+  "version": "0.32.0",
+  "summary": "Cluster API driver for Magnum",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magnum_cluster_api-0.32.0.tar.gz",
+  "download_time": "2025-10-14T01:28:15.486460",
+  "package_url": "https://pypi.org/project/magnum-cluster-api/"
+}

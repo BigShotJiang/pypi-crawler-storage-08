@@ -1,11 +1,11 @@
 {
   "name": "aiofasttelethonhelper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fully async and parallel file upload/download in Telethon, without blocking the event loop.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiofasttelethonhelper-0.1.1.tar.gz",
-  "download_time": "2025-10-13T23:54:02.547006",
+  "download_filename": "aiofasttelethonhelper-0.1.2.tar.gz",
+  "download_time": "2025-10-14T01:28:22.536956",
   "package_url": "https://pypi.org/project/aiofasttelethonhelper/"
 }

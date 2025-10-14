@@ -1,0 +1,11 @@
+{
+  "name": "aind-metadata-manager",
+  "version": "0.0.6",
+  "summary": "Generated from aind-library-template",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_metadata_manager-0.0.6.tar.gz",
+  "download_time": "2025-10-14T01:28:29.921036",
+  "package_url": "https://pypi.org/project/aind-metadata-manager/"
+}
