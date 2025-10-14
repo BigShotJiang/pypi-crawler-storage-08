@@ -1,0 +1,11 @@
+{
+  "name": "centering-lgram",
+  "version": "1.2.2",
+  "summary": "Advanced Language Model with Centering Theory for Coherent Text Generation",
+  "author": "İlker Atagün",
+  "license": null,
+  "home_page": "https://github.com/iatagun/Lgram",
+  "download_filename": "centering_lgram-1.2.2.tar.gz",
+  "download_time": "2025-10-14T09:24:41.715786",
+  "package_url": "https://pypi.org/project/centering-lgram/"
+}

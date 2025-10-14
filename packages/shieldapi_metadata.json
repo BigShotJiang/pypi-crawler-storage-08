@@ -1,0 +1,11 @@
+{
+  "name": "shieldapi",
+  "version": "2.1.0",
+  "summary": "A package for endpoint protection of APIs using Keycloak",
+  "author": "SINTEF, Fraunhofer IWM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shieldapi-2.1.0.tar.gz",
+  "download_time": "2025-10-14T09:24:26.934519",
+  "package_url": "https://pypi.org/project/shieldapi/"
+}

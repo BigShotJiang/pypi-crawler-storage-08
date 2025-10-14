@@ -1,11 +1,11 @@
 {
   "name": "agentsystems-sdk",
-  "version": "0.5.11",
+  "version": "0.5.12",
   "summary": "AgentSystems Python SDK and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentsystems_sdk-0.5.11.tar.gz",
-  "download_time": "2025-10-14T01:28:56.235967",
+  "download_filename": "agentsystems_sdk-0.5.12.tar.gz",
+  "download_time": "2025-10-14T09:24:48.647758",
   "package_url": "https://pypi.org/project/agentsystems-sdk/"
 }

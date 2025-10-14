@@ -1,0 +1,11 @@
+{
+  "name": "python-binance",
+  "version": "1.0.30",
+  "summary": "Binance REST API python implementation",
+  "author": "Sam McHardy",
+  "license": "MIT",
+  "home_page": "https://github.com/sammchardy/python-binance",
+  "download_filename": "python-binance-1.0.30.tar.gz",
+  "download_time": "2025-10-14T09:24:54.442411",
+  "package_url": "https://pypi.org/project/python-binance/"
+}

@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T08:55:46.479153
-- **Total Packages**: 90
-- **Total Size**: 35.52 MB
+- **Download Time**: 2025-10-14T09:25:21.072310
+- **Total Packages**: 93
+- **Total Size**: 16.3 MB
 
 ## Packages List
+- shieldapi
+- invenio-files-rest
+- ida-domain
+- mongo-charms-single-kernel
+- odp-sdk
+- waterqsvg
+- mrx-runway
+- raincloudpy
+- modeling-5632425
+- QVAR
+- svg-water-quality-generator
+- memreader
+- hbrowser
+- agent-types
+- bosa-server-plugins-binary
+- srx-lib-core
+- feature-engineering-5632425
+- wagtail-tw-blocks
+- trading-common
+- digimat.mbio
+- amati
+- nia-mcp-server
+- data-inclusion-schema
+- fta
+- red-tidegear
+- centering-lgram
+- max-api-client-python
+- woodelf-explainer
+- db-connector-tool
+- corally
+- target-gym
+- utest-auto-core
+- jibit
+- junshan-kit
+- agnost
+- django-bulk-drf
+- mcush-python
+- agentsystems-sdk
+- unsloth
+- almanet
+- unicorn-eval
+- agenta
+- awx-zipline-ai
+- pxsol
+- alibabacloud-aliding20230426
+- jndataset-down
+- bioimageio.core
+- python-binance
 - chenx-utils
 - unsloth-zoo
 - troubadix
@@ -16,7 +64,6 @@
 - authentik-client
 - quash-mcp
 - shotgun-sh
-- mcush-python
 - MAMMOth-commons
 - django-w-docs
 - retrotv-log
@@ -40,7 +87,6 @@
 - ndshapecheck
 - agntcy-identity-service-sdk
 - pybrave
-- django-bulk-drf
 - hierarchicalforecast
 - fastpluggy-postgres-tools
 - blissoda
@@ -49,50 +95,7 @@
 - spiderx
 - dependamerge
 - tfp-nightly
-- almanet
 - node-graph
 - docuprox
 - c2pie
 - pyshareit
-- xgovuk-flask-admin
-- ultraspn
-- django-tomselect2
-- mcpp
-- nxswriter
-- m365-mcp
-- cratedb-mcp
-- chembfn-webui
-- brynq-sdk-adp-decidium
-- trading-common
-- bluer-south
-- ekodb-client
-- liquidcosmo
-- Blinter
-- db-connector-tool
-- fmu-settings
-- qr2text
-- cycode
-- alphaflow
-- fyle-integrations-platform-connector
-- outlines
-- mns-scheduler
-- CliRemote
-- hestia-earth-aggregation
-- driver-makery
-- maykin-django-prosemirror
-- langchain-imap
-- databatch-lib
-- mobisurvstd
-- wandelbots-api-client
-- jupyter-mcp-server
-- lazyid
-- uniovi-simur-wearablepermed-utils
-- automation-toolkit
-- auto-subs
-- unit-saas
-- hypergraph-db
-- jacksung
-- nadag-innmelding-python-client
-- mediaserver-api-client
-- Photini
-- incognito-anonymizer

@@ -1,0 +1,11 @@
+{
+  "name": "target-gym",
+  "version": "0.3.1",
+  "summary": "A reinforcement learning environment for simulating target-MDP environments (Airplane, Car, Bicycle), with gymnasium and gymnax support",
+  "author": "Yann Berthelot",
+  "license": null,
+  "home_page": "https://github.com/yannberthelot/Plane",
+  "download_filename": "target_gym-0.3.1.tar.gz",
+  "download_time": "2025-10-14T09:24:44.592321",
+  "package_url": "https://pypi.org/project/target-gym/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "srx-lib-core",
+  "version": "0.1.2",
+  "summary": "Core utilities for SRX services: logging, settings, FastAPI app factory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srx_lib_core-0.1.2.tar.gz",
+  "download_time": "2025-10-14T09:24:35.962814",
+  "package_url": "https://pypi.org/project/srx-lib-core/"
+}

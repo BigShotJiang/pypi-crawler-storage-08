@@ -1,0 +1,11 @@
+{
+  "name": "memreader",
+  "version": "0.0.1",
+  "summary": "Read memory from dialogues.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memreader-0.0.1.tar.gz",
+  "download_time": "2025-10-14T09:24:33.438161",
+  "package_url": "https://pypi.org/project/memreader/"
+}
