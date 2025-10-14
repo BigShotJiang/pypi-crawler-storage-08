@@ -1,0 +1,11 @@
+{
+  "name": "hiredis",
+  "version": "3.3.0",
+  "summary": "Python wrapper for hiredis",
+  "author": "Jan-Erik Rediger, Pieter Noordhuis",
+  "license": "MIT",
+  "home_page": "https://github.com/redis/hiredis-py",
+  "download_filename": "hiredis-3.3.0.tar.gz",
+  "download_time": "2025-10-14T16:49:50.648341",
+  "package_url": "https://pypi.org/project/hiredis/"
+}

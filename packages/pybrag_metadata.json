@@ -1,11 +1,11 @@
 {
   "name": "pybrag",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "Basic RAG",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybrag-0.0.19.tar.gz",
-  "download_time": "2025-10-14T16:27:59.690896",
+  "download_filename": "pybrag-0.0.20.tar.gz",
+  "download_time": "2025-10-14T16:49:24.420185",
   "package_url": "https://pypi.org/project/pybrag/"
 }

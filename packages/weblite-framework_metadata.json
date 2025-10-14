@@ -1,11 +1,11 @@
 {
   "name": "weblite-framework",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": "Чернов Михаил",
   "license": null,
   "home_page": null,
-  "download_filename": "weblite_framework-0.3.0.tar.gz",
-  "download_time": "2025-10-08T15:21:53.743575",
+  "download_filename": "weblite_framework-0.3.1.tar.gz",
+  "download_time": "2025-10-14T16:49:53.753421",
   "package_url": "https://pypi.org/project/weblite-framework/"
 }

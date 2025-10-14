@@ -1,0 +1,11 @@
+{
+  "name": "cgshop2026-pyutils",
+  "version": "0.1.0",
+  "summary": "Utilities for verifying solutions of the CG:SHOP 2026 Competition.",
+  "author": "Dominik Krupke",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "cgshop2026_pyutils-0.1.0.tar.gz",
+  "download_time": "2025-10-14T16:49:37.082625",
+  "package_url": "https://pypi.org/project/cgshop2026-pyutils/"
+}

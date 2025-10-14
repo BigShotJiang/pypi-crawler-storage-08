@@ -1,0 +1,11 @@
+{
+  "name": "deployfish",
+  "version": "1.15.4",
+  "summary": "AWS ECS related deployment tools",
+  "author": "Caltech IMSS ADS",
+  "license": null,
+  "home_page": "https://github.com/caltechads/deployfish",
+  "download_filename": "deployfish-1.15.4.tar.gz",
+  "download_time": "2025-10-14T16:49:40.734272",
+  "package_url": "https://pypi.org/project/deployfish/"
+}
