@@ -1,0 +1,11 @@
+{
+  "name": "bacon-net",
+  "version": "0.3.0",
+  "summary": "BACON: Binary Aggregation Classifier for interpretable decision-making using graded logic.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bacon_net-0.3.0.tar.gz",
+  "download_time": "2025-10-14T20:43:49.404499",
+  "package_url": "https://pypi.org/project/bacon-net/"
+}

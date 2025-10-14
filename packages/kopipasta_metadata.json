@@ -1,0 +1,11 @@
+{
+  "name": "kopipasta",
+  "version": "0.33.0",
+  "summary": "A CLI tool to generate prompts with project structure and file contents",
+  "author": "Mikko Korpela",
+  "license": "MIT",
+  "home_page": "https://github.com/mkorpela/kopipasta",
+  "download_filename": "kopipasta-0.33.0.tar.gz",
+  "download_time": "2025-10-14T20:43:54.073594",
+  "package_url": "https://pypi.org/project/kopipasta/"
+}

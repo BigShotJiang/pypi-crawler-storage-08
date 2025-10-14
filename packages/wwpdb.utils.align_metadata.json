@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.utils.align",
+  "version": "0.12.1",
+  "summary": "Alignment Library and Tools",
+  "author": "John Westbrook",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/wwpdb/py-wwpdb_utils_align",
+  "download_filename": "wwpdb_utils_align-0.12.1.tar.gz",
+  "download_time": "2025-10-14T20:44:08.216992",
+  "package_url": "https://pypi.org/project/wwpdb.utils.align/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-source-outbrain-amplify",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "summary": "Source implementation for outbrain amplify.",
   "author": "Airbyte",
   "license": "ELv2",
   "home_page": "https://airbyte.com",
-  "download_filename": "airbyte_source_outbrain_amplify-0.2.20.tar.gz",
-  "download_time": "2025-10-09T02:46:47.717446",
+  "download_filename": "airbyte_source_outbrain_amplify-0.2.21.tar.gz",
+  "download_time": "2025-10-14T20:43:53.047183",
   "package_url": "https://pypi.org/project/airbyte-source-outbrain-amplify/"
 }

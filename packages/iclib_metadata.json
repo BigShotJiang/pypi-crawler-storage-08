@@ -1,0 +1,11 @@
+{
+  "name": "iclib",
+  "version": "0.0.0.dev21",
+  "summary": "A collection of integrated circuit libraries in pure Python",
+  "author": "Blue Sky Solar Racing",
+  "license": "MIT",
+  "home_page": "https://github.com/blueskysolarracing/iclib",
+  "download_filename": "iclib-0.0.0.dev21.tar.gz",
+  "download_time": "2025-10-14T20:43:53.560672",
+  "package_url": "https://pypi.org/project/iclib/"
+}

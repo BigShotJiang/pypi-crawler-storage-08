@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T20:25:04.986300
-- **Total Packages**: 93
-- **Total Size**: 48.39 MB
+- **Download Time**: 2025-10-14T20:44:26.497784
+- **Total Packages**: 88
+- **Total Size**: 42.29 MB
 
 ## Packages List
+- strictdoc
+- statsig-python-core
+- water-column-sonar-resampling
+- ai4ce-helpers
+- satori-ci
+- abstract-nginx
+- rocketlogger
+- bambu-printer-manager
+- concurry
+- industrial-model
+- devcommit
+- emp-utl
+- napari-tomodl
+- mcp-proxy-adapter
+- format-docstring
+- iree-tools-tflite
+- iree-tools-tf
+- local-flight-map
+- iree-base-runtime
+- qbraid
+- bacon-net
+- aibs-informatics-aws-utils
+- scoutsdk
+- yopmail-client
+- buelon
+- PyComplexHeatmap
+- airbyte-source-outbrain-amplify
+- iclib
+- kopipasta
+- boto3
+- awscli
+- veris-ai
+- airbyte-source-netsuite
+- matrix-synapse
+- mnistvit
+- machineconfig
+- streamlit-octostar-utils
+- airbyte-source-shopify
+- resonate-sdk
+- cybrid-api-organization-python
+- airbyte-source-faker
+- cybrid-api-id-python
+- deluge-mcp
+- mcpo
+- yapCAD
+- apstrim
+- beaker-py
+- hexdoc-mediatransport
+- navam-invest
+- effectful
+- airbyte-source-marketo
+- spacefrontiers-clients
+- wry
+- wwpdb.utils.align
+- AOT-biomaps
 - airbyte-source-surveymonkey
 - klokku-python-client
 - horsemeat
@@ -21,7 +76,6 @@
 - langsmith
 - sourcemeta-jsonschema
 - cas-base
-- deluge-mcp
 - computemate
 - GNServer
 - vicpyx
@@ -29,7 +83,6 @@
 - agentmake
 - s2t
 - jsonpath-rust-bindings
-- ai4ce-helpers
 - tabpfn-time-series
 - airbyte-destination-pgvector
 - pycoustic
@@ -38,64 +91,6 @@
 - pylint-odoo
 - fastapi-basekit
 - llmflowstack
-- napari-tomodl
 - airbyte-source-azure-blob-storage
 - pappardelle
 - crossplane-function-pythonic
-- adss
-- caylent-devcontainer-cli
-- sima-cli
-- iatoolkit
-- airbyte-source-gcs
-- airbyte-source-google-drive
-- splurge-dsv
-- dita-convert
-- xdol
-- airbyte-source-linnworks
-- airbyte-source-freshcaller
-- airbyte-source-kyriba
-- airbyte-source-firebolt
-- airbyte-source-kyve
-- amebo
-- airbyte-source-cart
-- airbyte-source-file
-- transformerlab
-- Team-19-Custom-Utils-Lib
-- safe-store
-- leaf-framework
-- lt-tensor
-- ScriptCollection
-- pybrige
-- puter-python-sdk
-- snapctl
-- pyulysses
-- sofastats
-- rdworks
-- pyitu
-- libinephany
-- cmomy
-- spacefrontiers-clients
-- fast-depends
-- TG-AutoPoster
-- rds-proxy-password-rotation
-- agentsystems-sdk
-- odinn
-- VeraGridServer
-- VeraGrid
-- VeraGridEngine
-- continual-foragax
-- quran-ayah-lookup
-- hafez
-- toctoc-controller-router-sdk
-- Cryptodjoo
-- repex-topology-parser
-- navam-invest
-- spreadconnect-python-sdk
-- pybrag
-- cmdmock
-- pyobf
-- experimented
-- monaco-racing-alexxstep
-- cc-sessions
-- molecular-simulations
-- developeralex-hello-team
