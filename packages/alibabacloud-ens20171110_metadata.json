@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ens20171110",
+  "version": "9.3.1",
+  "summary": "Alibaba Cloud edge node service (20171110) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ens20171110-9.3.1.tar.gz",
+  "download_time": "2025-10-14T17:54:35.529466",
+  "package_url": "https://pypi.org/project/alibabacloud-ens20171110/"
+}

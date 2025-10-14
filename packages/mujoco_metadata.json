@@ -1,0 +1,11 @@
+{
+  "name": "mujoco",
+  "version": "3.3.7",
+  "summary": "MuJoCo Physics Simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mujoco-3.3.7.tar.gz",
+  "download_time": "2025-10-14T17:54:51.369261",
+  "package_url": "https://pypi.org/project/mujoco/"
+}

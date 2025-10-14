@@ -1,0 +1,11 @@
+{
+  "name": "st-pptx-viewer",
+  "version": "1.0.0",
+  "summary": "A Streamlit component for rendering PowerPoint presentations using PptxViewJS",
+  "author": "PptxViewJS Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/sdafa123/js-slide-viewer",
+  "download_filename": "st_pptx_viewer-1.0.0.tar.gz",
+  "download_time": "2025-10-14T17:54:42.933552",
+  "package_url": "https://pypi.org/project/st-pptx-viewer/"
+}

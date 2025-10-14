@@ -1,0 +1,11 @@
+{
+  "name": "python-simple-email-sender",
+  "version": "1.0.6",
+  "summary": "Enhanced Gmail sender",
+  "author": "Avi Zaguri",
+  "license": null,
+  "home_page": "https://github.com/aviz92/python-simple-email-sender",
+  "download_filename": "python_simple_email_sender-1.0.6.tar.gz",
+  "download_time": "2025-10-14T17:54:44.516547",
+  "package_url": "https://pypi.org/project/python-simple-email-sender/"
+}

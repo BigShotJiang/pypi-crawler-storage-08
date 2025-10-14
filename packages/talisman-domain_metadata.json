@@ -1,0 +1,11 @@
+{
+  "name": "talisman-domain",
+  "version": "0.4.9",
+  "summary": "Talisman domain implementations",
+  "author": "ISPRAS Talisman NLP team",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "talisman_domain-0.4.9.tar.gz",
+  "download_time": "2025-10-14T17:54:19.002718",
+  "package_url": "https://pypi.org/project/talisman-domain/"
+}

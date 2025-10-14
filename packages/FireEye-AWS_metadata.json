@@ -1,0 +1,11 @@
+{
+  "name": "FireEye-AWS",
+  "version": "0.6.0.dev0",
+  "summary": "AWS Monitoring Toolkit",
+  "author": "Hardik Nanda",
+  "license": "Apache-2.0 License",
+  "home_page": null,
+  "download_filename": "fireeye_aws-0.6.0.dev0.tar.gz",
+  "download_time": "2025-10-14T17:54:24.332406",
+  "package_url": "https://pypi.org/project/FireEye-AWS/"
+}

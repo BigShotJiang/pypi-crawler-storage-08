@@ -1,0 +1,11 @@
+{
+  "name": "skyrl-tx",
+  "version": "0.0.2",
+  "summary": "Unified API for training and inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skyrl_tx-0.0.2.tar.gz",
+  "download_time": "2025-10-14T17:54:24.847870",
+  "package_url": "https://pypi.org/project/skyrl-tx/"
+}

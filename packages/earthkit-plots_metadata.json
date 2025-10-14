@@ -1,11 +1,11 @@
 {
   "name": "earthkit-plots",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Visualisation tools for earth science data",
   "author": null,
   "license": "Apache License Version 2.0",
   "home_page": null,
-  "download_filename": "earthkit_plots-0.4.0-py3-none-any.whl",
-  "download_time": "2025-10-14T13:23:44.608984",
+  "download_filename": "earthkit_plots-0.4.1-py3-none-any.whl",
+  "download_time": "2025-10-14T17:54:54.564622",
   "package_url": "https://pypi.org/project/earthkit-plots/"
 }

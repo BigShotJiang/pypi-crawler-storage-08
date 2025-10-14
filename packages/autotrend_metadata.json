@@ -1,11 +1,11 @@
 {
   "name": "autotrend",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Local Linear Trend Extraction for Time Series",
   "author": "Chotanansub Sophaken",
   "license": "MIT",
   "home_page": "https://github.com/chotanansub/autotrend",
-  "download_filename": "autotrend-0.2.3.tar.gz",
-  "download_time": "2025-10-13T17:53:43.468868",
+  "download_filename": "autotrend-0.2.4.tar.gz",
+  "download_time": "2025-10-14T17:54:46.633519",
   "package_url": "https://pypi.org/project/autotrend/"
 }

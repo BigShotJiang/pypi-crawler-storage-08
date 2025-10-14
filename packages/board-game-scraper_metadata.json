@@ -1,0 +1,11 @@
+{
+  "name": "board-game-scraper",
+  "version": "2.23.1",
+  "summary": "Board games data scraping and processing from BoardGameGeek and more!",
+  "author": "Markus Shepherd",
+  "license": "MIT",
+  "home_page": "https://recommend.games/",
+  "download_filename": "board_game_scraper-2.23.1.tar.gz",
+  "download_time": "2025-10-14T17:54:26.443932",
+  "package_url": "https://pypi.org/project/board-game-scraper/"
+}

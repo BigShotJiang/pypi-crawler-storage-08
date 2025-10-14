@@ -1,0 +1,11 @@
+{
+  "name": "python-vault",
+  "version": "0.0.3",
+  "summary": "A Python client for HashiCorp Vault with AppRole authentication and secret management.",
+  "author": "Avi Zaguri",
+  "license": null,
+  "home_page": "https://github.com/aviz92/python-vault",
+  "download_filename": "python_vault-0.0.3.tar.gz",
+  "download_time": "2025-10-14T17:54:36.558718",
+  "package_url": "https://pypi.org/project/python-vault/"
+}

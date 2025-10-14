@@ -1,0 +1,11 @@
+{
+  "name": "causal-sampler",
+  "version": "0.0.1",
+  "summary": "causal-sampler is a python package that integrates multiple causal sampling techniques, e.g., causal bootstrapping and causally weighted Gaussian Mixture Models, offering standardized pipeline and interfaces.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causal_sampler-0.0.1.tar.gz",
+  "download_time": "2025-10-14T17:54:18.455277",
+  "package_url": "https://pypi.org/project/causal-sampler/"
+}

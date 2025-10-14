@@ -1,0 +1,11 @@
+{
+  "name": "hyperdiv",
+  "version": "0.1.9",
+  "summary": "Build reactive web UIs in pure Python",
+  "author": "Marius Nita",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hyperdiv-0.1.9.tar.gz",
+  "download_time": "2025-10-14T17:55:00.865481",
+  "package_url": "https://pypi.org/project/hyperdiv/"
+}
