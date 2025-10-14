@@ -1,11 +1,11 @@
 {
   "name": "specado",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Spec-driven LLM abstraction library",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "specado-0.2.1.tar.gz",
-  "download_time": "2025-10-14T04:26:31.171206",
+  "download_filename": "specado-0.2.2.tar.gz",
+  "download_time": "2025-10-14T04:45:32.898064",
   "package_url": "https://pypi.org/project/specado/"
 }

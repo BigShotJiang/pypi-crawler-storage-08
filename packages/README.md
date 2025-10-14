@@ -1,34 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T04:26:37.931043
-- **Total Packages**: 84
-- **Total Size**: 26.95 MB
+- **Download Time**: 2025-10-14T04:45:52.250690
+- **Total Packages**: 85
+- **Total Size**: 1.73 MB
 
 ## Packages List
-- lfss
-- tardis-em-analysis
-- commitlm
-- izifizi
-- tardis-em
-- getout-of-text-3
-- agently
-- kmotions
-- jancodegen
-- format-docstring
-- hexdoc
-- bear-dereth
-- nonebot-plugin-alconna
-- UltraFlow
-- keras-nlp-nightly
-- keras-hub-nightly
-- vrin
-- henosis-cli
-- adxp-cli
-- bio-corgi
-- instantsplat
-- biopipen
-- financegy
 - livchat-setup
 - BoschMiniRpa
 - odoo14-addon-stock-full-location-reservation
@@ -42,16 +19,19 @@
 - scraper-nuuuwan
 - maleo-metadata-client
 - nbcmdio
+- henosis-cli
 - hex-device
 - odoo-addon-hotel
 - odoo14-addon-hotel
 - lt-tensor
+- izifizi
 - robotframework-schemathesislibrary
 - odoo14-addon-membership-delegated-partner-line
 - flask-shopify-utils
 - MatFold
 - fastmcp-apps-sdk
 - chromedriver-binary
+- jancodegen
 - odoo14-addon-delivery-procurement-group-carrier
 - odoo14-addon-sale-planned-consumed-date
 - odoo14-addon-stock-split-picking-kit
@@ -90,3 +70,24 @@
 - polars-extensions
 - izisat
 - aioesphomeapi
+- odoo-addon-sale-order-report-hide-tax
+- pulumi-auth0
+- pulumi-newrelic
+- sofastats
+- AutoImblearn
+- odoo14-addon-sale-exception-stock-prebook
+- pybrag
+- autocoder-nano
+- pai-browser-use
+- select-ai
+- GameSentenceMiner
+- chat-completion-server
+- dooservice-cli
+- aind-zarr-utils
+- odoo-addon-purchase-stock-secondary-unit
+- pymupdf4llm-enhanced-mcp
+- BoschRpaMagicBox
+- tooppy
+- publicsuffixlist
+- vectorm
+- ui-tars
