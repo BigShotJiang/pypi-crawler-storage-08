@@ -1,0 +1,11 @@
+{
+  "name": "DI-toolkit",
+  "version": "0.3.0",
+  "summary": "A simple tool for opendilab.",
+  "author": "HansBug",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/opendilab/DI-toolkit",
+  "download_filename": "di_toolkit-0.3.0.tar.gz",
+  "download_time": "2025-10-14T05:42:59.732740",
+  "package_url": "https://pypi.org/project/DI-toolkit/"
+}

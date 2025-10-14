@@ -1,0 +1,11 @@
+{
+  "name": "fastmcp-qweather",
+  "version": "0.1.0",
+  "summary": "A FastMCP based QWeather query service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmcp_qweather-0.1.0.tar.gz",
+  "download_time": "2025-10-14T05:43:01.294787",
+  "package_url": "https://pypi.org/project/fastmcp-qweather/"
+}

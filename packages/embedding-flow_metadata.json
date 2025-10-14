@@ -1,11 +1,11 @@
 {
   "name": "embedding-flow",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Pipeline to transform text chunks into embeddings and load to Qdrant",
   "author": "facuvega",
   "license": null,
   "home_page": null,
-  "download_filename": "embedding_flow-0.1.5.tar.gz",
-  "download_time": "2025-10-14T05:21:13.005240",
+  "download_filename": "embedding_flow-0.1.6.tar.gz",
+  "download_time": "2025-10-14T05:42:57.153377",
   "package_url": "https://pypi.org/project/embedding-flow/"
 }

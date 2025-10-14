@@ -1,0 +1,11 @@
+{
+  "name": "inventree-plugin-creator",
+  "version": "1.13.2",
+  "summary": "InvenTree plugin creator",
+  "author": "Oliver Walters",
+  "license": "MIT",
+  "home_page": "https://github.com/inventree/plugin-creator",
+  "download_filename": "inventree_plugin_creator-1.13.2.tar.gz",
+  "download_time": "2025-10-14T05:42:50.329915",
+  "package_url": "https://pypi.org/project/inventree-plugin-creator/"
+}
