@@ -1,11 +1,11 @@
 {
   "name": "pylibx",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": null,
   "author": "John Lui",
   "license": "LGPLv3",
   "home_page": "https://pylibx.itsop.cc",
-  "download_filename": "pylibx-0.2.2.tar.gz",
-  "download_time": "2025-10-13T05:44:20.182552",
+  "download_filename": "pylibx-0.2.3.tar.gz",
+  "download_time": "2025-10-14T11:41:34.386171",
   "package_url": "https://pypi.org/project/pylibx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "twocaptcha-python",
+  "version": "0.0.3",
+  "summary": "Python client for 2captcha solving service - Bypass reCAPTCHA, Cloudflare Turnstile, FunCaptcha, GeeTest and solve any other captchas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twocaptcha_python-0.0.3.tar.gz",
+  "download_time": "2025-10-14T11:41:49.750523",
+  "package_url": "https://pypi.org/project/twocaptcha-python/"
+}
