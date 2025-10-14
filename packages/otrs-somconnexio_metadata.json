@@ -1,0 +1,11 @@
+{
+  "name": "otrs-somconnexio",
+  "version": "0.7.0",
+  "summary": "Python package for Somconnexio data syncing in OTRS",
+  "author": "Coopdevs",
+  "license": null,
+  "home_page": "https://gitlab.com/coopdevs/otrs_somconnexio",
+  "download_filename": "otrs_somconnexio-0.7.0.tar.gz",
+  "download_time": "2025-10-14T11:19:52.235389",
+  "package_url": "https://pypi.org/project/otrs-somconnexio/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "minecraft-bds",
-  "version": "1.4.8",
+  "version": "1.5.3",
   "summary": "Full Python bridge for Minecraft Bedrock Dedicated Server automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "minecraft_bds-1.4.8.tar.gz",
-  "download_time": "2025-10-14T10:57:39.168231",
+  "download_filename": "minecraft_bds-1.5.3.tar.gz",
+  "download_time": "2025-10-14T11:19:17.706689",
   "package_url": "https://pypi.org/project/minecraft-bds/"
 }

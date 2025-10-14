@@ -1,11 +1,11 @@
 {
   "name": "m365-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Microsoft 365 MCP server for Outlook, Calendar, and OneDrive with multi-account support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "m365_mcp-0.2.0.tar.gz",
-  "download_time": "2025-10-14T08:55:24.487229",
+  "download_filename": "m365_mcp-0.2.1.tar.gz",
+  "download_time": "2025-10-14T11:19:30.537660",
   "package_url": "https://pypi.org/project/m365-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dpt-rp1-py",
+  "version": "0.1.18",
+  "summary": "Python package to manage a Sony DPT-RP1",
+  "author": "Jan-Gerd Tenberge, Cuihtlauac Alvarado, Juan Grigera, Yunjae Lee, Kazuhiko Sakaguchi, Yanzi Zhu, Sreepathi Pai, Jochen Schroeder, Alexander Fuchs, Xiang Ji, Håkon J. D. Johnsen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dpt_rp1_py-0.1.18.tar.gz",
+  "download_time": "2025-10-14T11:19:49.675448",
+  "package_url": "https://pypi.org/project/dpt-rp1-py/"
+}

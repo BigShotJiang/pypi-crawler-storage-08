@@ -1,0 +1,11 @@
+{
+  "name": "hanlp-haystack",
+  "version": "1.0.1",
+  "summary": "An integration of Han Language Processing - HanLP as a ChineseDocumentSplitter component.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hanlp_haystack-1.0.1.tar.gz",
+  "download_time": "2025-10-14T11:19:15.150186",
+  "package_url": "https://pypi.org/project/hanlp-haystack/"
+}

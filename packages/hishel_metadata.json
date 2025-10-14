@@ -1,0 +1,11 @@
+{
+  "name": "hishel",
+  "version": "0.1.4",
+  "summary": "Persistent cache implementation for httpx and httpcore",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hishel-0.1.4.tar.gz",
+  "download_time": "2025-10-14T11:19:25.411937",
+  "package_url": "https://pypi.org/project/hishel/"
+}
