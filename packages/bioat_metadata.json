@@ -1,11 +1,11 @@
 {
   "name": "bioat",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "summary": "bioat, a python package & command line toolkit for Bioinformatics and data science!",
   "author": "Huanan Herman Zhao",
   "license": "Apache-2.0",
   "home_page": "https://github.com/hermanzhaozzzz/bioat",
-  "download_filename": "bioat-0.16.1.tar.gz",
-  "download_time": "2025-10-14T10:24:22.837796",
+  "download_filename": "bioat-0.16.2.tar.gz",
+  "download_time": "2025-10-14T14:59:13.024412",
   "package_url": "https://pypi.org/project/bioat/"
 }

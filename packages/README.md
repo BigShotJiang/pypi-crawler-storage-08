@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-14T14:48:21.646559
-- **Total Packages**: 96
-- **Total Size**: 24.78 MB
+- **Download Time**: 2025-10-14T15:00:05.027893
+- **Total Packages**: 92
+- **Total Size**: 28.79 MB
 
 ## Packages List
+- bioat
+- scc-firewall-manager-sdk
+- timbal
+- GuardianUnivalle-Benito-Yucra
+- territories-dashboard-lib
+- matrixone-python-sdk
+- streamlit-octostar-utils
+- dataverk-airflow
+- deeploy
+- cogents-core
+- feast
+- rhosocial-activerecord-testsuite
+- ostorlab
+- clanguru
+- OpenGeodeWeb-Back
+- jdti
+- sparrow-patterns
+- etielle
+- chartcoach
+- graphex-esxi-utils
+- pixelflux
+- modos
+- c8y-api
+- equations-solvers
+- urdfeus
+- OpenGeodeWeb-Viewer
+- jupyter-mcp-server
+- llmring-server
+- llamacpp-client
 - llama-index-tools-mcp
 - usdm4-m11
 - congrads
@@ -24,7 +53,6 @@
 - roman-snpit-snappl
 - swarmtube
 - syncmodels
-- streamlit-octostar-utils
 - agptools
 - cryptoservice
 - shareddata
@@ -54,7 +82,6 @@
 - pgdbm
 - bluecellulab
 - dalia-dif
-- OpenGeodeWeb-Back
 - supervisely
 - t-page-object
 - pip-notice
@@ -71,34 +98,3 @@
 - chuk-llm
 - cribl-control-plane
 - fastlib-py
-- chirpstack-api
-- splunk-hec-logger
-- cloudos-cli
-- cpr_sdk
-- sangkuriang-ideal-solver
-- phonexia-grpc
-- coiled
-- jupyter-mcp-server
-- sage-lib
-- jdti
-- lusid-sdk
-- napari-tomodl
-- invoke-toolkit
-- mock-spark
-- a430py
-- wry
-- localstack-core
-- odoo-addon-contract-group-somconnexio
-- pysaten
-- odoo-addon-contract-api-somconnexio
-- spark-fuse
-- circuit-agent-sdk
-- bookmarker-ai
-- face-landmarker-3d
-- unicorn-eval
-- epicore
-- scc-firewall-manager-sdk
-- asimov-gwdata
-- biodenoising
-- txt2detection
-- pyddd

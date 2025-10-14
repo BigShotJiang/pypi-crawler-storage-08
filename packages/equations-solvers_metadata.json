@@ -1,0 +1,11 @@
+{
+  "name": "equations-solvers",
+  "version": "0.1.1",
+  "summary": "A Python package for matrix operations and solving linear equations",
+  "author": "Hammail Riaz",
+  "license": "MIT",
+  "home_page": "https://github.com/hammailriaz/Equations_Solvers",
+  "download_filename": "equations_solvers-0.1.1.tar.gz",
+  "download_time": "2025-10-14T14:59:27.834408",
+  "package_url": "https://pypi.org/project/equations-solvers/"
+}
