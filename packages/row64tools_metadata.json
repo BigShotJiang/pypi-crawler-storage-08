@@ -1,11 +1,11 @@
 {
   "name": "row64tools",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Tools for the Row64 Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "row64tools-1.0.4.tar.gz",
-  "download_time": "2025-10-14T16:27:46.528036",
+  "download_filename": "row64tools-1.0.5.tar.gz",
+  "download_time": "2025-10-14T18:52:28.932423",
   "package_url": "https://pypi.org/project/row64tools/"
 }

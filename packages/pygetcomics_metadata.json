@@ -1,0 +1,11 @@
+{
+  "name": "pygetcomics",
+  "version": "1.6.1",
+  "summary": "Download various daily comics.",
+  "author": "Berthold Höllmann",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "pygetcomics-1.6.1.tar.gz",
+  "download_time": "2025-10-14T18:52:47.158044",
+  "package_url": "https://pypi.org/project/pygetcomics/"
+}

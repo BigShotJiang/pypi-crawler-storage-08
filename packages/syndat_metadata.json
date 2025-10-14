@@ -1,0 +1,11 @@
+{
+  "name": "syndat",
+  "version": "0.13.5",
+  "summary": "A library for evaluation & visualization of synthetic data.",
+  "author": "Tim Adams",
+  "license": "MIT",
+  "home_page": "https://github.com/SCAI-BIO/syndat",
+  "download_filename": "syndat-0.13.5.tar.gz",
+  "download_time": "2025-10-14T18:52:14.822059",
+  "package_url": "https://pypi.org/project/syndat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dmi-open-data",
+  "version": "0.1.5",
+  "summary": "Simple Python interface to the The Danish Meteorological Institute's (DMI) Open Data API metObs v2.",
+  "author": "Lasse Regin Nielsen",
+  "license": null,
+  "home_page": "https://github.com/LasseRegin/dmi-open-data",
+  "download_filename": "dmi_open_data-0.1.5.tar.gz",
+  "download_time": "2025-10-14T18:52:02.947225",
+  "package_url": "https://pypi.org/project/dmi-open-data/"
+}

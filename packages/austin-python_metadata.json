@@ -1,11 +1,11 @@
 {
   "name": "austin-python",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Python wrapper for Austin, the CPython frame stack sampler.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "austin_python-2.1.1.tar.gz",
-  "download_time": "2025-10-10T14:54:44.195836",
+  "download_filename": "austin_python-2.1.2.tar.gz",
+  "download_time": "2025-10-14T18:52:09.368152",
   "package_url": "https://pypi.org/project/austin-python/"
 }

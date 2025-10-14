@@ -1,11 +1,11 @@
 {
   "name": "parcake",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "summary": "Makes Parquet workflows a piece of cake to slice, save, and serve.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "parcake-0.1.5.tar.gz",
-  "download_time": "2025-10-14T18:32:00.641997",
+  "download_filename": "parcake-0.2.1.tar.gz",
+  "download_time": "2025-10-14T18:52:10.447657",
   "package_url": "https://pypi.org/project/parcake/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-guard-agent",
+  "version": "1.1.0",
+  "summary": "Telemetry and monitoring agent for FastAPI Guard security middleware",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_guard_agent-1.1.0.tar.gz",
+  "download_time": "2025-10-14T18:52:17.408915",
+  "package_url": "https://pypi.org/project/fastapi-guard-agent/"
+}

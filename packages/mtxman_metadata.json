@@ -1,0 +1,11 @@
+{
+  "name": "mtxman",
+  "version": "0.0.8",
+  "summary": "A utility that simplifies the download and generation of Matrix Market (`.mtx`) files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtxman-0.0.8.tar.gz",
+  "download_time": "2025-10-14T18:52:46.119333",
+  "package_url": "https://pypi.org/project/mtxman/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fsai-nats-app",
+  "version": "0.0.2",
+  "summary": "NATS JetStream wrapper providing a FastStream-like interface for easy message handling.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-nats-app",
+  "download_filename": "fsai_nats_app-0.0.2.tar.gz",
+  "download_time": "2025-10-14T18:52:27.855446",
+  "package_url": "https://pypi.org/project/fsai-nats-app/"
+}
