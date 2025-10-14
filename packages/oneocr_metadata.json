@@ -1,0 +1,11 @@
+{
+  "name": "oneocr",
+  "version": "1.0.10",
+  "summary": "Snipping Tool OCR for Windows",
+  "author": "Cecilia-pj, b1tg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oneocr-1.0.10.tar.gz",
+  "download_time": "2025-10-14T13:23:16.717167",
+  "package_url": "https://pypi.org/project/oneocr/"
+}

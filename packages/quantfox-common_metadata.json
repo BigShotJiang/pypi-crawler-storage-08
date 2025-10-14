@@ -1,0 +1,11 @@
+{
+  "name": "quantfox-common",
+  "version": "0.1.2",
+  "summary": "QuantFox common utilities: domain (market/finance/ds) + adapters (db/s3/redis/dss)",
+  "author": "QuantFox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantfox_common-0.1.2.tar.gz",
+  "download_time": "2025-10-14T13:23:34.248676",
+  "package_url": "https://pypi.org/project/quantfox-common/"
+}

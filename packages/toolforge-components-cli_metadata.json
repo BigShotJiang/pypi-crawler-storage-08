@@ -1,0 +1,11 @@
+{
+  "name": "toolforge-components-cli",
+  "version": "0.0.15",
+  "summary": "Toolforge components client",
+  "author": "Slavina Stefanova",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "toolforge_components_cli-0.0.15.tar.gz",
+  "download_time": "2025-10-14T13:23:27.458262",
+  "package_url": "https://pypi.org/project/toolforge-components-cli/"
+}

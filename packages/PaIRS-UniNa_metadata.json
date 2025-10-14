@@ -1,0 +1,11 @@
+{
+  "name": "PaIRS-UniNa",
+  "version": "0.2.7",
+  "summary": "PaIRS - Particle Image Reconstruction Software",
+  "author": "Gerardo Paolillo and Tommaso Astarita",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://pairs.unina.it/",
+  "download_filename": "pairs_unina-0.2.7-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-14T13:23:23.604791",
+  "package_url": "https://pypi.org/project/PaIRS-UniNa/"
+}

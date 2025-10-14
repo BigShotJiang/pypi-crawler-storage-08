@@ -1,0 +1,11 @@
+{
+  "name": "quten-optimizer",
+  "version": "1.0.0",
+  "summary": "Quantum-inspired PyTorch optimizer with tunneling and observation-based decoherence",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/quten",
+  "download_filename": "quten_optimizer-1.0.0.tar.gz",
+  "download_time": "2025-10-14T13:23:39.330124",
+  "package_url": "https://pypi.org/project/quten-optimizer/"
+}

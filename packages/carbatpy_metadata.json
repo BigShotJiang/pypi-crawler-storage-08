@@ -1,11 +1,11 @@
 {
   "name": "carbatpy",
-  "version": "0.5.3.post1",
+  "version": "0.5.3.post2",
   "summary": "Calculate and optimize Carnot Batteries (Thermal energy storage)",
   "author": "Burak Atakan",
   "license": "MIT",
   "home_page": "https://git.uni-due.de/spp-2403/td-ude/carbatpy",
-  "download_filename": "carbatpy-0.5.3.post1.tar.gz",
-  "download_time": "2025-10-14T08:30:10.588203",
+  "download_filename": "carbatpy-0.5.3.post2.tar.gz",
+  "download_time": "2025-10-14T13:23:49.201344",
   "package_url": "https://pypi.org/project/carbatpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ibutsu-client",
+  "version": "3.1.0",
+  "summary": "A system to store and query test results",
+  "author": "Raoul Snyman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibutsu_client-3.1.0.tar.gz",
+  "download_time": "2025-10-14T13:23:40.373509",
+  "package_url": "https://pypi.org/project/ibutsu-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loggar",
+  "version": "0.1.2",
+  "summary": "A utility for archiving Linux log files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loggar-0.1.2.tar.gz",
+  "download_time": "2025-10-14T13:23:32.071386",
+  "package_url": "https://pypi.org/project/loggar/"
+}
