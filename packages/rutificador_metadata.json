@@ -1,0 +1,11 @@
+{
+  "name": "rutificador",
+  "version": "1.0.19",
+  "summary": "Herramientas para validar, calcular y formatear el Rol Único Tributario (RUT) en Chile, con procesamiento por lotes y salida en múltiples formatos.",
+  "author": "Carlos Ortega González",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rutificador-1.0.19.tar.gz",
+  "download_time": "2025-10-14T17:19:51.688458",
+  "package_url": "https://pypi.org/project/rutificador/"
+}

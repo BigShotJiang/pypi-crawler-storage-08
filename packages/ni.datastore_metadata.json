@@ -1,0 +1,11 @@
+{
+  "name": "ni.datastore",
+  "version": "0.1.0.dev3",
+  "summary": "APIs for publishing and retrieving data from the NI Measurement Data Store",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_datastore-0.1.0.dev3.tar.gz",
+  "download_time": "2025-10-14T17:20:05.617344",
+  "package_url": "https://pypi.org/project/ni.datastore/"
+}

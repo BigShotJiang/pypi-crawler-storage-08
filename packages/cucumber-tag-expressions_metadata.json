@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-tag-expressions",
+  "version": "8.0.0",
+  "summary": "Provides a tag-expression parser and evaluation logic for cucumber/behave",
+  "author": "Jens Engel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cucumber_tag_expressions-8.0.0.tar.gz",
+  "download_time": "2025-10-14T17:20:07.725823",
+  "package_url": "https://pypi.org/project/cucumber-tag-expressions/"
+}

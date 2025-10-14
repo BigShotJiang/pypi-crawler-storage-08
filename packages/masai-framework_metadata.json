@@ -1,11 +1,11 @@
 {
   "name": "masai-framework",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Multi-Agent System Framework for AI Agents with Custom LangGraph Implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "masai_framework-0.3.2.tar.gz",
-  "download_time": "2025-10-14T15:43:08.883941",
+  "download_filename": "masai_framework-0.3.3.tar.gz",
+  "download_time": "2025-10-14T17:20:11.983209",
   "package_url": "https://pypi.org/project/masai-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vegehub",
+  "version": "0.1.25",
+  "summary": "A basic package for simplifying interactions with the Vegetronix VegeHub",
+  "author": "GhoweVege",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.vegetronix.com/Products/VG-HUB-RELAY/",
+  "download_filename": "vegehub-0.1.25.tar.gz",
+  "download_time": "2025-10-14T17:20:00.794817",
+  "package_url": "https://pypi.org/project/vegehub/"
+}

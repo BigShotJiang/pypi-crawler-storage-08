@@ -1,11 +1,11 @@
 {
   "name": "projectaria-gen2-pilot-dataset",
-  "version": "1.0.0a2",
+  "version": "1.0.0a3",
   "summary": "Aria Gen2 Pilot Dataset",
   "author": "Meta Reality Labs Research",
   "license": "CC BY-NC 4.0",
   "home_page": "https://github.com/facebookresearch/projectaria_gen2_pilot_dataset",
-  "download_filename": "projectaria_gen2_pilot_dataset-1.0.0a2.tar.gz",
-  "download_time": "2025-10-12T06:28:33.393113",
+  "download_filename": "projectaria_gen2_pilot_dataset-1.0.0a3.tar.gz",
+  "download_time": "2025-10-14T17:20:19.386148",
   "package_url": "https://pypi.org/project/projectaria-gen2-pilot-dataset/"
 }
