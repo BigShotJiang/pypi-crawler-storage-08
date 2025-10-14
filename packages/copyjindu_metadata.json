@@ -1,11 +1,11 @@
 {
   "name": "copyjindu",
-  "version": "1.0.0",
-  "summary": "A file copy library with progress bar",
+  "version": "1.0.1",
+  "summary": "A Python library for copying files and folders with progress bar",
   "author": "pengmin",
   "license": null,
-  "home_page": null,
-  "download_filename": "copyjindu-1.0.0.tar.gz",
-  "download_time": "2025-10-13T21:54:19.471880",
+  "home_page": "https://github.com/yourusername/copyjindu",
+  "download_filename": "copyjindu-1.0.1.tar.gz",
+  "download_time": "2025-10-14T14:13:20.264416",
   "package_url": "https://pypi.org/project/copyjindu/"
 }

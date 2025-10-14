@@ -1,0 +1,11 @@
+{
+  "name": "stackit-scf",
+  "version": "0.2.1",
+  "summary": "STACKIT Cloud Foundry API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_scf-0.2.1.tar.gz",
+  "download_time": "2025-10-14T14:13:08.385716",
+  "package_url": "https://pypi.org/project/stackit-scf/"
+}

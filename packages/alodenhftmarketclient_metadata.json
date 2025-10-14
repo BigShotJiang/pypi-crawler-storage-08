@@ -1,0 +1,11 @@
+{
+  "name": "alodenhftmarketclient",
+  "version": "0.1.2",
+  "summary": "Python client for HFT Simulator Gateway (handshake, WebSockets, high-level helpers)",
+  "author": "Aloden",
+  "license": "Proprietary",
+  "home_page": "https://hft-simulator.fr",
+  "download_filename": "alodenhftmarketclient-0.1.2.tar.gz",
+  "download_time": "2025-10-14T14:12:58.626178",
+  "package_url": "https://pypi.org/project/alodenhftmarketclient/"
+}

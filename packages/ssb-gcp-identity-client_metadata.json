@@ -1,11 +1,11 @@
 {
   "name": "ssb-gcp-identity-client",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "SSB GCP Identity Client",
   "author": "Joachim Holst",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "ssb_gcp_identity_client-0.1.0.tar.gz",
-  "download_time": "2025-10-13T14:46:38.136955",
+  "download_filename": "ssb_gcp_identity_client-0.1.2.tar.gz",
+  "download_time": "2025-10-14T14:13:04.285587",
   "package_url": "https://pypi.org/project/ssb-gcp-identity-client/"
 }

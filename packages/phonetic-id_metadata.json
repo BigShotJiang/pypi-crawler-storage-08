@@ -1,0 +1,11 @@
+{
+  "name": "phonetic-id",
+  "version": "1.0.0",
+  "summary": "Phonetic ID is a lightweight package for generating a easy to say ID.",
+  "author": "Maksymilian Sawicz",
+  "license": null,
+  "home_page": "https://github.com/0x1618/phonetic-id",
+  "download_filename": "phonetic_id-1.0.0.tar.gz",
+  "download_time": "2025-10-14T14:13:17.080121",
+  "package_url": "https://pypi.org/project/phonetic-id/"
+}

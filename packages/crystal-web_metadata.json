@@ -1,0 +1,11 @@
+{
+  "name": "crystal-web",
+  "version": "2.0.1",
+  "summary": "Downloads websites for long-term archival.",
+  "author": "David Foster",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": "https://dafoster.net/projects/crystal-web-archiver/",
+  "download_filename": "crystal_web-2.0.1.tar.gz",
+  "download_time": "2025-10-14T14:12:44.649476",
+  "package_url": "https://pypi.org/project/crystal-web/"
+}

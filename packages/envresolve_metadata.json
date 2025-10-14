@@ -1,0 +1,11 @@
+{
+  "name": "envresolve",
+  "version": "0.1.1",
+  "summary": "Resolve env vars from secret stores.",
+  "author": "osoken",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envresolve-0.1.1.tar.gz",
+  "download_time": "2025-10-14T14:12:50.381028",
+  "package_url": "https://pypi.org/project/envresolve/"
+}

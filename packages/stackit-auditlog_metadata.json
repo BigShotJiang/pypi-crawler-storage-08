@@ -1,0 +1,11 @@
+{
+  "name": "stackit-auditlog",
+  "version": "0.1.1",
+  "summary": "Audit Log API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_auditlog-0.1.1.tar.gz",
+  "download_time": "2025-10-14T14:13:16.569454",
+  "package_url": "https://pypi.org/project/stackit-auditlog/"
+}

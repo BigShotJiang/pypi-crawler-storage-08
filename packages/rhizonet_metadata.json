@@ -1,11 +1,11 @@
 {
   "name": "rhizonet",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Segmentation pipeline for EcoFAB images",
   "author": "Zineb Sordo, Daniela Ushizima, Peter Andeer, James Sethian and Trent Northen.",
   "license": "MIT license",
   "home_page": "https://github.com/lbl-camera/rhizonet",
-  "download_filename": "rhizonet-0.0.12.tar.gz",
-  "download_time": "2025-10-13T14:57:24.513465",
+  "download_filename": "rhizonet-0.0.14.tar.gz",
+  "download_time": "2025-10-14T14:13:02.725375",
   "package_url": "https://pypi.org/project/rhizonet/"
 }
