@@ -1,0 +1,11 @@
+{
+  "name": "rolodex-cli",
+  "version": "0.5.0",
+  "summary": "Simple rolodex DB utilities",
+  "author": "Darrien Rushing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rolodex_cli-0.5.0.tar.gz",
+  "download_time": "2025-10-14T19:18:34.202094",
+  "package_url": "https://pypi.org/project/rolodex-cli/"
+}

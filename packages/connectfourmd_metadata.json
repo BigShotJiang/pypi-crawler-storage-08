@@ -1,0 +1,11 @@
+{
+  "name": "connectfourmd",
+  "version": "1.0.0",
+  "summary": "connect four game using pygame",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "connectfourmd-1.0.0.tar.gz",
+  "download_time": "2025-10-14T19:18:27.732339",
+  "package_url": "https://pypi.org/project/connectfourmd/"
+}

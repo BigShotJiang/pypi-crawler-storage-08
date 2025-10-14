@@ -1,11 +1,11 @@
 {
   "name": "GuardianUnivalle-Benito-Yucra",
-  "version": "0.1.60",
+  "version": "0.1.61",
   "summary": "Middleware y detectores de seguridad (SQLi, XSS, CSRF, DoS, Keylogger) para Django/Flask",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "guardianunivalle_benito_yucra-0.1.60.tar.gz",
-  "download_time": "2025-10-14T18:52:33.623730",
+  "download_filename": "guardianunivalle_benito_yucra-0.1.61.tar.gz",
+  "download_time": "2025-10-14T19:18:29.900935",
   "package_url": "https://pypi.org/project/GuardianUnivalle-Benito-Yucra/"
 }

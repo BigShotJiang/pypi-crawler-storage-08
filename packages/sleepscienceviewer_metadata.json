@@ -1,0 +1,11 @@
+{
+  "name": "sleepscienceviewer",
+  "version": "0.3.0",
+  "summary": "A Python-native EDF and XML annotation viewer for sleep science",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleepscienceviewer-0.3.0.tar.gz",
+  "download_time": "2025-10-14T19:18:23.436487",
+  "package_url": "https://pypi.org/project/sleepscienceviewer/"
+}

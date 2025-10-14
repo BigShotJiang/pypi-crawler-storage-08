@@ -1,11 +1,11 @@
 {
   "name": "cdlf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Conformal Deep Learning Framework - Production-ready conformal prediction for TensorFlow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cdlf-0.1.0.tar.gz",
-  "download_time": "2025-10-14T18:52:25.773903",
+  "download_filename": "cdlf-0.1.1.tar.gz",
+  "download_time": "2025-10-14T19:18:59.157753",
   "package_url": "https://pypi.org/project/cdlf/"
 }

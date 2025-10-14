@@ -1,0 +1,11 @@
+{
+  "name": "pocketsearch",
+  "version": "0.41.0",
+  "summary": "A pure-Python full-text indexing search library based on SQLite and the FTS5 extension, supporting both on-disk and in-memory search indexes.",
+  "author": "kaykay-dv",
+  "license": null,
+  "home_page": "https://github.com/kaykay-dv/pocketsearch/",
+  "download_filename": "pocketsearch-0.41.0.tar.gz",
+  "download_time": "2025-10-14T19:18:26.652387",
+  "package_url": "https://pypi.org/project/pocketsearch/"
+}

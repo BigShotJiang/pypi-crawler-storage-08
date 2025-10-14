@@ -1,0 +1,11 @@
+{
+  "name": "liftover",
+  "version": "1.3.3",
+  "summary": "Package for converting between genome build coordinates",
+  "author": "Jeremy McRae",
+  "license": "MIT",
+  "home_page": "https://github.com/jeremymcrae/liftover",
+  "download_filename": "liftover-1.3.3.tar.gz",
+  "download_time": "2025-10-14T19:18:31.562411",
+  "package_url": "https://pypi.org/project/liftover/"
+}
