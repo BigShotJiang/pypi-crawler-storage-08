@@ -1,0 +1,11 @@
+{
+  "name": "zipstream-ai",
+  "version": "1.0.0",
+  "summary": "Stream and query zipped datasets using LLMs",
+  "author": "Pranav Nitin Motarwar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zipstream_ai-1.0.0.tar.gz",
+  "download_time": "2025-10-15T06:33:25.739233",
+  "package_url": "https://pypi.org/project/zipstream-ai/"
+}

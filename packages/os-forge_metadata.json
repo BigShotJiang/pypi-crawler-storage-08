@@ -1,11 +1,11 @@
 {
   "name": "os-forge",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "Multi-Platform System Hardening Tool with NTRO SIH25237 Compliance - 394 Rules for Windows, Linux, and macOS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "os_forge-0.2.8.tar.gz",
-  "download_time": "2025-10-14T17:54:21.676987",
+  "download_filename": "os_forge-0.2.9.tar.gz",
+  "download_time": "2025-10-15T06:33:26.265466",
   "package_url": "https://pypi.org/project/os-forge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gw-eccentricity",
+  "version": "2.0.0",
+  "summary": "Defining eccentricity for gravitational wave astronomy.",
+  "author": "Md Arif Shaikh, Vijay Varma, Harald Pfeiffer",
+  "license": null,
+  "home_page": "https://github.com/vijayvarma392/gw_eccentricity",
+  "download_filename": "gw_eccentricity-2.0.0.tar.gz",
+  "download_time": "2025-10-15T06:33:01.314155",
+  "package_url": "https://pypi.org/project/gw-eccentricity/"
+}

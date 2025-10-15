@@ -1,11 +1,11 @@
 {
   "name": "mcp-webrtc",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "summary": "WebRTC Transport for Model Context Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_webrtc-0.0.7.tar.gz",
-  "download_time": "2025-10-08T08:49:23.756033",
+  "download_filename": "mcp_webrtc-0.1.0.tar.gz",
+  "download_time": "2025-10-15T06:33:25.213204",
   "package_url": "https://pypi.org/project/mcp-webrtc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-databend",
+  "version": "0.2.2",
+  "summary": "An MCP server for Databend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_databend-0.2.2.tar.gz",
+  "download_time": "2025-10-15T06:33:17.268700",
+  "package_url": "https://pypi.org/project/mcp-databend/"
+}

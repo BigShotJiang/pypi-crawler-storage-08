@@ -1,0 +1,11 @@
+{
+  "name": "drivelinepy",
+  "version": "1.19.0",
+  "summary": "A Python package for Driveline Baseball API interactions",
+  "author": "Garrett York",
+  "license": null,
+  "home_page": "https://github.com/drivelineresearch/drivelinepy",
+  "download_filename": "drivelinepy-1.19.0.tar.gz",
+  "download_time": "2025-10-15T06:33:28.925020",
+  "package_url": "https://pypi.org/project/drivelinepy/"
+}

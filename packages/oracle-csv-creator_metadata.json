@@ -1,0 +1,11 @@
+{
+  "name": "oracle-csv-creator",
+  "version": "0.1.1",
+  "summary": "Parallel Oracle table to CSV writer using rowid ranges and optional SCN consistency.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "oracle_csv_creator-0.1.1.tar.gz",
+  "download_time": "2025-10-15T06:33:20.986522",
+  "package_url": "https://pypi.org/project/oracle-csv-creator/"
+}
