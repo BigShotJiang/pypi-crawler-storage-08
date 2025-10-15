@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-exchange-template-party-data",
+  "version": "18.0.1.0.1.2",
+  "summary": "Glue module between edi_exchange_template and edi_party_data",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_exchange_template_party_data-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-15T02:55:18.666582",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-exchange-template-party-data/"
+}

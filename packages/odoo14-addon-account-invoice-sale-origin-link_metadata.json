@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-invoice-sale-origin-link",
+  "version": "14.0.1.0.1.dev3",
+  "summary": "Add link to the Sale Order in invoice source document.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo14_addon_account_invoice_sale_origin_link-14.0.1.0.1.dev3-py3-none-any.whl",
+  "download_time": "2025-10-15T02:56:07.628555",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-invoice-sale-origin-link/"
+}

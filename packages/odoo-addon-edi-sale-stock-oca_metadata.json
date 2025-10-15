@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-sale-stock-oca",
+  "version": "18.0.1.0.0.3",
+  "summary": "Configuration and special behaviors for EDI on sales & stock.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_sale_stock_oca-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-15T02:55:19.392538",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-sale-stock-oca/"
+}
