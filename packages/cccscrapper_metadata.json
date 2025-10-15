@@ -1,0 +1,11 @@
+{
+  "name": "cccscrapper",
+  "version": "0.1.1",
+  "summary": "A simple web scraping helper package",
+  "author": "Harish varma",
+  "license": "MIT",
+  "home_page": "https://github.com/harishrvarma/cccscrapper",
+  "download_filename": "cccscrapper-0.1.1.tar.gz",
+  "download_time": "2025-10-15T12:46:07.800243",
+  "package_url": "https://pypi.org/project/cccscrapper/"
+}

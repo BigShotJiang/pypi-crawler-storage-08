@@ -1,11 +1,11 @@
 {
   "name": "html-snapshot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Capture a PNG screenshot of a local HTML presentation using Playwright",
   "author": "Mehmet Oner Yalcin",
   "license": null,
   "home_page": null,
-  "download_filename": "html_snapshot-0.1.1.tar.gz",
-  "download_time": "2025-10-15T11:41:57.572202",
+  "download_filename": "html_snapshot-0.1.2.tar.gz",
+  "download_time": "2025-10-15T12:46:02.507706",
   "package_url": "https://pypi.org/project/html-snapshot/"
 }

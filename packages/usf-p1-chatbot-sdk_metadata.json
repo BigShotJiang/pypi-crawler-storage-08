@@ -1,11 +1,11 @@
 {
   "name": "usf-p1-chatbot-sdk",
-  "version": "1.0.1",
-  "summary": "Python SDK for USF P1 Chatbot API - (Fixed PDF ingestion bug)",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "usf_p1_chatbot_sdk-1.0.1.tar.gz",
-  "download_time": "2025-10-14T11:41:33.255295",
+  "version": "2.0.0",
+  "summary": "Python SDK for Civie Chatbot API v2.0.0 with comprehensive endpoint coverage",
+  "author": "USF Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ultrasafe/usf-p1-chatbot-sdk",
+  "download_filename": "usf_p1_chatbot_sdk-2.0.0.tar.gz",
+  "download_time": "2025-10-15T12:45:38.202591",
   "package_url": "https://pypi.org/project/usf-p1-chatbot-sdk/"
 }

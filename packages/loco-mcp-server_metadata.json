@@ -1,0 +1,11 @@
+{
+  "name": "loco-mcp-server",
+  "version": "0.2.0",
+  "summary": "MCP server for loco-rs framework",
+  "author": "Loco Framework Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "loco_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-10-15T12:46:00.422748",
+  "package_url": "https://pypi.org/project/loco-mcp-server/"
+}

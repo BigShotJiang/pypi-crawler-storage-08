@@ -1,0 +1,11 @@
+{
+  "name": "nf-core",
+  "version": "3.4.0",
+  "summary": "Helper tools for use with nf-core Nextflow pipelines.",
+  "author": "Phil Ewels",
+  "license": "MIT",
+  "home_page": "https://github.com/nf-core/tools",
+  "download_filename": "nf_core-3.4.0.tar.gz",
+  "download_time": "2025-10-15T12:45:58.874055",
+  "package_url": "https://pypi.org/project/nf-core/"
+}

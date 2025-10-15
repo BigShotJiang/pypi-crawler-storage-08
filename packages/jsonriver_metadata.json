@@ -1,0 +1,11 @@
+{
+  "name": "jsonriver",
+  "version": "1.0.0",
+  "summary": "Streaming JSON parser that yields progressively complete values - Python port of the TypeScript jsonriver library",
+  "author": "jsonriver-python contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jsonriver-1.0.0.tar.gz",
+  "download_time": "2025-10-15T12:45:55.131526",
+  "package_url": "https://pypi.org/project/jsonriver/"
+}

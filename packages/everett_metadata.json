@@ -1,0 +1,11 @@
+{
+  "name": "everett",
+  "version": "3.5.0",
+  "summary": "Configuration library for Python applications",
+  "author": "Will Kahn-Greene",
+  "license": "MPLv2",
+  "home_page": null,
+  "download_filename": "everett-3.5.0.tar.gz",
+  "download_time": "2025-10-15T12:45:54.092455",
+  "package_url": "https://pypi.org/project/everett/"
+}
