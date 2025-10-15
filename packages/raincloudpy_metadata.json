@@ -1,11 +1,11 @@
 {
   "name": "raincloudpy",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Beautiful raincloud plots for Python",
   "author": "bsgarcia",
   "license": "MIT",
   "home_page": "https://github.com/bsgarcia/raincloudpy",
-  "download_filename": "raincloudpy-0.4.2.tar.gz",
-  "download_time": "2025-10-15T09:56:06.851128",
+  "download_filename": "raincloudpy-0.4.4.tar.gz",
+  "download_time": "2025-10-15T10:26:25.652317",
   "package_url": "https://pypi.org/project/raincloudpy/"
 }

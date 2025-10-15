@@ -1,11 +1,11 @@
 {
   "name": "mcli-framework",
-  "version": "7.6.1",
+  "version": "7.6.2",
   "summary": "🚀 High-performance CLI framework with Rust extensions, AI chat, and stunning visuals",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcli_framework-7.6.1.tar.gz",
-  "download_time": "2025-10-15T09:45:19.049093",
+  "download_filename": "mcli_framework-7.6.2.tar.gz",
+  "download_time": "2025-10-15T10:26:34.430237",
   "package_url": "https://pypi.org/project/mcli-framework/"
 }

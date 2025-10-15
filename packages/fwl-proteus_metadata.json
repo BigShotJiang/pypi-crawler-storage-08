@@ -1,0 +1,11 @@
+{
+  "name": "fwl-proteus",
+  "version": "25.10.15",
+  "summary": "Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets",
+  "author": null,
+  "license": "Apache 2.0 License",
+  "home_page": null,
+  "download_filename": "fwl_proteus-25.10.15.tar.gz",
+  "download_time": "2025-10-15T10:26:24.118870",
+  "package_url": "https://pypi.org/project/fwl-proteus/"
+}

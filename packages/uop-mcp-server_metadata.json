@@ -1,11 +1,11 @@
 {
   "name": "uop-mcp-server",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Universal MCP Server for AI-powered e-commerce integration. Connect AI apps to Shopify, WooCommerce, and Shopware 6.",
   "author": "Unified Offer Protocol",
   "license": null,
-  "home_page": "https://github.com/Chris85appding/unified-offer-protocol-front",
-  "download_filename": "uop-mcp-server-2.0.2.tar.gz",
-  "download_time": "2025-10-15T09:45:28.476897",
+  "home_page": "https://github.com/UnifiedOffer/mcpserver",
+  "download_filename": "uop-mcp-server-2.0.3.tar.gz",
+  "download_time": "2025-10-15T10:26:25.137379",
   "package_url": "https://pypi.org/project/uop-mcp-server/"
 }

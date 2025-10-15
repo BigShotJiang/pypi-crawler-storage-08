@@ -1,11 +1,11 @@
 {
   "name": "scraper-nuuuwan",
-  "version": "1.0.10",
+  "version": "1.1.1",
   "summary": "Utilities for Scraping Documents from Websites.",
   "author": "Nuwan I. Senaratna",
   "license": null,
   "home_page": "https://github.com/nuuuwan/scraper",
-  "download_filename": "scraper_nuuuwan-1.0.10.tar.gz",
-  "download_time": "2025-10-15T09:28:12.132149",
+  "download_filename": "scraper_nuuuwan-1.1.1.tar.gz",
+  "download_time": "2025-10-15T10:26:18.958048",
   "package_url": "https://pypi.org/project/scraper-nuuuwan/"
 }

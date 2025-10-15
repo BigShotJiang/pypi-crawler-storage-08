@@ -1,11 +1,11 @@
 {
   "name": "django-directory-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Reusable Django REST API framework with auto-discovery and bearer token authentication",
   "author": "Directory Platform Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_directory_api-0.1.0.tar.gz",
-  "download_time": "2025-10-13T22:53:47.539063",
+  "download_filename": "django_directory_api-0.1.1.tar.gz",
+  "download_time": "2025-10-15T10:26:03.853625",
   "package_url": "https://pypi.org/project/django-directory-api/"
 }
