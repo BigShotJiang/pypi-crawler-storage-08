@@ -1,11 +1,11 @@
 {
   "name": "butext",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "butext-0.3.1.tar.gz",
-  "download_time": "2025-10-15T02:55:20.849607",
+  "download_filename": "butext-0.3.2.tar.gz",
+  "download_time": "2025-10-15T14:48:58.519386",
   "package_url": "https://pypi.org/project/butext/"
 }

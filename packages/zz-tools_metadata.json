@@ -1,11 +1,11 @@
 {
   "name": "zz-tools",
-  "version": "0.2.73",
+  "version": "0.2.74.post1",
   "summary": "Small helpers for MCGT project",
   "author": "Jean-Philip Lalumière",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zz_tools-0.2.73.tar.gz",
-  "download_time": "2025-10-15T08:55:05.787349",
+  "download_filename": "zz_tools-0.2.74.post1.tar.gz",
+  "download_time": "2025-10-15T14:48:59.565205",
   "package_url": "https://pypi.org/project/zz-tools/"
 }
