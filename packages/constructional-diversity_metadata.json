@@ -1,11 +1,11 @@
 {
   "name": "constructional-diversity",
-  "version": "2.0.1",
+  "version": "0.0.4",
   "summary": "This is a package with which users can analyze constructional diversity, constructional complexity, and verbal diversity.",
   "author": "Haerim Hwang",
   "license": "MIT",
   "home_page": "https://pypi.org/project/constructional-diversity",
-  "download_filename": "constructional_diversity-2.0.1.tar.gz",
-  "download_time": "2025-10-15T10:26:20.544770",
+  "download_filename": "constructional_diversity-0.0.4.tar.gz",
+  "download_time": "2025-10-15T10:48:39.412655",
   "package_url": "https://pypi.org/project/constructional-diversity/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ROPGadget",
+  "version": "7.7",
+  "summary": "This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation.",
+  "author": "Jonathan Salwan",
+  "license": "BSD",
+  "home_page": "https://github.com/JonathanSalwan/ROPgadget",
+  "download_filename": "ropgadget-7.7.tar.gz",
+  "download_time": "2025-10-15T10:48:58.003451",
+  "package_url": "https://pypi.org/project/ROPGadget/"
+}

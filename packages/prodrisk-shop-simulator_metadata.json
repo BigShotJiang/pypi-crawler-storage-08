@@ -1,11 +1,11 @@
 {
   "name": "prodrisk-shop-simulator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Package for simulating hydro power systems with Prodrisk first followed by SHOP using cuts from Prodrisk.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prodrisk_shop_simulator-1.1.1.tar.gz",
-  "download_time": "2025-10-15T10:26:37.060166",
+  "download_filename": "prodrisk_shop_simulator-1.1.2.tar.gz",
+  "download_time": "2025-10-15T10:48:44.567684",
   "package_url": "https://pypi.org/project/prodrisk-shop-simulator/"
 }

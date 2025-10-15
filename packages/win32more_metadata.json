@@ -1,0 +1,11 @@
+{
+  "name": "win32more",
+  "version": "0.6.3",
+  "summary": "Python bindings for Windows API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "win32more-0.6.3.tar.gz",
+  "download_time": "2025-10-15T10:48:56.411650",
+  "package_url": "https://pypi.org/project/win32more/"
+}

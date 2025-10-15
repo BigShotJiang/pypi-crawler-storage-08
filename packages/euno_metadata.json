@@ -1,11 +1,11 @@
 {
   "name": "euno",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Euno's CLI library to programmatically interact with Euno instance",
   "author": "Euno Team",
   "license": "MIT",
   "home_page": "https://github.com/euno-ai/euno-sdk",
-  "download_filename": "euno-0.3.0.tar.gz",
-  "download_time": "2025-10-11T01:23:26.425708",
+  "download_filename": "euno-0.4.0.tar.gz",
+  "download_time": "2025-10-15T10:49:18.881636",
   "package_url": "https://pypi.org/project/euno/"
 }
