@@ -1,0 +1,11 @@
+{
+  "name": "imgshape",
+  "version": "3.0.0",
+  "summary": "imgshape — robust dataset intelligence: analyze, recommend, visualize, and export augmentation & preprocessing pipelines.",
+  "author": "Stifler",
+  "license": "MIT",
+  "home_page": "https://github.com/STiFLeR7/imgshape",
+  "download_filename": "imgshape-3.0.0.tar.gz",
+  "download_time": "2025-10-15T08:32:34.193230",
+  "package_url": "https://pypi.org/project/imgshape/"
+}

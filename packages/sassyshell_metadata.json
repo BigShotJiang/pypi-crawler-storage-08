@@ -1,11 +1,11 @@
 {
   "name": "sassyshell",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A sassy, AI-powered CLI sidekick that remembers the commands you forget and mocks you into getting better.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sassyshell-0.1.0.tar.gz",
-  "download_time": "2025-10-15T06:32:57.596158",
+  "download_filename": "sassyshell-0.1.1.tar.gz",
+  "download_time": "2025-10-15T08:32:45.001653",
   "package_url": "https://pypi.org/project/sassyshell/"
 }

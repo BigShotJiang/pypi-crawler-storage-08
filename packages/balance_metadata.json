@@ -1,0 +1,11 @@
+{
+  "name": "balance",
+  "version": "0.12.0",
+  "summary": "balance is a Python package offering a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest.",
+  "author": "Facebook, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/facebookresearch/balance",
+  "download_filename": "balance-0.12.0.tar.gz",
+  "download_time": "2025-10-15T08:32:14.392043",
+  "package_url": "https://pypi.org/project/balance/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "onflow-wms-shared-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Shared authentication module for Onflow WMS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onflow_wms_shared_auth-0.1.0.tar.gz",
-  "download_time": "2025-10-15T07:43:40.518941",
+  "download_filename": "onflow_wms_shared_auth-0.1.1.tar.gz",
+  "download_time": "2025-10-15T08:32:46.633608",
   "package_url": "https://pypi.org/project/onflow-wms-shared-auth/"
 }
