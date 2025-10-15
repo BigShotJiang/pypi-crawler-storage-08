@@ -1,0 +1,11 @@
+{
+  "name": "facture-electronique",
+  "version": "0.3.0",
+  "summary": "Facturation Electronique SDK est une bibliothèque Python qui simplifie l'interaction avec les principales API de facturation électronique en France, notamment **Chorus Pro**, et d'autres partenaires privés. Elle supporte également le format Factur-X pour la création et l'envoi de factures électroniques.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "facture_electronique-0.3.0.tar.gz",
+  "download_time": "2025-10-15T07:43:45.931530",
+  "package_url": "https://pypi.org/project/facture-electronique/"
+}

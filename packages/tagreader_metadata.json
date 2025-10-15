@@ -1,0 +1,11 @@
+{
+  "name": "tagreader",
+  "version": "6.2.0",
+  "summary": "Tagreader is a Python package for reading trend data from the OSIsoft PI and Aspen Infoplus.21 IMS systems.",
+  "author": "Einar S. Idsø",
+  "license": null,
+  "home_page": "https://github.com/equinor/tagreader-python",
+  "download_filename": "tagreader-6.2.0.tar.gz",
+  "download_time": "2025-10-15T07:43:27.989149",
+  "package_url": "https://pypi.org/project/tagreader/"
+}

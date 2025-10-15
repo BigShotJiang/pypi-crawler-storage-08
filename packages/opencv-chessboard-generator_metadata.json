@@ -1,11 +1,11 @@
 {
   "name": "opencv-chessboard-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A tool to generate chessboard patterns for OpenCV camera calibration",
   "author": "batuhan ÖKMEN",
   "license": "MIT",
   "home_page": "https://github.com/flavvesResearch/chessboard-calibration-generator",
-  "download_filename": "opencv_chessboard_generator-1.0.0.tar.gz",
-  "download_time": "2025-10-15T07:24:20.836770",
+  "download_filename": "opencv_chessboard_generator-1.0.1.tar.gz",
+  "download_time": "2025-10-15T07:43:19.853666",
   "package_url": "https://pypi.org/project/opencv-chessboard-generator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vw-mkdocs-idref",
+  "version": "0.1.5",
+  "summary": "MkDocs plugin to link by front-matter ID with status/progress",
+  "author": "gobidesert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vw-mkdocs-idref-0.1.5.tar.gz",
+  "download_time": "2025-10-15T07:43:43.780406",
+  "package_url": "https://pypi.org/project/vw-mkdocs-idref/"
+}
