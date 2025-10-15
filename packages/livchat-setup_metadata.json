@@ -1,11 +1,11 @@
 {
   "name": "livchat-setup",
-  "version": "0.2.1",
+  "version": "0.1.4",
   "summary": "Automated server setup and application deployment system with AI control via MCP (v0.2.0: DNS-first architecture)",
   "author": "Pedro Nascimento",
   "license": null,
   "home_page": "https://github.com/pedrohnas/livchat-setup",
-  "download_filename": "livchat_setup-0.2.1.tar.gz",
-  "download_time": "2025-10-14T23:54:06.371912",
+  "download_filename": "livchat_setup-0.1.4.tar.gz",
+  "download_time": "2025-10-15T11:42:09.490273",
   "package_url": "https://pypi.org/project/livchat-setup/"
 }

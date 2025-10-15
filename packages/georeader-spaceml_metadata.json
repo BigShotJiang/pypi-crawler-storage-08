@@ -1,11 +1,11 @@
 {
   "name": "georeader-spaceml",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "summary": "🛰️ Process raster data in python",
   "author": "Gonzalo Mateo-García",
   "license": "\tLGPL-3.0",
   "home_page": "https://github.com/spaceml-org/georeader",
-  "download_filename": "georeader_spaceml-1.5.8.tar.gz",
-  "download_time": "2025-10-13T14:46:27.601329",
+  "download_filename": "georeader_spaceml-1.5.9.tar.gz",
+  "download_time": "2025-10-15T11:41:59.819720",
   "package_url": "https://pypi.org/project/georeader-spaceml/"
 }

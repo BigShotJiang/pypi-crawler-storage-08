@@ -1,0 +1,11 @@
+{
+  "name": "beancount-dkb",
+  "version": "1.7.0",
+  "summary": "Beancount Importer for DKB CSV exports",
+  "author": "Siddhant Goel",
+  "license": "MIT",
+  "home_page": "https://github.com/siddhantgoel/beancount-dkb",
+  "download_filename": "beancount_dkb-1.7.0.tar.gz",
+  "download_time": "2025-10-15T11:42:11.021074",
+  "package_url": "https://pypi.org/project/beancount-dkb/"
+}

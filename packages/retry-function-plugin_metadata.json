@@ -1,0 +1,11 @@
+{
+  "name": "retry-function-plugin",
+  "version": "0.1.0",
+  "summary": "A reusable async retry handler with exponential backoff and structured logging.",
+  "author": "Sivaranjani Palanivel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retry_function_plugin-0.1.0.tar.gz",
+  "download_time": "2025-10-15T11:41:53.855964",
+  "package_url": "https://pypi.org/project/retry-function-plugin/"
+}
