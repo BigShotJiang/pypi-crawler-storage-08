@@ -1,11 +1,11 @@
 {
   "name": "unearth",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "summary": "A utility to fetch and download python packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unearth-0.18.0.tar.gz",
-  "download_time": "2025-10-13T03:03:56.061684",
+  "download_filename": "unearth-0.18.1.tar.gz",
+  "download_time": "2025-10-15T09:55:59.147329",
   "package_url": "https://pypi.org/project/unearth/"
 }

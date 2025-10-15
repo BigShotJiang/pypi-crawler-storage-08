@@ -1,0 +1,11 @@
+{
+  "name": "gvitest-script",
+  "version": "0.1.5",
+  "summary": "基于 Jinja2 模板引擎的自动化脚本生成系统，支持 Agent/Manual 双模式执行、控制流、条件表达式和预期结果验证",
+  "author": "ZhangJie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gvitest_script-0.1.5.tar.gz",
+  "download_time": "2025-10-15T09:56:12.520737",
+  "package_url": "https://pypi.org/project/gvitest-script/"
+}

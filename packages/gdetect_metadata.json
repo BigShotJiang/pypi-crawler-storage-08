@@ -1,0 +1,11 @@
+{
+  "name": "gdetect",
+  "version": "0.9.0",
+  "summary": "Library and CLI for GLIMPS Detect API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdetect-0.9.0.tar.gz",
+  "download_time": "2025-10-15T09:56:16.176487",
+  "package_url": "https://pypi.org/project/gdetect/"
+}

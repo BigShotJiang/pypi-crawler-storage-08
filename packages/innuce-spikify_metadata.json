@@ -1,0 +1,11 @@
+{
+  "name": "innuce-spikify",
+  "version": "0.2.0",
+  "summary": "A Python package to convert signal data to spike trains",
+  "author": "Benedetto Leto",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/neuromorphic-polito/spikify",
+  "download_filename": "innuce_spikify-0.2.0.tar.gz",
+  "download_time": "2025-10-15T09:56:25.438713",
+  "package_url": "https://pypi.org/project/innuce-spikify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pythonSCHED",
+  "version": "1.28.3",
+  "summary": "Python extension of NRAO's VLBI scheduling program SCHED (see http://www.aoc.nrao.edu/~cwalker/sched/)",
+  "author": "Bob Eldering",
+  "license": null,
+  "home_page": "https://github.com/jive-vlbi/sched",
+  "download_filename": "pythonSCHED-1.28.3.tar.gz",
+  "download_time": "2025-10-15T09:56:22.367906",
+  "package_url": "https://pypi.org/project/pythonSCHED/"
+}

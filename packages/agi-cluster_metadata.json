@@ -1,11 +1,11 @@
 {
   "name": "agi-cluster",
-  "version": "2025.10.15.post3",
+  "version": "2025.10.15.post4",
   "summary": "agi-cluster a framework for AGI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_cluster-2025.10.15.post3-py3-none-any.whl",
-  "download_time": "2025-10-15T09:45:31.587964",
+  "download_filename": "agi_cluster-2025.10.15.post4.tar.gz",
+  "download_time": "2025-10-15T09:56:05.826176",
   "package_url": "https://pypi.org/project/agi-cluster/"
 }

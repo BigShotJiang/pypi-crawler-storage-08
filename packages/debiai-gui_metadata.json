@@ -1,0 +1,11 @@
+{
+  "name": "debiai-gui",
+  "version": "0.32.1",
+  "summary": "DebiAI easy start module, the standalone version of DebiAI",
+  "author": "IRT-Systemx",
+  "license": null,
+  "home_page": "https://github.com/debiai/DebiAI",
+  "download_filename": "debiai-gui-0.32.1.tar.gz",
+  "download_time": "2025-10-15T09:56:11.494847",
+  "package_url": "https://pypi.org/project/debiai-gui/"
+}
