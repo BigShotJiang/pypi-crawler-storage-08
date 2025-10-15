@@ -1,0 +1,11 @@
+{
+  "name": "path-loader",
+  "version": "0.1.0",
+  "summary": "自動從配置檔載入 Python 路徑到 sys.path",
+  "author": "Pyan-X",
+  "license": "MIT",
+  "home_page": "https://github.com/Pyan-X/path-loader",
+  "download_filename": "path_loader-0.1.0.tar.gz",
+  "download_time": "2025-10-15T03:58:30.071115",
+  "package_url": "https://pypi.org/project/path-loader/"
+}

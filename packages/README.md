@@ -1,15 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-15T03:40:33.073438
-- **Total Packages**: 78
-- **Total Size**: 37.27 MB
+- **Download Time**: 2025-10-15T03:59:07.586632
+- **Total Packages**: 77
+- **Total Size**: 9.94 MB
 
 ## Packages List
+- agentsyun-coupon-mcp-server
+- hyperquant
+- RamTorch
 - pycc.id
+- hyrax
+- ga-api-client
+- maxim-py
+- know.py
+- restmachine-aws
+- path-loader
+- restmachine
+- zenx
+- kagura-ai
+- china-stock-mcp
+- odoo-addon-sales-team-security
+- moose-lib
+- pulumi-dbtcloud
+- pulumi-newrelic
+- dory-ai
+- imfits
+- flex-evals
+- cve-explorer-cli
+- splurge-safe-io
+- autogit
+- nbdev
+- boulder-opal-scale-up-sdk
+- smartmodels
+- swarmtube
+- syncmodels
+- agptools
+- code-puppy
+- pdf-file-renamer
+- execnb
+- ssbc
+- devstack-cli
+- publicsuffixlist
+- pulumi-signalfx
 - aiauto-client
 - lmdb
-- pulumi-newrelic
 - sdss-almanac
 - uv-easy
 - planar
@@ -22,7 +57,6 @@
 - claude-telemetry
 - sovereign
 - evo-cli
-- pulumi-signalfx
 - qnvip-mcp
 - google-genai
 - heavyedge-dataset
@@ -41,46 +75,11 @@
 - modbus-mcp
 - xword-dl
 - aicg-model-generation
-- ydata-profiling-multilingual
 - odoo-addon-partner-multi-company
 - deploy-time-build
 - stm32bridge
 - zarrnii
 - lindera-python-cc-cedict
-- zenx
 - hassette
 - featrixsphere
 - icmpx
-- pydoll-python
-- odoo-addon-maintenance-equipment-scrap
-- mdkits
-- nox
-- owasp-schema
-- sioba-websocket
-- sioba-serial
-- dyff-schema
-- sioba-subprocess
-- sioba
-- skip-gram
-- not1mm
-- know.py
-- crabpack
-- llmling-models
-- echosms
-- commandchat
-- parquetframe
-- xl-docx
-- pyZlBus2
-- llvm-installer
-- mpvis
-- acode
-- mplang-nightly
-- wuying-agentbay-sdk
-- rds-proxy-password-rotation
-- kaq-quant-common
-- rbt-mcp-server
-- i2
-- realtimex-social-media-posts-tools
-- editscore
-- solveig
-- odoo-addon-hr-attendance-report-theoretical-time

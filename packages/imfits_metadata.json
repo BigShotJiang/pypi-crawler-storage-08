@@ -1,0 +1,11 @@
+{
+  "name": "imfits",
+  "version": "2.3.4",
+  "summary": "Read and handle fits files for astronomy easily.",
+  "author": "Jinshi Sai",
+  "license": null,
+  "home_page": "https://github.com/jinshisai/imfits",
+  "download_filename": "imfits-2.3.4.tar.gz",
+  "download_time": "2025-10-15T03:58:35.352982",
+  "package_url": "https://pypi.org/project/imfits/"
+}
