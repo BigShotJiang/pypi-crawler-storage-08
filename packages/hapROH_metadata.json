@@ -1,0 +1,11 @@
+{
+  "name": "hapROH",
+  "version": "0.70",
+  "summary": "Identify runs of homozygosity (hapROH) and contamination (hapCon) in ancient human DNA data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haproh-0.70.tar.gz",
+  "download_time": "2025-10-15T11:54:43.763205",
+  "package_url": "https://pypi.org/project/hapROH/"
+}

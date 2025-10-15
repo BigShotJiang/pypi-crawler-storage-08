@@ -1,11 +1,11 @@
 {
   "name": "imagera",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Utility toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imagera-0.1.5.tar.gz",
-  "download_time": "2025-10-15T11:20:28.004674",
+  "download_filename": "imagera-0.1.6.tar.gz",
+  "download_time": "2025-10-15T11:54:58.939424",
   "package_url": "https://pypi.org/project/imagera/"
 }

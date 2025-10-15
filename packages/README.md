@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-15T11:42:40.417643
-- **Total Packages**: 83
-- **Total Size**: 30.3 MB
+- **Download Time**: 2025-10-15T11:55:29.479179
+- **Total Packages**: 87
+- **Total Size**: 23.24 MB
 
 ## Packages List
+- arosics
+- odoo-addon-spreadsheet-oca
+- hapROH
+- datapizza-ai-parsers-docling
+- lusid-sdk
+- ocrd
+- sec-eagle
+- salada
+- wisent-guard
+- orrery
+- pyvisual
+- passagemath-rankwidth
+- passagemath-plot
+- passagemath-planarity
+- passagemath-objects
+- remote-explorer-game
+- passagemath-modules
+- passagemath-homfly
+- odoo-addon-repair-order-line-sequence
+- passagemath-graphs
+- kailash
+- passagemath-glpk
+- sonicwall-api-client
+- hamtaa-texttools
+- passagemath-combinat
+- passagemath-cmr
+- passagemath-cliquer
+- passagemath-cddlib
+- causalchamber
+- passagemath-categories
+- imagera
+- launchpy
+- schemist
+- mapp-tricks
+- domjudge-cli
+- glchat-sdk
+- ewox
+- supy
+- vtlengine
+- halerium-utilities
+- ewoxcore
+- fastapi-rtk
 - amsterdam-schema-tools
 - OpenFisca-Core
 - arango-cti-processor
@@ -14,7 +56,6 @@
 - retry-function-plugin
 - pytrendy
 - wfdb-to-csv
-- wisent-guard
 - ansible-creator
 - html-snapshot
 - jettask
@@ -36,7 +77,6 @@
 - keepassxc-protocol
 - wzl-udi
 - torchx-nightly
-- domjudge-cli
 - livchat-setup
 - aikframe
 - siga-mcp
@@ -53,39 +93,3 @@
 - claude-goblin
 - node-graph
 - retracesoftware-utils
-- yeref
-- chromasoul_color_transfer
-- checkov
-- pydantic-ai-claude-code
-- sipua
-- agentsystems-sdk
-- acex-core
-- dw-ai-x
-- xmlriver-pro
-- agi-core
-- agi-cluster
-- agi-node
-- python-pest
-- weblite-framework
-- flowmachine
-- flowetl
-- flowclient
-- flowkit-jwt-generator
-- relaxai
-- barangay
-- spaces
-- gllm-inference-binary
-- flo_ai
-- moz.l10n
-- cmeel-eigen
-- check-manifest
-- specklia
-- retracesoftware-functional
-- ccxt-ir
-- numpyp
-- package-installer-cli
-- pipecat-ai-bey
-- tb-nightly
-- optics-framework
-- sap-functions
-- MetaRpcMT5
