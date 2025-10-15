@@ -1,0 +1,11 @@
+{
+  "name": "libpyfoscamcgi",
+  "version": "0.0.8",
+  "summary": "foscam camera cgi",
+  "author": "Foscam-wangzhengyu",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/Foscam-wangzhengyu/libfoscamcgi",
+  "download_filename": "libpyfoscamcgi-0.0.8.tar.gz",
+  "download_time": "2025-10-15T04:26:36.222622",
+  "package_url": "https://pypi.org/project/libpyfoscamcgi/"
+}

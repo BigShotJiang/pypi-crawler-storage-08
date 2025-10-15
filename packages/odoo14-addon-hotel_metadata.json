@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-hotel",
-  "version": "14.0.1.0.1.dev103",
+  "version": "14.0.1.0.1.dev104",
   "summary": "Hotel Management to Manage Folio and Hotel Configuration",
   "author": "Odoo Community Association (OCA), Serpent Consulting Services Pvt. Ltd., OpenERP SA",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/vertical-hotel",
-  "download_filename": "odoo14_addon_hotel-14.0.1.0.1.dev103-py3-none-any.whl",
-  "download_time": "2025-10-14T04:26:13.825180",
+  "download_filename": "odoo14_addon_hotel-14.0.1.0.1.dev104-py3-none-any.whl",
+  "download_time": "2025-10-15T04:26:35.664127",
   "package_url": "https://pypi.org/project/odoo14-addon-hotel/"
 }
