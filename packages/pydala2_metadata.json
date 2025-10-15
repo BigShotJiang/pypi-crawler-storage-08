@@ -1,11 +1,11 @@
 {
   "name": "pydala2",
-  "version": "0.22.1",
+  "version": "0.22.3",
   "summary": "poor man´s data lake",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydala2-0.22.1.tar.gz",
-  "download_time": "2025-10-14T11:19:13.607993",
+  "download_filename": "pydala2-0.22.3.tar.gz",
+  "download_time": "2025-10-15T05:44:11.480806",
   "package_url": "https://pypi.org/project/pydala2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "satkbl",
+  "version": "0.1.4",
+  "summary": "Baselayer for use within the satk ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "satkbl-0.1.4.tar.gz",
+  "download_time": "2025-10-15T05:44:12.536516",
+  "package_url": "https://pypi.org/project/satkbl/"
+}
