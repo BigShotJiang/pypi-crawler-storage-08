@@ -1,11 +1,11 @@
 {
   "name": "beijing-time-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for querying Beijing time",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beijing_time_mcp-0.1.1.tar.gz",
-  "download_time": "2025-10-15T06:33:03.417880",
+  "download_filename": "beijing_time_mcp-0.1.2.tar.gz",
+  "download_time": "2025-10-15T06:54:29.138565",
   "package_url": "https://pypi.org/project/beijing-time-mcp/"
 }

@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-15T06:33:36.081498
-- **Total Packages**: 82
-- **Total Size**: 35.34 MB
+- **Download Time**: 2025-10-15T06:55:03.838075
+- **Total Packages**: 85
+- **Total Size**: 35.1 MB
 
 ## Packages List
+- pyonir
+- lean-library
+- zenx
+- idvpackage
+- circuitpython-miniethers
+- collate-sqlfluff
+- pm-rank
+- asposecellscloud
+- pyexamgenerator
+- a2c-ase
+- downstream
+- yaxai
+- iS3-sdk
+- neogc
+- dbbs-models
+- rhosocial-activerecord
+- ai-monitor
+- quollio-core
+- playmolecule
+- aiko-monitor
+- fovus
+- beijing-time-mcp
+- rimetool
+- Sosse
+- wiliot-testers
+- Whispey
+- medvision-segmentation
+- screamrouter
+- qris-payment
+- ragflow-cli
+- commandchat
+- flick-framework
+- wriftai
+- sparrow-parse
+- hello2468
+- sr-vulkan
+- pyiron-base
+- ragflow-sdk
+- yta-programming
+- mercuto-client
+- mesures
+- pulumi-meraki
+- microplate
+- claude-telemetry
+- s3dgraphy
 - maleo-imaging
 - awx-zipline-ai
 - dsis-client
@@ -27,9 +72,7 @@
 - chbe444umd
 - gw-eccentricity
 - azure-ai-search-plugin
-- claude-telemetry
 - kagura-ai
-- beijing-time-mcp
 - papyru
 - ruyi
 - autokitteh
@@ -40,7 +83,6 @@
 - Praxos-python
 - cdk8s-awscdk-resolver
 - agentleman
-- circuitpython-miniethers
 - agi-core
 - agi-cluster
 - agi-node
@@ -49,42 +91,3 @@
 - chalkbox
 - daniil-baruah
 - ai-edge-litert-nightly
-- supervisely
-- yta-programming
-- fastlog-io
-- pymobiledevice3
-- mcp-databend
-- fakecbed
-- estimated-taxes
-- pyg-nightly
-- geodiff
-- intentkit
-- smu-ontwins-demo
-- oracle-csv-creator
-- tetra
-- finter
-- satkbl
-- neo4j-transfer
-- inline-snapshot
-- mannigrad
-- xl-docx
-- mcp-webrtc
-- zipstream-ai
-- os-forge
-- duckrun
-- peaks-arpes
-- jijmodeling
-- accrete
-- drivelinepy
-- heavyedge-landmarks
-- wildfire-environment
-- pseudostate
-- gama-cli
-- gama-config
-- ccxt-ir
-- IntelliMaint
-- hyperbrowser
-- suga-client
-- tap-pipedrive
-- scc-firewall-manager-sdk
-- img2term

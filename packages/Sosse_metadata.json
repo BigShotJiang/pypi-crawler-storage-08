@@ -1,11 +1,11 @@
 {
   "name": "Sosse",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "summary": "Open-source, enterprise-grade web search & archiving.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sosse-1.14.0.tar.gz",
-  "download_time": "2025-10-13T10:58:55.580866",
+  "download_filename": "sosse-1.14.1.tar.gz",
+  "download_time": "2025-10-15T06:54:30.187152",
   "package_url": "https://pypi.org/project/Sosse/"
 }

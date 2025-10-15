@@ -1,0 +1,11 @@
+{
+  "name": "iS3-sdk",
+  "version": "0.0.9",
+  "summary": "is3 python sdk",
+  "author": "chaser",
+  "license": null,
+  "home_page": "https://github.com/your-org/is3_python_sdk",
+  "download_filename": "is3_sdk-0.0.9.tar.gz",
+  "download_time": "2025-10-15T06:54:24.517445",
+  "package_url": "https://pypi.org/project/iS3-sdk/"
+}

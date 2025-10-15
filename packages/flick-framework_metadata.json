@@ -1,0 +1,11 @@
+{
+  "name": "flick-framework",
+  "version": "1.0.0",
+  "summary": "A zero-boilerplate framework for building interactive ChatGPT widgets",
+  "author": "Flick Team",
+  "license": "MIT",
+  "home_page": "https://github.com/flick-framework/flick",
+  "download_filename": "flick_framework-1.0.0.tar.gz",
+  "download_time": "2025-10-15T06:54:34.843748",
+  "package_url": "https://pypi.org/project/flick-framework/"
+}

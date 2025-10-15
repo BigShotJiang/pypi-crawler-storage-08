@@ -1,0 +1,11 @@
+{
+  "name": "dbbs-models",
+  "version": "6.0.0",
+  "summary": "Collection of single cell models for the Arbor and NEURON simulators of the cerebellar",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbbs_models-6.0.0.tar.gz",
+  "download_time": "2025-10-15T06:54:25.543944",
+  "package_url": "https://pypi.org/project/dbbs-models/"
+}
