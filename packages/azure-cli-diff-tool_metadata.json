@@ -1,0 +1,11 @@
+{
+  "name": "azure-cli-diff-tool",
+  "version": "0.1.1",
+  "summary": "A tool for cli metadata management",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azure_cli_diff_tool-0.1.1.tar.gz",
+  "download_time": "2025-10-15T08:55:15.124104",
+  "package_url": "https://pypi.org/project/azure-cli-diff-tool/"
+}

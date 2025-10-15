@@ -1,0 +1,11 @@
+{
+  "name": "libmozdata",
+  "version": "0.2.12",
+  "summary": "Library to access and aggregate several Mozilla data sources.",
+  "author": "Mozilla Release Management",
+  "license": "MPL2",
+  "home_page": "https://github.com/mozilla/libmozdata",
+  "download_filename": "libmozdata-0.2.12.tar.gz",
+  "download_time": "2025-10-15T08:54:40.107026",
+  "package_url": "https://pypi.org/project/libmozdata/"
+}

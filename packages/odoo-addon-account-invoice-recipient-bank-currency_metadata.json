@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-recipient-bank-currency",
+  "version": "16.0.1.0.0.6",
+  "summary": "Module to fill recipient bank from invoices by using the invoice's currency.",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_recipient_bank_currency-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-10-15T08:55:03.706295",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-recipient-bank-currency/"
+}

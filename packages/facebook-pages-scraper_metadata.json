@@ -1,0 +1,11 @@
+{
+  "name": "facebook-pages-scraper",
+  "version": "0.0.3",
+  "summary": "Facebook page scraper is a python package that helps you scrape data from facebook pages.",
+  "author": "Sujit Biswas",
+  "license": "MIT",
+  "home_page": "https://github.com/SSujitX/facebook-page-scraper",
+  "download_filename": "facebook_pages_scraper-0.0.3.tar.gz",
+  "download_time": "2025-10-15T08:54:48.555977",
+  "package_url": "https://pypi.org/project/facebook-pages-scraper/"
+}
