@@ -1,0 +1,11 @@
+{
+  "name": "mrgrain.cdk-esbuild",
+  "version": "5.7.2",
+  "summary": "CDK constructs for esbuild, an extremely fast JavaScript bundler",
+  "author": "Moritz Kornher<mail@moritzkornher.de>",
+  "license": "MIT",
+  "home_page": "https://github.com/mrgrain/cdk-esbuild",
+  "download_filename": "mrgrain_cdk_esbuild-5.7.2.tar.gz",
+  "download_time": "2025-10-15T05:22:30.579119",
+  "package_url": "https://pypi.org/project/mrgrain.cdk-esbuild/"
+}

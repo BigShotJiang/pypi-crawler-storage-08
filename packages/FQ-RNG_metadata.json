@@ -1,0 +1,11 @@
+{
+  "name": "FQ-RNG",
+  "version": "1.0.1",
+  "summary": "NIST SP 800-22 certified quantum random number generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fq_rng-1.0.1.tar.gz",
+  "download_time": "2025-10-15T05:22:32.782459",
+  "package_url": "https://pypi.org/project/FQ-RNG/"
+}

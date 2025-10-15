@@ -1,21 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-15T04:57:47.537355
-- **Total Packages**: 74
-- **Total Size**: 3.67 MB
+- **Download Time**: 2025-10-15T05:23:01.577015
+- **Total Packages**: 81
+- **Total Size**: 12.96 MB
 
 ## Packages List
+- upgini
+- nemo-library-etl
+- ragflow-cli
+- dataflow-core
+- dataflow-conda-plugin
+- pdf-notes-extractor
+- FourCIPP
+- fileformats-extras
+- deceit
+- DiNetxify
+- fileformats
+- Vease-Viewer
+- vease-back
+- telegram-bot-discussion
+- dsis-client
+- datachain
+- parquetframe
+- OpenGeodeWeb-Viewer
+- OpenGeodeWeb-Back
+- bear-dereth
+- ambient-toolbox
+- lammy
+- stackql-deploy
+- spiderx
+- fiuai-sdk-python
+- fastquadtree
+- OpenGeodeWeb-Microservice
+- mrgrain.cdk-esbuild
+- owasp-schema
+- fastapi-api-key
+- FQ-RNG
+- sofastats
+- G722
+- p1-taskqueue
+- davidkhala.utils
+- aorta-sirius-dev
+- hypothesis
+- sofastats_lib
+- zindex-py
+- rebrain
+- scraper-nuuuwan
+- aiotools
+- agilicus
 - sleipnirgroup-jormungandr
 - sovereign
-- nemo-library-etl
 - korpy
 - Coreform-Cubit-Mesh-Export
 - nside-wefa
 - djaploy
 - h2o-mlops
 - codeup
-- bear-dereth
 - aaz-dev
 - aio-lanraragi
 - wxautoz
@@ -44,39 +85,5 @@
 - xyz-dailylog
 - dotprompt-workspace
 - know.py
-- aorta-sirius-dev
 - esphome
 - minikai
-- hackmudChatAPI
-- tuxlava
-- deploy-time-build
-- zenx
-- gondola
-- abit-clustering
-- boolia
-- wxbtool
-- tuxmake
-- featrixsphere
-- cache-dit
-- AstrBot
-- pf-bindings-python
-- autogit
-- crackle-codec
-- nlsq
-- keras-nlp-nightly
-- keras-hub-nightly
-- InvokeAI
-- creative-catalyst-client
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- agent-a-ai
-- robhan-cdk-lib.utils
-- connectlife-cloud
-- BoschRpaMagicBox
-- pitchlense-mcp
-- steputil
-- plex-generate-previews
-- dyff-schema
-- calculuskit
-- odoo14-addon-hotel
-- libpyfoscamcgi
