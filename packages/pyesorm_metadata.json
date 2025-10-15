@@ -1,11 +1,11 @@
 {
   "name": "pyesorm",
-  "version": "0.7.1",
+  "version": "0.7.0",
   "summary": "Python ElasticSearch ORM based on Pydantic",
   "author": "Adam Wallner",
   "license": "MPL-2.0",
   "home_page": "https://github.com/wallneradam/esorm",
-  "download_filename": "pyesorm-0.7.1.tar.gz",
-  "download_time": "2025-10-15T07:43:22.586876",
+  "download_filename": "pyesorm-0.7.0.tar.gz",
+  "download_time": "2025-10-15T07:55:25.903212",
   "package_url": "https://pypi.org/project/pyesorm/"
 }

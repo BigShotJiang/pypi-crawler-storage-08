@@ -1,0 +1,11 @@
+{
+  "name": "cofferfile",
+  "version": "0.0.10",
+  "summary": "A python xxxFile like (ie GzipFile, BZ2File, ...) for manipulating encrypted files (Fernet, Nacl, ...).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cofferfile-0.0.10.tar.gz",
+  "download_time": "2025-10-15T07:55:08.301189",
+  "package_url": "https://pypi.org/project/cofferfile/"
+}

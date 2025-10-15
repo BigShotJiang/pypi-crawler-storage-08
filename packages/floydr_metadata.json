@@ -1,11 +1,11 @@
 {
   "name": "floydr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A zero-boilerplate framework for building interactive ChatGPT widgets",
   "author": "Floydr Team",
   "license": "MIT",
   "home_page": "https://github.com/floydr-framework/floydr",
-  "download_filename": "floydr-1.0.0.tar.gz",
-  "download_time": "2025-10-15T07:43:16.554965",
+  "download_filename": "floydr-1.0.2.tar.gz",
+  "download_time": "2025-10-15T07:55:06.612741",
   "package_url": "https://pypi.org/project/floydr/"
 }

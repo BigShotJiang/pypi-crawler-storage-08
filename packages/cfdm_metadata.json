@@ -1,0 +1,11 @@
+{
+  "name": "cfdm",
+  "version": "1.12.3.1",
+  "summary": "A Python reference implementation of the CF data model",
+  "author": "David Hassell, Sadie Bartholomew",
+  "license": "MIT",
+  "home_page": "https://ncas-cms.github.io/cfdm",
+  "download_filename": "cfdm-1.12.3.1.tar.gz",
+  "download_time": "2025-10-15T07:54:59.222215",
+  "package_url": "https://pypi.org/project/cfdm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "steputil",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Utilities to simplify creation of pipeline steps",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "steputil-0.2.2.tar.gz",
-  "download_time": "2025-10-15T04:26:33.472504",
+  "download_filename": "steputil-0.2.3.tar.gz",
+  "download_time": "2025-10-15T07:54:54.677916",
   "package_url": "https://pypi.org/project/steputil/"
 }

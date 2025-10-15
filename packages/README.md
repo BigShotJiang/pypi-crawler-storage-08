@@ -1,15 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-15T07:44:00.748390
-- **Total Packages**: 84
-- **Total Size**: 35.1 MB
+- **Download Time**: 2025-10-15T07:55:39.660206
+- **Total Packages**: 82
+- **Total Size**: 35.56 MB
 
 ## Packages List
+- idvpackage
+- ichec-platform-core
+- daniil-baruah
+- steputil
+- iccore
+- databallpy
+- privacyIDEA
+- facture-electronique
+- quantfox-common
+- mkdocs-vwidref
+- cfdm
+- PySrDaliGateway
+- pycompound
+- agentkit-sdk-python-inhouse-nightly
+- anyenv
 - dyncfs
+- lmp-sdk
+- process-gpt-agent-sdk
+- findreq
+- webscout
+- cleaning-agent
+- blosc2
+- bc-stark-sdk
+- floydr
+- streamlit-nightly
+- cofferfile
+- bpmn2neo
+- tomldiary
+- oarepo-rdm
+- napari-imagegrains
+- ioa-observe-sdk
+- motoko
+- torram
+- agentkernel
+- nemo-library-etl
+- django-gisserver
+- rcabench
+- ssb-gcp-identity-client
+- test-duplicate-create
+- openhive
+- text-fabric
+- th2-grpc-act-template
+- bloqade
+- datefun
+- airflow-operators
 - Geode-Simplex
 - wizata-dsapi
-- floydr
 - keytopPyUtils
 - allytools
 - hdlmake
@@ -19,14 +62,12 @@
 - aixtools
 - cognite-toolkit
 - ambient-package-update
-- mkdocs-vwidref
 - pyesorm
 - naust
 - rapidocr-onnxruntime-huawei
 - libpep-py
 - qnvip-mcp
 - lt-tensor
-- nemo-library-etl
 - odoo-addon-currency-rate-update-TH-BOT
 - crawlee
 - cyberintegrations
@@ -47,46 +88,3 @@
 - ant-ray-cpp-nightly
 - smart-bot-factory
 - get-gecko-driver
-- docu-devs-api-client
-- any-agent
-- get-chrome-driver
-- llm-token-tracker
-- pixelle
-- onflow-wms-shared-auth
-- dialectical-framework
-- vizdataquality
-- orchestrator-core
-- entangled-cli
-- fyle-accounting-mappings
-- vw-mkdocs-idref
-- benchling-sdk
-- docutranslate
-- collate-sqllineage
-- facture-electronique
-- wandelbots-api-client
-- openplx-bundles
-- mkds
-- ventrun
-- vios
-- checkmk-dev-tools
-- pdfdancer-client-python
-- stackit-stackitmarketplace
-- neogc
-- ipfabric_netbox
-- zenx
-- onnxscript
-- kraken-engine
-- tritonparse
-- xenodocs-mcp-server
-- mci-py
-- agent-types
-- kagura-ai
-- process-gpt-agent-sdk
-- flicky
-- dask-mpi
-- fastrict
-- wuying-agentbay-sdk
-- mcp-server-apache-airflow-fastmcp
-- moduvent
-- openaivec
-- locust-cloud

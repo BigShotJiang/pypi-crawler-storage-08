@@ -1,0 +1,11 @@
+{
+  "name": "ichec-platform-core",
+  "version": "0.0.1",
+  "summary": "Utility library to support ICHEC Platform Engineering tools",
+  "author": "Irish Centre for High End Computing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ichec_platform_core-0.0.1.tar.gz",
+  "download_time": "2025-10-15T07:54:53.592759",
+  "package_url": "https://pypi.org/project/ichec-platform-core/"
+}
