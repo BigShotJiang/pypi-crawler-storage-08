@@ -1,11 +1,11 @@
 {
   "name": "pai-browser-use",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Pydantic AI Toolsets for browser use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pai_browser_use-0.1.4.tar.gz",
-  "download_time": "2025-10-14T05:42:30.232637",
+  "download_filename": "pai_browser_use-0.2.0.tar.gz",
+  "download_time": "2025-10-15T07:24:49.230691",
   "package_url": "https://pypi.org/project/pai-browser-use/"
 }

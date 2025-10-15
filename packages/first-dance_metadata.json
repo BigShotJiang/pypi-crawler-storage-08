@@ -1,11 +1,11 @@
 {
   "name": "first-dance",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "My tiny package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "first_dance-0.1.12-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-10-12T05:40:54.876134",
+  "download_filename": "first_dance-0.1.14-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-15T07:24:41.084931",
   "package_url": "https://pypi.org/project/first-dance/"
 }

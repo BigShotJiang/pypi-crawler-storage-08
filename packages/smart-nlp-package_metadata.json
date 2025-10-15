@@ -1,0 +1,11 @@
+{
+  "name": "smart-nlp-package",
+  "version": "0.1.0",
+  "summary": "NLP, A smart utility package for fuzzy matching and deep JSON search.",
+  "author": "Yogesh Vyas",
+  "license": "MIT License",
+  "home_page": "https://github.com/yourusername/yognlp",
+  "download_filename": "smart_nlp_package-0.1.0.tar.gz",
+  "download_time": "2025-10-15T07:24:33.023111",
+  "package_url": "https://pypi.org/project/smart-nlp-package/"
+}

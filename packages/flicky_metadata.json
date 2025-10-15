@@ -1,0 +1,11 @@
+{
+  "name": "flicky",
+  "version": "1.0.2",
+  "summary": "A zero-boilerplate framework for building interactive ChatGPT widgets",
+  "author": "Flick Team",
+  "license": "MIT",
+  "home_page": "https://github.com/flick-framework/flick",
+  "download_filename": "flicky-1.0.2.tar.gz",
+  "download_time": "2025-10-15T07:24:27.841089",
+  "package_url": "https://pypi.org/project/flicky/"
+}

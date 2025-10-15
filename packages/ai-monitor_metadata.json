@@ -1,11 +1,11 @@
 {
   "name": "ai-monitor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Plug & Play AI Agent Monitoring - Zero-configuration monitoring for AI agents with no source code changes",
   "author": "AI Monitor Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/ai-monitor",
-  "download_filename": "ai_monitor-1.0.3.tar.gz",
-  "download_time": "2025-10-15T06:54:26.572714",
+  "download_filename": "ai_monitor-1.0.4.tar.gz",
+  "download_time": "2025-10-15T07:24:49.803989",
   "package_url": "https://pypi.org/project/ai-monitor/"
 }

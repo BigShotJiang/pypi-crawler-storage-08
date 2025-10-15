@@ -1,0 +1,11 @@
+{
+  "name": "django-entangled",
+  "version": "0.7",
+  "summary": "Edit JSON field using Django Model Form",
+  "author": "Jacob Rief",
+  "license": "MIT",
+  "home_page": "https://github.com/jrief/django-entangled",
+  "download_filename": "django_entangled-0.7.tar.gz",
+  "download_time": "2025-10-15T07:24:33.597045",
+  "package_url": "https://pypi.org/project/django-entangled/"
+}

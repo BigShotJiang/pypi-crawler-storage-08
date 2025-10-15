@@ -1,0 +1,11 @@
+{
+  "name": "dask-mpi",
+  "version": "2025.10.0",
+  "summary": "Deploy Dask using mpi4py",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/dask/dask-mpi",
+  "download_filename": "dask-mpi-2025.10.0.tar.gz",
+  "download_time": "2025-10-15T07:24:28.415889",
+  "package_url": "https://pypi.org/project/dask-mpi/"
+}

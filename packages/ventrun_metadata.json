@@ -1,11 +1,11 @@
 {
   "name": "ventrun",
-  "version": "1.2",
+  "version": "1.4",
   "summary": "Bootstrap your application and emit a Main event to ModuVent.",
-  "author": "Joxos",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/Joxos/ventrun",
-  "download_filename": "ventrun-1.2.tar.gz",
-  "download_time": "2025-10-14T10:57:46.155151",
+  "home_page": null,
+  "download_filename": "ventrun-1.4.tar.gz",
+  "download_time": "2025-10-15T07:24:23.187034",
   "package_url": "https://pypi.org/project/ventrun/"
 }
