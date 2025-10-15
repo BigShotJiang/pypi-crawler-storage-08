@@ -1,11 +1,11 @@
 {
   "name": "wildfire-environment",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "Gym-based multi-agent environment to simulate wildfire fighting",
   "author": "Niket",
   "license": null,
   "home_page": null,
-  "download_filename": "wildfire_environment-0.2.tar.gz",
-  "download_time": "2025-10-12T23:39:52.961821",
+  "download_filename": "wildfire_environment-0.2.1.tar.gz",
+  "download_time": "2025-10-15T05:54:16.171587",
   "package_url": "https://pypi.org/project/wildfire-environment/"
 }

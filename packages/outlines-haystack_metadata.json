@@ -1,11 +1,11 @@
 {
   "name": "outlines-haystack",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Use `outlines` generators with Haystack.",
   "author": "Edoardo Abati",
   "license": null,
   "home_page": null,
-  "download_filename": "outlines_haystack-0.2.4.tar.gz",
-  "download_time": "2025-10-12T14:52:57.118955",
+  "download_filename": "outlines_haystack-0.2.5.tar.gz",
+  "download_time": "2025-10-15T05:54:25.214107",
   "package_url": "https://pypi.org/project/outlines-haystack/"
 }

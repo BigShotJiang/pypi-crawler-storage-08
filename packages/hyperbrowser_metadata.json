@@ -1,11 +1,11 @@
 {
   "name": "hyperbrowser",
-  "version": "0.62.0",
+  "version": "0.63.0",
   "summary": "Python SDK for hyperbrowser",
   "author": "Nikhil Shahi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyperbrowser-0.62.0.tar.gz",
-  "download_time": "2025-10-10T18:30:23.181836",
+  "download_filename": "hyperbrowser-0.63.0.tar.gz",
+  "download_time": "2025-10-15T05:54:20.748543",
   "package_url": "https://pypi.org/project/hyperbrowser/"
 }
