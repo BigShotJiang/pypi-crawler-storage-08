@@ -1,11 +1,11 @@
 {
   "name": "xatra",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "The matplotlib of maps - create beautiful historical, administrative, and data maps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xatra-2.1.0.tar.gz",
-  "download_time": "2025-10-14T23:21:23.415373",
+  "download_filename": "xatra-2.2.0.tar.gz",
+  "download_time": "2025-10-15T14:03:44.059347",
   "package_url": "https://pypi.org/project/xatra/"
 }

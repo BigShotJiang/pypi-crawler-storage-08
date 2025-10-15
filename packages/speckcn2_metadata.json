@@ -1,11 +1,11 @@
 {
   "name": "speckcn2",
-  "version": "1.1.0",
+  "version": "2.0.1",
   "summary": "Estimate Cn2 from Speckle patterns using machine learning",
   "author": null,
   "license": "Apache 2.0 License",
   "home_page": null,
-  "download_filename": "speckcn2-1.1.0.tar.gz",
-  "download_time": "2025-10-15T13:25:07.406049",
+  "download_filename": "speckcn2-2.0.1.tar.gz",
+  "download_time": "2025-10-15T14:03:33.067903",
   "package_url": "https://pypi.org/project/speckcn2/"
 }

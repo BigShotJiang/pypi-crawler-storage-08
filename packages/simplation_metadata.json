@@ -1,11 +1,11 @@
 {
   "name": "simplation",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "A powerful command-line tool for analyzing and visualizing simulation data from CSV files",
   "author": "Mohamed Gueni",
   "license": null,
   "home_page": "https://github.com/Gueni/simplation",
-  "download_filename": "simplation-2.0.0.tar.gz",
-  "download_time": "2025-10-15T13:25:08.686609",
+  "download_filename": "simplation-3.0.0.tar.gz",
+  "download_time": "2025-10-15T14:03:20.687806",
   "package_url": "https://pypi.org/project/simplation/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "yowasp-nextpnr-nexus",
+  "version": "0.9.0.0.post686",
+  "summary": "nextpnr-nexus FPGA place and route tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yowasp_nextpnr_nexus-0.9.0.0.post686-py3-none-any.whl",
+  "download_time": "2025-10-15T14:03:24.656810",
+  "package_url": "https://pypi.org/project/yowasp-nextpnr-nexus/"
+}

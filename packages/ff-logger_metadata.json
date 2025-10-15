@@ -1,0 +1,11 @@
+{
+  "name": "ff-logger",
+  "version": "0.4.2",
+  "summary": "Fenixflow structured logging package with scoped, instance-based loggers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ff_logger-0.4.2.tar.gz",
+  "download_time": "2025-10-15T14:03:58.027208",
+  "package_url": "https://pypi.org/project/ff-logger/"
+}

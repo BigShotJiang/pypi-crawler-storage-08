@@ -1,0 +1,11 @@
+{
+  "name": "label-studio-sso",
+  "version": "4.0.1",
+  "summary": "Universal JWT-based SSO authentication for Label Studio - works with any JWT-issuing system",
+  "author": "AIdoop Team",
+  "license": "MIT",
+  "home_page": "https://github.com/aidoop/label-studio-sso",
+  "download_filename": "label_studio_sso-4.0.1.tar.gz",
+  "download_time": "2025-10-15T14:03:39.457155",
+  "package_url": "https://pypi.org/project/label-studio-sso/"
+}

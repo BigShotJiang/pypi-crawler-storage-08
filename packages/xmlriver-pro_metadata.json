@@ -1,11 +1,11 @@
 {
   "name": "xmlriver-pro",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "Professional Python client for XMLRiver API with full coverage",
   "author": "XMLRiver Pro Team",
   "license": "MIT",
   "home_page": "https://github.com/xmlriver-pro/xmlriver-pro",
-  "download_filename": "xmlriver_pro-1.1.1.tar.gz",
-  "download_time": "2025-10-15T11:42:24.700430",
+  "download_filename": "xmlriver_pro-1.2.1.tar.gz",
+  "download_time": "2025-10-15T14:04:09.520585",
   "package_url": "https://pypi.org/project/xmlriver-pro/"
 }

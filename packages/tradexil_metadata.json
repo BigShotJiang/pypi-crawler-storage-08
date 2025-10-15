@@ -1,0 +1,11 @@
+{
+  "name": "tradexil",
+  "version": "1.0.4",
+  "summary": "Official Python SDK for TradeXil Real-Time API - Access BTCUSDT data with 197+ technical indicators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradexil-1.0.4.tar.gz",
+  "download_time": "2025-10-15T14:03:21.323287",
+  "package_url": "https://pypi.org/project/tradexil/"
+}

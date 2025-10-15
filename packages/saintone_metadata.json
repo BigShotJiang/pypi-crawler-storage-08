@@ -1,11 +1,11 @@
 {
   "name": "saintone",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "summary": "dont download it",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "saintone-1.0.0.tar.gz",
-  "download_time": "2025-10-15T13:25:13.079237",
+  "download_filename": "saintone-3.0.0.tar.gz",
+  "download_time": "2025-10-15T14:03:59.777541",
   "package_url": "https://pypi.org/project/saintone/"
 }

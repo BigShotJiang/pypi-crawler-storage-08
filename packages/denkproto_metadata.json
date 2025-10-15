@@ -1,11 +1,11 @@
 {
   "name": "denkproto",
-  "version": "1.0.95",
+  "version": "1.0.99",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "denkproto-1.0.95-py3-none-any.whl",
-  "download_time": "2025-10-10T14:44:11.764022",
+  "download_filename": "denkproto-1.0.99-py3-none-any.whl",
+  "download_time": "2025-10-15T14:03:53.787480",
   "package_url": "https://pypi.org/project/denkproto/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "KorAPClient",
+  "version": "1.2.1",
+  "summary": "Client package to access KorAP's web service API",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "korapclient-1.2.1.tar.gz",
+  "download_time": "2025-10-15T14:03:30.704707",
+  "package_url": "https://pypi.org/project/KorAPClient/"
+}

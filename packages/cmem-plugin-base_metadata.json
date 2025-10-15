@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-base",
+  "version": "4.15.0",
+  "summary": "Base classes for developing eccenca Corporate Memory plugins.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-base",
+  "download_filename": "cmem_plugin_base-4.15.0.tar.gz",
+  "download_time": "2025-10-15T14:03:35.355694",
+  "package_url": "https://pypi.org/project/cmem-plugin-base/"
+}
