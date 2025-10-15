@@ -1,0 +1,11 @@
+{
+  "name": "plantuml-sequence",
+  "version": "0.5.0",
+  "summary": "Create PlantUML sequence diagrams programmatically from Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plantuml_sequence-0.5.0.tar.gz",
+  "download_time": "2025-10-15T09:28:05.480370",
+  "package_url": "https://pypi.org/project/plantuml-sequence/"
+}

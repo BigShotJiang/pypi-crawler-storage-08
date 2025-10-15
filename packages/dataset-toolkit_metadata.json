@@ -1,0 +1,11 @@
+{
+  "name": "dataset-toolkit",
+  "version": "0.1.0",
+  "summary": "一个用于加载、处理和导出计算机视觉数据集的工具包",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/dataset-toolkit",
+  "download_filename": "dataset_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-10-15T09:28:25.013672",
+  "package_url": "https://pypi.org/project/dataset-toolkit/"
+}

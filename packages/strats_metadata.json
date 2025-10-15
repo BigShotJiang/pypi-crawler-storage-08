@@ -1,0 +1,11 @@
+{
+  "name": "strats",
+  "version": "0.1.11",
+  "summary": "Strats: system trading framework",
+  "author": "Kazuki Yoshida",
+  "license": null,
+  "home_page": null,
+  "download_filename": "strats-0.1.11.tar.gz",
+  "download_time": "2025-10-15T09:28:07.022821",
+  "package_url": "https://pypi.org/project/strats/"
+}

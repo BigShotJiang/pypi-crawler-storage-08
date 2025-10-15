@@ -1,11 +1,11 @@
 {
   "name": "dw-ai-x",
-  "version": "0.0.49",
+  "version": "0.0.50",
   "summary": "Common utilities shared with the community by Datwave AI Team",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dw_ai_x-0.0.49.tar.gz",
-  "download_time": "2025-10-14T14:22:59.437440",
+  "download_filename": "dw_ai_x-0.0.50.tar.gz",
+  "download_time": "2025-10-15T09:28:23.995390",
   "package_url": "https://pypi.org/project/dw-ai-x/"
 }

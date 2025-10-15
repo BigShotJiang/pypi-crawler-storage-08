@@ -1,0 +1,11 @@
+{
+  "name": "scm-wrap",
+  "version": "1.1.29",
+  "summary": "Source Code Management module wrapper. This module aims to wrap access to Git, Subversion and other SCMs repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scm_wrap-1.1.29.tar.gz",
+  "download_time": "2025-10-15T09:28:17.299403",
+  "package_url": "https://pypi.org/project/scm-wrap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shakuapi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A simple Python SDK for Shaku REST APIs (size measurement & clothes recognition)",
   "author": "Shaku",
   "license": null,
   "home_page": null,
-  "download_filename": "shakuapi-0.1.0.tar.gz",
-  "download_time": "2025-10-13T07:24:27.765705",
+  "download_filename": "shakuapi-0.2.0.tar.gz",
+  "download_time": "2025-10-15T09:28:03.948795",
   "package_url": "https://pypi.org/project/shakuapi/"
 }

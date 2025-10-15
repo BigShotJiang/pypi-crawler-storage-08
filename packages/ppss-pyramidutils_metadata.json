@@ -1,11 +1,11 @@
 {
   "name": "ppss-pyramidutils",
-  "version": "1.6.4.1",
+  "version": "1.6.4.2",
   "summary": "Simple utils to handle data from ini files in Pyramid for python 2.7 & 3",
   "author": "pdepmcp",
   "license": null,
   "home_page": null,
-  "download_filename": "ppss_pyramidutils-1.6.4.1.tar.gz",
-  "download_time": "2025-10-10T09:41:41.951664",
+  "download_filename": "ppss_pyramidutils-1.6.4.2.tar.gz",
+  "download_time": "2025-10-15T09:28:08.562004",
   "package_url": "https://pypi.org/project/ppss-pyramidutils/"
 }

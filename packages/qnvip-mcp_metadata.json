@@ -1,11 +1,11 @@
 {
   "name": "qnvip-mcp",
-  "version": "0.0.35",
+  "version": "0.0.38",
   "summary": "青年优品mcp工具集",
   "author": "lichaojie",
   "license": null,
   "home_page": null,
-  "download_filename": "qnvip_mcp-0.0.35.tar.gz",
-  "download_time": "2025-10-15T08:54:42.740235",
+  "download_filename": "qnvip_mcp-0.0.38.tar.gz",
+  "download_time": "2025-10-15T09:27:51.544278",
   "package_url": "https://pypi.org/project/qnvip-mcp/"
 }
