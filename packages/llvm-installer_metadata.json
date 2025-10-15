@@ -1,0 +1,11 @@
+{
+  "name": "llvm-installer",
+  "version": "1.4.12",
+  "summary": "Allows installing pre-built LLVM packages for various operating systems",
+  "author": "Mikhail Bautin",
+  "license": null,
+  "home_page": "https://github.com/yugabyte/llvm-installer",
+  "download_filename": "llvm-installer-1.4.12.tar.gz",
+  "download_time": "2025-10-15T03:40:25.811228",
+  "package_url": "https://pypi.org/project/llvm-installer/"
+}

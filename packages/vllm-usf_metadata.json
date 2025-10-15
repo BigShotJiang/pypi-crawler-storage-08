@@ -1,0 +1,11 @@
+{
+  "name": "vllm-usf",
+  "version": "0.0.2",
+  "summary": "vLLM-USF: A high-throughput and memory-efficient inference engine for LLMs (USF Custom Build)",
+  "author": "USF Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vllm_usf-0.0.2.tar.gz",
+  "download_time": "2025-10-15T03:39:54.781536",
+  "package_url": "https://pypi.org/project/vllm-usf/"
+}

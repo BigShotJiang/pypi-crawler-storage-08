@@ -1,11 +1,11 @@
 {
   "name": "ai-data-scrubber",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lightweight tool for removing personal data from text before uploading to LLMs",
   "author": "Catherine Nelson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_data_scrubber-0.1.0.tar.gz",
-  "download_time": "2025-10-14T23:40:30.300047",
+  "download_filename": "ai_data_scrubber-0.1.1.tar.gz",
+  "download_time": "2025-10-15T03:40:02.171569",
   "package_url": "https://pypi.org/project/ai-data-scrubber/"
 }

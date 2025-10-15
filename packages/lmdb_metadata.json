@@ -1,11 +1,11 @@
 {
   "name": "lmdb",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "summary": "Universal Python binding for the LMDB 'Lightning' Database",
   "author": "David Wilson",
   "license": "OLDAP-2.8",
   "home_page": "http://github.com/jnwatson/py-lmdb/",
-  "download_filename": "lmdb-1.7.4.tar.gz",
-  "download_time": "2025-10-15T01:30:17.387830",
+  "download_filename": "lmdb-1.7.5.tar.gz",
+  "download_time": "2025-10-15T03:39:49.894137",
   "package_url": "https://pypi.org/project/lmdb/"
 }

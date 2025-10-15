@@ -1,0 +1,11 @@
+{
+  "name": "organize-stream",
+  "version": "1.0",
+  "summary": "Manipulação de documentos PDF e Imagens. Converter, Ler, rotacionar exportar etc.",
+  "author": "Bruno Chaves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "organize_stream-1.0.tar.gz",
+  "download_time": "2025-10-15T03:40:06.457191",
+  "package_url": "https://pypi.org/project/organize-stream/"
+}

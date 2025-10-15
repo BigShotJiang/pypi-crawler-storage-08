@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-equipment-scrap",
+  "version": "15.0.1.0.2.1",
+  "summary": "Enhance the functionality for Scrapping Equipments",
+  "author": "Onestein, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_equipment_scrap-15.0.1.0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-15T03:40:15.882775",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-equipment-scrap/"
+}
