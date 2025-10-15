@@ -1,11 +1,11 @@
 {
   "name": "densecall",
-  "version": "0.0.2.7.1",
+  "version": "0.0.2.7.3",
   "summary": null,
   "author": "linlian",
   "license": null,
   "home_page": null,
-  "download_filename": "densecall-0.0.2.7.1-py3-none-any.whl",
-  "download_time": "2025-10-13T09:45:47.620775",
+  "download_filename": "densecall-0.0.2.7.3-py3-none-any.whl",
+  "download_time": "2025-10-15T04:53:01.767210",
   "package_url": "https://pypi.org/project/densecall/"
 }
