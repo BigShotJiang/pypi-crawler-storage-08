@@ -1,0 +1,11 @@
+{
+  "name": "SAMPIClyser",
+  "version": "0.1.1",
+  "summary": "Python library to help decoding and analysing data from a SAMPIC system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sampiclyser-0.1.1.tar.gz",
+  "download_time": "2025-10-15T11:20:49.885084",
+  "package_url": "https://pypi.org/project/SAMPIClyser/"
+}

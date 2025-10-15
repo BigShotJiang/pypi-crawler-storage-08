@@ -1,11 +1,11 @@
 {
   "name": "uvicorn-hmr",
-  "version": "0.1.1.5",
+  "version": "0.1.1.6",
   "summary": "Hot Module Reloading for Uvicorn",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvicorn_hmr-0.1.1.5-py3-none-any.whl",
-  "download_time": "2025-10-11T10:41:57.133433",
+  "download_filename": "uvicorn_hmr-0.1.1.6-py3-none-any.whl",
+  "download_time": "2025-10-15T11:20:23.629993",
   "package_url": "https://pypi.org/project/uvicorn-hmr/"
 }

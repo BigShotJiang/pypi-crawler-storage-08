@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-eigen",
+  "version": "3.4.1",
+  "summary": "cmeel distribution for Eigen. Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-eigen",
+  "download_filename": "cmeel_eigen-3.4.1.tar.gz",
+  "download_time": "2025-10-15T11:20:08.639901",
+  "package_url": "https://pypi.org/project/cmeel-eigen/"
+}

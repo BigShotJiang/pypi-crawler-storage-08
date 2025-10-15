@@ -1,11 +1,11 @@
 {
   "name": "zerobuffer-ipc",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "High-performance zero-copy inter-process communication library for video streaming",
   "author": "ZeroBuffer Contributors",
   "license": null,
   "home_page": "https://github.com/zerobuffer/zerobuffer-python",
-  "download_filename": "zerobuffer_ipc-1.2.7.tar.gz",
-  "download_time": "2025-10-15T10:26:16.917099",
+  "download_filename": "zerobuffer_ipc-1.2.8.tar.gz",
+  "download_time": "2025-10-15T11:20:34.583921",
   "package_url": "https://pypi.org/project/zerobuffer-ipc/"
 }

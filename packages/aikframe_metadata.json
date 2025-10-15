@@ -1,11 +1,11 @@
 {
   "name": "aikframe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Aikframe: 模块化云湖机器人开发框架",
   "author": "Project VsingerXiaoice Consensus",
   "license": "Public Domain Mark\r\n        \r\n        This software are released in Public Domain.",
   "home_page": "https://github.com/lilingyi-awa/aikframe",
-  "download_filename": "aikframe-0.1.0-py3-none-any.whl",
-  "download_time": "2025-10-15T09:56:03.784560",
+  "download_filename": "aikframe-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-15T11:20:09.717440",
   "package_url": "https://pypi.org/project/aikframe/"
 }
