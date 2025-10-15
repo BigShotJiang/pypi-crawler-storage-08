@@ -1,11 +1,11 @@
 {
   "name": "computemate",
-  "version": "0.1.84",
+  "version": "0.1.85",
   "summary": "ComputeMate AI - Power up your productivity",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://toolmate.ai",
-  "download_filename": "computemate-0.1.84.tar.gz",
-  "download_time": "2025-10-14T23:20:54.249749",
+  "download_filename": "computemate-0.1.85.tar.gz",
+  "download_time": "2025-10-15T09:45:27.443373",
   "package_url": "https://pypi.org/project/computemate/"
 }

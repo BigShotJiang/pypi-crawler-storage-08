@@ -1,11 +1,11 @@
 {
   "name": "arcgis-mcp-server",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "summary": "Intelligent ArcGIS content search for Portal and Online.",
   "author": "Esri Saudi Arabia",
   "license": "MIT",
   "home_page": "https://github.com/esrisaudiarabia/esrisaudiarabia-mcp",
-  "download_filename": "arcgis_mcp_server-1.0.9.tar.gz",
-  "download_time": "2025-10-13T10:47:41.937898",
+  "download_filename": "arcgis_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-10-15T09:45:25.883575",
   "package_url": "https://pypi.org/project/arcgis-mcp-server/"
 }

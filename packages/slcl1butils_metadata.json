@@ -1,0 +1,11 @@
+{
+  "name": "slcl1butils",
+  "version": "2025.10.15",
+  "summary": "Python library to exploit SAR IFREMER L1B products",
+  "author": "Alexis Mouche",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "slcl1butils-2025.10.15.tar.gz",
+  "download_time": "2025-10-15T09:45:26.923336",
+  "package_url": "https://pypi.org/project/slcl1butils/"
+}

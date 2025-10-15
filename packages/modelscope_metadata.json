@@ -1,0 +1,11 @@
+{
+  "name": "modelscope",
+  "version": "1.31.0",
+  "summary": "ModelScope: bring the notion of Model-as-a-Service to life.",
+  "author": "ModelScope team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/modelscope/modelscope",
+  "download_filename": "modelscope-1.31.0.tar.gz",
+  "download_time": "2025-10-15T09:45:21.195748",
+  "package_url": "https://pypi.org/project/modelscope/"
+}

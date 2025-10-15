@@ -1,11 +1,11 @@
 {
   "name": "strawberry-graphql-django",
-  "version": "0.66.1",
+  "version": "0.66.2",
   "summary": "Strawberry GraphQL Django extension",
   "author": "Lauri Hintsala",
   "license": "MIT",
   "home_page": "https://github.com/strawberry-graphql/strawberry-django",
-  "download_filename": "strawberry_graphql_django-0.66.1.tar.gz",
-  "download_time": "2025-10-14T16:28:22.490887",
+  "download_filename": "strawberry_graphql_django-0.66.2.tar.gz",
+  "download_time": "2025-10-15T09:45:16.445509",
   "package_url": "https://pypi.org/project/strawberry-graphql-django/"
 }

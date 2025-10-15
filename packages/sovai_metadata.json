@@ -1,11 +1,11 @@
 {
   "name": "sovai",
-  "version": "0.2.71",
+  "version": "0.2.72",
   "summary": "python for asset management",
   "author": "Derek Snow",
   "license": "Proprietary License",
   "home_page": null,
-  "download_filename": "sovai-0.2.71.tar.gz",
-  "download_time": "2025-10-15T09:28:00.364513",
+  "download_filename": "sovai-0.2.72.tar.gz",
+  "download_time": "2025-10-15T09:45:36.808620",
   "package_url": "https://pypi.org/project/sovai/"
 }
