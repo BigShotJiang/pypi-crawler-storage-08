@@ -1,0 +1,11 @@
+{
+  "name": "skorplandgpt-proxy-extras",
+  "version": "0.2.26",
+  "summary": "Additional files for the SkorplandGPT Proxy. Reduces the size of the main skorplandgpt package.",
+  "author": "skorpland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skorplandgpt_proxy_extras-0.2.26.tar.gz",
+  "download_time": "2025-10-15T01:29:57.407176",
+  "package_url": "https://pypi.org/project/skorplandgpt-proxy-extras/"
+}

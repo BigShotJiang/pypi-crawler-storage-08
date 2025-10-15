@@ -1,0 +1,11 @@
+{
+  "name": "catch-cap",
+  "version": "0.2.2",
+  "summary": "Detect and reduce LLM hallucinations with semantic entropy, log-probability analysis, and web grounding",
+  "author": "axon_dendrite",
+  "license": null,
+  "home_page": "https://github.com/adc77/catch-cap.git",
+  "download_filename": "catch_cap-0.2.2.tar.gz",
+  "download_time": "2025-10-15T01:29:55.208724",
+  "package_url": "https://pypi.org/project/catch-cap/"
+}
