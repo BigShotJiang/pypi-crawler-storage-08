@@ -1,11 +1,11 @@
 {
   "name": "sphinxnotes-incrbuild",
-  "version": "1.0a11",
+  "version": "1.0",
   "summary": "Make sure incremental build available in CI/CD environment",
   "author": "Shengyu Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "sphinxnotes_incrbuild-1.0a11.tar.gz",
-  "download_time": "2025-10-15T12:45:38.714571",
+  "download_filename": "sphinxnotes_incrbuild-1.0.tar.gz",
+  "download_time": "2025-10-15T13:25:56.396662",
   "package_url": "https://pypi.org/project/sphinxnotes-incrbuild/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rackfish",
+  "version": "1.0.3",
+  "summary": "A lightweight, dynamic Python client for Redfish BMC APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rackfish-1.0.3.tar.gz",
+  "download_time": "2025-10-15T13:25:16.801216",
+  "package_url": "https://pypi.org/project/rackfish/"
+}

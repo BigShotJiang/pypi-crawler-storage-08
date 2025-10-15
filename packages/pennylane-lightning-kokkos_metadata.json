@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-lightning-kokkos",
+  "version": "0.43.0",
+  "summary": "PennyLane-Lightning plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pennylane_lightning_kokkos-0.43.0.tar.gz",
+  "download_time": "2025-10-15T13:25:13.729539",
+  "package_url": "https://pypi.org/project/pennylane-lightning-kokkos/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudshell-interface",
+  "version": "0.1.1",
+  "summary": "CLI for AWS CloudShell",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudshell_interface-0.1.1.tar.gz",
+  "download_time": "2025-10-15T13:25:45.080505",
+  "package_url": "https://pypi.org/project/cloudshell-interface/"
+}

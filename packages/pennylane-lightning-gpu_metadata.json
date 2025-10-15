@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-lightning-gpu",
+  "version": "0.42.0",
+  "summary": "PennyLane-Lightning plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pennylane_lightning_gpu-0.42.0.tar.gz",
+  "download_time": "2025-10-15T13:25:14.953731",
+  "package_url": "https://pypi.org/project/pennylane-lightning-gpu/"
+}

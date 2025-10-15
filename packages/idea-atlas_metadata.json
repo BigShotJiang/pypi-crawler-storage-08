@@ -1,11 +1,11 @@
 {
   "name": "idea-atlas",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Atlas is a suite of standalone AI agents powered by crewai you can plug into your workflows.",
   "author": "Alexandra Pop",
   "license": null,
   "home_page": null,
-  "download_filename": "idea_atlas-0.1.5.tar.gz",
-  "download_time": "2025-10-15T12:45:36.151634",
+  "download_filename": "idea_atlas-0.2.0.tar.gz",
+  "download_time": "2025-10-15T13:25:34.922309",
   "package_url": "https://pypi.org/project/idea-atlas/"
 }

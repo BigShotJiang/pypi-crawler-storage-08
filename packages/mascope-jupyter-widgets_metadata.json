@@ -1,11 +1,11 @@
 {
   "name": "mascope-jupyter-widgets",
-  "version": "2025.10.13",
+  "version": "2025.10.15.post1",
   "summary": "Interactive widgets to construct data analysis notebooks for Mascope",
   "author": "Jussi Vehviläinen, Oskari Kausiala",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mascope_jupyter_widgets-2025.10.13.tar.gz",
-  "download_time": "2025-10-13T13:49:00.740261",
+  "download_filename": "mascope_jupyter_widgets-2025.10.15.post1.tar.gz",
+  "download_time": "2025-10-15T13:25:47.138152",
   "package_url": "https://pypi.org/project/mascope-jupyter-widgets/"
 }

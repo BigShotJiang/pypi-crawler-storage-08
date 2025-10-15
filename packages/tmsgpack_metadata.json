@@ -1,0 +1,11 @@
+{
+  "name": "tmsgpack",
+  "version": "0.2.9",
+  "summary": "Typed MessagePack serializer (inspired by but different from msgpack)",
+  "author": "Yaakov Belch",
+  "license": "MIT",
+  "home_page": "https://github.com/Yaakov-Belch/tmsgpack",
+  "download_filename": "tmsgpack-0.2.9.tar.gz",
+  "download_time": "2025-10-15T13:25:43.792406",
+  "package_url": "https://pypi.org/project/tmsgpack/"
+}

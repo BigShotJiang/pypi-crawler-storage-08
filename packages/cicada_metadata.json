@@ -1,0 +1,11 @@
+{
+  "name": "cicada",
+  "version": "0.9.0",
+  "summary": "Lightweight, agent-based, distributed scheduler",
+  "author": "Wise",
+  "license": null,
+  "home_page": "https://github.com/transferwise/cicada",
+  "download_filename": "cicada-0.9.0.tar.gz",
+  "download_time": "2025-10-15T13:25:09.902280",
+  "package_url": "https://pypi.org/project/cicada/"
+}
